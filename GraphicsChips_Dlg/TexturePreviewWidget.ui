@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TexturePreviewWidget</class>
+ <widget class="QWidget" name="TexturePreviewWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>318</width>
+    <height>248</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <property name="leftMargin">
+    <number>0</number>
+   </property>
+   <property name="topMargin">
+    <number>0</number>
+   </property>
+   <property name="rightMargin">
+    <number>0</number>
+   </property>
+   <property name="bottomMargin">
+    <number>0</number>
+   </property>
+   <item>
+    <widget class="m3d::D3DWidget" name="dxWidget" native="true">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QComboBox" name="comboBox_arraySlice">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="minimumSize">
+        <size>
+         <width>80</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="toolTip">
+        <string>Volume or Array Slice</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QComboBox" name="comboBox_mipSlice">
+       <property name="toolTip">
+        <string>Mip Slice</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_actualSize">
+       <property name="toolTip">
+        <string>Actual Pixels</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="icon">
+        <iconset resource="D3DChips_Dlg.qrc">
+         <normaloff>:/D3DChips_Dlg/Resources/Actions-zoom-100-icon.png</normaloff>:/D3DChips_Dlg/Resources/Actions-zoom-100-icon.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_sizeToFit">
+       <property name="toolTip">
+        <string>Fit to View</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="icon">
+        <iconset resource="D3DChips_Dlg.qrc">
+         <normaloff>:/D3DChips_Dlg/Resources/Actions-zoom-fit-icon.png</normaloff>:/D3DChips_Dlg/Resources/Actions-zoom-fit-icon.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkBox_alphaBlend">
+       <property name="toolTip">
+        <string>Enable Alpha Blending</string>
+       </property>
+       <property name="text">
+        <string>Alpha Blend</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>m3d::D3DWidget</class>
+   <extends>QWidget</extends>
+   <header>d3dwidget.h</header>
+   <container>1</container>
+   <slots>
+    <signal>render()</signal>
+    <signal>zoom(int,int,int)</signal>
+    <signal>move(int,int)</signal>
+    <signal>resize()</signal>
+   </slots>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="D3DChips_Dlg.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>dxWidget</sender>
+   <signal>render()</signal>
+   <receiver>TexturePreviewWidget</receiver>
+   <slot>renderPreview()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>162</x>
+     <y>108</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>162</x>
+     <y>123</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dxWidget</sender>
+   <signal>zoom(int,int,int)</signal>
+   <receiver>TexturePreviewWidget</receiver>
+   <slot>onPreviewZoom(int,int,int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>162</x>
+     <y>108</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>162</x>
+     <y>123</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dxWidget</sender>
+   <signal>move(int,int)</signal>
+   <receiver>TexturePreviewWidget</receiver>
+   <slot>onPreviewMove(int,int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>162</x>
+     <y>108</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>162</x>
+     <y>123</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>dxWidget</sender>
+   <signal>resize()</signal>
+   <receiver>TexturePreviewWidget</receiver>
+   <slot>onPreviewResize()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>158</x>
+     <y>108</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>158</x>
+     <y>123</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_actualSize</sender>
+   <signal>clicked()</signal>
+   <receiver>TexturePreviewWidget</receiver>
+   <slot>zoomToActual()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>177</x>
+     <y>235</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>158</x>
+     <y>123</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_sizeToFit</sender>
+   <signal>clicked()</signal>
+   <receiver>TexturePreviewWidget</receiver>
+   <slot>zoomToFit()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>215</x>
+     <y>235</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>158</x>
+     <y>123</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>renderPreview()</slot>
+  <slot>onPreviewZoom(int,int,int)</slot>
+  <slot>onPreviewMove(int,int)</slot>
+  <slot>onPreviewResize()</slot>
+  <slot>zoomToFit()</slot>
+  <slot>zoomToActual()</slot>
+ </slots>
+</ui>

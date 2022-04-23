@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/D3DChips_Dlg">
+    <file>Resources/cArray.png</file>
+    <file>Resources/arrow_circle_double.png</file>
+    <file>Resources/Green-Ball-icon.png</file>
+    <file>Resources/Grey-Ball-icon.png</file>
+    <file>Resources/Red-Ball-icon.png</file>
+    <file>Resources/information-white-icon.png</file>
+    <file>Resources/Stock-Index-Down-icon16.png</file>
+    <file>Resources/Stock-Index-Up-icon16.png</file>
+    <file>Resources/calculator-icon.png</file>
+    <file>Resources/arrow-cross-right-icon.png</file>
+    <file>Resources/function-icon.png</file>
+    <file>Resources/Actions-zoom-100-icon.png</file>
+    <file>Resources/Actions-zoom-fit-icon.png</file>
+    <file>Resources/DeleteHS.png</file>
+    <file>Resources/InsertPictureHS.png</file>
+    <file>Resources/Open-icon.png</file>
+    <file>Resources/ResizeHS.png</file>
+    <file>Resources/saveHS.png</file>
+    <file>Resources/Edit_RedoHS.png</file>
+    <file>Resources/Edit_UndoHS.png</file>
+  </qresource>
+</RCC>

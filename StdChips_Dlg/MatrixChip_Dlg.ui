@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MatrixChip_Dlg</class>
+ <widget class="QWidget" name="MatrixChip_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>449</width>
+    <height>182</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="0" column="0">
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <layout class="QGridLayout" name="gridLayout">
+         <item row="0" column="0">
+          <widget class="QLineEdit" name="lineEdit_1">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="1">
+          <widget class="QLineEdit" name="lineEdit_2">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="2">
+          <widget class="QLineEdit" name="lineEdit_3">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="0" column="3">
+          <widget class="QLineEdit" name="lineEdit_4">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QLineEdit" name="lineEdit_5">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="1">
+          <widget class="QLineEdit" name="lineEdit_6">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="2">
+          <widget class="QLineEdit" name="lineEdit_7">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="3">
+          <widget class="QLineEdit" name="lineEdit_8">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="0">
+          <widget class="QLineEdit" name="lineEdit_9">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="1">
+          <widget class="QLineEdit" name="lineEdit_10">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="2">
+          <widget class="QLineEdit" name="lineEdit_11">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="3">
+          <widget class="QLineEdit" name="lineEdit_12">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="3" column="0">
+          <widget class="QLineEdit" name="lineEdit_13">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="3" column="1">
+          <widget class="QLineEdit" name="lineEdit_14">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="3" column="2">
+          <widget class="QLineEdit" name="lineEdit_15">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+         <item row="3" column="3">
+          <widget class="QLineEdit" name="lineEdit_16">
+           <property name="maxLength">
+            <number>64</number>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <spacer name="horizontalSpacer">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>40</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <spacer name="verticalSpacer">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>20</width>
+         <height>40</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>lineEdit_1</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>61</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_2</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>167</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_3</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>274</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_4</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_5</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>61</x>
+     <y>47</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_6</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>167</x>
+     <y>47</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_7</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>274</x>
+     <y>47</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_8</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>47</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_9</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>61</x>
+     <y>73</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_10</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>167</x>
+     <y>73</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_11</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>274</x>
+     <y>73</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_12</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>73</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_13</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>61</x>
+     <y>99</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_14</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>167</x>
+     <y>99</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_15</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>274</x>
+     <y>99</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_16</sender>
+   <signal>textEdited(QString)</signal>
+   <receiver>MatrixChip_Dlg</receiver>
+   <slot>onValueChange()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>380</x>
+     <y>99</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>224</x>
+     <y>90</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>onValueChange()</slot>
+ </slots>
+</ui>

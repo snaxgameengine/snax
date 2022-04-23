@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/StdChips_Dialogs">
+    <file>Resources/palette.png</file>
+    <file>Resources/copy.png</file>
+    <file>Resources/delete.png</file>
+    <file>Resources/new.png</file>
+    <file>Resources/paste.png</file>
+    <file>Resources/dialog.png</file>
+    <file>Resources/select.png</file>
+    <file>Resources/down.png</file>
+    <file>Resources/up.png</file>
+    <file>Resources/deselect.png</file>
+  </qresource>
+</RCC>

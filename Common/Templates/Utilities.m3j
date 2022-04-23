@@ -1,0 +1,453 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{01466AAB-80E4-447C-9662-089B79485231}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{0783BEB0-0EA4-493A-9D8F-38A2863715CD}",
+            "connections": [{
+                "chipId": "{6248B801-67C1-479F-A4FE-B6DFCBB0F1B4}",
+                "connection": 0
+              }, {
+                "chipId": "{19A6EB9C-2D72-412F-9452-ED0CEAFA666F}",
+                "connection": 1
+              }, {
+                "chipId": "{60C9BD82-0DC6-424E-B4DA-5EC7E286A8E6}",
+                "connection": 2
+              }],
+            "name": "Motion",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{6248B801-67C1-479F-A4FE-B6DFCBB0F1B4}",
+            "connections": [{
+                "chipId": "{853E9E7E-5F1C-47CA-8BBD-8F4257C7C6E1}",
+                "connection": 0
+              }, {
+                "chipId": "{3E003F23-0ACD-4980-9215-96B7792CE3A2}",
+                "connection": 1
+              }, {
+                "chipId": "{341DC9C3-A4AD-4056-8049-D9555923DDEB}",
+                "connection": 2
+              }],
+            "name": "Position",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{19A6EB9C-2D72-412F-9452-ED0CEAFA666F}",
+            "connections": [{
+                "chipId": "{54C7626E-8CD6-429D-B2E7-F16F35B8CB25}",
+                "connection": 0
+              }, {
+                "chipId": "{8EAABDA4-0220-42CB-BFA0-7E3A28AA936D}",
+                "connection": 1
+              }, {
+                "chipId": "{CCE6EDD5-30DC-4137-9097-B03A71B55E80}",
+                "connection": 2
+              }],
+            "name": "Rotation",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [1.0, 1.0, 1.0, 1.0]
+            },
+            "chipId": "{60C9BD82-0DC6-424E-B4DA-5EC7E286A8E6}",
+            "connections": [{
+                "chipId": "{C6F5EF68-0E90-497F-8EB3-EC575A16E482}",
+                "connection": 0
+              }, {
+                "chipId": "{DA49FAB2-4512-4931-934A-E35357B4AD7E}",
+                "connection": 1
+              }, {
+                "chipId": "{0BCABCF0-4C4B-407A-89E5-FF1C66361977}",
+                "connection": 2
+              }],
+            "name": "Scaling",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {},
+            "chipId": "{853E9E7E-5F1C-47CA-8BBD-8F4257C7C6E1}",
+            "name": "X",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{3E003F23-0ACD-4980-9215-96B7792CE3A2}",
+            "name": "Y",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{341DC9C3-A4AD-4056-8049-D9555923DDEB}",
+            "name": "Z",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{54C7626E-8CD6-429D-B2E7-F16F35B8CB25}",
+            "name": "Pitch",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{8EAABDA4-0220-42CB-BFA0-7E3A28AA936D}",
+            "name": "Yaw",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{CCE6EDD5-30DC-4137-9097-B03A71B55E80}",
+            "name": "Roll",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{C6F5EF68-0E90-497F-8EB3-EC575A16E482}",
+            "name": "X",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{DA49FAB2-4512-4931-934A-E35357B4AD7E}",
+            "name": "Y",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{0BCABCF0-4C4B-407A-89E5-FF1C66361977}",
+            "name": "Z",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{E9432025-A39D-420E-9AEE-82A77C2C0C22}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{0783BEB0-0EA4-493A-9D8F-38A2863715CD}",
+                "x": 2,
+                "y": -3,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6248B801-67C1-479F-A4FE-B6DFCBB0F1B4}",
+                "x": -443,
+                "y": -337,
+                "objectType": "chip"
+              }, {
+                "chipId": "{19A6EB9C-2D72-412F-9452-ED0CEAFA666F}",
+                "x": 2,
+                "y": -337,
+                "objectType": "chip"
+              }, {
+                "chipId": "{60C9BD82-0DC6-424E-B4DA-5EC7E286A8E6}",
+                "x": 447,
+                "y": -337,
+                "objectType": "chip"
+              }, {
+                "chipId": "{853E9E7E-5F1C-47CA-8BBD-8F4257C7C6E1}",
+                "x": -588,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3E003F23-0ACD-4980-9215-96B7792CE3A2}",
+                "x": -443,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{341DC9C3-A4AD-4056-8049-D9555923DDEB}",
+                "x": -298,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{54C7626E-8CD6-429D-B2E7-F16F35B8CB25}",
+                "x": -143,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8EAABDA4-0220-42CB-BFA0-7E3A28AA936D}",
+                "x": 2,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CCE6EDD5-30DC-4137-9097-B03A71B55E80}",
+                "x": 147,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C6F5EF68-0E90-497F-8EB3-EC575A16E482}",
+                "x": 302,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DA49FAB2-4512-4931-934A-E35357B4AD7E}",
+                "x": 447,
+                "y": -580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0BCABCF0-4C4B-407A-89E5-FF1C66361977}",
+                "x": 592,
+                "y": -580,
+                "objectType": "chip"
+              }],
+            "extent": [-656, -630, 659, 47]
+          }
+        },
+        "id": "{B0DD6971-5039-4FD1-B8D2-434D3402E6DB}",
+        "inheritance": [],
+        "name": "Motion (Euler)",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0],
+              "useQuaternion": true
+            },
+            "chipId": "{67119811-FE17-422D-9B44-A99FC4129DA2}",
+            "connections": [{
+                "chipId": "{C15860D1-7F8B-44AB-8C71-C39213B9D54B}",
+                "connection": 0
+              }, {
+                "chipId": "{DC79EF6F-6048-469C-AF29-9C6A38A45891}",
+                "connection": 1
+              }, {
+                "chipId": "{47CDD97B-778C-4717-AC8C-313DC664B1DF}",
+                "connection": 2
+              }],
+            "name": "Motion",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{C15860D1-7F8B-44AB-8C71-C39213B9D54B}",
+            "connections": [{
+                "chipId": "{5DBFD42E-A9DD-46F3-A6A5-8C3C331B5FD4}",
+                "connection": 0
+              }, {
+                "chipId": "{BB4018FA-B1CD-4740-A637-469ADE74503F}",
+                "connection": 1
+              }, {
+                "chipId": "{9066941D-B304-46B2-B98C-F79704BFC924}",
+                "connection": 2
+              }],
+            "name": "Position",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{DC79EF6F-6048-469C-AF29-9C6A38A45891}",
+            "connections": [{
+                "chipId": "{AEC7DCFD-1939-4D20-9695-8E1FF20E1195}",
+                "connection": 0
+              }, {
+                "chipId": "{241306DF-AECD-4475-8432-448C88FD0FE1}",
+                "connection": 1
+              }, {
+                "chipId": "{D02B2FD7-EDFC-45E0-AE48-6ABF65C63E80}",
+                "connection": 2
+              }, {
+                "chipId": "{6DDF9DD1-13DC-4408-80EA-E919D2C59552}",
+                "connection": 3
+              }],
+            "name": "Rotation",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [1.0, 1.0, 1.0, 1.0]
+            },
+            "chipId": "{47CDD97B-778C-4717-AC8C-313DC664B1DF}",
+            "connections": [{
+                "chipId": "{3674ABFA-877E-4B3E-8F98-4D2056538A5F}",
+                "connection": 0
+              }, {
+                "chipId": "{71A18A9D-BDC4-4EF6-8287-5707D83B5183}",
+                "connection": 1
+              }, {
+                "chipId": "{B71D98B9-FEBC-469E-8006-ADBF5F6A6CDA}",
+                "connection": 2
+              }],
+            "name": "Scaling",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {},
+            "chipId": "{5DBFD42E-A9DD-46F3-A6A5-8C3C331B5FD4}",
+            "name": "X",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{BB4018FA-B1CD-4740-A637-469ADE74503F}",
+            "name": "Y",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{9066941D-B304-46B2-B98C-F79704BFC924}",
+            "name": "Z",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{AEC7DCFD-1939-4D20-9695-8E1FF20E1195}",
+            "name": "X",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{241306DF-AECD-4475-8432-448C88FD0FE1}",
+            "name": "Y",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{D02B2FD7-EDFC-45E0-AE48-6ABF65C63E80}",
+            "name": "Z",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{3674ABFA-877E-4B3E-8F98-4D2056538A5F}",
+            "name": "X",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{71A18A9D-BDC4-4EF6-8287-5707D83B5183}",
+            "name": "Y",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{B71D98B9-FEBC-469E-8006-ADBF5F6A6CDA}",
+            "name": "Z",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{6DDF9DD1-13DC-4408-80EA-E919D2C59552}",
+            "name": "W",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{9F0A106A-F501-484B-AC28-5801B694F31B}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{67119811-FE17-422D-9B44-A99FC4129DA2}",
+                "x": 2,
+                "y": 0,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C15860D1-7F8B-44AB-8C71-C39213B9D54B}",
+                "x": -522,
+                "y": -366,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DC79EF6F-6048-469C-AF29-9C6A38A45891}",
+                "x": -5,
+                "y": -363,
+                "objectType": "chip"
+              }, {
+                "chipId": "{47CDD97B-778C-4717-AC8C-313DC664B1DF}",
+                "x": 519,
+                "y": -366,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5DBFD42E-A9DD-46F3-A6A5-8C3C331B5FD4}",
+                "x": -667,
+                "y": -609,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BB4018FA-B1CD-4740-A637-469ADE74503F}",
+                "x": -522,
+                "y": -609,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9066941D-B304-46B2-B98C-F79704BFC924}",
+                "x": -377,
+                "y": -609,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AEC7DCFD-1939-4D20-9695-8E1FF20E1195}",
+                "x": -217,
+                "y": -608,
+                "objectType": "chip"
+              }, {
+                "chipId": "{241306DF-AECD-4475-8432-448C88FD0FE1}",
+                "x": -72,
+                "y": -608,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D02B2FD7-EDFC-45E0-AE48-6ABF65C63E80}",
+                "x": 73,
+                "y": -608,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3674ABFA-877E-4B3E-8F98-4D2056538A5F}",
+                "x": 374,
+                "y": -609,
+                "objectType": "chip"
+              }, {
+                "chipId": "{71A18A9D-BDC4-4EF6-8287-5707D83B5183}",
+                "x": 519,
+                "y": -609,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B71D98B9-FEBC-469E-8006-ADBF5F6A6CDA}",
+                "x": 664,
+                "y": -609,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6DDF9DD1-13DC-4408-80EA-E919D2C59552}",
+                "x": 218,
+                "y": -608,
+                "objectType": "chip"
+              }],
+            "extent": [-735, -659, 732, 50]
+          }
+        },
+        "id": "{D378A27B-6E19-47AF-9A82-CEC187C836F8}",
+        "inheritance": [],
+        "name": "Motion (Quaternion)",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{00000000-0000-0000-0000-000000000000}",
+    "version": "1.2.7.0"
+  }
+}

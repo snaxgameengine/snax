@@ -1,0 +1,4072 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{51D9E503-FF04-46F9-8ED1-F5B614DEBA61}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7908D608-A149-4286-826D-270EDEDE12FE}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C508E715-8A6D-4245-B967-951AB3BFF38C}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{D2465A17-C2C0-443A-A160-AE97612A2DB9}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{6BEBE822-FA52-4CBB-AA3E-0982E320C96B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F6CF0930-A3EF-4182-9318-3D770F1198A5}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{18F99330-DD34-46F6-A26E-4A2978E9C077}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{325E5456-0D4C-4A65-9141-6920ED169D14}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{03A46761-CA4D-42BE-9DA0-4FB3F669C193}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{E26B347C-273D-447D-9EF8-366FCA38290D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{90732A7F-FAF1-46FE-BB43-769A1BA748C7}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{FF95E39A-D1C8-4CFC-8A39-9546E41548EE}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{E0A5A4A5-BDEA-4263-BDC5-640A51DF2C66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{01466AAB-80E4-447C-9662-089B79485231}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F6287BCB-FF0E-425D-9107-A3FF8AC52677}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{CAD1FECE-CC41-483F-8D77-48C1CF815133}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{93D185D6-DD9E-4951-BBBC-D6AFC731B8C8}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{4221CFFF-DEBE-4E70-9787-CF6543C4D9E3}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [0.25, 0.25, 0.25, 1.0]
+                    },
+                    "chipId": "{FA2E7BEB-F3CB-4F70-AE0F-727ED83EDD0F}",
+                    "name": "Ambient Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{C58215D0-60A1-4AFD-9083-30B4A828FD48}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Ambient Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{D45C1B0A-52BA-4DFC-8810-BD212F8CC762}",
+                    "name": "Diffuse Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{21E1F255-F0C6-4929-B7E3-E278D630EF3D}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Diffuse Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [0.800000011920929, 0.800000011920929, 0.800000011920929, 1.0]
+                    },
+                    "chipId": "{3C78F1BF-AFE9-44A9-86AC-E983256EAD3D}",
+                    "name": "Specular Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{B7583D0E-F504-40EC-AB36-100E015B3519}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Specular Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {},
+            "chipId": "{6977048E-0761-47D0-9CFA-EAA6CC3A49E7}",
+            "connections": [{
+                "chipId": "{00000000-0000-0000-0000-000000000000}",
+                "connection": 0,
+                "multiConnection": true
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{2B76DCE6-F2BD-4DF8-99C8-6C94521F1255}"
+                }],
+              "type": "Virtual"
+            },
+            "name": "Add Light to Shader Data",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{2B76DCE6-F2BD-4DF8-99C8-6C94521F1255}",
+            "name": "Light Shader Data",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {},
+                    "chipId": "{A6406239-AEFD-4C1D-B883-4534810948D4}",
+                    "name": "Generate Shadow Map",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{FB70BD0D-14B5-4E4E-921C-F1AB4186692C}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Generate Shadow Map",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": -1.0
+                    },
+                    "chipId": "{3063326E-CAE9-44A1-AF68-89AAB6489D17}",
+                    "name": "Shadow Map Index",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{FCF2873A-A35E-47B5-8919-591E5463C99B}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Shadow Map Index",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{373F4E74-3E62-451A-A322-913216F1BC17}",
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow View Matrix",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{60D2076E-0F5C-467B-91AA-26174FCF277B}",
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow Projection Matrix",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{76060D50-995F-457E-841E-6253B8D09DE9}",
+            "connections": [{
+                "chipId": "{65CBDE28-0FF5-4334-85E1-3036B2028DBE}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Get Shadow Matrix",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "matrix": [0.7040336728096008, 0.37994077801704409, 0.8995939493179321, 0.8994380235671997, 0.0, 1.7836109399795533, -0.22489848732948304, -0.22485950589179994, -1.689680814743042, 0.15830865502357484, 0.37483081221580508, 0.3747658431529999, 0.0, -89.18055725097656, 278.0244445800781, 278.0762634277344],
+              "operatorType": "MULTIPLY"
+            },
+            "chipId": "{EE0C0A3A-9278-4BAB-AF3C-B5A7B2238893}",
+            "connections": [{
+                "chipId": "{BB2294F8-16B7-4011-8578-2EA9923D9A64}",
+                "connection": 0
+              }, {
+                "chipId": "{FC5A44A2-EFAE-4C76-A499-CC04BD9F2935}",
+                "connection": 1
+              }],
+            "name": "Multiply",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "matrix": [0.8017358779907227, 0.259748637676239, 0.8995939493179321, 0.8994380235671997, -0.11242975294589997, -1.0042352676391602, -0.22489848732948304, -0.22485950589179994, -0.6574574708938599, 0.10822859406471253, 0.37483081221580508, 0.3747658431529999, 139.0381317138672, 183.62841796875, 278.0244445800781, 278.0762634277344],
+              "operatorType": "MULTIPLY"
+            },
+            "chipId": "{65CBDE28-0FF5-4334-85E1-3036B2028DBE}",
+            "connections": [{
+                "chipId": "{EE0C0A3A-9278-4BAB-AF3C-B5A7B2238893}",
+                "connection": 0
+              }, {
+                "chipId": "{19DC3943-C75A-40DA-96B5-D0B74E0F0E59}",
+                "connection": 1
+              }],
+            "name": "Multiply",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "matrix": [0.5, 0.0, 0.0, 0.0, 0.0, -0.5, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.5, 0.5, 0.0, 1.0]
+            },
+            "chipId": "{19DC3943-C75A-40DA-96B5-D0B74E0F0E59}",
+            "name": "Matrix 2",
+            "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow View Matrix",
+              "preload": true,
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{BB2294F8-16B7-4011-8578-2EA9923D9A64}",
+            "connections": [{
+                "chipId": "{D8848ACD-52A2-4673-AAC9-14BDDA64D5A1}",
+                "connection": 0
+              }],
+            "name": "SLightBase->Get Shadow View Matrix",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Projection Matrix",
+              "preload": true,
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{FC5A44A2-EFAE-4C76-A499-CC04BD9F2935}",
+            "connections": [{
+                "chipId": "{D8848ACD-52A2-4673-AAC9-14BDDA64D5A1}",
+                "connection": 0
+              }],
+            "name": "SLightBase->Get Shadow Projection Matrix",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 0.1
+                    },
+                    "chipId": "{E461D0E1-7DFD-421C-A547-53295CAD9531}",
+                    "name": "Shadow Map Z-near",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{83012A67-3D47-4E16-8129-9B3E349770C9}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Shadow Map Z-near",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {},
+                    "chipId": "{C9E068B5-C853-4C9E-B744-3C24E9328C18}",
+                    "name": "Shadow Map Z-far",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{5E1E9BC3-129A-400E-8114-F04D1B45B4D4}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Shadow Map Z-far",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {},
+            "chipId": "{D8848ACD-52A2-4673-AAC9-14BDDA64D5A1}",
+            "name": "Instance",
+            "type": "{51D9E503-FF04-46F9-8ED1-F5B614DEBA61}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "object": {
+                        "type": 0
+                      },
+                      "preload": true,
+                      "save": true
+                    },
+                    "chipId": "{E357CACC-05CC-443B-B207-213149732EA1}",
+                    "name": "ShadowMapContext",
+                    "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+                  }
+                }
+              },
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{D08A2B3A-6767-42CE-9FD3-22B15A117EE2}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "ShadowMapContext",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{04DFD060-864F-43E0-96EF-B283E5214CD2}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "description": "A camera with a fixed position and orientation.",
+          "graph": {
+            "content": [{
+                "chipId": "{C58215D0-60A1-4AFD-9083-30B4A828FD48}",
+                "x": -214,
+                "y": 4,
+                "objectType": "chip"
+              }, {
+                "chipId": "{21E1F255-F0C6-4929-B7E3-E278D630EF3D}",
+                "x": 31,
+                "y": 4,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B7583D0E-F504-40EC-AB36-100E015B3519}",
+                "x": 281,
+                "y": 4,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6977048E-0761-47D0-9CFA-EAA6CC3A49E7}",
+                "x": -1373,
+                "y": -7,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2B76DCE6-F2BD-4DF8-99C8-6C94521F1255}",
+                "x": -1385,
+                "y": -316,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FB70BD0D-14B5-4E4E-921C-F1AB4186692C}",
+                "x": 693,
+                "y": 1,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FCF2873A-A35E-47B5-8919-591E5463C99B}",
+                "x": 1042,
+                "y": -1,
+                "objectType": "chip"
+              }, {
+                "chipId": "{373F4E74-3E62-451A-A322-913216F1BC17}",
+                "x": 1421,
+                "y": -5,
+                "objectType": "chip"
+              }, {
+                "chipId": "{60D2076E-0F5C-467B-91AA-26174FCF277B}",
+                "x": 1673,
+                "y": -2,
+                "objectType": "chip"
+              }, {
+                "chipId": "{76060D50-995F-457E-841E-6253B8D09DE9}",
+                "x": 2305,
+                "y": -2,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EE0C0A3A-9278-4BAB-AF3C-B5A7B2238893}",
+                "x": 2205,
+                "y": -426,
+                "objectType": "chip"
+              }, {
+                "chipId": "{65CBDE28-0FF5-4334-85E1-3036B2028DBE}",
+                "x": 2309,
+                "y": -223,
+                "objectType": "chip"
+              }, {
+                "chipId": "{19DC3943-C75A-40DA-96B5-D0B74E0F0E59}",
+                "x": 2402,
+                "y": -426,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BB2294F8-16B7-4011-8578-2EA9923D9A64}",
+                "x": 2158,
+                "y": -782,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FC5A44A2-EFAE-4C76-A499-CC04BD9F2935}",
+                "x": 2265,
+                "y": -675,
+                "objectType": "chip"
+              }, {
+                "chipId": "{83012A67-3D47-4E16-8129-9B3E349770C9}",
+                "x": 1304,
+                "y": -374,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5E1E9BC3-129A-400E-8114-F04D1B45B4D4}",
+                "x": 1718,
+                "y": -335,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D8848ACD-52A2-4673-AAC9-14BDDA64D5A1}",
+                "x": 2197,
+                "y": -1035,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D08A2B3A-6767-42CE-9FD3-22B15A117EE2}",
+                "x": -790,
+                "y": -3,
+                "objectType": "chip"
+              }],
+            "extent": [-1440, -1085, 2452, 54]
+          }
+        },
+        "id": "{6D4F8E38-D51E-48AE-901F-3144CC044CA6}",
+        "inheritance": [],
+        "name": "SLightBase",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{5C260DDE-8480-4B0B-BA43-7BF03287EED1}",
+            "connections": [{
+                "chipId": "{6478789B-26CD-43F4-BD72-F34FCBE12674}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{9638B9F4-D3C5-4050-A031-D545354FB0AF}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{66742ED9-E0D5-475C-9AF2-FCA5B7B4E873}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{1D219432-198F-4D7F-92B5-EAF3FD106216}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{03EABA96-3305-419F-A892-4BBE3535C4C9}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{387FA341-630E-4257-B3E1-1A4181655E81}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{11FD23D1-6479-4A15-9CAE-5C7142697FE9}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{BBBF3240-FB64-4431-9544-F69D089B90BC}",
+                "connection": 0,
+                "subConnection": 7
+              }],
+            "name": "Light Shader Data",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {},
+                    "chipId": "{05C55F1D-B7AB-4679-A888-9EF388782457}",
+                    "name": "Num Lights",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{6478789B-26CD-43F4-BD72-F34FCBE12674}",
+            "name": "Num Lights",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{A2081BC7-9E58-4263-8D94-F93EA548B67E}",
+                    "name": "Directions",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{66742ED9-E0D5-475C-9AF2-FCA5B7B4E873}",
+            "name": "Directions",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{06EE8360-52E1-4C85-BA0F-6517A6CA0BF5}",
+                    "name": "Positions",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{1D219432-198F-4D7F-92B5-EAF3FD106216}",
+            "name": "Positions",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{0986FE28-4701-4DBE-A328-64454FAF9081}",
+                    "name": "Ambient Colors",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{03EABA96-3305-419F-A892-4BBE3535C4C9}",
+            "name": "Ambient Colors",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{01DAC978-99AA-4791-8099-C9227E25E49D}",
+                    "name": "Diffuse Colors",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{387FA341-630E-4257-B3E1-1A4181655E81}",
+            "name": "Diffuse Colors",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{06921C7B-FC6C-4F23-B8A0-C02D7532D0CF}",
+                    "name": "Specular Colors",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{11FD23D1-6479-4A15-9CAE-5C7142697FE9}",
+            "name": "Specular Colors",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{EB93F920-4689-4A2F-98B9-16FBC5197BC1}",
+                    "name": "Properties",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{9638B9F4-D3C5-4050-A031-D545354FB0AF}",
+            "name": "TypeAndAttenuations",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{2B509A34-2DBE-4F3C-8495-E429CF6830DC}",
+            "connections": [{
+                "chipId": "{5C260DDE-8480-4B0B-BA43-7BF03287EED1}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Get Light Shader Data",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {},
+            "chipId": "{59F0BA32-0A4D-451A-B9C7-308F75889418}",
+            "connections": [{
+                "chipId": "{1A3B072A-8488-4181-BDB8-497E6B52C6CE}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{DA7C9649-FD7D-4FAF-BEE4-8F1612BA0E2E}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{E447FB3D-E557-4E52-BAE6-334B682FB5F5}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{DC8372B1-CACB-4541-845A-05B723E0C79D}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{ABEFFC11-B5F1-4053-90C7-D8012F4015F2}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{B6B5E2EB-2552-45CA-AC07-63C413BBDAA5}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{2DA73BCB-7233-47EB-BC5F-353C6F855198}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{E6A9AEA8-B904-482D-AC50-7AFC5D8023F9}",
+                "connection": 0,
+                "subConnection": 7
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{F44E1AF0-A264-4EC4-99D1-17068D478B2B}"
+                }, {
+                  "chipId": "{19FCE22B-A5A6-4338-A09E-1C7FF8C300FD}"
+                }, {
+                  "chipId": "{9BE61B36-4312-4767-A162-4EBC3D2D4944}"
+                }, {
+                  "chipId": "{425EC4FB-CEF4-4C64-B7F5-87F8D12755F0}"
+                }, {
+                  "chipId": "{64C837D3-2D86-42EA-B9C7-8C2A5DE81B54}"
+                }, {
+                  "chipId": "{F9A6E886-08B2-47AA-A236-AE0281D048C6}"
+                }, {
+                  "chipId": "{F14D3E25-0FF4-476F-9235-93077E71AF0E}"
+                }, {
+                  "chipId": "{231212F5-952E-4B9C-B454-B91E92A97844}"
+                }],
+              "type": "NonVirtual"
+            },
+            "name": "Add Light",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{19FCE22B-A5A6-4338-A09E-1C7FF8C300FD}",
+            "name": "Direction",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{9BE61B36-4312-4767-A162-4EBC3D2D4944}",
+            "name": "Position",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{425EC4FB-CEF4-4C64-B7F5-87F8D12755F0}",
+            "name": "Ambient Color",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{64C837D3-2D86-42EA-B9C7-8C2A5DE81B54}",
+            "name": "Diffuse Color",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{F9A6E886-08B2-47AA-A236-AE0281D048C6}",
+            "name": "Specular Color",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "vector": [12.0, -3.0, 5.0, 0.9210609793663025]
+            },
+            "chipId": "{DA7C9649-FD7D-4FAF-BEE4-8F1612BA0E2E}",
+            "connections": [{
+                "chipId": "{19FCE22B-A5A6-4338-A09E-1C7FF8C300FD}",
+                "connection": 0
+              }, {
+                "chipId": "{AF902625-6EA9-43B4-B60D-68F3C3D5AB98}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Vector",
+            "type": "{F6287BCB-FF0E-425D-9107-A3FF8AC52677}"
+          }, {
+            "chipData": {
+              "vector": [12.0, -3.0, 5.0, 0.9210609793663025]
+            },
+            "chipId": "{AF902625-6EA9-43B4-B60D-68F3C3D5AB98}",
+            "connections": [{
+                "chipId": "{DF1FF116-975E-47D9-974F-482DC9F0B34E}",
+                "connection": 0
+              }, {
+                "chipId": "{0348EABD-74A2-40CD-B191-F6703ED1D370}",
+                "connection": 1
+              }],
+            "name": "Vector Array Element",
+            "type": "{C508E715-8A6D-4245-B967-951AB3BFF38C}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{0348EABD-74A2-40CD-B191-F6703ED1D370}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{66742ED9-E0D5-475C-9AF2-FCA5B7B4E873}"
+            },
+            "chipId": "{DF1FF116-975E-47D9-974F-482DC9F0B34E}",
+            "name": "Directions",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "vector": [-240.0, 110.0, -100.0, 0.8775825500488281]
+            },
+            "chipId": "{E447FB3D-E557-4E52-BAE6-334B682FB5F5}",
+            "connections": [{
+                "chipId": "{9BE61B36-4312-4767-A162-4EBC3D2D4944}",
+                "connection": 0
+              }, {
+                "chipId": "{8633171D-B2FD-47E2-B1D9-6E87AFAFB64A}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Vector",
+            "type": "{F6287BCB-FF0E-425D-9107-A3FF8AC52677}"
+          }, {
+            "chipData": {
+              "vector": [-240.0, 110.0, -100.0, 0.8775825500488281]
+            },
+            "chipId": "{8633171D-B2FD-47E2-B1D9-6E87AFAFB64A}",
+            "connections": [{
+                "chipId": "{ABA9B075-EC7C-43D9-80B1-4C25EBF614DC}",
+                "connection": 0
+              }, {
+                "chipId": "{57984FE1-05C3-44AF-8599-E660FE0829DF}",
+                "connection": 1
+              }],
+            "name": "Vector Array Element",
+            "type": "{C508E715-8A6D-4245-B967-951AB3BFF38C}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{57984FE1-05C3-44AF-8599-E660FE0829DF}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "vector": [5.0, 5.0, 5.0, 1.0]
+            },
+            "chipId": "{DC8372B1-CACB-4541-845A-05B723E0C79D}",
+            "connections": [{
+                "chipId": "{425EC4FB-CEF4-4C64-B7F5-87F8D12755F0}",
+                "connection": 0
+              }, {
+                "chipId": "{1B81C888-DF7C-4E5A-8E8D-8FFC5D0CB26C}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Vector",
+            "type": "{F6287BCB-FF0E-425D-9107-A3FF8AC52677}"
+          }, {
+            "chipData": {
+              "vector": [5.0, 5.0, 5.0, 1.0]
+            },
+            "chipId": "{1B81C888-DF7C-4E5A-8E8D-8FFC5D0CB26C}",
+            "connections": [{
+                "chipId": "{7149A913-EC9C-42E1-A723-D3C3B5CB5C6A}",
+                "connection": 0
+              }, {
+                "chipId": "{B0F47D4C-1BAD-40E6-AAA1-A10F951D4891}",
+                "connection": 1
+              }],
+            "name": "Vector Array Element",
+            "type": "{C508E715-8A6D-4245-B967-951AB3BFF38C}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{B0F47D4C-1BAD-40E6-AAA1-A10F951D4891}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "vector": [50.0, 50.0, 50.0, 1.0]
+            },
+            "chipId": "{ABEFFC11-B5F1-4053-90C7-D8012F4015F2}",
+            "connections": [{
+                "chipId": "{64C837D3-2D86-42EA-B9C7-8C2A5DE81B54}",
+                "connection": 0
+              }, {
+                "chipId": "{957EB524-FB02-49DA-A037-A85733ABE35C}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Vector",
+            "type": "{F6287BCB-FF0E-425D-9107-A3FF8AC52677}"
+          }, {
+            "chipData": {
+              "vector": [50.0, 50.0, 50.0, 1.0]
+            },
+            "chipId": "{957EB524-FB02-49DA-A037-A85733ABE35C}",
+            "connections": [{
+                "chipId": "{CF5E53C8-5DC1-419A-8A74-58A56D6FF2EE}",
+                "connection": 0
+              }, {
+                "chipId": "{83153868-754A-4E77-B1CE-9B0273561892}",
+                "connection": 1
+              }],
+            "name": "Vector Array Element",
+            "type": "{C508E715-8A6D-4245-B967-951AB3BFF38C}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{83153868-754A-4E77-B1CE-9B0273561892}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "vector": [0.800000011920929, 0.800000011920929, 0.800000011920929, 1.0]
+            },
+            "chipId": "{B6B5E2EB-2552-45CA-AC07-63C413BBDAA5}",
+            "connections": [{
+                "chipId": "{F9A6E886-08B2-47AA-A236-AE0281D048C6}",
+                "connection": 0
+              }, {
+                "chipId": "{1A017F4B-0540-4A73-B526-8768775E0133}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Vector",
+            "type": "{F6287BCB-FF0E-425D-9107-A3FF8AC52677}"
+          }, {
+            "chipData": {
+              "vector": [0.800000011920929, 0.800000011920929, 0.800000011920929, 1.0]
+            },
+            "chipId": "{1A017F4B-0540-4A73-B526-8768775E0133}",
+            "connections": [{
+                "chipId": "{DF74C20A-8010-431E-8496-2CC6C9C60C12}",
+                "connection": 0
+              }, {
+                "chipId": "{76B81626-4755-4371-BFE5-CBA5F5205B31}",
+                "connection": 1
+              }],
+            "name": "Vector Array Element",
+            "type": "{C508E715-8A6D-4245-B967-951AB3BFF38C}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{76B81626-4755-4371-BFE5-CBA5F5205B31}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "vector": [3.0, 0.0, 0.003000000026077032, 0.003000000026077032]
+            },
+            "chipId": "{1A3B072A-8488-4181-BDB8-497E6B52C6CE}",
+            "connections": [{
+                "chipId": "{F44E1AF0-A264-4EC4-99D1-17068D478B2B}",
+                "connection": 0
+              }, {
+                "chipId": "{CCE7D98A-F8FB-400A-8B33-470AB29FA18D}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Vector",
+            "type": "{F6287BCB-FF0E-425D-9107-A3FF8AC52677}"
+          }, {
+            "chipData": {
+              "vector": [3.0, 0.0, 0.003000000026077032, 0.003000000026077032]
+            },
+            "chipId": "{CCE7D98A-F8FB-400A-8B33-470AB29FA18D}",
+            "connections": [{
+                "chipId": "{908DEBD8-F28A-4D8A-9B08-B93CDBC68400}",
+                "connection": 0
+              }, {
+                "chipId": "{3F4C1187-A80A-4642-AC45-C166D2D2C0AB}",
+                "connection": 1
+              }],
+            "name": "Vector Array Element",
+            "type": "{C508E715-8A6D-4245-B967-951AB3BFF38C}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{3F4C1187-A80A-4642-AC45-C166D2D2C0AB}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{1D219432-198F-4D7F-92B5-EAF3FD106216}"
+            },
+            "chipId": "{ABA9B075-EC7C-43D9-80B1-4C25EBF614DC}",
+            "name": "Positions",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{03EABA96-3305-419F-A892-4BBE3535C4C9}"
+            },
+            "chipId": "{7149A913-EC9C-42E1-A723-D3C3B5CB5C6A}",
+            "name": "Ambient Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{387FA341-630E-4257-B3E1-1A4181655E81}"
+            },
+            "chipId": "{CF5E53C8-5DC1-419A-8A74-58A56D6FF2EE}",
+            "name": "Diffuse Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{11FD23D1-6479-4A15-9CAE-5C7142697FE9}"
+            },
+            "chipId": "{DF74C20A-8010-431E-8496-2CC6C9C60C12}",
+            "name": "Specular Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{9638B9F4-D3C5-4050-A031-D545354FB0AF}"
+            },
+            "chipId": "{908DEBD8-F28A-4D8A-9B08-B93CDBC68400}",
+            "name": "TypeAndAttenuations",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{0A2F98EF-F660-483E-9715-B6D481E7130B}",
+            "connections": [{
+                "chipId": "{2A2ABC73-F028-46BD-BA58-ACC936731272}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{AC8C8388-1960-4664-B081-20A9ED6504D2}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{D920B586-7842-4F89-B20C-6FB80A55DCFD}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Clear",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "CONTAINER_CLEAR"
+            },
+            "chipId": "{AC8C8388-1960-4664-B081-20A9ED6504D2}",
+            "connections": [{
+                "chipId": "{1B5CC052-858D-4220-A6E8-A6368A1DB912}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{DBF749C7-D766-4E0F-B76A-7149BFCE4906}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{69EEE24F-7B79-47C4-9C17-572DBBC46675}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{0711D512-3795-4CB7-AC15-D9DE8FCD4A39}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{23E44F27-2E7B-428B-88E8-A2AB7397CAA0}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{FDD3EA04-63BA-4A70-BF7C-C09242A0927A}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{BF909DD2-098D-4677-A271-3849386B00D0}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{5B065825-6E10-4830-B8CA-5148A4E04156}",
+                "connection": 0,
+                "subConnection": 7
+              }, {
+                "chipId": "{02AA7054-079D-4EA4-8C4A-3BA541CB5980}",
+                "connection": 0,
+                "subConnection": 8
+              }],
+            "name": "Clear Container",
+            "type": "{03A46761-CA4D-42BE-9DA0-4FB3F669C193}"
+          }, {
+            "chipData": {
+              "original": "{66742ED9-E0D5-475C-9AF2-FCA5B7B4E873}"
+            },
+            "chipId": "{1B5CC052-858D-4220-A6E8-A6368A1DB912}",
+            "name": "Directions",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{1D219432-198F-4D7F-92B5-EAF3FD106216}"
+            },
+            "chipId": "{DBF749C7-D766-4E0F-B76A-7149BFCE4906}",
+            "name": "Positions",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{03EABA96-3305-419F-A892-4BBE3535C4C9}"
+            },
+            "chipId": "{69EEE24F-7B79-47C4-9C17-572DBBC46675}",
+            "name": "Ambient Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{387FA341-630E-4257-B3E1-1A4181655E81}"
+            },
+            "chipId": "{0711D512-3795-4CB7-AC15-D9DE8FCD4A39}",
+            "name": "Diffuse Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{11FD23D1-6479-4A15-9CAE-5C7142697FE9}"
+            },
+            "chipId": "{23E44F27-2E7B-428B-88E8-A2AB7397CAA0}",
+            "name": "Specular Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{9638B9F4-D3C5-4050-A031-D545354FB0AF}"
+            },
+            "chipId": "{FDD3EA04-63BA-4A70-BF7C-C09242A0927A}",
+            "name": "TypeAndAttenuations",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{2A2ABC73-F028-46BD-BA58-ACC936731272}",
+            "connections": [{
+                "chipId": "{0AEACEE9-1194-4654-A5E9-A8EB1B976F63}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{F09613F3-E7C0-4433-B768-E2D621F70E7A}",
+                "connection": 1,
+                "subConnection": 1
+              }],
+            "name": "Set Value",
+            "type": "{6BEBE822-FA52-4CBB-AA3E-0982E320C96B}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{0AEACEE9-1194-4654-A5E9-A8EB1B976F63}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{75A99594-6F3B-45BB-B406-748AD155052D}",
+            "connections": [{
+                "chipId": "{1419E4EB-57FB-48D2-9F43-14BA23173A08}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{D920B586-7842-4F89-B20C-6FB80A55DCFD}",
+            "connections": [{
+                "chipId": "{75A99594-6F3B-45BB-B406-748AD155052D}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{1BC82660-AC45-44B9-A140-10686686B5D5}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{186AFD74-A334-403C-8003-BF74A3192DAD}",
+                "connection": 1,
+                "subConnection": 2
+              }, {
+                "chipId": "{56A83AAA-5A6E-4094-95B0-31A4B8D3D465}",
+                "connection": 1,
+                "subConnection": 3
+              }, {
+                "chipId": "{77C62119-ED3C-4800-BD6E-E18F32D30AB5}",
+                "connection": 1,
+                "subConnection": 4
+              }, {
+                "chipId": "{4013CF0D-4B02-46A6-AAB3-1AF45023B686}",
+                "connection": 1,
+                "subConnection": 5
+              }, {
+                "chipId": "{E8476A3E-6095-4D42-9357-BF9881B9465D}",
+                "connection": 1,
+                "subConnection": 6
+              }, {
+                "chipId": "{DAD31D47-262A-4EE4-A8BF-B032E2C46C90}",
+                "connection": 1,
+                "subConnection": 7
+              }, {
+                "chipId": "{98E5E9F6-853C-4F8E-A95C-15C1AF139CE1}",
+                "connection": 1,
+                "subConnection": 8
+              }],
+            "name": "Set Value",
+            "type": "{6BEBE822-FA52-4CBB-AA3E-0982E320C96B}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{1BC82660-AC45-44B9-A140-10686686B5D5}",
+            "connections": [{
+                "chipId": "{B78907FB-3E6B-4ECE-91BF-80628B34939B}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{186AFD74-A334-403C-8003-BF74A3192DAD}",
+            "connections": [{
+                "chipId": "{BF0589DF-8EEE-4882-83D1-F900F03FFBF5}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{56A83AAA-5A6E-4094-95B0-31A4B8D3D465}",
+            "connections": [{
+                "chipId": "{A2A4341F-58B6-44BF-A285-91015F11C573}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{77C62119-ED3C-4800-BD6E-E18F32D30AB5}",
+            "connections": [{
+                "chipId": "{6B6170E2-B8AD-4F39-945D-061B7AEE34CC}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{4013CF0D-4B02-46A6-AAB3-1AF45023B686}",
+            "connections": [{
+                "chipId": "{0BF7561B-DC89-44A5-8C32-B838224B5D22}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "original": "{66742ED9-E0D5-475C-9AF2-FCA5B7B4E873}"
+            },
+            "chipId": "{1419E4EB-57FB-48D2-9F43-14BA23173A08}",
+            "name": "Directions",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{1D219432-198F-4D7F-92B5-EAF3FD106216}"
+            },
+            "chipId": "{B78907FB-3E6B-4ECE-91BF-80628B34939B}",
+            "name": "Positions",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{03EABA96-3305-419F-A892-4BBE3535C4C9}"
+            },
+            "chipId": "{BF0589DF-8EEE-4882-83D1-F900F03FFBF5}",
+            "name": "Ambient Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{387FA341-630E-4257-B3E1-1A4181655E81}"
+            },
+            "chipId": "{A2A4341F-58B6-44BF-A285-91015F11C573}",
+            "name": "Diffuse Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{11FD23D1-6479-4A15-9CAE-5C7142697FE9}"
+            },
+            "chipId": "{6B6170E2-B8AD-4F39-945D-061B7AEE34CC}",
+            "name": "Specular Colors",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{9638B9F4-D3C5-4050-A031-D545354FB0AF}"
+            },
+            "chipId": "{0BF7561B-DC89-44A5-8C32-B838224B5D22}",
+            "name": "TypeAndAttenuations",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 2.0
+            },
+            "chipId": "{E6A9AEA8-B904-482D-AC50-7AFC5D8023F9}",
+            "connections": [{
+                "chipId": "{D3CE249C-11DA-426E-9E7E-216FB17C7B16}",
+                "connection": 0
+              }, {
+                "chipId": "{AAF7AC06-A934-4A81-A596-70D9688FDB1B}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Value",
+            "type": "{6BEBE822-FA52-4CBB-AA3E-0982E320C96B}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{AAF7AC06-A934-4A81-A596-70D9688FDB1B}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "expression": "a+1",
+              "value": 2.0
+            },
+            "chipId": "{D3CE249C-11DA-426E-9E7E-216FB17C7B16}",
+            "connections": [{
+                "chipId": "{AAF7AC06-A934-4A81-A596-70D9688FDB1B}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "a+1",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{F44E1AF0-A264-4EC4-99D1-17068D478B2B}",
+            "name": "TypeAndAttenuation",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {},
+                    "chipId": "{DAA36328-78EC-4812-BCD2-8C3614B7D0D9}",
+                    "name": "NumShadowMaps",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}",
+            "name": "NumShadowMaps",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}"
+            },
+            "chipId": "{F09613F3-E7C0-4433-B768-E2D621F70E7A}",
+            "name": "NumShadowMaps",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {},
+                    "chipId": "{8E80F93E-5930-4CEF-8036-AA2652BACDD2}",
+                    "name": "Shadow Map Index",
+                    "type": "{18F99330-DD34-46F6-A26E-4A2978E9C077}"
+                  }
+                }
+              },
+              "type": "{18F99330-DD34-46F6-A26E-4A2978E9C077}"
+            },
+            "chipId": "{BBBF3240-FB64-4431-9544-F69D089B90BC}",
+            "name": "Shadow Map Indices",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{BBBF3240-FB64-4431-9544-F69D089B90BC}"
+            },
+            "chipId": "{BF909DD2-098D-4677-A271-3849386B00D0}",
+            "name": "Shadow Map Indices",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{E8476A3E-6095-4D42-9357-BF9881B9465D}",
+            "connections": [{
+                "chipId": "{68067D78-4018-480B-B642-3C6890A75456}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "original": "{BBBF3240-FB64-4431-9544-F69D089B90BC}"
+            },
+            "chipId": "{68067D78-4018-480B-B642-3C6890A75456}",
+            "name": "Shadow Map Indices",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{F14D3E25-0FF4-476F-9235-93077E71AF0E}",
+            "name": "ShadowMap Context",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{C79403BC-B9AF-4DC6-BC9F-97C495BEB11B}",
+            "connections": [{
+                "chipId": "{DB12A326-B091-4910-9875-D295CED87E5A}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Get Shadow Map Matrices",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {},
+            "chipId": "{DB12A326-B091-4910-9875-D295CED87E5A}",
+            "connections": [{
+                "chipId": "{962F48E8-ACC5-43BC-AF74-DDB6B6E95152}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "Shadow Map Matrices",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{E2084873-D1A5-43F3-971F-5838FA600700}",
+                    "name": "Shadow Map Matrices",
+                    "type": "{FF95E39A-D1C8-4CFC-8A39-9546E41548EE}"
+                  }
+                }
+              },
+              "type": "{FF95E39A-D1C8-4CFC-8A39-9546E41548EE}"
+            },
+            "chipId": "{962F48E8-ACC5-43BC-AF74-DDB6B6E95152}",
+            "name": "Shadow Map Matrices",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{962F48E8-ACC5-43BC-AF74-DDB6B6E95152}"
+            },
+            "chipId": "{DE482C75-E4AE-4F62-BC2F-F6F3CFEB4354}",
+            "name": "Shadow Map Matrices",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{DAD31D47-262A-4EE4-A8BF-B032E2C46C90}",
+            "connections": [{
+                "chipId": "{DE482C75-E4AE-4F62-BC2F-F6F3CFEB4354}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "original": "{962F48E8-ACC5-43BC-AF74-DDB6B6E95152}"
+            },
+            "chipId": "{5B065825-6E10-4830-B8CA-5148A4E04156}",
+            "name": "Shadow Map Matrices",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{2DA73BCB-7233-47EB-BC5F-353C6F855198}",
+            "connections": [{
+                "chipId": "{37A6CBF3-DD8C-4F00-9867-2561BC943C50}",
+                "connection": 0
+              }, {
+                "chipId": "{8415174D-9E04-4CF0-B8AE-F7E17DED420D}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{7DB3D6BB-8CA7-4067-802B-B94514EA81BB}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{21BF46C9-7E97-4B10-ACA2-B26F9CEEE074}",
+                "connection": 1,
+                "subConnection": 2
+              }, {
+                "chipId": "{D14993D7-A02A-4FFA-851A-1D7EF1B3D325}",
+                "connection": 1,
+                "subConnection": 3
+              }, {
+                "chipId": "{103C52C7-9051-4336-AE1F-0C85FA6A3DCE}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "If/Else",
+            "type": "{4221CFFF-DEBE-4E70-9787-CF6543C4D9E3}"
+          }, {
+            "chipData": {
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{231212F5-952E-4B9C-B454-B91E92A97844}",
+            "name": "Shadow Matrix",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "operatorType": "ARRAY"
+            },
+            "chipId": "{6EC3C04C-42CB-47F3-9A32-B9BBA71B6AAB}",
+            "connections": [{
+                "chipId": "{CEA66E6C-578B-4E77-8044-0AD22A17B8A2}",
+                "connection": 0
+              }, {
+                "chipId": "{D5C463DD-5C1F-4F28-87F7-43F24163B6E8}",
+                "connection": 1
+              }],
+            "name": "Array-Element by Index",
+            "type": "{93D185D6-DD9E-4951-BBBC-D6AFC731B8C8}"
+          }, {
+            "chipData": {
+              "original": "{BBBF3240-FB64-4431-9544-F69D089B90BC}"
+            },
+            "chipId": "{CEA66E6C-578B-4E77-8044-0AD22A17B8A2}",
+            "name": "Shadow Map Indices",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{D5C463DD-5C1F-4F28-87F7-43F24163B6E8}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": -1.0
+            },
+            "chipId": "{103C52C7-9051-4336-AE1F-0C85FA6A3DCE}",
+            "connections": [{
+                "chipId": "{6EC3C04C-42CB-47F3-9A32-B9BBA71B6AAB}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Value",
+            "type": "{6BEBE822-FA52-4CBB-AA3E-0982E320C96B}"
+          }, {
+            "chipData": {
+              "operatorType": "ARRAY",
+              "value": 1.0
+            },
+            "chipId": "{75AA8765-FFAA-4548-B85B-F8EECC45B8FE}",
+            "connections": [{
+                "chipId": "{626D0D86-3F1E-4AB9-ACFA-5086BEF3C40F}",
+                "connection": 0
+              }, {
+                "chipId": "{14155FC5-1D92-4CF2-AB9B-761C8D8F2D8A}",
+                "connection": 1
+              }],
+            "name": "Array-Element by Index",
+            "type": "{93D185D6-DD9E-4951-BBBC-D6AFC731B8C8}"
+          }, {
+            "chipData": {
+              "original": "{BBBF3240-FB64-4431-9544-F69D089B90BC}"
+            },
+            "chipId": "{626D0D86-3F1E-4AB9-ACFA-5086BEF3C40F}",
+            "name": "Shadow Map Indices",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{6478789B-26CD-43F4-BD72-F34FCBE12674}"
+            },
+            "chipId": "{14155FC5-1D92-4CF2-AB9B-761C8D8F2D8A}",
+            "name": "Num Lights",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{7DB3D6BB-8CA7-4067-802B-B94514EA81BB}",
+            "connections": [{
+                "chipId": "{E901C5BE-7C8D-4E36-91F5-5C6C9879AA64}",
+                "connection": 0
+              }, {
+                "chipId": "{75AA8765-FFAA-4548-B85B-F8EECC45B8FE}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Value",
+            "type": "{6BEBE822-FA52-4CBB-AA3E-0982E320C96B}"
+          }, {
+            "chipData": {
+              "original": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}"
+            },
+            "chipId": "{E901C5BE-7C8D-4E36-91F5-5C6C9879AA64}",
+            "name": "NumShadowMaps",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "matrix": [0.8017358779907227, 0.259748637676239, 0.8995939493179321, 0.8994380235671997, -0.11242975294589997, -1.0042352676391602, -0.22489848732948304, -0.22485950589179994, -0.6574574708938599, 0.10822859406471253, 0.37483081221580508, 0.3747658431529999, 139.0381317138672, 183.62841796875, 278.0244445800781, 278.0762634277344]
+            },
+            "chipId": "{3E067605-1E29-4B72-A50A-9186E9B6BD8C}",
+            "connections": [{
+                "chipId": "{4E773245-3B17-4908-B8A4-C07FA09238E9}",
+                "connection": 0
+              }, {
+                "chipId": "{CD1462BA-DDB4-4D41-9D51-DDF72666A73D}",
+                "connection": 1
+              }],
+            "name": "Matrix Array Element",
+            "type": "{F6CF0930-A3EF-4182-9318-3D770F1198A5}"
+          }, {
+            "chipData": {
+              "original": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}"
+            },
+            "chipId": "{CD1462BA-DDB4-4D41-9D51-DDF72666A73D}",
+            "name": "NumShadowMaps",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "matrix": [0.8017358779907227, 0.259748637676239, 0.8995939493179321, 0.8994380235671997, -0.11242975294589997, -1.0042352676391602, -0.22489848732948304, -0.22485950589179994, -0.6574574708938599, 0.10822859406471253, 0.37483081221580508, 0.3747658431529999, 139.0381317138672, 183.62841796875, 278.0244445800781, 278.0762634277344]
+            },
+            "chipId": "{21BF46C9-7E97-4B10-ACA2-B26F9CEEE074}",
+            "connections": [{
+                "chipId": "{231212F5-952E-4B9C-B454-B91E92A97844}",
+                "connection": 0
+              }, {
+                "chipId": "{3E067605-1E29-4B72-A50A-9186E9B6BD8C}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Matrix",
+            "type": "{E26B347C-273D-447D-9EF8-366FCA38290D}"
+          }, {
+            "chipData": {
+              "original": "{962F48E8-ACC5-43BC-AF74-DDB6B6E95152}"
+            },
+            "chipId": "{4E773245-3B17-4908-B8A4-C07FA09238E9}",
+            "name": "Shadow Map Matrices",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 2.0
+            },
+            "chipId": "{D14993D7-A02A-4FFA-851A-1D7EF1B3D325}",
+            "connections": [{
+                "chipId": "{94E1B1FD-F62E-44D8-8EAD-1D32BD692F0A}",
+                "connection": 0
+              }, {
+                "chipId": "{D768AAE3-C789-4183-9E32-ACD246EC0D6A}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Value",
+            "type": "{6BEBE822-FA52-4CBB-AA3E-0982E320C96B}"
+          }, {
+            "chipData": {
+              "expression": "a+1",
+              "value": 2.0
+            },
+            "chipId": "{94E1B1FD-F62E-44D8-8EAD-1D32BD692F0A}",
+            "connections": [{
+                "chipId": "{D768AAE3-C789-4183-9E32-ACD246EC0D6A}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "a+1",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "original": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}"
+            },
+            "chipId": "{D768AAE3-C789-4183-9E32-ACD246EC0D6A}",
+            "name": "NumShadowMaps",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "count": 0
+                      },
+                      "preload": true,
+                      "saveContent": true
+                    },
+                    "chipId": "{438F4F56-FB36-43CA-8EF4-5B85FB2D770D}",
+                    "name": "Shadow Map Contexts",
+                    "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}"
+                  }
+                }
+              },
+              "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}"
+            },
+            "chipId": "{B2AC5710-2A41-40DC-AB7D-22FD97FB6A03}",
+            "name": "Shadow Map Contexts",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{B2AC5710-2A41-40DC-AB7D-22FD97FB6A03}"
+            },
+            "chipId": "{02AA7054-079D-4EA4-8C4A-3BA541CB5980}",
+            "name": "Shadow Map Contexts",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 8.0
+            },
+            "chipId": "{98E5E9F6-853C-4F8E-A95C-15C1AF139CE1}",
+            "connections": [{
+                "chipId": "{565DB84E-6571-4689-964E-2B7332E63CD3}",
+                "connection": 0
+              }],
+            "name": "Container Size",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {
+              "original": "{B2AC5710-2A41-40DC-AB7D-22FD97FB6A03}"
+            },
+            "chipId": "{565DB84E-6571-4689-964E-2B7332E63CD3}",
+            "name": "Shadow Map Contexts",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}"
+            },
+            "chipId": "{F98F9BA6-4896-4919-A3F3-3E3814FD6EE8}",
+            "connections": [{
+                "chipId": "{B2AC5710-2A41-40DC-AB7D-22FD97FB6A03}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Get Shadow Map Contexts",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "operatorType": "INSTANCEREF_EXIST",
+              "value": 1.0
+            },
+            "chipId": "{37A6CBF3-DD8C-4F00-9867-2561BC943C50}",
+            "connections": [{
+                "chipId": "{F14D3E25-0FF4-476F-9235-93077E71AF0E}",
+                "connection": 0
+              }],
+            "name": "Instance Exist?",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {},
+            "chipId": "{8415174D-9E04-4CF0-B8AE-F7E17DED420D}",
+            "connections": [{
+                "chipId": "{F14D3E25-0FF4-476F-9235-93077E71AF0E}",
+                "connection": 0
+              }, {
+                "chipId": "{4D3AD3B6-F395-4A3F-95E5-12961CA0060B}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Instance Ref",
+            "type": "{D2465A17-C2C0-443A-A160-AE97612A2DB9}"
+          }, {
+            "chipData": {
+              "operatorType": "ARRAY"
+            },
+            "chipId": "{4D3AD3B6-F395-4A3F-95E5-12961CA0060B}",
+            "connections": [{
+                "chipId": "{2BEA5901-11C7-4452-B34C-2B9519EBD2B1}",
+                "connection": 0
+              }, {
+                "chipId": "{B6CBA472-4B76-4189-80E5-58A9F9F63A4D}",
+                "connection": 1
+              }],
+            "name": "Array-Element by Index",
+            "type": "{E0A5A4A5-BDEA-4263-BDC5-640A51DF2C66}"
+          }, {
+            "chipData": {
+              "original": "{B2AC5710-2A41-40DC-AB7D-22FD97FB6A03}"
+            },
+            "chipId": "{2BEA5901-11C7-4452-B34C-2B9519EBD2B1}",
+            "name": "Shadow Map Contexts",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}"
+            },
+            "chipId": "{B6CBA472-4B76-4189-80E5-58A9F9F63A4D}",
+            "name": "NumShadowMaps",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 2.0
+            },
+            "chipId": "{71BAE4A2-72D2-41D8-BA95-89754B7B81B9}",
+            "connections": [{
+                "chipId": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Get Number Of Shadow Maps",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{99101219-087E-4DBA-A5A2-4375CAF75F4F}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "description": "A camera with a fixed position and orientation.",
+          "graph": {
+            "content": [{
+                "chipId": "{5C260DDE-8480-4B0B-BA43-7BF03287EED1}",
+                "x": -6,
+                "y": -280,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6478789B-26CD-43F4-BD72-F34FCBE12674}",
+                "x": -483,
+                "y": -559,
+                "objectType": "chip"
+              }, {
+                "chipId": "{66742ED9-E0D5-475C-9AF2-FCA5B7B4E873}",
+                "x": -238,
+                "y": -762,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1D219432-198F-4D7F-92B5-EAF3FD106216}",
+                "x": -159,
+                "y": -840,
+                "objectType": "chip"
+              }, {
+                "chipId": "{03EABA96-3305-419F-A892-4BBE3535C4C9}",
+                "x": -52,
+                "y": -924,
+                "objectType": "chip"
+              }, {
+                "chipId": "{387FA341-630E-4257-B3E1-1A4181655E81}",
+                "x": 58,
+                "y": -1002,
+                "objectType": "chip"
+              }, {
+                "chipId": "{11FD23D1-6479-4A15-9CAE-5C7142697FE9}",
+                "x": 162,
+                "y": -1078,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9638B9F4-D3C5-4050-A031-D545354FB0AF}",
+                "x": -341,
+                "y": -659,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2B509A34-2DBE-4F3C-8495-E429CF6830DC}",
+                "x": 4,
+                "y": 0,
+                "objectType": "chip"
+              }, {
+                "chipId": "{59F0BA32-0A4D-451A-B9C7-308F75889418}",
+                "x": 3761,
+                "y": 3,
+                "objectType": "chip"
+              }, {
+                "chipId": "{19FCE22B-A5A6-4338-A09E-1C7FF8C300FD}",
+                "x": 3118,
+                "y": -1331,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9BE61B36-4312-4767-A162-4EBC3D2D4944}",
+                "x": 3584,
+                "y": -1334,
+                "objectType": "chip"
+              }, {
+                "chipId": "{425EC4FB-CEF4-4C64-B7F5-87F8D12755F0}",
+                "x": 4063,
+                "y": -1327,
+                "objectType": "chip"
+              }, {
+                "chipId": "{64C837D3-2D86-42EA-B9C7-8C2A5DE81B54}",
+                "x": 4510,
+                "y": -1277,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F9A6E886-08B2-47AA-A236-AE0281D048C6}",
+                "x": 5011,
+                "y": -1259,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DA7C9649-FD7D-4FAF-BEE4-8F1612BA0E2E}",
+                "x": 3250,
+                "y": -1119,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AF902625-6EA9-43B4-B60D-68F3C3D5AB98}",
+                "x": 3292,
+                "y": -1390,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0348EABD-74A2-40CD-B191-F6703ED1D370}",
+                "x": 3175,
+                "y": -1604,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DF1FF116-975E-47D9-974F-482DC9F0B34E}",
+                "x": 3300,
+                "y": -1648,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E447FB3D-E557-4E52-BAE6-334B682FB5F5}",
+                "x": 3741,
+                "y": -1096,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8633171D-B2FD-47E2-B1D9-6E87AFAFB64A}",
+                "x": 3782,
+                "y": -1367,
+                "objectType": "chip"
+              }, {
+                "chipId": "{57984FE1-05C3-44AF-8599-E660FE0829DF}",
+                "x": 3666,
+                "y": -1580,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DC8372B1-CACB-4541-845A-05B723E0C79D}",
+                "x": 4192,
+                "y": -1108,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1B81C888-DF7C-4E5A-8E8D-8FFC5D0CB26C}",
+                "x": 4234,
+                "y": -1379,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B0F47D4C-1BAD-40E6-AAA1-A10F951D4891}",
+                "x": 4118,
+                "y": -1593,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ABEFFC11-B5F1-4053-90C7-D8012F4015F2}",
+                "x": 4632,
+                "y": -1064,
+                "objectType": "chip"
+              }, {
+                "chipId": "{957EB524-FB02-49DA-A037-A85733ABE35C}",
+                "x": 4674,
+                "y": -1334,
+                "objectType": "chip"
+              }, {
+                "chipId": "{83153868-754A-4E77-B1CE-9B0273561892}",
+                "x": 4557,
+                "y": -1548,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B6B5E2EB-2552-45CA-AC07-63C413BBDAA5}",
+                "x": 5123,
+                "y": -1061,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1A017F4B-0540-4A73-B526-8768775E0133}",
+                "x": 5165,
+                "y": -1332,
+                "objectType": "chip"
+              }, {
+                "chipId": "{76B81626-4755-4371-BFE5-CBA5F5205B31}",
+                "x": 5049,
+                "y": -1546,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1A3B072A-8488-4181-BDB8-497E6B52C6CE}",
+                "x": 2698,
+                "y": -1133,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CCE7D98A-F8FB-400A-8B33-470AB29FA18D}",
+                "x": 2740,
+                "y": -1404,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3F4C1187-A80A-4642-AC45-C166D2D2C0AB}",
+                "x": 2610,
+                "y": -1654,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ABA9B075-EC7C-43D9-80B1-4C25EBF614DC}",
+                "x": 3775,
+                "y": -1614,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7149A913-EC9C-42E1-A723-D3C3B5CB5C6A}",
+                "x": 4246,
+                "y": -1643,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CF5E53C8-5DC1-419A-8A74-58A56D6FF2EE}",
+                "x": 4672,
+                "y": -1599,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DF74C20A-8010-431E-8496-2CC6C9C60C12}",
+                "x": 5154,
+                "y": -1628,
+                "objectType": "chip"
+              }, {
+                "chipId": "{908DEBD8-F28A-4D8A-9B08-B93CDBC68400}",
+                "x": 2728,
+                "y": -1738,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0A2F98EF-F660-483E-9715-B6D481E7130B}",
+                "x": -3029,
+                "y": -1,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AC8C8388-1960-4664-B081-20A9ED6504D2}",
+                "x": -3970,
+                "y": -1401,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1B5CC052-858D-4220-A6E8-A6368A1DB912}",
+                "x": -4431,
+                "y": -1783,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DBF749C7-D766-4E0F-B76A-7149BFCE4906}",
+                "x": -4343,
+                "y": -1882,
+                "objectType": "chip"
+              }, {
+                "chipId": "{69EEE24F-7B79-47C4-9C17-572DBBC46675}",
+                "x": -4237,
+                "y": -1966,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0711D512-3795-4CB7-AC15-D9DE8FCD4A39}",
+                "x": -4126,
+                "y": -2044,
+                "objectType": "chip"
+              }, {
+                "chipId": "{23E44F27-2E7B-428B-88E8-A2AB7397CAA0}",
+                "x": -4023,
+                "y": -2120,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FDD3EA04-63BA-4A70-BF7C-C09242A0927A}",
+                "x": -3925,
+                "y": -2214,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2A2ABC73-F028-46BD-BA58-ACC936731272}",
+                "x": -4922,
+                "y": -1368,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0AEACEE9-1194-4654-A5E9-A8EB1B976F63}",
+                "x": -4934,
+                "y": -1625,
+                "objectType": "chip"
+              }, {
+                "chipId": "{75A99594-6F3B-45BB-B406-748AD155052D}",
+                "x": -2954,
+                "y": -1778,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D920B586-7842-4F89-B20C-6FB80A55DCFD}",
+                "x": -2526,
+                "y": -1379,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1BC82660-AC45-44B9-A140-10686686B5D5}",
+                "x": -2781,
+                "y": -1778,
+                "objectType": "chip"
+              }, {
+                "chipId": "{186AFD74-A334-403C-8003-BF74A3192DAD}",
+                "x": -2651,
+                "y": -1784,
+                "objectType": "chip"
+              }, {
+                "chipId": "{56A83AAA-5A6E-4094-95B0-31A4B8D3D465}",
+                "x": -2492,
+                "y": -1784,
+                "objectType": "chip"
+              }, {
+                "chipId": "{77C62119-ED3C-4800-BD6E-E18F32D30AB5}",
+                "x": -2317,
+                "y": -1784,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4013CF0D-4B02-46A6-AAB3-1AF45023B686}",
+                "x": -2146,
+                "y": -1784,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1419E4EB-57FB-48D2-9F43-14BA23173A08}",
+                "x": -2949,
+                "y": -2139,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B78907FB-3E6B-4ECE-91BF-80628B34939B}",
+                "x": -2861,
+                "y": -2238,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BF0589DF-8EEE-4882-83D1-F900F03FFBF5}",
+                "x": -2755,
+                "y": -2322,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A2A4341F-58B6-44BF-A285-91015F11C573}",
+                "x": -2644,
+                "y": -2403,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6B6170E2-B8AD-4F39-945D-061B7AEE34CC}",
+                "x": -2540,
+                "y": -2479,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0BF7561B-DC89-44A5-8C32-B838224B5D22}",
+                "x": -2443,
+                "y": -2570,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E6A9AEA8-B904-482D-AC50-7AFC5D8023F9}",
+                "x": 7449,
+                "y": -941,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AAF7AC06-A934-4A81-A596-70D9688FDB1B}",
+                "x": 7532,
+                "y": -1443,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D3CE249C-11DA-426E-9E7E-216FB17C7B16}",
+                "x": 7340,
+                "y": -1198,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F44E1AF0-A264-4EC4-99D1-17068D478B2B}",
+                "x": 2471,
+                "y": -1367,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8F8AE543-5D95-4E9F-B710-F317CA4C8E0B}",
+                "x": -899,
+                "y": -384,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F09613F3-E7C0-4433-B768-E2D621F70E7A}",
+                "x": -4797,
+                "y": -1677,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BBBF3240-FB64-4431-9544-F69D089B90BC}",
+                "x": 270,
+                "y": -1178,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BF909DD2-098D-4677-A271-3849386B00D0}",
+                "x": -3808,
+                "y": -2351,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E8476A3E-6095-4D42-9357-BF9881B9465D}",
+                "x": -1979,
+                "y": -1795,
+                "objectType": "chip"
+              }, {
+                "chipId": "{68067D78-4018-480B-B642-3C6890A75456}",
+                "x": -2339,
+                "y": -2669,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F14D3E25-0FF4-476F-9235-93077E71AF0E}",
+                "x": 5419,
+                "y": -1817,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C79403BC-B9AF-4DC6-BC9F-97C495BEB11B}",
+                "x": 930,
+                "y": 3,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DB12A326-B091-4910-9875-D295CED87E5A}",
+                "x": 933,
+                "y": -278,
+                "objectType": "chip"
+              }, {
+                "chipId": "{962F48E8-ACC5-43BC-AF74-DDB6B6E95152}",
+                "x": 922,
+                "y": -597,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DE482C75-E4AE-4F62-BC2F-F6F3CFEB4354}",
+                "x": -2195,
+                "y": -2780,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DAD31D47-262A-4EE4-A8BF-B032E2C46C90}",
+                "x": -1805,
+                "y": -1802,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5B065825-6E10-4830-B8CA-5148A4E04156}",
+                "x": -3685,
+                "y": -2447,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2DA73BCB-7233-47EB-BC5F-353C6F855198}",
+                "x": 5854,
+                "y": -1007,
+                "objectType": "chip"
+              }, {
+                "chipId": "{231212F5-952E-4B9C-B454-B91E92A97844}",
+                "x": 6483,
+                "y": -1921,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6EC3C04C-42CB-47F3-9A32-B9BBA71B6AAB}",
+                "x": 7314,
+                "y": -1874,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CEA66E6C-578B-4E77-8044-0AD22A17B8A2}",
+                "x": 7252,
+                "y": -2095,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D5C463DD-5C1F-4F28-87F7-43F24163B6E8}",
+                "x": 7347,
+                "y": -2159,
+                "objectType": "chip"
+              }, {
+                "chipId": "{103C52C7-9051-4336-AE1F-0C85FA6A3DCE}",
+                "x": 7226,
+                "y": -1627,
+                "objectType": "chip"
+              }, {
+                "chipId": "{75AA8765-FFAA-4548-B85B-F8EECC45B8FE}",
+                "x": 6255,
+                "y": -1894,
+                "objectType": "chip"
+              }, {
+                "chipId": "{626D0D86-3F1E-4AB9-ACFA-5086BEF3C40F}",
+                "x": 6193,
+                "y": -2115,
+                "objectType": "chip"
+              }, {
+                "chipId": "{14155FC5-1D92-4CF2-AB9B-761C8D8F2D8A}",
+                "x": 6288,
+                "y": -2179,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7DB3D6BB-8CA7-4067-802B-B94514EA81BB}",
+                "x": 6167,
+                "y": -1647,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E901C5BE-7C8D-4E36-91F5-5C6C9879AA64}",
+                "x": 6065,
+                "y": -1885,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3E067605-1E29-4B72-A50A-9186E9B6BD8C}",
+                "x": 6671,
+                "y": -1982,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CD1462BA-DDB4-4D41-9D51-DDF72666A73D}",
+                "x": 6725,
+                "y": -2217,
+                "objectType": "chip"
+              }, {
+                "chipId": "{21BF46C9-7E97-4B10-ACA2-B26F9CEEE074}",
+                "x": 6595,
+                "y": -1657,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4E773245-3B17-4908-B8A4-C07FA09238E9}",
+                "x": 6599,
+                "y": -2320,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D14993D7-A02A-4FFA-851A-1D7EF1B3D325}",
+                "x": 7036,
+                "y": -1757,
+                "objectType": "chip"
+              }, {
+                "chipId": "{94E1B1FD-F62E-44D8-8EAD-1D32BD692F0A}",
+                "x": 6927,
+                "y": -2014,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D768AAE3-C789-4183-9E32-ACD246EC0D6A}",
+                "x": 7036,
+                "y": -2251,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B2AC5710-2A41-40DC-AB7D-22FD97FB6A03}",
+                "x": 1628,
+                "y": -343,
+                "objectType": "chip"
+              }, {
+                "chipId": "{02AA7054-079D-4EA4-8C4A-3BA541CB5980}",
+                "x": -3574,
+                "y": -2541,
+                "objectType": "chip"
+              }, {
+                "chipId": "{98E5E9F6-853C-4F8E-A95C-15C1AF139CE1}",
+                "x": -1657,
+                "y": -1806,
+                "objectType": "chip"
+              }, {
+                "chipId": "{565DB84E-6571-4689-964E-2B7332E63CD3}",
+                "x": -2076,
+                "y": -2837,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F98F9BA6-4896-4919-A3F3-3E3814FD6EE8}",
+                "x": 1630,
+                "y": 3,
+                "objectType": "chip"
+              }, {
+                "chipId": "{37A6CBF3-DD8C-4F00-9867-2561BC943C50}",
+                "x": 5418,
+                "y": -1465,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8415174D-9E04-4CF0-B8AE-F7E17DED420D}",
+                "x": 5692,
+                "y": -1557,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4D3AD3B6-F395-4A3F-95E5-12961CA0060B}",
+                "x": 5699,
+                "y": -1880,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2BEA5901-11C7-4452-B34C-2B9519EBD2B1}",
+                "x": 5614,
+                "y": -2205,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B6CBA472-4B76-4189-80E5-58A9F9F63A4D}",
+                "x": 5734,
+                "y": -2113,
+                "objectType": "chip"
+              }, {
+                "chipId": "{71BAE4A2-72D2-41D8-BA95-89754B7B81B9}",
+                "x": -916,
+                "y": 14,
+                "objectType": "chip"
+              }],
+            "extent": [-5042, -2887, 7582, 64]
+          }
+        },
+        "id": "{205DF4D4-688A-4FFE-A96A-2CC67B8567A0}",
+        "inheritance": [],
+        "name": "SLightShaderData",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{7D0C68DB-709C-4A47-8F59-231837490059}",
+            "connections": [{
+                "chipId": "{A7338A8C-60C9-4733-9928-5852597154F8}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{59795644-9A24-4DD3-BCF5-91B42E77523C}"
+                }],
+              "type": "Virtual"
+            },
+            "name": "Add Light to Shader Data",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{59795644-9A24-4DD3-BCF5-91B42E77523C}",
+            "name": "Light Shader Data",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [-1.0, -1.0, -1.0, 1.0]
+                    },
+                    "chipId": "{02A118D9-52D5-42C7-BF89-288AFD3DC38A}",
+                    "name": "Light Direction",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{8F122A5D-3CF0-447F-B5D1-BC3F18E70E80}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Light Direction",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Add Light",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{A7338A8C-60C9-4733-9928-5852597154F8}",
+            "connections": [{
+                "chipId": "{59795644-9A24-4DD3-BCF5-91B42E77523C}",
+                "connection": 0
+              }, {
+                "chipId": "{FFE03E43-E936-4FB1-A0DD-185C3ABDB30E}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{B4B0277F-43CC-43C8-9B74-687000158D1E}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{85E56D84-9BE7-4776-92AC-F7FDE3BA70F0}",
+                "connection": 1,
+                "subConnection": 2
+              }, {
+                "chipId": "{0B827E36-EE7A-47DC-BEA5-50D5F359C018}",
+                "connection": 1,
+                "subConnection": 3
+              }, {
+                "chipId": "{22E93134-5F97-422C-9137-D037BA197D8A}",
+                "connection": 1,
+                "subConnection": 4
+              }, {
+                "chipId": "{55A3B2C8-AB66-43D5-81E4-6C7843B30011}",
+                "connection": 1,
+                "subConnection": 5
+              }, {
+                "chipId": "{0468C729-49E5-4474-8036-D43668AA74DC}",
+                "connection": 1,
+                "subConnection": 6
+              }, {
+                "chipId": "{3F2F79C9-2DA9-42E6-A92E-0FFE7D1F3F95}",
+                "connection": 1,
+                "subConnection": 7
+              }],
+            "name": "SLightShaderData->Add Light",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{6D4DC8D1-82D5-47F7-B592-AF02B670DC43}",
+            "name": "Type",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{8F122A5D-3CF0-447F-B5D1-BC3F18E70E80}"
+            },
+            "chipId": "{B4B0277F-43CC-43C8-9B74-687000158D1E}",
+            "name": "Light Direction",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{85E56D84-9BE7-4776-92AC-F7FDE3BA70F0}",
+            "name": "Position",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Ambient Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{0B827E36-EE7A-47DC-BEA5-50D5F359C018}",
+            "name": "SLightBase->Ambient Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Diffuse Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{22E93134-5F97-422C-9137-D037BA197D8A}",
+            "name": "SLightBase->Diffuse Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Specular Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{55A3B2C8-AB66-43D5-81E4-6C7843B30011}",
+            "name": "SLightBase->Specular Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "vector": [1.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{FFE03E43-E936-4FB1-A0DD-185C3ABDB30E}",
+            "connections": [{
+                "chipId": "{6D4DC8D1-82D5-47F7-B592-AF02B670DC43}",
+                "connection": 0
+              }],
+            "name": "Properties",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "ShadowMapContext",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{0468C729-49E5-4474-8036-D43668AA74DC}",
+            "name": "SLightBase->ShadowMapContext",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Matrix",
+              "preload": true,
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{3F2F79C9-2DA9-42E6-A92E-0FFE7D1F3F95}",
+            "name": "SLightBase->Get Shadow Matrix",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{3F3AF0D0-C9BB-4B8D-A91A-F45D94EAFEA2}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": [{
+                "chipId": "{04DFD060-864F-43E0-96EF-B283E5214CD2}",
+                "id": "{6D4F8E38-D51E-48AE-901F-3144CC044CA6}",
+                "subConnection": 0
+              }]
+          },
+          "description": "A camera with a fixed position and orientation.",
+          "graph": {
+            "content": [{
+                "chipId": "{7D0C68DB-709C-4A47-8F59-231837490059}",
+                "x": -945,
+                "y": 52,
+                "objectType": "chip"
+              }, {
+                "chipId": "{59795644-9A24-4DD3-BCF5-91B42E77523C}",
+                "x": -1854,
+                "y": -696,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8F122A5D-3CF0-447F-B5D1-BC3F18E70E80}",
+                "comment": "Light direction as a vector away from the light source. Does not need to be normalized!",
+                "x": 30,
+                "y": -4,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A7338A8C-60C9-4733-9928-5852597154F8}",
+                "x": -972,
+                "y": -222,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6D4DC8D1-82D5-47F7-B592-AF02B670DC43}",
+                "x": -1720,
+                "y": -1065,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B4B0277F-43CC-43C8-9B74-687000158D1E}",
+                "x": -1475,
+                "y": -861,
+                "objectType": "chip"
+              }, {
+                "chipId": "{85E56D84-9BE7-4776-92AC-F7FDE3BA70F0}",
+                "x": -1327,
+                "y": -964,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0B827E36-EE7A-47DC-BEA5-50D5F359C018}",
+                "x": -1147,
+                "y": -1041,
+                "objectType": "chip"
+              }, {
+                "chipId": "{22E93134-5F97-422C-9137-D037BA197D8A}",
+                "x": -989,
+                "y": -1111,
+                "objectType": "chip"
+              }, {
+                "chipId": "{55A3B2C8-AB66-43D5-81E4-6C7843B30011}",
+                "x": -860,
+                "y": -1198,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FFE03E43-E936-4FB1-A0DD-185C3ABDB30E}",
+                "x": -1680,
+                "y": -816,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0468C729-49E5-4474-8036-D43668AA74DC}",
+                "x": -637,
+                "y": -669,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3F2F79C9-2DA9-42E6-A92E-0FFE7D1F3F95}",
+                "x": -491,
+                "y": -735,
+                "objectType": "chip"
+              }],
+            "extent": [-1904, -1248, 150, 102]
+          }
+        },
+        "id": "{DC63B1B2-DB14-4B23-9BA9-43B2F94BA2D0}",
+        "inheritance": [{
+            "fileName": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+            "id": "{6D4F8E38-D51E-48AE-901F-3144CC044CA6}"
+          }],
+        "name": "SDirectionalLight",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{30781F51-99BB-45B3-AAC3-07D05F5A770B}",
+            "connections": [{
+                "chipId": "{2914E203-CA0D-4366-8C10-2A3C2410990C}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{E3153030-F34D-46E4-994B-DA6739D0A049}"
+                }],
+              "type": "Virtual"
+            },
+            "name": "Add Light to Shader Data",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{E3153030-F34D-46E4-994B-DA6739D0A049}",
+            "name": "Light Shader Data",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [10.0, 10.0, 10.0, 1.0]
+                    },
+                    "chipId": "{3614FF22-9B8E-4B0C-B34C-3A1EADFE1FB0}",
+                    "name": "Light Direction",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{39A467EB-4E29-4AD4-8688-CB26FE4178C2}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Light Position",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Add Light",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{2914E203-CA0D-4366-8C10-2A3C2410990C}",
+            "connections": [{
+                "chipId": "{E3153030-F34D-46E4-994B-DA6739D0A049}",
+                "connection": 0
+              }, {
+                "chipId": "{F4BEE658-A9A3-4368-A7FC-231B983DDDED}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{EEF98247-FAAC-4FEA-889E-A2BEF3279542}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{435B7FD4-4FAD-4686-9BE6-24711F6D765C}",
+                "connection": 1,
+                "subConnection": 2
+              }, {
+                "chipId": "{2FD802E1-82C8-4479-B9E5-37FF4FB94A86}",
+                "connection": 1,
+                "subConnection": 3
+              }, {
+                "chipId": "{FF13D3D8-B9EF-4E64-BB0C-6A3E1868C6E5}",
+                "connection": 1,
+                "subConnection": 4
+              }, {
+                "chipId": "{9B6803BB-2150-42D9-BF62-8423F4D97A3F}",
+                "connection": 1,
+                "subConnection": 5
+              }],
+            "name": "SLightShaderData->Add Light",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "value": 2.0
+            },
+            "chipId": "{B3C26EE3-CDC1-4F01-B2E3-F401CB2BC5CA}",
+            "name": "Type",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{39A467EB-4E29-4AD4-8688-CB26FE4178C2}"
+            },
+            "chipId": "{435B7FD4-4FAD-4686-9BE6-24711F6D765C}",
+            "name": "Light Position",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Ambient Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{2FD802E1-82C8-4479-B9E5-37FF4FB94A86}",
+            "name": "SLightBase->Ambient Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Diffuse Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{FF13D3D8-B9EF-4E64-BB0C-6A3E1868C6E5}",
+            "name": "SLightBase->Diffuse Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Specular Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{9B6803BB-2150-42D9-BF62-8423F4D97A3F}",
+            "name": "SLightBase->Specular Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {},
+                    "chipId": "{C5C440EF-2FE5-4EFF-84E5-05EED99D94E9}",
+                    "name": "Attenuation Const",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{775752F4-D698-4948-B2C4-35104D6C621F}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Attenuation Const",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 0.03
+                    },
+                    "chipId": "{BBF5E2C2-4CC7-4722-94EC-C47AE9A8342B}",
+                    "name": "Attenuation Linear",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{91F8AC3B-9584-4A86-87B4-DDBDACF4A996}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Attenuation Linear",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 0.003
+                    },
+                    "chipId": "{5A58A4C9-1F08-40A7-BDB3-793CE1D346A3}",
+                    "name": "Attenuation Exp",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{69058FB1-EF32-42C4-8D4B-9C9611114227}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Attenuation Exp",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{775752F4-D698-4948-B2C4-35104D6C621F}"
+            },
+            "chipId": "{21BF526A-47C7-4748-A086-6F168364BA98}",
+            "name": "Attenuation Const",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{91F8AC3B-9584-4A86-87B4-DDBDACF4A996}"
+            },
+            "chipId": "{A27F4E50-D5B0-4BFC-B060-380BFB15B448}",
+            "name": "Attenuation Linear",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{69058FB1-EF32-42C4-8D4B-9C9611114227}"
+            },
+            "chipId": "{015A083F-1CA2-4C15-94E6-7318112A6BCD}",
+            "name": "Attenuation Exp",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{EEF98247-FAAC-4FEA-889E-A2BEF3279542}",
+            "name": "Direction",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [2.0, 1.0, 0.029999999329447748, 0.003000000026077032]
+            },
+            "chipId": "{F4BEE658-A9A3-4368-A7FC-231B983DDDED}",
+            "connections": [{
+                "chipId": "{B3C26EE3-CDC1-4F01-B2E3-F401CB2BC5CA}",
+                "connection": 0
+              }, {
+                "chipId": "{21BF526A-47C7-4748-A086-6F168364BA98}",
+                "connection": 1
+              }, {
+                "chipId": "{A27F4E50-D5B0-4BFC-B060-380BFB15B448}",
+                "connection": 2
+              }, {
+                "chipId": "{015A083F-1CA2-4C15-94E6-7318112A6BCD}",
+                "connection": 3
+              }],
+            "name": "TypeAndAttenuation",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{2427D94A-B9C3-448A-BA87-C8DBB40EAC22}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": [{
+                "chipId": "{04DFD060-864F-43E0-96EF-B283E5214CD2}",
+                "id": "{6D4F8E38-D51E-48AE-901F-3144CC044CA6}",
+                "subConnection": 0
+              }]
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{30781F51-99BB-45B3-AAC3-07D05F5A770B}",
+                "x": -1017,
+                "y": -46,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E3153030-F34D-46E4-994B-DA6739D0A049}",
+                "x": -1764,
+                "y": -755,
+                "objectType": "chip"
+              }, {
+                "chipId": "{39A467EB-4E29-4AD4-8688-CB26FE4178C2}",
+                "comment": "Light position. ",
+                "x": 40,
+                "y": -34,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2914E203-CA0D-4366-8C10-2A3C2410990C}",
+                "x": -1044,
+                "y": -320,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B3C26EE3-CDC1-4F01-B2E3-F401CB2BC5CA}",
+                "x": -2035,
+                "y": -1137,
+                "objectType": "chip"
+              }, {
+                "chipId": "{435B7FD4-4FAD-4686-9BE6-24711F6D765C}",
+                "x": -1363,
+                "y": -1057,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2FD802E1-82C8-4479-B9E5-37FF4FB94A86}",
+                "x": -1219,
+                "y": -1139,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FF13D3D8-B9EF-4E64-BB0C-6A3E1868C6E5}",
+                "x": -1060,
+                "y": -1209,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9B6803BB-2150-42D9-BF62-8423F4D97A3F}",
+                "x": -931,
+                "y": -1296,
+                "objectType": "chip"
+              }, {
+                "chipId": "{775752F4-D698-4948-B2C4-35104D6C621F}",
+                "x": 425,
+                "y": -47,
+                "objectType": "chip"
+              }, {
+                "chipId": "{91F8AC3B-9584-4A86-87B4-DDBDACF4A996}",
+                "x": 425,
+                "y": -214,
+                "objectType": "chip"
+              }, {
+                "chipId": "{69058FB1-EF32-42C4-8D4B-9C9611114227}",
+                "x": 426,
+                "y": -379,
+                "objectType": "chip"
+              }, {
+                "chipId": "{21BF526A-47C7-4748-A086-6F168364BA98}",
+                "x": -1910,
+                "y": -1253,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A27F4E50-D5B0-4BFC-B060-380BFB15B448}",
+                "x": -1854,
+                "y": -1352,
+                "objectType": "chip"
+              }, {
+                "chipId": "{015A083F-1CA2-4C15-94E6-7318112A6BCD}",
+                "x": -1737,
+                "y": -1479,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EEF98247-FAAC-4FEA-889E-A2BEF3279542}",
+                "x": -1487,
+                "y": -949,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F4BEE658-A9A3-4368-A7FC-231B983DDDED}",
+                "x": -1747,
+                "y": -910,
+                "objectType": "chip"
+              }],
+            "extent": [-2102, -1529, 494, 16]
+          }
+        },
+        "id": "{2D2FF597-7919-4E97-B444-F75A52E68139}",
+        "inheritance": [{
+            "fileName": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+            "id": "{6D4F8E38-D51E-48AE-901F-3144CC044CA6}"
+          }],
+        "name": "SPointLight",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{C314D38B-79FF-4D60-857B-3AFF880DED19}",
+            "connections": [{
+                "chipId": "{A20FD56D-B1DE-4D84-97DD-A73E28988383}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{E00CFCE8-8A9B-49A5-8619-B8908649D15F}"
+                }],
+              "type": "Virtual"
+            },
+            "name": "Add Light to Shader Data",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{E00CFCE8-8A9B-49A5-8619-B8908649D15F}",
+            "name": "Light Shader Data",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Add Light",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{A20FD56D-B1DE-4D84-97DD-A73E28988383}",
+            "connections": [{
+                "chipId": "{E00CFCE8-8A9B-49A5-8619-B8908649D15F}",
+                "connection": 0
+              }, {
+                "chipId": "{5789ED8F-331E-4DBE-B37F-62F8AAE9D164}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{7729B918-7A06-4AC3-A5D5-285ACA6AF1BC}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{B54AF547-9594-41C0-8E1B-5AF8FBE67FB1}",
+                "connection": 1,
+                "subConnection": 2
+              }, {
+                "chipId": "{B7EE2F1E-1D8E-4E7D-8FD2-B80BF60A015F}",
+                "connection": 1,
+                "subConnection": 3
+              }, {
+                "chipId": "{62A6F137-51A9-4274-A10F-49A2E5D64D35}",
+                "connection": 1,
+                "subConnection": 4
+              }, {
+                "chipId": "{8CF1269E-E1FB-4785-BA90-651F2D7E2E9B}",
+                "connection": 1,
+                "subConnection": 5
+              }, {
+                "chipId": "{7C4EA6E2-4462-4FE6-87FD-60CB241105CA}",
+                "connection": 1,
+                "subConnection": 6
+              }, {
+                "chipId": "{5CBEECFD-D58C-4F20-9E63-FBAA30E9731B}",
+                "connection": 1,
+                "subConnection": 7
+              }],
+            "name": "SLightShaderData->Add Light",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "value": 3.0
+            },
+            "chipId": "{F5D2422F-37A5-4332-8471-AC3CE171849A}",
+            "name": "Type",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Ambient Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{B7EE2F1E-1D8E-4E7D-8FD2-B80BF60A015F}",
+            "name": "SLightBase->Ambient Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Diffuse Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{62A6F137-51A9-4274-A10F-49A2E5D64D35}",
+            "name": "SLightBase->Diffuse Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Specular Color",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{8CF1269E-E1FB-4785-BA90-651F2D7E2E9B}",
+            "name": "SLightBase->Specular Color",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "vector": [3.0, 0.0, 0.003000000026077032, 0.003000000026077032]
+            },
+            "chipId": "{5789ED8F-331E-4DBE-B37F-62F8AAE9D164}",
+            "connections": [{
+                "chipId": "{F5D2422F-37A5-4332-8471-AC3CE171849A}",
+                "connection": 0
+              }, {
+                "chipId": "{B8BC6E2F-0E17-4C12-AA79-FFD7748A7EA5}",
+                "connection": 1
+              }, {
+                "chipId": "{643E58F2-5D80-4543-84DB-6F0CE4218083}",
+                "connection": 2
+              }, {
+                "chipId": "{6461DEB2-14B9-4221-A2F0-64B796E7EA88}",
+                "connection": 3
+              }],
+            "name": "Properties",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Attenuation Const",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{B8BC6E2F-0E17-4C12-AA79-FFD7748A7EA5}",
+            "name": "SPointLight->Attenuation Const",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Attenuation Linear",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{643E58F2-5D80-4543-84DB-6F0CE4218083}",
+            "name": "SPointLight->Attenuation Linear",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Attenuation Linear",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{6461DEB2-14B9-4221-A2F0-64B796E7EA88}",
+            "name": "SPointLight->Attenuation Linear",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SDirectionalLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Light Direction",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{AA020C5B-1F67-4A9D-B7F3-00ED31B34649}",
+            "name": "SDirectionalLight->Light Direction",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Light Position",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{B4D5205D-C377-4900-B304-77F5A7ABFA98}",
+            "name": "SPointLight->Light Position",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "vector": [12.0, -3.0, 5.0, 0.9210609793663025]
+            },
+            "chipId": "{7729B918-7A06-4AC3-A5D5-285ACA6AF1BC}",
+            "connections": [{
+                "chipId": "{3A5C0322-BFAD-4965-AF38-AA601F85A776}",
+                "connection": 0
+              }, {
+                "chipId": "{54EA1671-A9E8-4D51-8DDE-901575A66FBA}",
+                "connection": 1
+              }, {
+                "chipId": "{15D77E6C-4E8C-4D2D-88B6-DE425E2EEB72}",
+                "connection": 2
+              }, {
+                "chipId": "{CE6E02EA-FC48-4BB7-818A-380C7A6F2E31}",
+                "connection": 3
+              }],
+            "name": "Direction",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "VECTOR_X",
+              "value": 12.0
+            },
+            "chipId": "{3A5C0322-BFAD-4965-AF38-AA601F85A776}",
+            "connections": [{
+                "chipId": "{AA020C5B-1F67-4A9D-B7F3-00ED31B34649}",
+                "connection": 0
+              }],
+            "name": "Get Vector X",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {
+              "operatorType": "VECTOR_Y",
+              "value": -3.0
+            },
+            "chipId": "{54EA1671-A9E8-4D51-8DDE-901575A66FBA}",
+            "connections": [{
+                "chipId": "{AA020C5B-1F67-4A9D-B7F3-00ED31B34649}",
+                "connection": 0
+              }],
+            "name": "Get Vector Y",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {
+              "operatorType": "VECTOR_Z",
+              "value": 5.0
+            },
+            "chipId": "{15D77E6C-4E8C-4D2D-88B6-DE425E2EEB72}",
+            "connections": [{
+                "chipId": "{AA020C5B-1F67-4A9D-B7F3-00ED31B34649}",
+                "connection": 0
+              }],
+            "name": "Get Vector Z",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {
+              "vector": [-240.0, 110.0, -100.0, 0.8775825500488281]
+            },
+            "chipId": "{B54AF547-9594-41C0-8E1B-5AF8FBE67FB1}",
+            "connections": [{
+                "chipId": "{AAB7C958-9F2D-4A4F-A74B-25FC313E0298}",
+                "connection": 0
+              }, {
+                "chipId": "{77745692-2A3D-4A70-81E4-EF39051000C7}",
+                "connection": 1
+              }, {
+                "chipId": "{F4628ED8-DCCC-4613-BF0B-D9079694032F}",
+                "connection": 2
+              }, {
+                "chipId": "{2F4A0529-234D-449D-BBD0-F339ABDA4EF9}",
+                "connection": 3
+              }],
+            "name": "Position",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "VECTOR_X",
+              "value": -240.0
+            },
+            "chipId": "{AAB7C958-9F2D-4A4F-A74B-25FC313E0298}",
+            "connections": [{
+                "chipId": "{B4D5205D-C377-4900-B304-77F5A7ABFA98}",
+                "connection": 0
+              }],
+            "name": "Get Vector X",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {
+              "operatorType": "VECTOR_Y",
+              "value": 110.0
+            },
+            "chipId": "{77745692-2A3D-4A70-81E4-EF39051000C7}",
+            "connections": [{
+                "chipId": "{B4D5205D-C377-4900-B304-77F5A7ABFA98}",
+                "connection": 0
+              }],
+            "name": "Get Vector Y",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {
+              "operatorType": "VECTOR_Z",
+              "value": -100.0
+            },
+            "chipId": "{F4628ED8-DCCC-4613-BF0B-D9079694032F}",
+            "connections": [{
+                "chipId": "{B4D5205D-C377-4900-B304-77F5A7ABFA98}",
+                "connection": 0
+              }],
+            "name": "Get Vector Z",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {
+              "expression": "cos(a*0.5)",
+              "value": 0.9210609940028852
+            },
+            "chipId": "{CE6E02EA-FC48-4BB7-818A-380C7A6F2E31}",
+            "connections": [{
+                "chipId": "{185CFA0E-BF26-40ED-B44E-AA92DE05DCC2}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "cos(a*0.5)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "expression": "cos(a*0.5)",
+              "value": 0.8775825618903728
+            },
+            "chipId": "{2F4A0529-234D-449D-BBD0-F339ABDA4EF9}",
+            "connections": [{
+                "chipId": "{4C6D1B08-F563-4BFB-9F5F-75AB87301BBB}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "cos(a*0.5)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 1.0
+                    },
+                    "chipId": "{F8716D7A-A2A5-45A7-856D-8F6506F75DCA}",
+                    "name": "Outer Angle",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{56F9A932-2FE8-4D76-8FC1-F733EE176E64}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Outer Angle",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{56F9A932-2FE8-4D76-8FC1-F733EE176E64}"
+            },
+            "chipId": "{4C6D1B08-F563-4BFB-9F5F-75AB87301BBB}",
+            "name": "Outer Angle",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 0.8
+                    },
+                    "chipId": "{A6A5D256-400D-4F96-9278-54B28AED8CA4}",
+                    "name": "Inner Angle",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{7CC40546-33AB-4913-9105-741F01ED5207}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Inner Angle",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{7CC40546-33AB-4913-9105-741F01ED5207}"
+            },
+            "chipId": "{185CFA0E-BF26-40ED-B44E-AA92DE05DCC2}",
+            "name": "Inner Angle",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{D3492D83-6665-41D0-AC07-16BBACF52A05}",
+            "connections": [{
+                "chipId": "{E2F78196-EE81-42B7-A206-941B37FE1391}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow View Matrix",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{6D4E9A6B-5E73-4427-988D-C67C2682A11F}",
+            "connections": [{
+                "chipId": "{A7A76DB4-062F-4A12-87C6-73617E6BC8A5}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow Projection Matrix",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "matrix": [0.38461536169052126, 0.2075626105070114, 0.8994380235671997, 0.0, 0.0, 0.9743911623954773, -0.22485950589179994, 0.0, -0.923076868057251, 0.08648441731929779, 0.3747658431529999, 0.0, 0.0, -48.71956253051758, 278.0762634277344, 1.0],
+              "operatorType": "LOOK_AT"
+            },
+            "chipId": "{E2F78196-EE81-42B7-A206-941B37FE1391}",
+            "connections": [{
+                "chipId": "{70D15161-E7D7-4210-840F-5D8B397B5639}",
+                "connection": 0
+              }, {
+                "chipId": "{0DE2B367-702D-4AA0-9415-A915460F4B51}",
+                "connection": 1
+              }, {
+                "chipId": "{B88E61CD-AA7C-4D1F-9FFE-1845154E4C67}",
+                "connection": 2
+              }],
+            "name": "Look At",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 1.0, 0.0, 1.0]
+            },
+            "chipId": "{B88E61CD-AA7C-4D1F-9FFE-1845154E4C67}",
+            "name": "Up Direction",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SDirectionalLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Light Direction",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{94AF3257-88A0-43ED-9B48-BA229CC5D4BB}",
+            "name": "SDirectionalLight->Light Direction",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Light Position",
+              "preload": true,
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{70D15161-E7D7-4210-840F-5D8B397B5639}",
+            "name": "SPointLight->Light Position",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "operatorType": "ADD",
+              "vector": [-228.0, 107.0, -95.0, 2.0]
+            },
+            "chipId": "{0DE2B367-702D-4AA0-9415-A915460F4B51}",
+            "connections": [{
+                "chipId": "{70D15161-E7D7-4210-840F-5D8B397B5639}",
+                "connection": 0
+              }, {
+                "chipId": "{94AF3257-88A0-43ED-9B48-BA229CC5D4BB}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Add Vectors",
+            "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}"
+          }, {
+            "chipData": {
+              "matrix": [1.830487608909607, 0.0, 0.0, 0.0, 0.0, 1.830487608909607, 0.0, 0.0, 0.0, 0.0, 1.0001733303070069, 1.0, 0.0, 0.0, -0.10001733154058457, 0.0],
+              "operatorType": "PERSPECTIVE_FOVY"
+            },
+            "chipId": "{A7A76DB4-062F-4A12-87C6-73617E6BC8A5}",
+            "connections": [{
+                "chipId": "{58230824-595F-4720-8A5A-502C082E1897}",
+                "connection": 0
+              }, {
+                "chipId": "{C6403F79-3AEC-469D-ABA8-68DCC2B574D6}",
+                "connection": 1
+              }, {
+                "chipId": "{25325715-16EA-4D4C-9CB7-BC9971844AAD}",
+                "connection": 2
+              }, {
+                "chipId": "{5A22DAE9-8E32-4F53-A007-5CEC2550F95F}",
+                "connection": 3
+              }],
+            "name": "Perspective FOVY",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{C6403F79-3AEC-469D-ABA8-68DCC2B574D6}",
+            "name": "Aspect Ratio",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{56F9A932-2FE8-4D76-8FC1-F733EE176E64}"
+            },
+            "chipId": "{E69CE88E-2627-4831-B2AD-CE070CC910F6}",
+            "name": "Outer Angle",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "expression": "a==0?b:a",
+              "value": 576.8504856959362
+            },
+            "chipId": "{5A22DAE9-8E32-4F53-A007-5CEC2550F95F}",
+            "connections": [{
+                "chipId": "{23484186-0D0A-47FC-8B56-E68B1012B1F8}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{C534524A-50A4-4209-84E0-F6B1DD42A6DC}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "name": "a==0?b:a",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Attenuation Const",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{FB9ED94C-E215-447B-A35E-7583A27EB3BF}",
+            "name": "SPointLight->Attenuation Const",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Attenuation Linear",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{294E0FC8-E3A1-4F0F-8248-BD3602BABA16}",
+            "name": "SPointLight->Attenuation Linear",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SPointLight",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Attenuation Linear",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{A390CA1F-E288-426F-AAAD-96EFC46B3E87}",
+            "name": "SPointLight->Attenuation Linear",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "expression": "(sqrt(d*(c*(4-4*a*d)+b*b*d))-b*d)/(2*c*d)",
+              "value": 576.8504856959362
+            },
+            "chipId": "{C534524A-50A4-4209-84E0-F6B1DD42A6DC}",
+            "connections": [{
+                "chipId": "{FB9ED94C-E215-447B-A35E-7583A27EB3BF}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{294E0FC8-E3A1-4F0F-8248-BD3602BABA16}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{A390CA1F-E288-426F-AAAD-96EFC46B3E87}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{8662CABE-7303-4411-9E17-88D3EAC176B9}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "(sqrt(d*(c*(4-4*a*d)+b*b*d))-b*d)/(2*c*d)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "value": 0.001
+            },
+            "chipId": "{8662CABE-7303-4411-9E17-88D3EAC176B9}",
+            "name": "Cutoff Intensity",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{58230824-595F-4720-8A5A-502C082E1897}",
+            "connections": [{
+                "chipId": "{E69CE88E-2627-4831-B2AD-CE070CC910F6}",
+                "connection": 0
+              }],
+            "name": "FOVY",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Shadow Map Z-near",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{AC40F891-9169-49EC-803A-1EA0D945E59D}",
+            "name": "SLightBase->Shadow Map Z-near",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "value": 0.1
+            },
+            "chipId": "{25325715-16EA-4D4C-9CB7-BC9971844AAD}",
+            "connections": [{
+                "chipId": "{AC40F891-9169-49EC-803A-1EA0D945E59D}",
+                "connection": 0
+              }],
+            "name": "Near",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "ShadowMapContext",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{7C4EA6E2-4462-4FE6-87FD-60CB241105CA}",
+            "name": "SLightBase->ShadowMapContext",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Matrix",
+              "preload": true,
+              "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+            },
+            "chipId": "{5CBEECFD-D58C-4F20-9E63-FBAA30E9731B}",
+            "name": "SLightBase->Get Shadow Matrix",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SLightBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Shadow Map Z-far",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{23484186-0D0A-47FC-8B56-E68B1012B1F8}",
+            "name": "SLightBase->Shadow Map Z-far",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{9F00A2A1-7784-4BB4-89B4-CC9A239D1F21}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": [{
+                "chipId": "{3F3AF0D0-C9BB-4B8D-A91A-F45D94EAFEA2}",
+                "id": "{DC63B1B2-DB14-4B23-9BA9-43B2F94BA2D0}",
+                "subConnection": 0
+              }, {
+                "chipId": "{2427D94A-B9C3-448A-BA87-C8DBB40EAC22}",
+                "id": "{2D2FF597-7919-4E97-B444-F75A52E68139}",
+                "subConnection": 1
+              }]
+          },
+          "description": "A camera with a fixed position and orientation.",
+          "graph": {
+            "content": [{
+                "chipId": "{C314D38B-79FF-4D60-857B-3AFF880DED19}",
+                "x": -232,
+                "y": 9,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E00CFCE8-8A9B-49A5-8619-B8908649D15F}",
+                "x": -979,
+                "y": -700,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A20FD56D-B1DE-4D84-97DD-A73E28988383}",
+                "x": -258,
+                "y": -265,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F5D2422F-37A5-4332-8471-AC3CE171849A}",
+                "x": -1708,
+                "y": -1500,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B7EE2F1E-1D8E-4E7D-8FD2-B80BF60A015F}",
+                "x": 308,
+                "y": -1278,
+                "objectType": "chip"
+              }, {
+                "chipId": "{62A6F137-51A9-4274-A10F-49A2E5D64D35}",
+                "x": 466,
+                "y": -1348,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8CF1269E-E1FB-4785-BA90-651F2D7E2E9B}",
+                "x": 595,
+                "y": -1435,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5789ED8F-331E-4DBE-B37F-62F8AAE9D164}",
+                "x": -1361,
+                "y": -1293,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B8BC6E2F-0E17-4C12-AA79-FFD7748A7EA5}",
+                "x": -1570,
+                "y": -1582,
+                "objectType": "chip"
+              }, {
+                "chipId": "{643E58F2-5D80-4543-84DB-6F0CE4218083}",
+                "x": -1403,
+                "y": -1687,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6461DEB2-14B9-4221-A2F0-64B796E7EA88}",
+                "x": -1246,
+                "y": -1800,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AA020C5B-1F67-4A9D-B7F3-00ED31B34649}",
+                "x": -789,
+                "y": -1841,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B4D5205D-C377-4900-B304-77F5A7ABFA98}",
+                "x": -138,
+                "y": -1889,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7729B918-7A06-4AC3-A5D5-285ACA6AF1BC}",
+                "x": -607,
+                "y": -1266,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3A5C0322-BFAD-4965-AF38-AA601F85A776}",
+                "x": -854,
+                "y": -1506,
+                "objectType": "chip"
+              }, {
+                "chipId": "{54EA1671-A9E8-4D51-8DDE-901575A66FBA}",
+                "x": -725,
+                "y": -1569,
+                "objectType": "chip"
+              }, {
+                "chipId": "{15D77E6C-4E8C-4D2D-88B6-DE425E2EEB72}",
+                "x": -594,
+                "y": -1619,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B54AF547-9594-41C0-8E1B-5AF8FBE67FB1}",
+                "x": -165,
+                "y": -1244,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AAB7C958-9F2D-4A4F-A74B-25FC313E0298}",
+                "x": -356,
+                "y": -1533,
+                "objectType": "chip"
+              }, {
+                "chipId": "{77745692-2A3D-4A70-81E4-EF39051000C7}",
+                "x": -228,
+                "y": -1596,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F4628ED8-DCCC-4613-BF0B-D9079694032F}",
+                "x": -97,
+                "y": -1646,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CE6E02EA-FC48-4BB7-818A-380C7A6F2E31}",
+                "x": -473,
+                "y": -1956,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2F4A0529-234D-449D-BBD0-F339ABDA4EF9}",
+                "x": 147,
+                "y": -1876,
+                "objectType": "chip"
+              }, {
+                "chipId": "{56F9A932-2FE8-4D76-8FC1-F733EE176E64}",
+                "comment": "The cone angle for where intensity is zero.",
+                "x": 1055,
+                "y": 3,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4C6D1B08-F563-4BFB-9F5F-75AB87301BBB}",
+                "x": 124,
+                "y": -2168,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7CC40546-33AB-4913-9105-741F01ED5207}",
+                "comment": "The cone angle for where intensity starts to fall off.",
+                "x": 695,
+                "y": -5,
+                "objectType": "chip"
+              }, {
+                "chipId": "{185CFA0E-BF26-40ED-B44E-AA92DE05DCC2}",
+                "x": -496,
+                "y": -2202,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D3492D83-6665-41D0-AC07-16BBACF52A05}",
+                "x": 1831,
+                "y": -9,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6D4E9A6B-5E73-4427-988D-C67C2682A11F}",
+                "x": 2812,
+                "y": 1,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E2F78196-EE81-42B7-A206-941B37FE1391}",
+                "x": 1822,
+                "y": -266,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B88E61CD-AA7C-4D1F-9FFE-1845154E4C67}",
+                "x": 2052,
+                "y": -555,
+                "objectType": "chip"
+              }, {
+                "chipId": "{94AF3257-88A0-43ED-9B48-BA229CC5D4BB}",
+                "x": 1802,
+                "y": -765,
+                "objectType": "chip"
+              }, {
+                "chipId": "{70D15161-E7D7-4210-840F-5D8B397B5639}",
+                "x": 1468,
+                "y": -762,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0DE2B367-702D-4AA0-9415-A915460F4B51}",
+                "x": 1766,
+                "y": -553,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A7A76DB4-062F-4A12-87C6-73617E6BC8A5}",
+                "x": 2809,
+                "y": -273,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C6403F79-3AEC-469D-ABA8-68DCC2B574D6}",
+                "x": 2797,
+                "y": -826,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E69CE88E-2627-4831-B2AD-CE070CC910F6}",
+                "x": 2652,
+                "y": -1115,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5A22DAE9-8E32-4F53-A007-5CEC2550F95F}",
+                "x": 3336,
+                "y": -626,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FB9ED94C-E215-447B-A35E-7583A27EB3BF}",
+                "x": 3360,
+                "y": -1257,
+                "objectType": "chip"
+              }, {
+                "chipId": "{294E0FC8-E3A1-4F0F-8248-BD3602BABA16}",
+                "x": 3528,
+                "y": -1361,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A390CA1F-E288-426F-AAAD-96EFC46B3E87}",
+                "x": 3685,
+                "y": -1474,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C534524A-50A4-4209-84E0-F6B1DD42A6DC}",
+                "x": 3615,
+                "y": -953,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8662CABE-7303-4411-9E17-88D3EAC176B9}",
+                "x": 3831,
+                "y": -1584,
+                "objectType": "chip"
+              }, {
+                "chipId": "{58230824-595F-4720-8A5A-502C082E1897}",
+                "x": 2661,
+                "y": -911,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AC40F891-9169-49EC-803A-1EA0D945E59D}",
+                "x": 2965,
+                "y": -948,
+                "objectType": "chip"
+              }, {
+                "chipId": "{25325715-16EA-4D4C-9CB7-BC9971844AAD}",
+                "x": 2946,
+                "y": -709,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7C4EA6E2-4462-4FE6-87FD-60CB241105CA}",
+                "x": 750,
+                "y": -1504,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5CBEECFD-D58C-4F20-9E63-FBAA30E9731B}",
+                "x": 896,
+                "y": -1570,
+                "objectType": "chip"
+              }, {
+                "chipId": "{23484186-0D0A-47FC-8B56-E68B1012B1F8}",
+                "x": 3180,
+                "y": -1051,
+                "objectType": "chip"
+              }],
+            "extent": [-1775, -2252, 3898, 59]
+          }
+        },
+        "id": "{ACDA523F-B320-4C52-BB85-40762CFF9621}",
+        "inheritance": [{
+            "fileName": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+            "id": "{2D2FF597-7919-4E97-B444-F75A52E68139}"
+          }, {
+            "fileName": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+            "id": "{DC63B1B2-DB14-4B23-9BA9-43B2F94BA2D0}"
+          }],
+        "name": "SConeLight",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{00000000-0000-0000-0000-000000000000}",
+    "version": "1.2.7.0"
+  }
+}

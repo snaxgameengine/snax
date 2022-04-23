@@ -1,0 +1,4065 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{90A64C01-02F4-4147-8039-827DB1D55180}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7908D608-A149-4286-826D-270EDEDE12FE}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{402A1E54-5B7E-4BF5-A4D6-65D729FE7043}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{325E5456-0D4C-4A65-9141-6920ED169D14}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{8A21ED60-3163-41E8-8CED-D3F322CCA6CD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9CBFE861-4A4C-4F63-9582-6CA8398944F9}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{90732A7F-FAF1-46FE-BB43-769A1BA748C7}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F0217B95-FAC1-4EDD-9A31-D506DBD1B283}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{01466AAB-80E4-447C-9662-089B79485231}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C80642C6-0537-41FE-A28B-1659548A9838}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{CAD1FECE-CC41-483F-8D77-48C1CF815133}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F75CC4D4-BB15-40DE-B718-07C3BC40661B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{1F0E0DFA-C361-4512-9A62-E9F067B9B31F}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {},
+            "chipId": "{FBACC138-88B7-4359-96BF-0BCDDE9D1578}",
+            "connections": [{
+                "chipId": "{DB8BF79A-DAD1-4C8B-8D18-DC0527FC6302}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{23FFF895-2032-42A6-B44A-7D469AC04441}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{634731F3-E9F5-4C82-B5C1-0C64BEC8BE33}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{BD51098B-33B2-4B90-B60F-38D0783A65E2}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{B07A6936-3665-4F5C-AB1A-2A43FC4DF156}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{31D3F48E-4890-4BCC-A63D-EF89BEEA80E9}",
+                "connection": 0,
+                "subConnection": 5
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{FCB1441D-913F-497A-9D4A-6D74D3DE8E7E}"
+                }, {
+                  "chipId": "{B77E34E5-B6A9-4A78-91F6-FFA779A54ECE}"
+                }],
+              "type": "Static"
+            },
+            "name": "EnvMapToCubeMap",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_CAMERA_MATRIES"
+            },
+            "chipId": "{634731F3-E9F5-4C82-B5C1-0C64BEC8BE33}",
+            "connections": [{
+                "chipId": "{0E384272-CA98-420E-8466-8D93CE3E330F}",
+                "connection": 0
+              }, {
+                "chipId": "{253EDEA6-1690-460E-BCF0-B5983647CB7B}",
+                "connection": 1
+              }],
+            "name": "Set Camera Matrices",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "matrix": [0.9999999403953552, 0.0, 0.0, 0.0, 0.0, 0.9999999403953552, 0.0, 0.0, 0.0, 0.0, 1.5, 1.0, 0.0, 0.0, -0.75, 0.0],
+              "operatorType": "PERSPECTIVE_FOVY"
+            },
+            "chipId": "{253EDEA6-1690-460E-BCF0-B5983647CB7B}",
+            "connections": [{
+                "chipId": "{7FA81826-B5DA-4291-8860-EC73E11806C0}",
+                "connection": 0
+              }, {
+                "chipId": "{BFADBF26-D39E-431E-B664-45CA9CF06A02}",
+                "connection": 1
+              }, {
+                "chipId": "{95436E9C-42B7-4E4C-AB8F-70F01D9BEBCB}",
+                "connection": 2
+              }, {
+                "chipId": "{138D7D49-6D8D-4E00-A1FF-BD8475763BBA}",
+                "connection": 3
+              }],
+            "name": "Perspective FOVY",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "value": 1.5707963267948966
+            },
+            "chipId": "{7FA81826-B5DA-4291-8860-EC73E11806C0}",
+            "name": "FOVY",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{BFADBF26-D39E-431E-B664-45CA9CF06A02}",
+            "name": "Aspect Ratio",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 0.5
+            },
+            "chipId": "{95436E9C-42B7-4E4C-AB8F-70F01D9BEBCB}",
+            "name": "Near",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.5
+            },
+            "chipId": "{138D7D49-6D8D-4E00-A1FF-BD8475763BBA}",
+            "name": "Far",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_RTV"
+            },
+            "chipId": "{DB8BF79A-DAD1-4C8B-8D18-DC0527FC6302}",
+            "connections": [{
+                "chipId": "{B77E34E5-B6A9-4A78-91F6-FFA779A54ECE}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_VIEWPORTS"
+            },
+            "chipId": "{23FFF895-2032-42A6-B44A-7D469AC04441}",
+            "connections": [{
+                "chipId": "{6A1443E3-83FD-46DE-90D7-C1CDDA0C046F}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Set Viewports (Relative)",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 1.0, 1.0]
+            },
+            "chipId": "{6A1443E3-83FD-46DE-90D7-C1CDDA0C046F}",
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{0E384272-CA98-420E-8466-8D93CE3E330F}",
+            "name": "View Matrix",
+            "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+          }, {
+            "chipData": {},
+            "chipId": "{BD51098B-33B2-4B90-B60F-38D0783A65E2}",
+            "connections": [{
+                "chipId": "{2E58F269-0EBA-4ABC-9A53-3AC9D8AD60E3}",
+                "connection": 0
+              }, {
+                "chipId": "{78A9A686-FE03-45DB-BC6F-9A95F87D3993}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "3D Object",
+            "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}"
+          }, {
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{2E58F269-0EBA-4ABC-9A53-3AC9D8AD60E3}",
+            "name": "World Matrix",
+            "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+          }, {
+            "chipData": {
+              "boundingBox": {
+                "isinf": true
+              },
+              "subsets": {
+                "count": 0
+              },
+              "useSubsetCulling": true,
+              "useWholeObjectCulling": false
+            },
+            "chipId": "{78A9A686-FE03-45DB-BC6F-9A95F87D3993}",
+            "connections": [{
+                "chipId": "{F76ECF7E-E146-492F-8162-1C7E202B256D}",
+                "connection": 0
+              }, {
+                "chipId": "{A41F12E7-DA15-4189-952A-66E0973E8E51}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Renderable",
+            "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}"
+          }, {
+            "chipData": {
+              "flags": 7,
+              "primitiveType": "SPHERE"
+            },
+            "chipId": "{F76ECF7E-E146-492F-8162-1C7E202B256D}",
+            "connections": [{
+                "chipId": "{18B43560-CFFC-40F8-8AF0-1BE91EE0CB33}",
+                "connection": 0
+              }],
+            "name": "Sphere",
+            "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}"
+          }, {
+            "chipData": {
+              "vector": [32.0, 32.0, 0.0, 1.0]
+            },
+            "chipId": "{18B43560-CFFC-40F8-8AF0-1BE91EE0CB33}",
+            "name": "Subdivision",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 2,
+                "map": [{
+                    "first": "RS_CM",
+                    "second": {
+                      "type": "M3D_CULL_MODE",
+                      "value": "M3D_CULL_MODE_FRONT"
+                    }
+                  }, {
+                    "first": "DSS_DE",
+                    "second": {
+                      "type": "INT",
+                      "value": 0
+                    }
+                  }]
+              }
+            },
+            "chipId": "{C2B24749-50D4-43AB-8856-F7E7F74DDAA4}",
+            "connections": [{
+                "chipId": "{F72104C5-A2C4-488F-9553-88846131CD26}",
+                "connection": 0
+              }, {
+                "chipId": "{BA407592-904D-46FA-B2BB-4A955E2DC3EC}",
+                "connection": 1
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {},
+            "chipId": "{BA407592-904D-46FA-B2BB-4A955E2DC3EC}",
+            "connections": [{
+                "chipId": "{F5381714-D9BF-471D-9605-3FE5A15E3216}",
+                "connection": 0
+              }, {
+                "chipId": "{D3FA6F6E-F8F9-4953-B6A5-B294CDB40515}",
+                "connection": 3
+              }, {
+                "chipId": "{41AD785E-8BEB-4C8E-A47F-F242DB044D52}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "Fxn29wAAAAA=RFhCQ+Tk5lgA9+Oc2hPWx2ZU12IBAAAAYAEAAAMAAAAsAAAAgAAAANgAAABJU0dOTAAAAAIAAAAIAAAAOAAAAAAAAAAAAAAAAwAAAAAAAAAHBwAAQQAAAAAAAAAAAAAAAwAAAAEAAAADAwAAUE9TSVRJT04AVEVYQ09PUkQAq6tPU0dOUAAAAAIAAAAIAAAAOAAAAAAAAAABAAAAAwAAAAAAAAAPAAAARAAAAAAAAAAAAAAAAwAAAAEAAAADDAAAU1ZfUE9TSVRJT04AVEVYQ09PUkQAq6urU0hFWIAAAABRAAEAIAAAAGoIAAFfAAADchAQAAAAAABfAAADMhAQAAEAAABnAAAE8iAQAAAAAAABAAAAZQAAAzIgEAABAAAANgAABXIgEAAAAAAARhIQAAAAAAA2AAAFgiAQAAAAAAABQAAAAACAPzYAAAUyIBAAAQAAAEYQEAABAAAAPgAAAQ==",
+                    "size": 352
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 2
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 2
+                },
+                "uniforms": {
+                  "count": 0
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n#include <Std>\n\n\n\nstruct ShaderInput\n{\n\tfloat3 position : POSITION;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nstruct ShaderOutput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nShaderOutput main(in ShaderInput IN)\n{\n\tShaderOutput OUT = (ShaderOutput)0;\n\tOUT.position = float4(IN.position, 1.0);\n\tOUT.texcoord0 = IN.texcoord0;\n\treturn OUT;\n}"
+            },
+            "chipId": "{F5381714-D9BF-471D-9605-3FE5A15E3216}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "20yw0AAAAAA=RFhCQ/Yh9/GvapSkmkp5/+ZtuzgBAAAAtAEAAAMAAAAsAAAAhAAAALgAAABJU0dOUAAAAAIAAAAIAAAAOAAAAAAAAAABAAAAAwAAAAAAAAAPAAAARAAAAAAAAAAAAAAAAwAAAAEAAAADAwAAU1ZfUE9TSVRJT04AVEVYQ09PUkQAq6urT1NHTiwAAAABAAAACAAAACAAAAAAAAAAAAAAAAMAAAAAAAAADwAAAFNWX1RhcmdldACrq1NIRVj0AAAAUQAAAD0AAABqCAABWgAABkZuMAAAAAAAAQAAAAEAAAABAAAAWBgAB0Z+MAAAAAAAAAAAAAAAAABVVQAAAAAAAGIQAAMyEBAAAQAAAGUAAAPyIBAAAAAAAGgAAAIBAAAAMgAADzIAEAAAAAAARhAQAAEAAAACQAAAAACAvwAAgD8AAAAAAAAAAAJAAAAAAIA/AAAAAAAAAAAAAAAARQAAC3IAEAAAAAAARgAQAAAAAABGfiAAAAAAAAAAAAAAYCAAAAAAAAEAAAA2AAAFciAQAAAAAABGAhAAAAAAADYAAAWCIBAAAAAAAAFAAAAAAIA/PgAAAQ==",
+                    "size": 436
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 2
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_Target",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 2,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "tex",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 8,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "SAMPLER",
+                        "space": 1
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "sam",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 1,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n#include <Std>\n\nTexture2D<float3> tex : TEXTURE1;\n\nsampler sam : SAMPLER1;\n\nstruct ShaderInput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nfloat4 main(in ShaderInput IN) : SV_Target\n{\n\treturn float4(tex.Sample(sam, float2(1.0-IN.texcoord0.x, IN.texcoord0.y)), 1.0);\n}"
+            },
+            "chipId": "{41AD785E-8BEB-4C8E-A47F-F242DB044D52}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{A41F12E7-DA15-4189-952A-66E0973E8E51}",
+            "connections": [{
+                "chipId": "{C2B24749-50D4-43AB-8856-F7E7F74DDAA4}",
+                "connection": 0
+              }, {
+                "chipId": "{FCB1441D-913F-497A-9D4A-6D74D3DE8E7E}",
+                "connection": 4,
+                "subConnection": 0
+              }, {
+                "chipId": "{DED898E2-D93C-4179-BB7C-B6F21E829024}",
+                "connection": 5,
+                "subConnection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "Y99i5wEAAAA=eJx9VsFu00AQnXWythOFNIkoVD1UIadSgVQqgVAPUNw2JZemJBUqEqWqRBTggNQIENyqiHJC5cYJAff8AhI/wJEv6Rcwa8/G440HSyvbb95787y21946iDa//z3vnv34UztZvtW76YUbCgB+lQEKuL+B4yOOBQQ7/Z3dPTz2cIQ47kKyGX6BjufmALYg3Qq2jgf9x0d73X5nv9Pdhf3tg81ut7cFk8mk29+5/Zm4Ieme5nnT/kWefyU5PyG8SLjJqqpCbwR7g9fPB6P949Fw8ObBaHT8oYPn72HSf7h98K0E8AgdhmjyKgT1BCBon68C32zeYwB9UWtOs5reRxhjjTCV5PYM/2USD65SzsMFUF/iS6kn174Maoili2Zt6jXA+hqem2NTa+CxR/pn6NvA/R0Av7HanGZTG8me494UP71v8BbhSsA9xyea8T/9zXEl8F0fm6co4L7jb/NoIacP+X2LDj+a8cnyXR+bJ3R8LF52+DZPScDLkJ8nhPw8qU92nt2+Nk9FyFkV8lwS8JSf7VuB/JypT/a63L42T03I2RDy1CH/vrv8aMY/i9cFPPXJ5rnszIPFrwg554WcLj+a8c/i8wKe+sR5dANojSAurk7qGq5TLcLLrG6e7QIUC4uEXRd4XtIzMN7mfS6vNuP1yuqwFrbSmrGNNbxutDFGdZWj53VHH/c26+aK0Jtqud6RU3e8dUuYs4jwRVYv0JytEIbfoJLJZkK1aQ4+nabfhCLjaIGjGccXOD7jBAInIE6L5THX+vVsNk+L5XE5mnF8geMzTiBwDI6zVIpsHi+5D+1xNo/laIGjGccXOD7jBALH4OZZGlOedec+1UlvtvbSz+l9j8+ricbqtaPXpB//R6+Z3nf0PuuvBL3P9IGjD1h/SU/Xrxv0H2Gf4fgdIGydYRHjKcLGjEdYYP9D2rW0p2K9zHNh15O37L9mia03/B0zWlzX1DuHa9e2cg73Ho5/vXSowA==",
+                    "size": 2748
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 15,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 2
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_UINT32",
+                      "mask": 1,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 14,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_RenderTargetArrayIndex",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float4x4 view;\nfloat4x4 projection;\nfloat4x4 viewInverse;\nfloat4x4 viewInverseTranspose;\nfloat4x4 projectionInverse;\nfloat4x4 viewProjection;\nfloat4x4 viewProjectionInverse;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std1",
+                        "returnType": 0,
+                        "size": 448,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 2
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "GS",
+              "sourceCode": "\n#include <Std>\n\nstruct ShaderInput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nstruct ShaderOutput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat2 texcoord0 : TEXCOORD0;\n\tuint rt : SV_RenderTargetArrayIndex;\n};\n\nstatic float4x4 viewMatrixPrSide[6] = {\n\tfloat4x4(0,0,1,0,0,1,0,0,-1,0,0,0,0,0,0,1),\n\tfloat4x4(0,0,-1,0,0,1,0,0,1,0,0,0,0,0,0,1),\n\tfloat4x4(1,0,0,0,0,0,1,0,0,-1,0,0,0,0,0,1),\n\tfloat4x4(1,0,0,0,0,0,-1,0,0,1,0,0,0,0,0,1),\n\tfloat4x4(1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1),\n\tfloat4x4(-1,0,0,0,0,1,0,0,0,0,-1,0,0,0,0,1)\n};\n\n[maxvertexcount(18)]\nvoid main(triangle ShaderInput IN[3], inout TriangleStream<ShaderOutput> OutputStream)\n{\n\tShaderOutput OUT;\n\tfor (int rti = 0; rti < 6; rti++) {\n\t\tfor(int i = 0;i < 3;i++) {\n\t\t\tOUT.position = mul(IN[i].position, mul(viewMatrixPrSide[rti], projection));\n\t\t\tOUT.texcoord0 = IN[i].texcoord0;\n\t\t\tOUT.rt = rti;\n\t\t\tOutputStream.Append( OUT );\n\t\t}\n\t\tOutputStream.RestartStrip();\n\t}\n}\n"
+            },
+            "chipId": "{D3FA6F6E-F8F9-4953-B6A5-B294CDB40515}",
+            "name": "Geometry Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{FCB1441D-913F-497A-9D4A-6D74D3DE8E7E}",
+            "name": "EnvironmentMap [in]",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{B77E34E5-B6A9-4A78-91F6-FFA779A54ECE}",
+            "name": "CubeMap [out]",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "sampler": {
+                "addressV": "M3D_TEXTURE_ADDRESS_MODE_CLAMP",
+                "filter": "M3D_FILTER_MIN_MAG_MIP_LINEAR",
+                "maxLOD": 3.402820018375656e38,
+                "minLOD": -3.402820018375656e38
+              }
+            },
+            "chipId": "{DED898E2-D93C-4179-BB7C-B6F21E829024}",
+            "name": "Sampler",
+            "type": "{90A64C01-02F4-4147-8039-827DB1D55180}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{F72104C5-A2C4-488F-9553-88846131CD26}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "original": "{B77E34E5-B6A9-4A78-91F6-FFA779A54ECE}"
+            },
+            "chipId": "{5EBD4D8A-C4D6-4F16-8E1C-E27043CDE9C8}",
+            "name": "CubeMap [out]",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "UNBIND_RTV"
+            },
+            "chipId": "{B07A6936-3665-4F5C-AB1A-2A43FC4DF156}",
+            "name": "Unbind Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SMipMapGeneration",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+              "functionName": "GenerateMipsArray",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{31D3F48E-4890-4BCC-A63D-EF89BEEA80E9}",
+            "connections": [{
+                "chipId": "{5EBD4D8A-C4D6-4F16-8E1C-E27043CDE9C8}",
+                "connection": 1
+              }, {
+                "chipId": "{5B3B05BE-9DAF-493E-9DA2-36AD04832163}",
+                "connection": 2
+              }],
+            "name": "SMipMapGeneration->GenerateMipsArray",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "object": {
+                "cgid": "{E9485DC6-E08A-4372-9A45-E5C0B273AC82}",
+                "data": {
+                  "count": 1,
+                  "map": [{
+                      "first": "{F88F21E5-1F6B-4A92-8779-D4DFC1C19531}",
+                      "second": {
+                        "ptr": {
+                          "chip": {
+                            "chipData": {
+                              "array": {
+                                "array": [{
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1
+                                                },
+                                                "chipId": "{EACBE951-A8D5-4AE3-8C29-A3724FF9701C}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{1F4929ED-F046-4E24-88A7-3703C3FB32E7}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 1,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 1,
+                                                  "uav_mipSlice": 1
+                                                },
+                                                "chipId": "{F7470B11-C82D-438F-BF9B-FF3E1532BE60}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{0CF66366-3DF3-44AE-89DD-D97E88301E30}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 2,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 2,
+                                                  "uav_mipSlice": 2
+                                                },
+                                                "chipId": "{51C23BEE-A117-451E-8D3C-346DF03DF837}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{481E78DE-08FC-4A64-A7D5-414CD9BF7224}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 3,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 3,
+                                                  "uav_mipSlice": 3
+                                                },
+                                                "chipId": "{B4A8EA4B-430D-4CC5-B7DD-65DF16C0B417}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{0021C42D-9208-4526-99AB-C07A9D40D215}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 4,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 4,
+                                                  "uav_mipSlice": 4
+                                                },
+                                                "chipId": "{1253F08F-DCBE-4052-A3B9-25D2E8DAC802}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{10B02F62-DC24-400E-9D3D-64EA3CD01F32}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 5,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 5,
+                                                  "uav_mipSlice": 5
+                                                },
+                                                "chipId": "{33372B5E-9F47-40EE-A95A-168C5E1634C3}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{42773644-0D90-4A45-8E53-1F025D9D2621}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 6,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 6,
+                                                  "uav_mipSlice": 6
+                                                },
+                                                "chipId": "{160620CA-4747-467B-A471-F1684C4C14B9}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{EA9CB5A2-D9A4-426F-9903-7976195A2337}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 7,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 7,
+                                                  "uav_mipSlice": 7
+                                                },
+                                                "chipId": "{30593F53-97DD-4B41-B92B-D47C14B012CD}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{313E15FB-508D-498D-B343-8CF90CBFA83A}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 8,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 8,
+                                                  "uav_mipSlice": 8
+                                                },
+                                                "chipId": "{5D39F785-380A-4C9C-AEAA-E33E15DEDE1F}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{AB3E890B-0C29-4DF7-9F90-A2F955B8E607}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 9,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 9,
+                                                  "uav_mipSlice": 9
+                                                },
+                                                "chipId": "{481DAC2A-05C6-4E89-A90E-8D332E6A4A4B}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{524C9778-3D22-4DA3-8FD5-D64B9B3B8F37}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 10,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 10,
+                                                  "uav_mipSlice": 10
+                                                },
+                                                "chipId": "{AEA2142B-50A6-4505-BB56-969C1D258155}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{EE8D66E4-C7E9-47E6-80EB-EC0F67D7D60C}",
+                                    "name": "",
+                                    "type": 2
+                                  }, {
+                                    "cgid": "{4F3FBFA9-3BA3-43B9-A708-18CA08A5D920}",
+                                    "data": {
+                                      "count": 1,
+                                      "map": [{
+                                          "first": "{E432A852-EB2A-49A1-9C23-DCC6E750FE0C}",
+                                          "second": {
+                                            "ptr": {
+                                              "chip": {
+                                                "chipData": {
+                                                  "rtv_mipSlice": 11,
+                                                  "srv_flags": 0,
+                                                  "srv_mipLevels": 1,
+                                                  "srv_mostDetailedMip": 11,
+                                                  "uav_mipSlice": 11
+                                                },
+                                                "chipId": "{9D3AC8C8-CA07-4F45-8BBE-66EB09A25A56}",
+                                                "name": "Resource",
+                                                "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+                                              }
+                                            }
+                                          }
+                                        }]
+                                    },
+                                    "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                                    "id": "{8638BD28-29ED-4C9E-8F4B-FC41A2BCD8F7}",
+                                    "name": "",
+                                    "type": 2
+                                  }],
+                                "count": 12
+                              },
+                              "preload": true,
+                              "saveContent": true
+                            },
+                            "chipId": "{D20B35AF-B90B-48FC-BC13-CD9032D5EDE8}",
+                            "name": "Targets",
+                            "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}"
+                          }
+                        }
+                      }
+                    }]
+                },
+                "filename": "$lib\\SnaX\\SimpleRenderFramework\\MipMapGeneration.m3j",
+                "id": "{AAB50AD7-F1F9-46F7-8392-0E6549ADC9F5}",
+                "name": "",
+                "type": 2
+              },
+              "preload": true,
+              "save": true
+            },
+            "chipId": "{5B3B05BE-9DAF-493E-9DA2-36AD04832163}",
+            "name": "TextureMips",
+            "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{06FCF918-54BF-427C-BCCD-752D9CE86430}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{FBACC138-88B7-4359-96BF-0BCDDE9D1578}",
+                "x": 37,
+                "y": -8,
+                "objectType": "chip"
+              }, {
+                "chipId": "{634731F3-E9F5-4C82-B5C1-0C64BEC8BE33}",
+                "x": -229,
+                "y": -600,
+                "objectType": "chip"
+              }, {
+                "chipId": "{253EDEA6-1690-460E-BCF0-B5983647CB7B}",
+                "x": -201,
+                "y": -960,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7FA81826-B5DA-4291-8860-EC73E11806C0}",
+                "x": -421,
+                "y": -1247,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BFADBF26-D39E-431E-B664-45CA9CF06A02}",
+                "x": -278,
+                "y": -1349,
+                "objectType": "chip"
+              }, {
+                "chipId": "{95436E9C-42B7-4E4C-AB8F-70F01D9BEBCB}",
+                "x": -125,
+                "y": -1442,
+                "objectType": "chip"
+              }, {
+                "chipId": "{138D7D49-6D8D-4E00-A1FF-BD8475763BBA}",
+                "x": 8,
+                "y": -1522,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DB8BF79A-DAD1-4C8B-8D18-DC0527FC6302}",
+                "x": -842,
+                "y": -592,
+                "objectType": "chip"
+              }, {
+                "chipId": "{23FFF895-2032-42A6-B44A-7D469AC04441}",
+                "x": -612,
+                "y": -592,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6A1443E3-83FD-46DE-90D7-C1CDDA0C046F}",
+                "x": -595,
+                "y": -790,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0E384272-CA98-420E-8466-8D93CE3E330F}",
+                "x": -346,
+                "y": -862,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BD51098B-33B2-4B90-B60F-38D0783A65E2}",
+                "x": 555,
+                "y": -590,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2E58F269-0EBA-4ABC-9A53-3AC9D8AD60E3}",
+                "x": 431,
+                "y": -817,
+                "objectType": "chip"
+              }, {
+                "chipId": "{78A9A686-FE03-45DB-BC6F-9A95F87D3993}",
+                "x": 663,
+                "y": -817,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F76ECF7E-E146-492F-8162-1C7E202B256D}",
+                "x": 328,
+                "y": -1143,
+                "objectType": "chip"
+              }, {
+                "chipId": "{18B43560-CFFC-40F8-8AF0-1BE91EE0CB33}",
+                "x": 274,
+                "y": -1378,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C2B24749-50D4-43AB-8856-F7E7F74DDAA4}",
+                "x": 558,
+                "y": -1409,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BA407592-904D-46FA-B2BB-4A955E2DC3EC}",
+                "x": 590,
+                "y": -1624,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F5381714-D9BF-471D-9605-3FE5A15E3216}",
+                "x": 520,
+                "y": -2053,
+                "objectType": "chip"
+              }, {
+                "chipId": "{41AD785E-8BEB-4C8E-A47F-F242DB044D52}",
+                "x": 761,
+                "y": -1849,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A41F12E7-DA15-4189-952A-66E0973E8E51}",
+                "x": 848,
+                "y": -1093,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D3FA6F6E-F8F9-4953-B6A5-B294CDB40515}",
+                "x": 654,
+                "y": -1944,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FCB1441D-913F-497A-9D4A-6D74D3DE8E7E}",
+                "x": 930,
+                "y": -1563,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B77E34E5-B6A9-4A78-91F6-FFA779A54ECE}",
+                "x": -838,
+                "y": -841,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DED898E2-D93C-4179-BB7C-B6F21E829024}",
+                "x": 1043,
+                "y": -1431,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F72104C5-A2C4-488F-9553-88846131CD26}",
+                "x": 375,
+                "y": -1624,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5EBD4D8A-C4D6-4F16-8E1C-E27043CDE9C8}",
+                "x": 1529,
+                "y": -884,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B07A6936-3665-4F5C-AB1A-2A43FC4DF156}",
+                "x": 1048,
+                "y": -581,
+                "objectType": "chip"
+              }, {
+                "chipId": "{31D3F48E-4890-4BCC-A63D-EF89BEEA80E9}",
+                "x": 1646,
+                "y": -553,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5B3B05BE-9DAF-493E-9DA2-36AD04832163}",
+                "x": 1916,
+                "y": -877,
+                "objectType": "chip"
+              }],
+            "extent": [-944, -2103, 1966, 42]
+          }
+        },
+        "id": "{48D716CD-5ED0-4C97-9406-1211B8455E57}",
+        "inheritance": [],
+        "name": "EnvMapToCubeMap",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "arraySize": 1,
+                      "fileFormat": 3452816845,
+                      "format": "M3D_FORMAT_R8G8B8A8_UNORM",
+                      "height": 256,
+                      "msCount": 1,
+                      "width": 256
+                    },
+                    "chipId": "{0323DA34-7CBD-4748-887A-4B873C5C00AC}",
+                    "name": "AlbedoTexture",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{3ECEE37D-37DA-4FE7-A1D8-0B14FAA8331E}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "AlbedoTexture",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "arraySize": 1,
+                      "fileFormat": 3452816845,
+                      "format": "M3D_FORMAT_R8G8B8A8_UNORM",
+                      "height": 256,
+                      "msCount": 1,
+                      "width": 256
+                    },
+                    "chipId": "{318B4D65-C688-4E56-8A33-72BA78288220}",
+                    "name": "NormalMap",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{23D0BCF3-9254-4DB1-9312-0231FA59DD55}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "NormalMap",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "arraySize": 1,
+                      "fileFormat": 3452816845,
+                      "format": "M3D_FORMAT_R8G8B8A8_UNORM",
+                      "height": 256,
+                      "msCount": 1,
+                      "width": 256
+                    },
+                    "chipId": "{71849911-50C3-45D9-AE65-033E3C11365E}",
+                    "name": "MetalnessMap",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{B55AC1F4-2887-4FBF-B3DB-6935A3E1A2E7}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "MetalnessMap",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "arraySize": 1,
+                      "fileFormat": 3452816845,
+                      "format": "M3D_FORMAT_R8G8B8A8_UNORM",
+                      "height": 256,
+                      "msCount": 1,
+                      "width": 256
+                    },
+                    "chipId": "{045186F5-2AB1-42D3-AD62-8BE55264EE50}",
+                    "name": "RoughnessMap",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{6132972D-ACD4-4404-A2B8-3EA23967CC50}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "RoughnessMap",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{768D2B76-9059-4E1E-A741-6D28336679C0}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{3ECEE37D-37DA-4FE7-A1D8-0B14FAA8331E}",
+                "x": -488,
+                "y": -7,
+                "objectType": "chip"
+              }, {
+                "chipId": "{23D0BCF3-9254-4DB1-9312-0231FA59DD55}",
+                "x": -197,
+                "y": 0,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B55AC1F4-2887-4FBF-B3DB-6935A3E1A2E7}",
+                "x": 90,
+                "y": 0,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6132972D-ACD4-4404-A2B8-3EA23967CC50}",
+                "x": 374,
+                "y": 2,
+                "objectType": "chip"
+              }],
+            "extent": [-538, -57, 424, 52]
+          }
+        },
+        "id": "{4AF2437D-084F-488A-8CED-138AAA21B078}",
+        "inheritance": [],
+        "name": "PBRMaterialTextures",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "prm6gwEAAAA=eJylVztvE0EQnnvYPl+IbSwBkiWCcRFIhJQHyEQhwY4TTKLwCCCbQANygYCCIgVSmmCloEKUaaBBQpFA+QcUoYACiR9AiVLQEQEFooNZ74xvvLk7kNhoM3f7zXzz3eze7nluuTZ7fHPr+7uF/JsXU4+uv7q32rIA4EIGwEF7AvuUuse+cO38JQ90U/aycX9t/tzyr36AK5CANQy+74F1AyBVfzra8bGpWxRzEyBZf6CxJHXVlkcxZm0UZGs0tH1eRWx3LBS7hfQrmOEu2hTePwNwi2iLlHM6B9445Dq+VlXH1HePdnmWUALjdeSp0zU+fypP1wWyPtkj4Dp8fRZpD2CfhpA8a8VungnB5xu8YZjmeFvNCEyNfcouzLCPytkycg5+DZ6tibVQmix6NsUV3Gu7kcixu1ejMdTVnqH6ad52ZRwg2yJ809PWrnZTVamLsfa27p11ZA9jfpxrh3WWARJ54uMcOJZcp7FhoUH5rtD4w32UGyHms8L5tmXcHW9vnK1r718ln2ZSPpfWrnSx3pKhV3I55GNyhcRtyzg3ohbSJ0E6W6E6WaPWG1YHxeVjV/YQdpzxVInXvE3rgewc6QXoXZ87dN2k9bJpaX+li2v8Ja2xXl264frpV352qF/gu+EG884xnXnP6PGoONafRa28hh5TPraHBTYparT1/thpKwIjfo+1Y56uPpXT1jrTrPNnNteDsa6c4A+ruZlb1TyMU2K2rgtQ3bhmvlnnwXQ3vqPdDtFjCxunxw55xjLVx9kzN7qVBZ98/9eJj8dw97eWSJdDubu4q94x15kkrEnx0q9Be6VrxKoqPAHoKxHGY2zZ1yd8SPD4IsYinnwIz/4Qnga9Z+q6YPBg98dprE5W1e41tkaDTzeAAaGlYGgaEvxSp1kLE4vKfRLbR2xhuX1DQ1RuNya3G5M7i+0btv/J7cXk9mJy/8Y//e/vuZu0v0psIkIP7h0jiPXVGGsH30QQcq/eXcHdeVclF+9HE/SOKGzYsGovqkVgfB4on5KBFXp9KpmYGizSGSExbF6M9spiRN3kO+wAf+N8OHOR8quzT9mk8JFxvuBMQvAt5RoYnaGdPUxd816aFHWTGO9zDt0nDJ+NVHAeusInJ7SxD2Ng7E/yuXnfTghNHIc83bMvJzhM/jGxDnlP5Rqob1aev1MRdYeIOREa0yZmrK1KXHz0fC90vnMl5v5DHOabxTifMZs0yM7+Jj+vHdVGjLMk6lmpRhV+1rg6zuO3y44xj+XVInTbbX0t1zWvL147rrEWHFpD5tnMc6x+hwwQbkPvGaj8DqLJ0DsAgpPPcz6TQcznS/T/8Tn4TVH38TdSJvjt8wc8g+O1",
+                    "size": 3660
+                  }
+                },
+                "inputParams": {
+                  "count": 0
+                },
+                "outputParams": {
+                  "count": 0
+                },
+                "threadGroupSizeX": 32,
+                "threadGroupSizeY": 32,
+                "threadGroupSizeZ": 1,
+                "uniforms": {
+                  "count": 4,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "float roughness;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "SpecularMapFilterSettings",
+                        "returnType": 0,
+                        "size": 16,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 1
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURECUBE",
+                        "numSamples": 4294967295,
+                        "register": "inputTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 6,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 6,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "UAV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2DARRAY",
+                        "numSamples": 4294967295,
+                        "register": "outputTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_UAV_RWTYPED",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "CS",
+              "sourceCode": "// Physically Based Rendering\n// Copyright (c) 2017-2018 Michał Siejak\n\n// Pre-filters environment cube map using GGX NDF importance sampling.\n// Part of specular IBL split-sum approximation.\n\n#include <Std>\n\nstatic const float PI = 3.141592;\nstatic const float TwoPI = 2 * PI;\nstatic const float Epsilon = 0.00001;\n\nstatic const uint NumSamples = 1024;\nstatic const float InvNumSamples = 1.0 / float(NumSamples);\n\ncbuffer SpecularMapFilterSettings : CBUFFER1\n{\n\t// Roughness value to pre-filter for.\n\tfloat roughness;\n};\n\nTextureCube inputTexture : TEXTURE1;\nRWTexture2DArray<float4> outputTexture : UAV1;\n\n\n\n// Compute Van der Corput radical inverse\n// See: http://holger.dammertz.org/stuff/notes_HammersleyOnHemisphere.html\nfloat radicalInverse_VdC(uint bits)\n{\n\tbits = (bits << 16u) | (bits >> 16u);\n\tbits = ((bits & 0x55555555u) << 1u) | ((bits & 0xAAAAAAAAu) >> 1u);\n\tbits = ((bits & 0x33333333u) << 2u) | ((bits & 0xCCCCCCCCu) >> 2u);\n\tbits = ((bits & 0x0F0F0F0Fu) << 4u) | ((bits & 0xF0F0F0F0u) >> 4u);\n\tbits = ((bits & 0x00FF00FFu) << 8u) | ((bits & 0xFF00FF00u) >> 8u);\n\treturn float(bits) * 2.3283064365386963e-10; // / 0x100000000\n}\n\n// Sample i-th point from Hammersley point set of NumSamples points total.\nfloat2 sampleHammersley(uint i)\n{\n\treturn float2(i * InvNumSamples, radicalInverse_VdC(i));\n}\n\n// Importance sample GGX normal distribution function for a fixed roughness value.\n// This returns normalized half-vector between Li & Lo.\n// For derivation see: http://blog.tobias-franke.eu/2014/03/30/notes_on_importance_sampling.html\nfloat3 sampleGGX(float u1, float u2, float roughness)\n{\n\tfloat alpha = roughness * roughness;\n\n\tfloat cosTheta = sqrt((1.0 - u2) / (1.0 + (alpha*alpha - 1.0) * u2));\n\tfloat sinTheta = sqrt(1.0 - cosTheta*cosTheta); // Trig. identity\n\tfloat phi = TwoPI * u1;\n\n\t// Convert to Cartesian upon return.\n\treturn float3(sinTheta * cos(phi), sinTheta * sin(phi), cosTheta);\n}\n\n// GGX/Towbridge-Reitz normal distribution function.\n// Uses Disney's reparametrization of alpha = roughness^2.\nfloat ndfGGX(float cosLh, float roughness)\n{\n\tfloat alpha   = roughness * roughness;\n\tfloat alphaSq = alpha * alpha;\n\n\tfloat denom = (cosLh * cosLh) * (alphaSq - 1.0) + 1.0;\n\treturn alphaSq / (PI * denom * denom);\n}\n\n// Calculate normalized sampling direction vector based on current fragment coordinates.\n// This is essentially \"inverse-sampling\": we reconstruct what the sampling vector would be if we wanted it to \"hit\"\n// this particular fragment in a cubemap.\nfloat3 getSamplingVector(uint3 ThreadID)\n{\n\tfloat outputWidth, outputHeight, outputDepth;\n\toutputTexture.GetDimensions(outputWidth, outputHeight, outputDepth);\n\n    float2 st = ThreadID.xy/float2(outputWidth, outputHeight);\n    float2 uv = 2.0 * float2(st.x, 1.0-st.y) - 1.0;\n\n\t// Select vector based on cubemap face index.\n\tfloat3 ret;\n\tswitch(ThreadID.z)\n\t{\n\tcase 0: ret = float3(1.0,  uv.y, -uv.x); break;\n\tcase 1: ret = float3(-1.0, uv.y,  uv.x); break;\n\tcase 2: ret = float3(uv.x, 1.0, -uv.y); break;\n\tcase 3: ret = float3(uv.x, -1.0, uv.y); break;\n\tcase 4: ret = float3(uv.x, uv.y, 1.0); break;\n\tcase 5: ret = float3(-uv.x, uv.y, -1.0); break;\n\t}\n    return normalize(ret);\n}\n\n// Compute orthonormal basis for converting from tanget/shading space to world space.\nvoid computeBasisVectors(const float3 N, out float3 S, out float3 T)\n{\n\t// Branchless select non-degenerate T.\n\tT = cross(N, float3(0.0, 1.0, 0.0));\n\tT = lerp(cross(N, float3(1.0, 0.0, 0.0)), T, step(Epsilon, dot(T, T)));\n\n\tT = normalize(T);\n\tS = normalize(cross(N, T));\n}\n\n// Convert point from tangent/shading space to world space.\nfloat3 tangentToWorld(const float3 v, const float3 N, const float3 S, const float3 T)\n{\n\treturn S * v.x + T * v.y + N * v.z;\n}\n\n[numthreads(32, 32, 1)]\nvoid main(uint3 ThreadID : SV_DispatchThreadID)\n{\n\t// Make sure we won't write past output when computing higher mipmap levels.\n\tuint outputWidth, outputHeight, outputDepth;\n\toutputTexture.GetDimensions(outputWidth, outputHeight, outputDepth);\n\tif(ThreadID.x >= outputWidth || ThreadID.y >= outputHeight) {\n\t\treturn;\n\t}\n\t\n\t// Get input cubemap dimensions at zero mipmap level.\n\tfloat inputWidth, inputHeight, inputLevels;\n\tinputTexture.GetDimensions(0, inputWidth, inputHeight, inputLevels);\n\n\t// Solid angle associated with a single cubemap texel at zero mipmap level.\n\t// This will come in handy for importance sampling below.\n\tfloat wt = 4.0 * PI / (6 * inputWidth * inputHeight);\n\t\n\t// Approximation: Assume zero viewing angle (isotropic reflections).\n\tfloat3 N = getSamplingVector(ThreadID);\n\tfloat3 Lo = N;\n\t\n\tfloat3 S, T;\n\tcomputeBasisVectors(N, S, T);\n\n\tfloat3 color = 0;\n\tfloat weight = 0;\n\n\t// Convolve environment map using GGX NDF importance sampling.\n\t// Weight by cosine term since Epic claims it generally improves quality.\n\tfor(uint i=0; i<NumSamples; ++i) {\n\t\tfloat2 u = sampleHammersley(i);\n\t\tfloat3 Lh = tangentToWorld(sampleGGX(u.x, u.y, roughness), N, S, T);\n\n\t\t// Compute incident direction (Li) by reflecting viewing direction (Lo) around half-vector (Lh).\n\t\tfloat3 Li = 2.0 * dot(Lo, Lh) * Lh - Lo;\n\n\t\tfloat cosLi = dot(N, Li);\n\t\tif(cosLi > 0.0) {\n\t\t\t// Use Mipmap Filtered Importance Sampling to improve convergence.\n\t\t\t// See: https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_ch20.html, section 20.4\n\n\t\t\tfloat cosLh = max(dot(N, Lh), 0.0);\n\n\t\t\t// GGX normal distribution function (D term) probability density function.\n\t\t\t// Scaling by 1/4 is due to change of density in terms of Lh to Li (and since N=V, rest of the scaling factor cancels out).\n\t\t\tfloat pdf = ndfGGX(cosLh, roughness) * 0.25;\n\n\t\t\t// Solid angle associated with this sample.\n\t\t\tfloat ws = 1.0 / (NumSamples * pdf);\n\n\t\t\t// Mip level to sample from.\n\t\t\tfloat mipLevel = max(0.5 * log2(ws / wt) + 1.0, 0.0);\n\n\t\t\tcolor  += inputTexture.SampleLevel(defaultSampler, Li, mipLevel).rgb * cosLi;\n\t\t\tweight += cosLi;\n\t\t}\n\t}\n\tcolor /= weight;\n\n\toutputTexture[ThreadID] = float4(color, 1.0);\n}"
+            },
+            "chipId": "{799532C4-8F24-4754-8457-2EE56890893F}",
+            "name": "Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{6464587F-56AB-4751-A6A9-F7E512DD7601}",
+            "connections": [{
+                "chipId": "{7F6858E4-CFD0-4F73-90E3-DF8CB350ABA3}",
+                "connection": 0
+              }, {
+                "chipId": "{799532C4-8F24-4754-8457-2EE56890893F}",
+                "connection": 1
+              }, {
+                "chipId": "{174D37DA-D2F7-48FD-9E85-71BD8A9C3FE0}",
+                "connection": 2
+              }, {
+                "chipId": "{49054F04-8E5A-425C-996A-A0992F5C30C6}",
+                "connection": 3,
+                "subConnection": 0
+              }, {
+                "chipId": "{17A1FE74-B336-491C-9828-429A5510D4B6}",
+                "connection": 4,
+                "subConnection": 0
+              }, {
+                "chipId": "{BA445452-717B-4DEC-B44D-3F214BED6858}",
+                "connection": 5,
+                "subConnection": 0
+              }, {
+                "chipId": "{D947BC53-B5E1-48A9-91F5-CFE6CB51F37F}",
+                "connection": 6,
+                "subConnection": 0
+              }],
+            "name": "Compute",
+            "recalculation": "Always",
+            "type": "{1F0E0DFA-C361-4512-9A62-E9F067B9B31F}"
+          }, {
+            "chipData": {},
+            "chipId": "{49054F04-8E5A-425C-996A-A0992F5C30C6}",
+            "connections": [{
+                "chipId": "{20AE7D88-6926-4D26-9B5E-1B906351E720}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "Graphics Buffer",
+            "recalculation": "Always",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {},
+            "chipId": "{28D9CA91-1D35-4098-B16F-9034287CC008}",
+            "connections": [{
+                "chipId": "{37EA2FEF-FBE6-4D56-9732-15D588A181C4}",
+                "connection": 0
+              }, {
+                "chipId": "{EC2758DC-5602-4EEF-BB0A-EFF2C5BAC4DA}",
+                "connection": 1
+              }, {
+                "chipId": "{6464587F-56AB-4751-A6A9-F7E512DD7601}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "For Loop",
+            "type": "{8A21ED60-3163-41E8-8CED-D3F322CCA6CD}"
+          }, {
+            "chipData": {
+              "value": 4.0
+            },
+            "chipId": "{37EA2FEF-FBE6-4D56-9732-15D588A181C4}",
+            "connections": [{
+                "chipId": "{8676B7DF-A321-492E-B572-0C17DBECBCEF}",
+                "connection": 0
+              }],
+            "name": "Loop Times",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 3.0
+            },
+            "chipId": "{EC2758DC-5602-4EEF-BB0A-EFF2C5BAC4DA}",
+            "name": "Current Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{BA445452-717B-4DEC-B44D-3F214BED6858}",
+            "connections": [{
+                "chipId": "{EB23855A-B555-4436-A768-DDDB13B4E7D3}",
+                "connection": 0
+              }, {
+                "chipId": "{BEECF26D-4654-4665-B32C-B5103FBEEC5F}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{93093FDA-E2CC-4997-9504-9D5F3D33C890}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{34DDF6DD-1BF0-4BC1-AE17-1BFDA46C3518}",
+                "connection": 1,
+                "subConnection": 2
+              }, {
+                "chipId": "{6702F34A-A713-4FBE-86F5-A3A123963EC2}",
+                "connection": 1,
+                "subConnection": 3
+              }, {
+                "chipId": "{6145DD43-EB8C-4E06-BCCB-B6B54243FF5E}",
+                "connection": 1,
+                "subConnection": 4
+              }, {
+                "chipId": "{52A593E4-A8D6-4028-BFED-81541D7DAFB9}",
+                "connection": 1,
+                "subConnection": 5
+              }, {
+                "chipId": "{9D65C39C-1A7D-4437-B0ED-3036F6237D4C}",
+                "connection": 1,
+                "subConnection": 6
+              }],
+            "name": "Switch",
+            "recalculation": "Always",
+            "type": "{F0217B95-FAC1-4EDD-9A31-D506DBD1B283}"
+          }, {
+            "chipData": {
+              "uav_mipSlice": 1
+            },
+            "chipId": "{BEECF26D-4654-4665-B32C-B5103FBEEC5F}",
+            "connections": [{
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "connection": 0
+              }],
+            "name": "Graphics Resource",
+            "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+          }, {
+            "chipData": {
+              "uav_mipSlice": 2
+            },
+            "chipId": "{93093FDA-E2CC-4997-9504-9D5F3D33C890}",
+            "connections": [{
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "connection": 0
+              }],
+            "name": "Graphics Resource",
+            "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+          }, {
+            "chipData": {
+              "uav_mipSlice": 3
+            },
+            "chipId": "{34DDF6DD-1BF0-4BC1-AE17-1BFDA46C3518}",
+            "connections": [{
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "connection": 0
+              }],
+            "name": "Graphics Resource",
+            "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+          }, {
+            "chipData": {
+              "uav_mipSlice": 4
+            },
+            "chipId": "{6702F34A-A713-4FBE-86F5-A3A123963EC2}",
+            "connections": [{
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "connection": 0
+              }],
+            "name": "Graphics Resource",
+            "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+          }, {
+            "chipData": {
+              "uav_mipSlice": 5
+            },
+            "chipId": "{6145DD43-EB8C-4E06-BCCB-B6B54243FF5E}",
+            "connections": [{
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "connection": 0
+              }],
+            "name": "Graphics Resource",
+            "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+          }, {
+            "chipData": {
+              "uav_mipSlice": 6
+            },
+            "chipId": "{52A593E4-A8D6-4028-BFED-81541D7DAFB9}",
+            "connections": [{
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "connection": 0
+              }],
+            "name": "Graphics Resource",
+            "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+          }, {
+            "chipData": {
+              "uav_mipSlice": 7
+            },
+            "chipId": "{9D65C39C-1A7D-4437-B0ED-3036F6237D4C}",
+            "connections": [{
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "connection": 0
+              }],
+            "name": "Graphics Resource",
+            "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+          }, {
+            "chipData": {
+              "original": "{EC2758DC-5602-4EEF-BB0A-EFF2C5BAC4DA}"
+            },
+            "chipId": "{EB23855A-B555-4436-A768-DDDB13B4E7D3}",
+            "name": "Current Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "expression": "(a+1)/b",
+              "value": 1.0
+            },
+            "chipId": "{20AE7D88-6926-4D26-9B5E-1B906351E720}",
+            "connections": [{
+                "chipId": "{3EC6D657-5E03-4431-B76D-843F33B842DF}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{E05F7005-A868-4773-9147-D572D98EF1A2}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "name": "(a+1)/b",
+            "recalculation": "Always",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "original": "{EC2758DC-5602-4EEF-BB0A-EFF2C5BAC4DA}"
+            },
+            "chipId": "{3EC6D657-5E03-4431-B76D-843F33B842DF}",
+            "name": "Current Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{37EA2FEF-FBE6-4D56-9732-15D588A181C4}"
+            },
+            "chipId": "{E05F7005-A868-4773-9147-D572D98EF1A2}",
+            "name": "Loop Times",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "1sWUWAEAAAA=eJydVr9rVEEQnt337u7ljLlooaAo0UJJsDhjyB2HemeMZ8SfSbgQbJQUIhYWAS3DkcLKwsrGIAjBQvM3GBQsBBs7S0WwDGKhnXHmduZubrPvFRlYZm/nm2+/nbdv3k0vTl18Wfn7Y/bVs3fr/w4/ev/l+5oBtD0AEbpTOM7iuIbjyvzlGwk4I3/T+z0/c2lxowgwCzl4awEeJGBuA+SbD8sdTJ4H2WIZCs2VMmhrtZxfa2Bs63QwdgfALoOF++iJ6wVAPIKeBuk+h1LGYbiDNQ2X09w61uVZQPwHjudjC0MABcH/LDrf5N90rCmeH4Lh9gVedLzt+jhAaYnjrxPnbaO7VYOHWmtvutGppx3Dc+AZItE5CZDb36e9Xce1/CqvjSkNhF3m9ceDvDemCZ8J823qvHvJzjycQxWgOMeYhbw+l9NOukTDcU+v5ooY43MF8jZ1XpxSC43Jsc6loE7R6PSG6kBceFUN+YM4MFqQOjdtv5/GfInV2OPeBanjn1J/PUkXxegZPI9Dupzh/dlLOBvE9bAY6zx3o3JofmKgdx9CeaSfcCV1tie8n/gjKlZTNdr4eLJiUmLMn4h23Kerj/a0TueA6JT6SEx0+TU3ymfV3Oc0KmZdXYDrJjUr+nUmjFHabUCPVT5Ljw2ccZLrE+14Ns4mFZ+8/9gNzS3WYHbU3CBXHNU4tsD5Glf1ck3veVVaHLMeL82eYrdfZa2yJr6mzky5ox6PZaxRPNbj2RfgMSk8b9BEa8SxSO1hUmIttKMBTsGMenmyn83g/Izm1y2U58fOoO1GS5yh5RdampY4Q0sJbTdakgwtsA3baVqSDC2YBlla5E7rGL27SkO3z3j3uz6RphXtKvPqWDVF49fSp/J1jNH3gupKPqcwfh5xFRlTDWgoMo/0CppLz6KeEUGvV0pM+on0nziAAcYYhRlW77+sCXYitTcAzPA3JdZ5KyPQtbtunlc5+jy+DtQ6KL1P1qzLa6jRiRFG7gRAf28izgPo5Huqcxxfu9IboZ7arq8j9+9vvf9/zaKF5pDDnEfYfxTNx5I=",
+                    "size": 2816
+                  }
+                },
+                "inputParams": {
+                  "count": 0
+                },
+                "outputParams": {
+                  "count": 0
+                },
+                "threadGroupSizeX": 32,
+                "threadGroupSizeY": 32,
+                "threadGroupSizeZ": 1,
+                "uniforms": {
+                  "count": 3,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURECUBE",
+                        "numSamples": 4294967295,
+                        "register": "inputTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 6,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 6,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "UAV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2DARRAY",
+                        "numSamples": 4294967295,
+                        "register": "outputTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_UAV_RWTYPED",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "CS",
+              "sourceCode": "// Physically Based Rendering\n// Copyright (c) 2017-2018 Michał Siejak\n\n// Computes diffuse irradiance cubemap convolution for image-based lighting.\n// Uses quasi Monte Carlo sampling with Hammersley sequence.\n\n#include <Std>\n\nstatic const float PI = 3.141592;\nstatic const float TwoPI = 2 * PI;\nstatic const float Epsilon = 0.00001;\n\nstatic const uint NumSamples = 64 * 1024;\nstatic const float InvNumSamples = 1.0 / float(NumSamples);\n\nTextureCube inputTexture : TEXTURE1;\nRWTexture2DArray<float4> outputTexture : UAV1;\n\n\n\n// Compute Van der Corput radical inverse\n// See: http://holger.dammertz.org/stuff/notes_HammersleyOnHemisphere.html\nfloat radicalInverse_VdC(uint bits)\n{\n\tbits = (bits << 16u) | (bits >> 16u);\n\tbits = ((bits & 0x55555555u) << 1u) | ((bits & 0xAAAAAAAAu) >> 1u);\n\tbits = ((bits & 0x33333333u) << 2u) | ((bits & 0xCCCCCCCCu) >> 2u);\n\tbits = ((bits & 0x0F0F0F0Fu) << 4u) | ((bits & 0xF0F0F0F0u) >> 4u);\n\tbits = ((bits & 0x00FF00FFu) << 8u) | ((bits & 0xFF00FF00u) >> 8u);\n\treturn float(bits) * 2.3283064365386963e-10; // / 0x100000000\n}\n\n// Sample i-th point from Hammersley point set of NumSamples points total.\nfloat2 sampleHammersley(uint i)\n{\n\treturn float2(i * InvNumSamples, radicalInverse_VdC(i));\n}\n\n// Uniformly sample point on a hemisphere.\n// Cosine-weighted sampling would be a better fit for Lambertian BRDF but since this\n// compute shader runs only once as a pre-processing step performance is not *that* important.\n// See: \"Physically Based Rendering\" 2nd ed., section 13.6.1.\nfloat3 sampleHemisphere(float u1, float u2)\n{\n\tconst float u1p = sqrt(max(0.0, 1.0 - u1*u1));\n\treturn float3(cos(TwoPI*u2) * u1p, sin(TwoPI*u2) * u1p, u1);\n}\n\n// Calculate normalized sampling direction vector based on current fragment coordinates.\n// This is essentially \"inverse-sampling\": we reconstruct what the sampling vector would be if we wanted it to \"hit\"\n// this particular fragment in a cubemap.\nfloat3 getSamplingVector(uint3 ThreadID)\n{\n\tfloat outputWidth, outputHeight, outputDepth;\n\toutputTexture.GetDimensions(outputWidth, outputHeight, outputDepth);\n\n    float2 st = ThreadID.xy/float2(outputWidth, outputHeight);\n    float2 uv = 2.0 * float2(st.x, 1.0-st.y) - 1.0;\n\n\t// Select vector based on cubemap face index.\n\tfloat3 ret;\n\tswitch(ThreadID.z)\n\t{\n\tcase 0: ret = float3(1.0,  uv.y, -uv.x); break;\n\tcase 1: ret = float3(-1.0, uv.y,  uv.x); break;\n\tcase 2: ret = float3(uv.x, 1.0, -uv.y); break;\n\tcase 3: ret = float3(uv.x, -1.0, uv.y); break;\n\tcase 4: ret = float3(uv.x, uv.y, 1.0); break;\n\tcase 5: ret = float3(-uv.x, uv.y, -1.0); break;\n\t}\n    return normalize(ret);\n}\n\n// Compute orthonormal basis for converting from tanget/shading space to world space.\nvoid computeBasisVectors(const float3 N, out float3 S, out float3 T)\n{\n\t// Branchless select non-degenerate T.\n\tT = cross(N, float3(0.0, 1.0, 0.0));\n\tT = lerp(cross(N, float3(1.0, 0.0, 0.0)), T, step(Epsilon, dot(T, T)));\n\n\tT = normalize(T);\n\tS = normalize(cross(N, T));\n}\n\n// Convert point from tangent/shading space to world space.\nfloat3 tangentToWorld(const float3 v, const float3 N, const float3 S, const float3 T)\n{\n\treturn S * v.x + T * v.y + N * v.z;\n}\n\n[numthreads(32, 32, 1)]\nvoid main(uint3 ThreadID : SV_DispatchThreadID)\n{\n\tfloat3 N = getSamplingVector(ThreadID);\n\t\n\tfloat3 S, T;\n\tcomputeBasisVectors(N, S, T);\n\n\t// Monte Carlo integration of hemispherical irradiance.\n\t// As a small optimization this also includes Lambertian BRDF assuming perfectly white surface (albedo of 1.0)\n\t// so we don't need to normalize in PBR fragment shader (so technically it encodes exitant radiance rather than irradiance).\n\tfloat3 irradiance = 0.0;\n\tfor(uint i=0; i<NumSamples; ++i) {\n\t\tfloat2 u  = sampleHammersley(i);\n\t\tfloat3 Li = tangentToWorld(sampleHemisphere(u.x, u.y), N, S, T);\n\t\tfloat cosTheta = max(0.0, dot(Li, N));\n\n\t\t// PIs here cancel out because of division by pdf.\n\t\tirradiance += 2.0 * inputTexture.SampleLevel(defaultSampler, Li, 0).rgb * cosTheta;\n\t}\n\tirradiance /= float(NumSamples);\n\n\toutputTexture[ThreadID] = float4(irradiance, 1.0);\n}"
+            },
+            "chipId": "{B0AB80DC-F334-49D2-B2AD-7C12EBFAAB96}",
+            "name": "Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{F28BADE3-D3F9-4D76-9BA6-CEB4058760FA}",
+            "connections": [{
+                "chipId": "{A8EEC8D2-F880-46BF-BF9A-86802FCCD65C}",
+                "connection": 0
+              }, {
+                "chipId": "{B0AB80DC-F334-49D2-B2AD-7C12EBFAAB96}",
+                "connection": 1
+              }, {
+                "chipId": "{3EA687FF-4C21-4ADC-B54B-185C87128520}",
+                "connection": 2
+              }, {
+                "chipId": "{E4A8D1C5-C9F0-4AF1-9739-32BE718239C5}",
+                "connection": 4,
+                "subConnection": 0
+              }, {
+                "chipId": "{CF033D62-0C15-4211-8D3F-AF661FB0EF42}",
+                "connection": 5,
+                "subConnection": 0
+              }],
+            "name": "Compute",
+            "type": "{1F0E0DFA-C361-4512-9A62-E9F067B9B31F}"
+          }, {
+            "chipData": {
+              "vector": [32.0, 32.0, 6.0, 1.0]
+            },
+            "chipId": "{3EA687FF-4C21-4ADC-B54B-185C87128520}",
+            "connections": [{
+                "chipId": "{2DE4FE24-E801-4A48-B564-BE58C46EA91C}",
+                "connection": 0
+              }, {
+                "chipId": "{10E86FA6-021F-4CBF-87AD-07AF948B6FB8}",
+                "connection": 1
+              }],
+            "name": "Target Size (XYZ)",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {},
+            "chipId": "{8229A33D-513B-4CB3-81FF-03AB7DEF61B9}",
+            "connections": [{
+                "chipId": "{B044F883-0CC5-41ED-AE10-4A3FC7EB6A14}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{28D9CA91-1D35-4098-B16F-9034287CC008}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{F28BADE3-D3F9-4D76-9BA6-CEB4058760FA}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{17A1FE74-B336-491C-9828-429A5510D4B6}"
+                }, {
+                  "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}"
+                }, {
+                  "chipId": "{CF033D62-0C15-4211-8D3F-AF661FB0EF42}"
+                }],
+              "type": "Static"
+            },
+            "name": "FilterCubemap",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "arraySize": 6,
+                      "depth": 1,
+                      "fileFormat": 3452816845,
+                      "flags": "M3D_RESOURCE_FLAG_ALLOW_UNORDERED_ACCESS",
+                      "format": "M3D_FORMAT_R16G16B16A16_FLOAT",
+                      "height": 128,
+                      "mipLevels": 1,
+                      "msCount": 1,
+                      "width": 128
+                    },
+                    "chipId": "{BB77AEED-CD13-4C4B-8D95-466600942F7B}",
+                    "name": "IrradianceTexture",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{B6408722-911A-46A1-BD5A-A82723E3B1FB}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "IrradianceTexture",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{17A1FE74-B336-491C-9828-429A5510D4B6}",
+            "name": "Temp EnvCubeMap [in]",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "original": "{17A1FE74-B336-491C-9828-429A5510D4B6}"
+            },
+            "chipId": "{E4A8D1C5-C9F0-4AF1-9739-32BE718239C5}",
+            "name": "Temp EnvCubeMap [in]",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+            "name": "EnvCubeTexture [out]",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{CF033D62-0C15-4211-8D3F-AF661FB0EF42}",
+            "name": "IrradianceTexture [out]",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {},
+            "chipId": "{ED39654C-90DB-4D4D-AFA7-970B641813FF}",
+            "connections": [{
+                "chipId": "{37F00D57-AF6C-4863-B0C0-4E3821C80B3C}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Update",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "arraySize": 6,
+                      "depth": 1,
+                      "fileFormat": 3452816845,
+                      "flags": "M3D_RESOURCE_FLAG_ALLOW_RENDER_TARGET",
+                      "format": "M3D_FORMAT_R16G16B16A16_FLOAT",
+                      "height": 128,
+                      "mipLevels": 5,
+                      "msCount": 1,
+                      "rtv_arraySize": 6,
+                      "width": 128
+                    },
+                    "chipId": "{D566B80B-12C3-4D8E-898B-FA5C1100C770}",
+                    "name": "EnvironmentCubeMap",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{262823AC-1F69-422F-9570-DBF8C0D1F930}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "EnvironmentCubeMap",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "arraySize": 1,
+                      "fileFormat": 3452816845,
+                      "format": "M3D_FORMAT_R8G8B8A8_UNORM",
+                      "height": 256,
+                      "msCount": 1,
+                      "width": 256
+                    },
+                    "chipId": "{F9EE8876-B6D9-48D6-B5C2-C0A27C5161FF}",
+                    "name": "EnvironmentMap",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{4F87665A-5A3A-46B4-BF44-4FC08AE941BF}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "EnvironmentMap",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "EnvMapToCubeMap",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "EnvMapToCubeMap",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{15BEC7C8-52B9-4914-B270-563CA2635D98}",
+            "connections": [{
+                "chipId": "{4F87665A-5A3A-46B4-BF44-4FC08AE941BF}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{51A3D576-790A-4D28-A8F4-84A1112AA76B}",
+                "connection": 1,
+                "subConnection": 1
+              }],
+            "name": "EnvMapToCubeMap->EnvMapToCubeMap",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_WIDTH",
+              "value": 32.0
+            },
+            "chipId": "{2DE4FE24-E801-4A48-B564-BE58C46EA91C}",
+            "connections": [{
+                "chipId": "{CF033D62-0C15-4211-8D3F-AF661FB0EF42}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Width",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_HEIGHT",
+              "value": 32.0
+            },
+            "chipId": "{10E86FA6-021F-4CBF-87AD-07AF948B6FB8}",
+            "connections": [{
+                "chipId": "{CF033D62-0C15-4211-8D3F-AF661FB0EF42}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Height",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "array": [1.0, 1.0, 1.0, 1.0],
+                        "count": 1
+                      }
+                    },
+                    "chipId": "{209844D0-26B4-4942-9C61-AF083805E74E}",
+                    "name": "LightsRadiance",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{081668E3-639B-4BEE-9EC2-BF046F8F0663}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "LightsRadiance",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "array": {
+                        "array": [-1.0, -1.0, -1.0, 0.0],
+                        "count": 1
+                      }
+                    },
+                    "chipId": "{304385C3-C28E-42EC-8615-D88D0D196509}",
+                    "name": "LightsDirection",
+                    "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+                  }
+                }
+              },
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{F3D9E258-6624-4892-BDA1-340A3A4DD2F3}",
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "LightsDirection",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{7F6858E4-CFD0-4F73-90E3-DF8CB350ABA3}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "original": "{7F6858E4-CFD0-4F73-90E3-DF8CB350ABA3}"
+            },
+            "chipId": "{A8EEC8D2-F880-46BF-BF9A-86802FCCD65C}",
+            "name": "SGraphics->Root Signature",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_WIDTH",
+              "value": 8.0
+            },
+            "chipId": "{AC6340D6-81EC-45E0-9BD4-BB229AA2C37C}",
+            "connections": [{
+                "chipId": "{BA445452-717B-4DEC-B44D-3F214BED6858}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Width",
+            "recalculation": "Always",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_HEIGHT",
+              "value": 8.0
+            },
+            "chipId": "{D283D414-68E5-4B9D-A814-9F3EC23ECF74}",
+            "connections": [{
+                "chipId": "{BA445452-717B-4DEC-B44D-3F214BED6858}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Height",
+            "recalculation": "Always",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "GET_UPDATE_STAMP",
+              "value": 32040.0
+            },
+            "chipId": "{96AE7DD6-5A13-4A94-8F06-E04719B18BD3}",
+            "connections": [{
+                "chipId": "{4F87665A-5A3A-46B4-BF44-4FC08AE941BF}",
+                "connection": 0
+              }],
+            "name": "Get Chip Timestamp",
+            "type": "{9C9FE924-E3DB-40F3-A11C-C75A3B14D261}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "at": 1.0,
+                      "triggerAtFirstCall": true,
+                      "type": "VALUE_CHANGE"
+                    },
+                    "chipId": "{7E6297E7-C67E-4B34-B109-724DB8F885C3}",
+                    "name": "_TriggerOnEnvironmentMapUpdate",
+                    "type": "{9CBFE861-4A4C-4F63-9582-6CA8398944F9}"
+                  }
+                }
+              },
+              "type": "{9CBFE861-4A4C-4F63-9582-6CA8398944F9}"
+            },
+            "chipId": "{37F00D57-AF6C-4863-B0C0-4E3821C80B3C}",
+            "connections": [{
+                "chipId": "{96AE7DD6-5A13-4A94-8F06-E04719B18BD3}",
+                "connection": 0
+              }, {
+                "chipId": "{EE4254E5-3975-4424-B620-456E123F37F4}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{15BEC7C8-52B9-4914-B270-563CA2635D98}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{534E27C4-EF49-4F56-832C-ACE50FBE560F}",
+                "connection": 1,
+                "subConnection": 2
+              }, {
+                "chipId": "{F570B13B-7AD2-4773-9C2D-E89908C28E8F}",
+                "connection": 1,
+                "subConnection": 3
+              }],
+            "name": "_TriggerOnEnvironmentMapUpdate",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}"
+            },
+            "chipId": "{CCA14EE8-507E-4348-87C7-5D9AD95806EF}",
+            "name": "EnvCubeTexture [out]",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_MIP_LEVELS",
+              "value": 5.0
+            },
+            "chipId": "{21B642FB-A11E-403E-96BF-7A4FA0C5AB4B}",
+            "connections": [{
+                "chipId": "{CCA14EE8-507E-4348-87C7-5D9AD95806EF}",
+                "connection": 0
+              }],
+            "name": "Get Resource Mip Levels",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "sampler": {
+                "filter": "M3D_FILTER_MIN_MAG_MIP_LINEAR",
+                "maxLOD": 3.402820018375656e38,
+                "minLOD": -3.402820018375656e38
+              }
+            },
+            "chipId": "{D947BC53-B5E1-48A9-91F5-CFE6CB51F37F}",
+            "name": "Sampler",
+            "type": "{90A64C01-02F4-4147-8039-827DB1D55180}"
+          }, {
+            "chipData": {
+              "vector": [8.0, 8.0, 6.0, 1.0]
+            },
+            "chipId": "{174D37DA-D2F7-48FD-9E85-71BD8A9C3FE0}",
+            "connections": [{
+                "chipId": "{AC6340D6-81EC-45E0-9BD4-BB229AA2C37C}",
+                "connection": 0
+              }, {
+                "chipId": "{D283D414-68E5-4B9D-A814-9F3EC23ECF74}",
+                "connection": 1
+              }],
+            "name": "Target Size (XYZ)",
+            "recalculation": "Always",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "arraySize": 6,
+              "depth": 1,
+              "fileFormat": 3452816845,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_RENDER_TARGET|M3D_RESOURCE_FLAG_ALLOW_UNORDERED_ACCESS",
+              "format": "M3D_FORMAT_R16G16B16A16_FLOAT",
+              "height": 128,
+              "msCount": 1,
+              "width": 128
+            },
+            "chipId": "{51A3D576-790A-4D28-A8F4-84A1112AA76B}",
+            "name": "TemporaryCubeMap",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "operatorType": "COPY_SUBRESOURCE_REGION"
+            },
+            "chipId": "{E417CA54-5EDA-4AB7-BB4F-7B602D1EFBF4}",
+            "connections": [{
+                "chipId": "{160E7448-4A8B-4B5C-9CAD-549694D4060E}",
+                "connection": 0
+              }, {
+                "chipId": "{F6150CE0-3A23-437A-A3AC-BEF13B70CA49}",
+                "connection": 1
+              }, {
+                "chipId": "{53A809DD-7FE9-458D-8665-57753B9C418A}",
+                "connection": 4
+              }, {
+                "chipId": "{32C75607-C0F0-4205-8343-BCE564A6FF67}",
+                "connection": 5
+              }],
+            "name": "Copy Subresource Region",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {},
+            "chipId": "{B044F883-0CC5-41ED-AE10-4A3FC7EB6A14}",
+            "connections": [{
+                "chipId": "{A5763CE7-3C34-4476-B6B6-17C549BF479A}",
+                "connection": 0
+              }, {
+                "chipId": "{9613DD94-53A2-4250-BB4F-AA67D5A9CA51}",
+                "connection": 1
+              }, {
+                "chipId": "{E417CA54-5EDA-4AB7-BB4F-7B602D1EFBF4}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "For Loop",
+            "type": "{8A21ED60-3163-41E8-8CED-D3F322CCA6CD}"
+          }, {
+            "chipData": {
+              "value": 6.0
+            },
+            "chipId": "{A5763CE7-3C34-4476-B6B6-17C549BF479A}",
+            "name": "Loop Times",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 5.0
+            },
+            "chipId": "{9613DD94-53A2-4250-BB4F-AA67D5A9CA51}",
+            "name": "Current Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{17A1FE74-B336-491C-9828-429A5510D4B6}"
+            },
+            "chipId": "{160E7448-4A8B-4B5C-9CAD-549694D4060E}",
+            "name": "Temp EnvCubeMap [in]",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_CALC_SUBRESOURCE",
+              "value": 40.0
+            },
+            "chipId": "{F6150CE0-3A23-437A-A3AC-BEF13B70CA49}",
+            "connections": [{
+                "chipId": "{7BB08356-D69D-40B5-A643-8E4EA2336175}",
+                "connection": 0
+              }, {
+                "chipId": "{9FE9BEFD-6113-4536-8246-EB1189C01659}",
+                "connection": 1
+              }, {
+                "chipId": "{A83C1C0C-1FE8-44C9-8F2B-C653BE56EB91}",
+                "connection": 2
+              }, {
+                "chipId": "{3101A8E8-F360-4331-AF0E-6A66ED333608}",
+                "connection": 3
+              }, {
+                "chipId": "{E6DEE98E-3446-4DEE-9CE1-1D89078110BD}",
+                "connection": 4
+              }],
+            "name": "Calculate Subresource Index",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {},
+            "chipId": "{7BB08356-D69D-40B5-A643-8E4EA2336175}",
+            "name": "Mip Slice",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{9613DD94-53A2-4250-BB4F-AA67D5A9CA51}"
+            },
+            "chipId": "{9FE9BEFD-6113-4536-8246-EB1189C01659}",
+            "name": "Current Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{A83C1C0C-1FE8-44C9-8F2B-C653BE56EB91}",
+            "name": "Plane Slice",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{17A1FE74-B336-491C-9828-429A5510D4B6}"
+            },
+            "chipId": "{E13B813B-497A-42C1-9A41-E0BEF16F9D96}",
+            "name": "Temp EnvCubeMap [in]",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_MIP_LEVELS",
+              "value": 8.0
+            },
+            "chipId": "{3101A8E8-F360-4331-AF0E-6A66ED333608}",
+            "connections": [{
+                "chipId": "{E13B813B-497A-42C1-9A41-E0BEF16F9D96}",
+                "connection": 0
+              }],
+            "name": "Get Resource Mip Levels",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_ARRAY_SIZE",
+              "value": 6.0
+            },
+            "chipId": "{E6DEE98E-3446-4DEE-9CE1-1D89078110BD}",
+            "connections": [{
+                "chipId": "{E13B813B-497A-42C1-9A41-E0BEF16F9D96}",
+                "connection": 0
+              }],
+            "name": "Get Resource Array size",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "original": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}"
+            },
+            "chipId": "{53A809DD-7FE9-458D-8665-57753B9C418A}",
+            "name": "EnvCubeTexture [out]",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_CALC_SUBRESOURCE",
+              "value": 25.0
+            },
+            "chipId": "{32C75607-C0F0-4205-8343-BCE564A6FF67}",
+            "connections": [{
+                "chipId": "{BC0AC2CB-F582-4EFF-BAA4-445DD0EB7140}",
+                "connection": 0
+              }, {
+                "chipId": "{1B360342-5CEA-4E28-A72C-15F063C34E1E}",
+                "connection": 1
+              }, {
+                "chipId": "{0C9F044D-327D-4372-842E-67F6E9A43DB1}",
+                "connection": 2
+              }, {
+                "chipId": "{F9D3B2E8-A616-41D8-9551-8AB408BC380E}",
+                "connection": 3
+              }, {
+                "chipId": "{CF7AA2CD-218A-4E9F-BD8C-E1EE862DDC1B}",
+                "connection": 4
+              }],
+            "name": "Calculate Subresource Index",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {},
+            "chipId": "{BC0AC2CB-F582-4EFF-BAA4-445DD0EB7140}",
+            "name": "Mip Slice",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{9613DD94-53A2-4250-BB4F-AA67D5A9CA51}"
+            },
+            "chipId": "{1B360342-5CEA-4E28-A72C-15F063C34E1E}",
+            "name": "Current Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{0C9F044D-327D-4372-842E-67F6E9A43DB1}",
+            "name": "Plane Slice",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_MIP_LEVELS",
+              "value": 5.0
+            },
+            "chipId": "{F9D3B2E8-A616-41D8-9551-8AB408BC380E}",
+            "connections": [{
+                "chipId": "{A91FCE46-5AFE-4425-AF28-1A62DD53DFD1}",
+                "connection": 0
+              }],
+            "name": "Get Resource Mip Levels",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_ARRAY_SIZE",
+              "value": 6.0
+            },
+            "chipId": "{CF7AA2CD-218A-4E9F-BD8C-E1EE862DDC1B}",
+            "connections": [{
+                "chipId": "{A91FCE46-5AFE-4425-AF28-1A62DD53DFD1}",
+                "connection": 0
+              }],
+            "name": "Get Resource Array size",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "original": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}"
+            },
+            "chipId": "{A91FCE46-5AFE-4425-AF28-1A62DD53DFD1}",
+            "name": "EnvCubeTexture [out]",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "expression": "a-1",
+              "value": 4.0
+            },
+            "chipId": "{8676B7DF-A321-492E-B572-0C17DBECBCEF}",
+            "connections": [{
+                "chipId": "{21B642FB-A11E-403E-96BF-7A4FA0C5AB4B}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "a-1",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBREnvironment",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "FilterCubemap",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{534E27C4-EF49-4F56-832C-ACE50FBE560F}",
+            "connections": [{
+                "chipId": "{51A3D576-790A-4D28-A8F4-84A1112AA76B}",
+                "connection": 1,
+                "subConnection": 0
+              }, {
+                "chipId": "{262823AC-1F69-422F-9570-DBF8C0D1F930}",
+                "connection": 1,
+                "subConnection": 1
+              }, {
+                "chipId": "{B6408722-911A-46A1-BD5A-A82723E3B1FB}",
+                "connection": 1,
+                "subConnection": 2
+              }],
+            "name": "PBREnvironment->FilterCubemap",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "operatorType": "DESTROY_RESOURCE"
+            },
+            "chipId": "{F570B13B-7AD2-4773-9C2D-E89908C28E8F}",
+            "connections": [{
+                "chipId": "{2ABD4141-A703-4027-A113-0088473EB0BB}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "Destroy Resource",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "original": "{51A3D576-790A-4D28-A8F4-84A1112AA76B}"
+            },
+            "chipId": "{2ABD4141-A703-4027-A113-0088473EB0BB}",
+            "name": "TemporaryCubeMap",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_TEXTURE_PROPS"
+            },
+            "chipId": "{EE4254E5-3975-4424-B620-456E123F37F4}",
+            "connections": [{
+                "chipId": "{51A3D576-790A-4D28-A8F4-84A1112AA76B}",
+                "connection": 0
+              }, {
+                "chipId": "{0BBBAA2A-B660-46CA-AC8A-1DDEA31414A5}",
+                "connection": 1
+              }, {
+                "chipId": "{5CCA26C8-9FFB-4749-A7C6-6225EB7F562B}",
+                "connection": 2
+              }],
+            "name": "Set Texture Properties",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "original": "{262823AC-1F69-422F-9570-DBF8C0D1F930}"
+            },
+            "chipId": "{D0FA42BA-1F80-4B5A-96D8-ACB7AAA1F0F0}",
+            "name": "EnvironmentCubeMap",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_WIDTH",
+              "value": 128.0
+            },
+            "chipId": "{0BBBAA2A-B660-46CA-AC8A-1DDEA31414A5}",
+            "connections": [{
+                "chipId": "{D0FA42BA-1F80-4B5A-96D8-ACB7AAA1F0F0}",
+                "connection": 0
+              }],
+            "name": "Get Resource Width",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOURCE_HEIGHT",
+              "value": 128.0
+            },
+            "chipId": "{5CCA26C8-9FFB-4749-A7C6-6225EB7F562B}",
+            "connections": [{
+                "chipId": "{D0FA42BA-1F80-4B5A-96D8-ACB7AAA1F0F0}",
+                "connection": 0
+              }],
+            "name": "Get Resource Height",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{30DD0F04-45B4-41A8-A573-0F29185EDEE9}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{799532C4-8F24-4754-8457-2EE56890893F}",
+                "x": -347,
+                "y": -2443,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6464587F-56AB-4751-A6A9-F7E512DD7601}",
+                "x": 208,
+                "y": -1734,
+                "objectType": "chip"
+              }, {
+                "chipId": "{49054F04-8E5A-425C-996A-A0992F5C30C6}",
+                "x": 193,
+                "y": -2506,
+                "objectType": "chip"
+              }, {
+                "chipId": "{28D9CA91-1D35-4098-B16F-9034287CC008}",
+                "comment": "Do specular filtering for different roughness levels from mip level 1..",
+                "x": -115,
+                "y": -1030,
+                "objectType": "chip"
+              }, {
+                "chipId": "{37EA2FEF-FBE6-4D56-9732-15D588A181C4}",
+                "x": -552,
+                "y": -1329,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EC2758DC-5602-4EEF-BB0A-EFF2C5BAC4DA}",
+                "x": -384,
+                "y": -1432,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BA445452-717B-4DEC-B44D-3F214BED6858}",
+                "x": 1065,
+                "y": -3541,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BEECF26D-4654-4665-B32C-B5103FBEEC5F}",
+                "x": 783,
+                "y": -3910,
+                "objectType": "chip"
+              }, {
+                "chipId": "{93093FDA-E2CC-4997-9504-9D5F3D33C890}",
+                "x": 928,
+                "y": -3912,
+                "objectType": "chip"
+              }, {
+                "chipId": "{34DDF6DD-1BF0-4BC1-AE17-1BFDA46C3518}",
+                "x": 1073,
+                "y": -3910,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6702F34A-A713-4FBE-86F5-A3A123963EC2}",
+                "x": 1218,
+                "y": -3912,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6145DD43-EB8C-4E06-BCCB-B6B54243FF5E}",
+                "x": 1365,
+                "y": -3912,
+                "objectType": "chip"
+              }, {
+                "chipId": "{52A593E4-A8D6-4028-BFED-81541D7DAFB9}",
+                "x": 1508,
+                "y": -3912,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9D65C39C-1A7D-4437-B0ED-3036F6237D4C}",
+                "x": 1653,
+                "y": -3912,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EB23855A-B555-4436-A768-DDDB13B4E7D3}",
+                "x": 598,
+                "y": -3824,
+                "objectType": "chip"
+              }, {
+                "chipId": "{20AE7D88-6926-4D26-9B5E-1B906351E720}",
+                "x": 185,
+                "y": -2756,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3EC6D657-5E03-4431-B76D-843F33B842DF}",
+                "x": 126,
+                "y": -3034,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E05F7005-A868-4773-9147-D572D98EF1A2}",
+                "x": 257,
+                "y": -3090,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B0AB80DC-F334-49D2-B2AD-7C12EBFAAB96}",
+                "x": 1503,
+                "y": -1338,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F28BADE3-D3F9-4D76-9BA6-CEB4058760FA}",
+                "x": 1866,
+                "y": -974,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3EA687FF-4C21-4ADC-B54B-185C87128520}",
+                "x": 1696,
+                "y": -1405,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8229A33D-513B-4CB3-81FF-03AB7DEF61B9}",
+                "x": 10,
+                "y": -18,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B6408722-911A-46A1-BD5A-A82723E3B1FB}",
+                "x": -3404,
+                "y": -1631,
+                "objectType": "chip"
+              }, {
+                "chipId": "{17A1FE74-B336-491C-9828-429A5510D4B6}",
+                "x": 283,
+                "y": -2276,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E4A8D1C5-C9F0-4AF1-9739-32BE718239C5}",
+                "x": 1862,
+                "y": -1261,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D8514F5A-93B5-48CB-939C-FF2A52F19B7A}",
+                "x": 1261,
+                "y": -4312,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CF033D62-0C15-4211-8D3F-AF661FB0EF42}",
+                "x": 1965,
+                "y": -2100,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ED39654C-90DB-4D4D-AFA7-970B641813FF}",
+                "x": -4164,
+                "y": -2,
+                "objectType": "chip"
+              }, {
+                "chipId": "{262823AC-1F69-422F-9570-DBF8C0D1F930}",
+                "x": -3732,
+                "y": -1633,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4F87665A-5A3A-46B4-BF44-4FC08AE941BF}",
+                "x": -5108,
+                "y": -1466,
+                "objectType": "chip"
+              }, {
+                "chipId": "{15BEC7C8-52B9-4914-B270-563CA2635D98}",
+                "x": -4359,
+                "y": -1183,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2DE4FE24-E801-4A48-B564-BE58C46EA91C}",
+                "x": 1616,
+                "y": -1631,
+                "objectType": "chip"
+              }, {
+                "chipId": "{10E86FA6-021F-4CBF-87AD-07AF948B6FB8}",
+                "x": 1767,
+                "y": -1636,
+                "objectType": "chip"
+              }, {
+                "chipId": "{081668E3-639B-4BEE-9EC2-BF046F8F0663}",
+                "x": -4918,
+                "y": -16,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F3D9E258-6624-4892-BDA1-340A3A4DD2F3}",
+                "x": -5205,
+                "y": -18,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7F6858E4-CFD0-4F73-90E3-DF8CB350ABA3}",
+                "x": -502,
+                "y": -2367,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A8EEC8D2-F880-46BF-BF9A-86802FCCD65C}",
+                "x": 1412,
+                "y": -1231,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AC6340D6-81EC-45E0-9BD4-BB229AA2C37C}",
+                "x": -342,
+                "y": -3129,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D283D414-68E5-4B9D-A814-9F3EC23ECF74}",
+                "x": -196,
+                "y": -3011,
+                "objectType": "chip"
+              }, {
+                "chipId": "{96AE7DD6-5A13-4A94-8F06-E04719B18BD3}",
+                "x": -5104,
+                "y": -887,
+                "objectType": "chip"
+              }, {
+                "chipId": "{37F00D57-AF6C-4863-B0C0-4E3821C80B3C}",
+                "comment": "Trigger if new texture to generate cubemap and filtered versions.",
+                "x": -4126,
+                "y": -283,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CCA14EE8-507E-4348-87C7-5D9AD95806EF}",
+                "x": -575,
+                "y": -2008,
+                "objectType": "chip"
+              }, {
+                "chipId": "{21B642FB-A11E-403E-96BF-7A4FA0C5AB4B}",
+                "x": -574,
+                "y": -1803,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D947BC53-B5E1-48A9-91F5-CFE6CB51F37F}",
+                "x": 888,
+                "y": -2182,
+                "objectType": "chip"
+              }, {
+                "chipId": "{174D37DA-D2F7-48FD-9E85-71BD8A9C3FE0}",
+                "x": -292,
+                "y": -2698,
+                "objectType": "chip"
+              }, {
+                "chipId": "{51A3D576-790A-4D28-A8F4-84A1112AA76B}",
+                "x": -4297,
+                "y": -1641,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E417CA54-5EDA-4AB7-BB4F-7B602D1EFBF4}",
+                "x": -1703,
+                "y": -1571,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B044F883-0CC5-41ED-AE10-4A3FC7EB6A14}",
+                "comment": "Copy first mip level from temporary cube texture.",
+                "x": -1804,
+                "y": -996,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A5763CE7-3C34-4476-B6B6-17C549BF479A}",
+                "x": -2047,
+                "y": -1255,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9613DD94-53A2-4250-BB4F-AA67D5A9CA51}",
+                "x": -1975,
+                "y": -1458,
+                "objectType": "chip"
+              }, {
+                "chipId": "{160E7448-4A8B-4B5C-9CAD-549694D4060E}",
+                "x": -2560,
+                "y": -2282,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F6150CE0-3A23-437A-A3AC-BEF13B70CA49}",
+                "x": -2393,
+                "y": -2432,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7BB08356-D69D-40B5-A643-8E4EA2336175}",
+                "x": -2835,
+                "y": -3282,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9FE9BEFD-6113-4536-8246-EB1189C01659}",
+                "x": -2685,
+                "y": -3184,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A83C1C0C-1FE8-44C9-8F2B-C653BE56EB91}",
+                "x": -2546,
+                "y": -3065,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E13B813B-497A-42C1-9A41-E0BEF16F9D96}",
+                "x": -2305,
+                "y": -3225,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3101A8E8-F360-4331-AF0E-6A66ED333608}",
+                "x": -2406,
+                "y": -2948,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E6DEE98E-3446-4DEE-9CE1-1D89078110BD}",
+                "x": -2241,
+                "y": -2834,
+                "objectType": "chip"
+              }, {
+                "chipId": "{53A809DD-7FE9-458D-8665-57753B9C418A}",
+                "x": -1661,
+                "y": -1991,
+                "objectType": "chip"
+              }, {
+                "chipId": "{32C75607-C0F0-4205-8343-BCE564A6FF67}",
+                "x": -1479,
+                "y": -2116,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BC0AC2CB-F582-4EFF-BAA4-445DD0EB7140}",
+                "x": -1961,
+                "y": -3151,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1B360342-5CEA-4E28-A72C-15F063C34E1E}",
+                "x": -1825,
+                "y": -3060,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0C9F044D-327D-4372-842E-67F6E9A43DB1}",
+                "x": -1715,
+                "y": -2948,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F9D3B2E8-A616-41D8-9551-8AB408BC380E}",
+                "x": -1584,
+                "y": -2828,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CF7AA2CD-218A-4E9F-BD8C-E1EE862DDC1B}",
+                "x": -1419,
+                "y": -2713,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A91FCE46-5AFE-4425-AF28-1A62DD53DFD1}",
+                "x": -1481,
+                "y": -3042,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8676B7DF-A321-492E-B572-0C17DBECBCEF}",
+                "x": -558,
+                "y": -1564,
+                "objectType": "chip"
+              }, {
+                "chipId": "{534E27C4-EF49-4F56-832C-ACE50FBE560F}",
+                "x": -3705,
+                "y": -1171,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F570B13B-7AD2-4773-9C2D-E89908C28E8F}",
+                "x": -3300,
+                "y": -791,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2ABD4141-A703-4027-A113-0088473EB0BB}",
+                "x": -3319,
+                "y": -1044,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EE4254E5-3975-4424-B620-456E123F37F4}",
+                "x": -4753,
+                "y": -1179,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D0FA42BA-1F80-4B5A-96D8-ACB7AAA1F0F0}",
+                "x": -4749,
+                "y": -1933,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0BBBAA2A-B660-46CA-AC8A-1DDEA31414A5}",
+                "x": -4842,
+                "y": -1646,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5CCA26C8-9FFB-4749-A7C6-6225EB7F562B}",
+                "x": -4668,
+                "y": -1647,
+                "objectType": "chip"
+              }],
+            "extent": [-5255, -4362, 2074, 48]
+          }
+        },
+        "id": "{C2EF9200-14A1-4040-BCD6-34798B24BC04}",
+        "inheritance": [],
+        "name": "PBREnvironment",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{B02F98E6-5212-4047-87FA-8EA7F8E2DDF7}",
+            "connections": [{
+                "chipId": "{5BD652D8-9C7C-4152-B565-3ECF9377B871}",
+                "connection": 0
+              }, {
+                "chipId": "{5EF89AA7-2FBD-4AF2-B9FF-D619EF833666}",
+                "connection": 3,
+                "subConnection": 0
+              }, {
+                "chipId": "{4A141124-2553-4B78-BCAD-AA5767060831}",
+                "connection": 4,
+                "subConnection": 0
+              }, {
+                "chipId": "{FD2CB1B4-4689-4B7C-8728-C9402D80548F}",
+                "connection": 4,
+                "subConnection": 1
+              }, {
+                "chipId": "{3829B606-B789-4F4C-AE73-E4297B0856C7}",
+                "connection": 4,
+                "subConnection": 2
+              }, {
+                "chipId": "{2CB8A7F6-C6C0-4F7E-B127-85381952A20D}",
+                "connection": 4,
+                "subConnection": 3
+              }, {
+                "chipId": "{3F4801E3-EFCB-4533-A4AA-838087A6A64E}",
+                "connection": 4,
+                "subConnection": 4
+              }, {
+                "chipId": "{72FE8313-8D75-4A65-A834-41689AF95DCF}",
+                "connection": 4,
+                "subConnection": 5
+              }, {
+                "chipId": "{EBFD61A6-18AF-4B99-B4DA-E6A79A729076}",
+                "connection": 4,
+                "subConnection": 6
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{75C3F522-2CF4-4332-AB6B-3971022BE13F}"
+                }, {
+                  "chipId": "{AAEB7E17-6A63-42DD-9046-93FDB4177A9F}"
+                }],
+              "type": "Static"
+            },
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{75C3F522-2CF4-4332-AB6B-3971022BE13F}",
+            "name": "Environment",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{AAEB7E17-6A63-42DD-9046-93FDB4177A9F}",
+            "name": "MaterialTextures",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBRMaterialTextures",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "AlbedoTexture",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{4A141124-2553-4B78-BCAD-AA5767060831}",
+            "connections": [{
+                "chipId": "{AAEB7E17-6A63-42DD-9046-93FDB4177A9F}",
+                "connection": 0
+              }],
+            "name": "PBRMaterialTextures->AlbedoTexture",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBRMaterialTextures",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "NormalMap",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{FD2CB1B4-4689-4B7C-8728-C9402D80548F}",
+            "connections": [{
+                "chipId": "{AAEB7E17-6A63-42DD-9046-93FDB4177A9F}",
+                "connection": 0
+              }],
+            "name": "PBRMaterialTextures->NormalMap",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBRMaterialTextures",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "MetalnessMap",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{3829B606-B789-4F4C-AE73-E4297B0856C7}",
+            "connections": [{
+                "chipId": "{AAEB7E17-6A63-42DD-9046-93FDB4177A9F}",
+                "connection": 0
+              }],
+            "name": "PBRMaterialTextures->MetalnessMap",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBRMaterialTextures",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "RoughnessMap",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{2CB8A7F6-C6C0-4F7E-B127-85381952A20D}",
+            "connections": [{
+                "chipId": "{AAEB7E17-6A63-42DD-9046-93FDB4177A9F}",
+                "connection": 0
+              }],
+            "name": "PBRMaterialTextures->RoughnessMap",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBREnvironment",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "IrradianceTexture",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{72FE8313-8D75-4A65-A834-41689AF95DCF}",
+            "connections": [{
+                "chipId": "{75C3F522-2CF4-4332-AB6B-3971022BE13F}",
+                "connection": 0
+              }],
+            "name": "PBREnvironment->IrradianceTexture",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBREnvironment",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "EnvironmentCubeMap",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{3F4801E3-EFCB-4533-A4AA-838087A6A64E}",
+            "connections": [{
+                "chipId": "{75C3F522-2CF4-4332-AB6B-3971022BE13F}",
+                "connection": 0
+              }],
+            "name": "PBREnvironment->EnvironmentCubeMap",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{5EF89AA7-2FBD-4AF2-B9FF-D619EF833666}",
+            "connections": [{
+                "chipId": "{B6FB7681-B92F-476F-A9B1-437B2304F0F2}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{A4D47038-CC8C-4016-9393-7B77DCBE8446}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{AE32273D-D41E-420C-9F65-2F7B52CED14F}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "Graphics Buffer",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{AE32273D-D41E-420C-9F65-2F7B52CED14F}",
+            "connections": [{
+                "chipId": "{6C503DE8-9F94-4171-9F6B-244561A84051}",
+                "connection": 0
+              }],
+            "name": "NumLights",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 0
+              }
+            },
+            "chipId": "{5BD652D8-9C7C-4152-B565-3ECF9377B871}",
+            "connections": [{
+                "chipId": "{4D673533-6788-4040-9062-3DB0594F1466}",
+                "connection": 0
+              }, {
+                "chipId": "{FFBADB95-51C0-417A-8BF7-322BED768BFE}",
+                "connection": 1
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {},
+            "chipId": "{FFBADB95-51C0-417A-8BF7-322BED768BFE}",
+            "connections": [{
+                "chipId": "{A5CBB1A8-D074-4BE3-9F1E-C9690645BBE6}",
+                "connection": 0
+              }, {
+                "chipId": "{1A5C1261-EBBE-479B-AE83-77A00408136F}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "47AtQgEAAAA=eJydk79Lw1AQxy9Jf6poLAhaBUtnB+kgCqJt2qYGaqJNqBWHTqI41n+gdHMRR+cOLnZwEFwcdXNxKDg41L9AcNHRe80lfQ1JBAvXd/nm8+5795KUGkrxKL/ZPL//ePh+3Xj7XNa6AgD0ogASrisYA4wnFDWzovcwx1uQwGjD6CfRGo8DXHh0gfQrjy6Sfu3RJdK7Hj3CVkz2DFOzNEMH3ajtFqpgFfRKWbdA0ZzMKjeKhlErwa2BPb+zetTzHdUTuJ5nMB79esYNz349o/7i07M0BdD36Znxfarp6FFOFzk9RrpZb7pjHhi1agmv3Hmd6SylYGommDvlxgA376PDD+4/S4BwiGXUy1V3VhZL5NNEq5Ysj+UCl4tcLlGew5zNcoIjfWVkt+4x4zLyWC5SnsvY+x09wuVRLmczn+IxsBpreDQtsOurKXtlWoc0Ic/+29uzAMkU9aFO08rNO4/BmGwIs0CMEsKkiemEMIvEpOgc/Bjg+gliBK6fIIadrUxeIp3RkO2MmAQx2RAmSYwSwkxgrCPjPI/6HLGeOjmASfeZefqI0fukivb9IUvvgtfrJj3Oer2lf3hLPt7RAG8pxNvv/P7yFny8YwHePMved+fbUem720L8F/ptceE=",
+                    "size": 1452
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "TANGENT",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "BITANGENT",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 5
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "WORLDPOS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "TBASIS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 1,
+                      "semanticName": "TBASIS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 2,
+                      "semanticName": "TBASIS",
+                      "stream": 0
+                    }],
+                  "count": 7
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 69
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n#include <Std>\n\n\n\nstruct ShaderInput\n{\n\tfloat3 position : POSITION;\n\tfloat3 normal : NORMAL;\n\tfloat3 tangent : TANGENT;\n\tfloat3 bitangent : BITANGENT;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nstruct ShaderOutput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat3 worldPosition : WORLDPOS;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n\tfloat3x3 tangentBasis : TBASIS;\n};\n\nShaderOutput main(in ShaderInput IN)\n{\n\tShaderOutput OUT = (ShaderOutput)0;\n\tOUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n\tOUT.worldPosition = mul(float4(IN.position, 1.0), world);\n\tOUT.normal = mul(IN.normal, worldNormalMatrix);\n\tOUT.texcoord0 = IN.texcoord0;\n\tfloat3x3 TBN = float3x3(IN.tangent, IN.bitangent, IN.normal);\n\tOUT.tangentBasis = mul(worldNormalMatrix, transpose(TBN));\n\treturn OUT;\n}"
+            },
+            "chipId": "{A5CBB1A8-D074-4BE3-9F1E-C9690645BBE6}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "30JH5gEAAAA=eJytV71rW1cUP+89vQ8pqS08hKChKO4QMKEYERIj4vgjsmpR13Itx3G6tAmEBg8dnMzBaE+WlgwhQ6Ys6RDStSFQyFYoFEI7dCv0D+jQuee+e37vHZ08uUsvXJ13z/fX/VDvYP3aw183fzh35fDxx798++e5rbtPAiJ6OksUMbzAs8mIHs/B6JPtP3id8sx4viQ/HH8k3yxGP1I5IqGnLPTW4EPR9bPB55N/3hl8TfS8E53AxwofKnwi+NH+lzvD0WBvMNymG8PdrR6vaHu4+9naFu1tHFwbDnd7tLe+NhqMaMgxXhD9Lsa28QExss69W0df37lPL16MNjcOdmaIPmf8d8x0mFFwk033Hy2SHqcE3sw8LRB/Q7Hlxhfsdv8bLweaxgcSVyL4g7Os68GknevXJ2mBxBNU0GAjrKAVtdC0RU+rST1qFbRYahJX6ITviaLdblJ01Gzm/rnvDn9HCl9T37H6djrusHt/t5u5nrscRoPhBqf6iDyuL7r6D1Qlv2oXeXS8Y8P7+F67zL3hnSfvJ3jPsF7kSPPyaMwxr9PRaDaP1yT/3eOyVlLzxrzwtabw1YVvXfgWpvC52DmSdB0+hp4fsMclAW1B4BLzH4ne541JORfvTybev+63i17S8XZ4W3RIeERPuJq7tSozHx53/MZPPzoSW5DH4GOL/Lc/P7zMiuZrKb6W8CGmTyVOjbN5iRQ8KS+RyUukaK4v92PRNed7k32svxK5/lnPk2Cd+bXjgW4nl4iNfB15+H/6O02Xq/FFps0ZXUFRrVKuYaCrBXJg7THMayNnV84XCx090Pjto9eY0gOnwffPrOzH0K+FfxlTfMv3eKLsgdf1Sjl9blTfTEBHG5v4F8oY6zbPkznKeziXD5VO9OuSonUNBC1SOMn7VZdbJVfkEnS1H+pjqQHqou043TNix/K49SU+glwO0yJvk4Pp8Vhqgp7g0ybYEbuJ6HJ0dw7hPnP6IqpFXeHhas6Cvz9efIazK1Ty0/A98QG2Ep+7vPaZ9MpJejlHHzje+gk8hQ7ZE03JGXB1Baf4k8KG1lWv0IW953y/qGjQhTxDLjVydSWXilxq5OYkN9p3vdcz6YWMJvZ6pmh5z5V038vzRhZQ01oGLimbLSOHcxC++ndBuY6p3Cc6VkD0v8aZ/blyknwVzcn9PjtYnTG0oMJupuo2bd9ZnkzZBa2maCS9LXUr6hBKPPpcwxmMviMlo3sW/Yn9gp7KKmiZoSEH+uxIaHru2LfVaf35/dvzl2eUPdiBT7YfEANN+nTKyvO+XsSeRi5jpS81trAXHf5D8TVWcs5Xp+8MA7wl8Y7CWxLvW/Pmy+w7pqoXq+4TTesaqO+vLr1/RxVvibB8S+A+jlVP6bs5+o+eiip6Sr9B0DeoDSnaMqcab2qcLy5n+L+wL2coSTyk4tc43KebcobDfs3o0zWArKtbR+T7gCxT/HdiGZKeQQ51zhJZu/edfl/ZN5Sugc1FqHjIybff53E9mN+zbZ2v45Wr/PkvVH8NtQ==",
+                    "size": 3996
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "WORLDPOS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "TBASIS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 1,
+                      "semanticName": "TBASIS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 2,
+                      "semanticName": "TBASIS",
+                      "stream": 0
+                    }],
+                  "count": 7
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_Target",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 11,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float4x4 view;\nfloat4x4 projection;\nfloat4x4 viewInverse;\nfloat4x4 viewInverseTranspose;\nfloat4x4 projectionInverse;\nfloat4x4 viewProjection;\nfloat4x4 viewProjectionInverse;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std1",
+                        "returnType": 0,
+                        "size": 448,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 4
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "float3 light_direction[4];\nfloat3 light_radiance[4];\nuint num_lights;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "ShadingConstants",
+                        "returnType": 0,
+                        "size": 128,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 7
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "albedoTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "normalTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "metalnessTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 3,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 3,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "roughnessTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 4,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 4,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURECUBE",
+                        "numSamples": 4294967295,
+                        "register": "specularTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 5,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 5,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURECUBE",
+                        "numSamples": 4294967295,
+                        "register": "irradianceTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 6,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 6,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "specularBRDF_LUT",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultLSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 6,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 6,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n\n#include <Std>\n// Physically Based Rendering\n// Copyright (c) 2017-2018 Michał Siejak\n\n// Physically Based shading model: Lambetrtian diffuse BRDF + Cook-Torrance microfacet specular BRDF + IBL for ambient.\n\n// This implementation is based on \"Real Shading in Unreal Engine 4\" SIGGRAPH 2013 course notes by Epic Games.\n// See: http://blog.selfshadow.com/publications/s2013-shading-course/karis/s2013_pbs_epic_notes_v2.pdf\n\nstatic const float PI = 3.141592;\nstatic const float Epsilon = 0.00001;\n\nstatic const uint MAX_LIGHTS = 4;\n\n// Constant normal incidence Fresnel factor for all dielectrics.\nstatic const float3 Fdielectric = 0.04;\n/*\ncbuffer TransformConstants : register(b0)\n{\n\tfloat4x4 viewProjectionMatrix;\n\tfloat4x4 skyProjectionMatrix;\n\tfloat4x4 sceneRotationMatrix;\n};\n*/\ncbuffer ShadingConstants : CBUFFER1\n{\n\tfloat3 light_direction[MAX_LIGHTS];\n\tfloat3 light_radiance[MAX_LIGHTS];\n\tuint num_lights;\n\t//float3 eyePosition;\n};\n\nstruct VertexShaderInput\n{\n\tfloat3 position  : POSITION;\n\tfloat3 normal    : NORMAL;\n\tfloat3 tangent   : TANGENT;\n\tfloat3 bitangent : BITANGENT;\n\tfloat2 texcoord  : TEXCOORD;\n};\nstruct PixelShaderInput\n{\n\tfloat4 pixelPosition : SV_POSITION;\n\tfloat3 position : POSITION;\n\tfloat2 texcoord : TEXCOORD;\n\tfloat3x3 tangentBasis : TBASIS;\n};\n\nstruct ShaderInput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat3 worldPosition : WORLDPOS;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n\tfloat3x3 tangentBasis : TBASIS;\n};\n\n\n\nTexture2D albedoTexture : TEXTURE1;\nTexture2D normalTexture : TEXTURE2;\nTexture2D metalnessTexture : TEXTURE3;\nTexture2D roughnessTexture : TEXTURE4;\nTextureCube specularTexture : TEXTURE5;\nTextureCube irradianceTexture : TEXTURE6;\nTexture2D specularBRDF_LUT : TEXTURE7;\n\n//SamplerState defaultSampler : register(s0);\n//SamplerState spBRDF_Sampler : register(s1);\n\n// GGX/Towbridge-Reitz normal distribution function.\n// Uses Disney's reparametrization of alpha = roughness^2.\nfloat ndfGGX(float cosLh, float roughness)\n{\n\tfloat alpha   = roughness * roughness;\n\tfloat alphaSq = alpha * alpha;\n\n\tfloat denom = (cosLh * cosLh) * (alphaSq - 1.0) + 1.0;\n\treturn alphaSq / (PI * denom * denom);\n}\n\n// Single term for separable Schlick-GGX below.\nfloat gaSchlickG1(float cosTheta, float k)\n{\n\treturn cosTheta / (cosTheta * (1.0 - k) + k);\n}\n\n// Schlick-GGX approximation of geometric attenuation function using Smith's method.\nfloat gaSchlickGGX(float cosLi, float cosLo, float roughness)\n{\n\tfloat r = roughness + 1.0;\n\tfloat k = (r * r) / 8.0; // Epic suggests using this roughness remapping for analytic lights.\n\treturn gaSchlickG1(cosLi, k) * gaSchlickG1(cosLo, k);\n}\n\n// Shlick's approximation of the Fresnel factor.\nfloat3 fresnelSchlick(float3 F0, float cosTheta)\n{\n\treturn F0 + (1.0 - F0) * pow(1.0 - cosTheta, 5.0);\n}\n\n// Returns number of mipmap levels for specular IBL environment map.\nuint querySpecularTextureLevels()\n{\n\tuint width, height, levels;\n\tspecularTexture.GetDimensions(0, width, height, levels);\n\treturn levels;\n}\n/*\n// Vertex shader\nPixelShaderInput main_vs(VertexShaderInput vin)\n{\n\tPixelShaderInput vout;\n\tvout.position = mul(sceneRotationMatrix, float4(vin.position, 1.0)).xyz;\n\tvout.texcoord = float2(vin.texcoord.x, 1.0-vin.texcoord.y);\n\n\t// Pass tangent space basis vectors (for normal mapping).\n\tfloat3x3 TBN = float3x3(vin.tangent, vin.bitangent, vin.normal);\n\tvout.tangentBasis = mul((float3x3)sceneRotationMatrix, transpose(TBN));\n\n\tfloat4x4 mvpMatrix = mul(viewProjectionMatrix, sceneRotationMatrix);\n\tvout.pixelPosition = mul(mvpMatrix, float4(vin.position, 1.0));\n\treturn vout;\n}*/\n\n// Pixel shader\nfloat4 main(in ShaderInput IN) : SV_Target\n{\n\t// Sample input textures to get shading model params.\n\tfloat3 albedo = albedoTexture.Sample(defaultSampler, IN.texcoord0).rgb;\n\tfloat metalness =  metalnessTexture.Sample(defaultSampler, IN.texcoord0).r;\n\tfloat roughness = roughnessTexture.Sample(defaultSampler, IN.texcoord0).r;\n\n\tfloat3 eyePosition = viewInverse[3].xyz;\n\n\t// Outgoing light direction (vector from world-space fragment position to the \"eye\").\n\tfloat3 Lo = normalize(eyePosition - IN.worldPosition);\n\n\t// Get current fragment's normal and transform to world space.\n\n\t// This is for BC5 compression:\n\tfloat2 N2 = 2.0 * normalTexture.Sample(defaultSampler, IN.texcoord0).rg - 1.0;\n\tfloat3 N = normalize(float3(N2, sqrt(1.0-N2.r*N2.r-N2.g*N2.g)));\n\t// This is for uncompressed normal maps:\n\t//float3 N = normalize(2.0 * normalTexture.Sample(defaultSampler, IN.texcoord0).rgb - 1.0);\n\n\tN = normalize(mul(IN.tangentBasis, N));\n\t\n\t// Angle between surface normal and outgoing light direction.\n\tfloat cosLo = max(0.0, dot(N, Lo));\n\t\t\n\t// Specular reflection vector.\n\tfloat3 Lr = 2.0 * cosLo * N - Lo;\n\n\t// Fresnel reflectance at normal incidence (for metals use albedo color).\n\tfloat3 F0 = lerp(Fdielectric, albedo, metalness);\n\n\t// Direct lighting calculation for analytical lights.\n\tfloat3 directLighting = 0.0;\n\tfor(uint i=0; i<num_lights; ++i)\n\t{\n\t\tfloat3 Li = normalize(-light_direction[i]);\n\t\tfloat3 Lradiance = light_radiance[i];\n\n\t\t// Half-vector between Li and Lo.\n\t\tfloat3 Lh = normalize(Li + Lo);\n\n\t\t// Calculate angles between surface normal and various light vectors.\n\t\tfloat cosLi = max(0.0, dot(N, Li));\n\t\tfloat cosLh = max(0.0, dot(N, Lh));\n\n\t\t// Calculate Fresnel term for direct lighting. \n\t\tfloat3 F  = fresnelSchlick(F0, max(0.0, dot(Lh, Lo)));\n\t\t// Calculate normal distribution for specular BRDF.\n\t\tfloat D = ndfGGX(cosLh, roughness);\n\t\t// Calculate geometric attenuation for specular BRDF.\n\t\tfloat G = gaSchlickGGX(cosLi, cosLo, roughness);\n\n\t\t// Diffuse scattering happens due to light being refracted multiple times by a dielectric medium.\n\t\t// Metals on the other hand either reflect or absorb energy, so diffuse contribution is always zero.\n\t\t// To be energy conserving we must scale diffuse BRDF contribution based on Fresnel factor & metalness.\n\t\tfloat3 kd = lerp(float3(1, 1, 1) - F, float3(0, 0, 0), metalness);\n\n\t\t// Lambert diffuse BRDF.\n\t\t// We don't scale by 1/PI for lighting & material units to be more convenient.\n\t\t// See: https://seblagarde.wordpress.com/2012/01/08/pi-or-not-to-pi-in-game-lighting-equation/\n\t\tfloat3 diffuseBRDF = kd * albedo;\n\n\t\t// Cook-Torrance specular microfacet BRDF.\n\t\tfloat3 specularBRDF = (F * D * G) / max(Epsilon, 4.0 * cosLi * cosLo);\n\n\t\t// Total contribution for this light.\n\t\tdirectLighting += (diffuseBRDF + specularBRDF) * Lradiance * cosLi;\n\t}\n\n\t// Ambient lighting (IBL).\n\tfloat3 ambientLighting;\n\t{\n\t\t// Sample diffuse irradiance at normal direction.\n\t\tfloat3 irradiance = irradianceTexture.Sample(defaultSampler, N).rgb;\n\n\t\t// Calculate Fresnel term for ambient lighting.\n\t\t// Since we use pre-filtered cubemap(s) and irradiance is coming from many directions\n\t\t// use cosLo instead of angle with light's half-vector (cosLh above).\n\t\t// See: https://seblagarde.wordpress.com/2011/08/17/hello-world/\n\t\tfloat3 F = fresnelSchlick(F0, cosLo);\n\n\t\t// Get diffuse contribution factor (as with direct lighting).\n\t\tfloat3 kd = lerp(1.0 - F, 0.0, metalness);\n\n\t\t// Irradiance map contains exitant radiance assuming Lambertian BRDF, no need to scale by 1/PI here either.\n\t\tfloat3 diffuseIBL = kd * albedo * irradiance;\n\n\t\t// Sample pre-filtered specular reflection environment at correct mipmap level.\n\t\tuint specularTextureLevels = querySpecularTextureLevels();\n\t\tfloat3 specularIrradiance = specularTexture.SampleLevel(defaultSampler, Lr, roughness * specularTextureLevels).rgb;\n\n\t\t// Split-sum approximation factors for Cook-Torrance specular BRDF.\n\t\tfloat2 specularBRDF = specularBRDF_LUT.Sample(defaultLSampler, float2(cosLo, roughness)).rg;\n\n\t\t// Total specular IBL contribution.\n\t\tfloat3 specularIBL = (F0 * specularBRDF.x + specularBRDF.y) * specularIrradiance;\n\n\t\t// Total ambient lighting contribution.\n\t\tambientLighting = diffuseIBL + specularIBL;\n\t}\n\n\t// Final fragment color.\n\treturn float4(directLighting + ambientLighting, 1.0);\n}"
+            },
+            "chipId": "{1A5C1261-EBBE-479B-AE83-77A00408136F}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "3F5ElwEAAAA=eJydVr9rFFEQnn27a9YV7pIDg1wR44lgjoDmDGHZqBejroq/CRvS2UlII1hbHEklpEwXS7HwnxBsRLCwFASxEqsgJ9ZxZncmmbzbfUUGltk3M++bb957O29vrS3fPD+99Wrx+d/XPxb6n75f/DfhAcDvCMBHPYvPVXwe4HNv5c4jNBdC+rE1Xrl7e20HX55CCBcMwEYE3pszMJbtzYGWPC/1MwDTAwPrqAMc7wIE06jpIQ7XELYH40Wst1TOyfbOHeCsYvxH9p8IDDQAxiT+V1zqjMfz6OvgO+HGCvNFayvtoanFtjaMD25w/jbHl7kH/fsAYcvCSBBXzT2iEfdkh99jSzPmB5q/XOmDvuYVMy/tF16UZ1Pl1vy6rGlt7JiUxwu4zi/xHbcMzBKMyGVM+YR5eoxphEdA5yTwu+zDPQntuJxz23Mp+zbAKarRVzbREpvy3BmFIzaK9RhnU9kEZ6ICx6vBeY+S8376vIa+yuHV+HKUqQpMiZlR83Q+48D8gpLX8DSOGq6gHIdL4ODyB6WOS+Dg0kQ5DpfIwQX2Yb+OS+TggtPAxYXOre1LavjhN3eJvk0Vf9AzxK+/TcGQvnCkHoxpOHhRz+lYHFAiR+6iT1XVor9Lif/W/Lz4ENsnfAWw/br+roXXVHiZ0j77JP9qWNrexaPcda8V3DmVU3q++M5in5F1ma+ph0SvuV5PgNF+WLXmieXTHBKrl9Wdl/ZhjcXYlY/WRNUysp9V+1C1R7GlE77z9Dzx0fmtymmfTVlLU1FvzHa554yqN1X1k/00Qk7xngmW3AMUN4kK76FwyPaMNdYQD3kPsoa+owapft4i9vDn4b9BFpoinuQ6Yv8HWsWK6A==",
+                    "size": 2280
+                  }
+                },
+                "inputParams": {
+                  "count": 0
+                },
+                "outputParams": {
+                  "count": 0
+                },
+                "threadGroupSizeX": 32,
+                "threadGroupSizeY": 32,
+                "threadGroupSizeZ": 1,
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "UAV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "LUT",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_UAV_RWTYPED",
+                        "uFlags": 4,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "CS",
+              "sourceCode": "// Physically Based Rendering\n// Copyright (c) 2017-2018 Michał Siejak\n\n// Pre-integrates Cook-Torrance specular BRDF for varying roughness and viewing directions.\n// Results are saved into 2D LUT texture in the form of DFG1 and DFG2 split-sum approximation terms,\n// which act as a scale and bias to F0 (Fresnel reflectance at normal incidence) during rendering.\n\n#include <Std>\n\nstatic const float PI = 3.141592;\nstatic const float TwoPI = 2 * PI;\nstatic const float Epsilon = 0.001; // This program needs larger eps.\n\nstatic const uint NumSamples = 1024;\nstatic const float InvNumSamples = 1.0 / float(NumSamples);\n\nRWTexture2D<float2> LUT : UAV1;\n\n// Compute Van der Corput radical inverse\n// See: http://holger.dammertz.org/stuff/notes_HammersleyOnHemisphere.html\nfloat radicalInverse_VdC(uint bits)\n{\n\tbits = (bits << 16u) | (bits >> 16u);\n\tbits = ((bits & 0x55555555u) << 1u) | ((bits & 0xAAAAAAAAu) >> 1u);\n\tbits = ((bits & 0x33333333u) << 2u) | ((bits & 0xCCCCCCCCu) >> 2u);\n\tbits = ((bits & 0x0F0F0F0Fu) << 4u) | ((bits & 0xF0F0F0F0u) >> 4u);\n\tbits = ((bits & 0x00FF00FFu) << 8u) | ((bits & 0xFF00FF00u) >> 8u);\n\treturn float(bits) * 2.3283064365386963e-10; // / 0x100000000\n}\n\n// Sample i-th point from Hammersley point set of NumSamples points total.\nfloat2 sampleHammersley(uint i)\n{\n\treturn float2(i * InvNumSamples, radicalInverse_VdC(i));\n}\n\n// Importance sample GGX normal distribution function for a fixed roughness value.\n// This returns normalized half-vector between Li & Lo.\n// For derivation see: http://blog.tobias-franke.eu/2014/03/30/notes_on_importance_sampling.html\nfloat3 sampleGGX(float u1, float u2, float roughness)\n{\n\tfloat alpha = roughness * roughness;\n\n\tfloat cosTheta = sqrt((1.0 - u2) / (1.0 + (alpha*alpha - 1.0) * u2));\n\tfloat sinTheta = sqrt(1.0 - cosTheta*cosTheta); // Trig. identity\n\tfloat phi = TwoPI * u1;\n\n\t// Convert to Cartesian upon return.\n\treturn float3(sinTheta * cos(phi), sinTheta * sin(phi), cosTheta);\n}\n\n// Single term for separable Schlick-GGX below.\nfloat gaSchlickG1(float cosTheta, float k)\n{\n\treturn cosTheta / (cosTheta * (1.0 - k) + k);\n}\n\n// Schlick-GGX approximation of geometric attenuation function using Smith's method (IBL version).\nfloat gaSchlickGGX_IBL(float cosLi, float cosLo, float roughness)\n{\n\tfloat r = roughness;\n\tfloat k = (r * r) / 2.0; // Epic suggests using this roughness remapping for IBL lighting.\n\treturn gaSchlickG1(cosLi, k) * gaSchlickG1(cosLo, k);\n}\n\n[numthreads(32, 32, 1)]\nvoid main(uint2 ThreadID : SV_DispatchThreadID)\n{\n\t// Get output LUT dimensions.\n\tfloat outputWidth, outputHeight;\n\tLUT.GetDimensions(outputWidth, outputHeight);\n\n\t// Get integration parameters.\n\tfloat cosLo = ThreadID.x / outputWidth;\n\tfloat roughness = ThreadID.y / outputHeight;\n\n\t// Make sure viewing angle is non-zero to avoid divisions by zero (and subsequently NaNs).\n\tcosLo = max(cosLo, Epsilon);\n\n\t// Derive tangent-space viewing vector from angle to normal (pointing towards +Z in this reference frame).\n\tfloat3 Lo = float3(sqrt(1.0 - cosLo*cosLo), 0.0, cosLo);\n\n\t// We will now pre-integrate Cook-Torrance BRDF for a solid white environment and save results into a 2D LUT.\n\t// DFG1 & DFG2 are terms of split-sum approximation of the reflectance integral.\n\t// For derivation see: \"Moving Frostbite to Physically Based Rendering 3.0\", SIGGRAPH 2014, section 4.9.2.\n\tfloat DFG1 = 0;\n\tfloat DFG2 = 0;\n\n\tfor(uint i=0; i<NumSamples; ++i) {\n\t\tfloat2 u = sampleHammersley(i);\n\n\t\t// Sample directly in tangent/shading space since we don't care about reference frame as long as it's consistent.\n\t\tfloat3 Lh = sampleGGX(u.x, u.y, roughness);\n\n\t\t// Compute incident direction (Li) by reflecting viewing direction (Lo) around half-vector (Lh).\n\t\tfloat3 Li = 2.0 * dot(Lo, Lh) * Lh - Lo;\n\n\t\tfloat cosLi   = Li.z;\n\t\tfloat cosLh   = Lh.z;\n\t\tfloat cosLoLh = max(dot(Lo, Lh), 0.0);\n\n\t\tif(cosLi > 0.0) {\n\t\t\tfloat G  = gaSchlickGGX_IBL(cosLi, cosLo, roughness);\n\t\t\tfloat Gv = G * cosLoLh / (cosLh * cosLo);\n\t\t\tfloat Fc = pow(1.0 - cosLoLh, 5);\n\n\t\t\tDFG1 += (1 - Fc) * Gv;\n\t\t\tDFG2 += Fc * Gv;\n\t\t}\n\t}\n\n\tLUT[ThreadID] = float2(DFG1, DFG2) * InvNumSamples;\n}"
+            },
+            "chipId": "{E76C27CA-9E5A-416C-95CC-ADBC0204DEDB}",
+            "name": "Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{3F588753-7102-46AC-8B02-35CF3E47FC41}",
+            "connections": [{
+                "chipId": "{6F5BBF54-CBB3-419F-9630-69D4368143D2}",
+                "connection": 0
+              }, {
+                "chipId": "{E76C27CA-9E5A-416C-95CC-ADBC0204DEDB}",
+                "connection": 1
+              }, {
+                "chipId": "{48C6D0B5-667B-4345-BDB0-F48A8A25ECFD}",
+                "connection": 2
+              }, {
+                "chipId": "{5AE36745-A638-435A-80B7-64D4FDBE5159}",
+                "connection": 5,
+                "subConnection": 0
+              }],
+            "name": "Compute",
+            "type": "{1F0E0DFA-C361-4512-9A62-E9F067B9B31F}"
+          }, {
+            "chipData": {
+              "vector": [128.0, 128.0, 1.0, 1.0]
+            },
+            "chipId": "{48C6D0B5-667B-4345-BDB0-F48A8A25ECFD}",
+            "connections": [{
+                "chipId": "{9BAE9A75-817E-4CAA-BC6C-B175A9E33100}",
+                "connection": 0
+              }, {
+                "chipId": "{0AF12332-25E2-4769-BDBE-9BE10BFF01AA}",
+                "connection": 1
+              }],
+            "name": "Target Size (XYZ)",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "fileFormat": 3452816845,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_UNORDERED_ACCESS",
+              "format": "M3D_FORMAT_R32G32_FLOAT",
+              "height": 128,
+              "mipLevels": 1,
+              "msCount": 1,
+              "width": 128
+            },
+            "chipId": "{5AE36745-A638-435A-80B7-64D4FDBE5159}",
+            "name": "SpecularBRDF_LUT",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {},
+            "chipId": "{9EC22CD0-8D92-4530-A324-4C90FD4F4D2F}",
+            "connections": [{
+                "chipId": "{DC6C4D2C-7746-4339-BDE8-2A293E7A6478}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Static"
+            },
+            "name": "Init",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "original": "{5AE36745-A638-435A-80B7-64D4FDBE5159}"
+            },
+            "chipId": "{EBFD61A6-18AF-4B99-B4DA-E6A79A729076}",
+            "name": "SpecularBRDF_LUT",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_WIDTH",
+              "value": 128.0
+            },
+            "chipId": "{9BAE9A75-817E-4CAA-BC6C-B175A9E33100}",
+            "connections": [{
+                "chipId": "{5AE36745-A638-435A-80B7-64D4FDBE5159}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Width",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_HEIGHT",
+              "value": 128.0
+            },
+            "chipId": "{0AF12332-25E2-4769-BDBE-9BE10BFF01AA}",
+            "connections": [{
+                "chipId": "{5AE36745-A638-435A-80B7-64D4FDBE5159}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Height",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{6F5BBF54-CBB3-419F-9630-69D4368143D2}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{4D673533-6788-4040-9062-3DB0594F1466}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBREnvironment",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "LightsDirection",
+              "preload": true,
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{B6FB7681-B92F-476F-A9B1-437B2304F0F2}",
+            "connections": [{
+                "chipId": "{75C3F522-2CF4-4332-AB6B-3971022BE13F}",
+                "connection": 0
+              }],
+            "name": "PBREnvironment->LightsDirection",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "PBREnvironment",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\PBR.m3j",
+              "functionName": "LightsRadiance",
+              "preload": true,
+              "type": "{0E4D3696-7D90-4911-B2B9-F25E0E1C3623}"
+            },
+            "chipId": "{A4D47038-CC8C-4016-9393-7B77DCBE8446}",
+            "connections": [{
+                "chipId": "{75C3F522-2CF4-4332-AB6B-3971022BE13F}",
+                "connection": 0
+              }],
+            "name": "PBREnvironment->LightsRadiance",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{6C503DE8-9F94-4171-9F6B-244561A84051}",
+            "connections": [{
+                "chipId": "{B6FB7681-B92F-476F-A9B1-437B2304F0F2}",
+                "connection": 0
+              }],
+            "name": "Value",
+            "type": "{C7EA46EB-2613-4652-8763-5E86BA1F2794}"
+          }, {
+            "chipData": {},
+            "chipId": "{DC6C4D2C-7746-4339-BDE8-2A293E7A6478}",
+            "connections": [{
+                "chipId": "{3F588753-7102-46AC-8B02-35CF3E47FC41}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "Caller",
+            "recalculation": "Once",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{A592F9B5-1295-4526-860D-B778E67A50B8}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{B02F98E6-5212-4047-87FA-8EA7F8E2DDF7}",
+                "x": 19,
+                "y": -6,
+                "objectType": "chip"
+              }, {
+                "chipId": "{75C3F522-2CF4-4332-AB6B-3971022BE13F}",
+                "x": 273,
+                "y": -2085,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AAEB7E17-6A63-42DD-9046-93FDB4177A9F}",
+                "x": 257,
+                "y": -1397,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4A141124-2553-4B78-BCAD-AA5767060831}",
+                "x": 89,
+                "y": -843,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FD2CB1B4-4689-4B7C-8728-C9402D80548F}",
+                "x": 225,
+                "y": -939,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3829B606-B789-4F4C-AE73-E4297B0856C7}",
+                "x": 358,
+                "y": -1024,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2CB8A7F6-C6C0-4F7E-B127-85381952A20D}",
+                "x": 492,
+                "y": -1129,
+                "objectType": "chip"
+              }, {
+                "chipId": "{72FE8313-8D75-4A65-A834-41689AF95DCF}",
+                "x": 828,
+                "y": -1312,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3F4801E3-EFCB-4533-A4AA-838087A6A64E}",
+                "x": 657,
+                "y": -1236,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5EF89AA7-2FBD-4AF2-B9FF-D619EF833666}",
+                "x": -256,
+                "y": -895,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AE32273D-D41E-420C-9F65-2F7B52CED14F}",
+                "x": -87,
+                "y": -1131,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5BD652D8-9C7C-4152-B565-3ECF9377B871}",
+                "x": -767,
+                "y": -685,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FFBADB95-51C0-417A-8BF7-322BED768BFE}",
+                "x": -711,
+                "y": -1006,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A5CBB1A8-D074-4BE3-9F1E-C9690645BBE6}",
+                "x": -787,
+                "y": -1227,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1A5C1261-EBBE-479B-AE83-77A00408136F}",
+                "x": -632,
+                "y": -1220,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E76C27CA-9E5A-416C-95CC-ADBC0204DEDB}",
+                "x": -3282,
+                "y": -1080,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3F588753-7102-46AC-8B02-35CF3E47FC41}",
+                "x": -3010,
+                "y": -613,
+                "objectType": "chip"
+              }, {
+                "chipId": "{48C6D0B5-667B-4345-BDB0-F48A8A25ECFD}",
+                "x": -3103,
+                "y": -1181,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5AE36745-A638-435A-80B7-64D4FDBE5159}",
+                "x": -2861,
+                "y": -1898,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9EC22CD0-8D92-4530-A324-4C90FD4F4D2F}",
+                "x": -2986,
+                "y": -4,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EBFD61A6-18AF-4B99-B4DA-E6A79A729076}",
+                "x": 496,
+                "y": -451,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9BAE9A75-817E-4CAA-BC6C-B175A9E33100}",
+                "x": -3182,
+                "y": -1536,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0AF12332-25E2-4769-BDBE-9BE10BFF01AA}",
+                "x": -3032,
+                "y": -1422,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6F5BBF54-CBB3-419F-9630-69D4368143D2}",
+                "x": -3414,
+                "y": -990,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4D673533-6788-4040-9062-3DB0594F1466}",
+                "x": -911,
+                "y": -924,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B6FB7681-B92F-476F-A9B1-437B2304F0F2}",
+                "x": -328,
+                "y": -1772,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A4D47038-CC8C-4016-9393-7B77DCBE8446}",
+                "x": -163,
+                "y": -1677,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6C503DE8-9F94-4171-9F6B-244561A84051}",
+                "x": -89,
+                "y": -1335,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DC6C4D2C-7746-4339-BDE8-2A293E7A6478}",
+                "x": -2993,
+                "y": -255,
+                "objectType": "chip"
+              }],
+            "extent": [-3499, -2135, 913, 46]
+          }
+        },
+        "id": "{D81AA5BD-928A-4B35-99C5-D41DE3BD8B7B}",
+        "inheritance": [],
+        "name": "PBRMaterial",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{00000000-0000-0000-0000-000000000000}",
+    "version": "1.2.7.0"
+  }
+}

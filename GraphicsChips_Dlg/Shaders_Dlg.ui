@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Shaders_Dlg</class>
+ <widget class="QWidget" name="Shaders_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1127</width>
+    <height>903</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <widget class="QSplitter" name="splitter">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <widget class="QWidget" name="">
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <widget class="QTabWidget" name="tabWidget_shaderPages">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Minimum">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>16777215</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="currentIndex">
+          <number>0</number>
+         </property>
+         <property name="documentMode">
+          <bool>true</bool>
+         </property>
+         <widget class="QWidget" name="tab_std">
+          <attribute name="title">
+           <string>Std</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_common">
+          <attribute name="title">
+           <string>Common</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_vs">
+          <attribute name="title">
+           <string>VS</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_hs">
+          <attribute name="title">
+           <string>HS</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_ds">
+          <attribute name="title">
+           <string>DS</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_gs">
+          <attribute name="title">
+           <string>GS</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_ps">
+          <attribute name="title">
+           <string>PS</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_cs">
+          <attribute name="title">
+           <string>CS</string>
+          </attribute>
+         </widget>
+         <widget class="QWidget" name="tab_shaders">
+          <attribute name="title">
+           <string>Shaders</string>
+          </attribute>
+         </widget>
+        </widget>
+       </item>
+       <item>
+        <widget class="CodeEditor" name="plainTextEdit_editor">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout">
+         <item>
+          <widget class="QPushButton" name="pushButton_undo">
+           <property name="enabled">
+            <bool>false</bool>
+           </property>
+           <property name="focusPolicy">
+            <enum>Qt::NoFocus</enum>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset resource="D3DChips_Dlg.qrc">
+             <normaloff>:/D3DChips_Dlg/Resources/Edit_UndoHS.png</normaloff>:/D3DChips_Dlg/Resources/Edit_UndoHS.png</iconset>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="pushButton_redo">
+           <property name="enabled">
+            <bool>false</bool>
+           </property>
+           <property name="focusPolicy">
+            <enum>Qt::NoFocus</enum>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+           <property name="icon">
+            <iconset resource="D3DChips_Dlg.qrc">
+             <normaloff>:/D3DChips_Dlg/Resources/Edit_RedoHS.png</normaloff>:/D3DChips_Dlg/Resources/Edit_RedoHS.png</iconset>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <spacer name="horizontalSpacer">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_line">
+           <property name="minimumSize">
+            <size>
+             <width>60</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="text">
+            <string>Ln 1</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QLabel" name="label_character">
+           <property name="minimumSize">
+            <size>
+             <width>60</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="text">
+            <string>Ch 1</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QPlainTextEdit" name="plainTextEdit_msg">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </widget>
+   </item>
+   <item>
+    <widget class="QWidget" name="widget_2" native="true">
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>16777215</height>
+      </size>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_4">
+      <property name="leftMargin">
+       <number>3</number>
+      </property>
+      <property name="topMargin">
+       <number>0</number>
+      </property>
+      <property name="rightMargin">
+       <number>0</number>
+      </property>
+      <property name="bottomMargin">
+       <number>0</number>
+      </property>
+      <item row="0" column="0" colspan="3">
+       <layout class="QHBoxLayout" name="horizontalLayout_2">
+        <item>
+         <widget class="QLabel" name="label_2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Compile</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="Line" name="line_3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="0">
+       <layout class="QVBoxLayout" name="verticalLayout_5">
+        <item>
+         <layout class="QGridLayout" name="gridLayout_3">
+          <item row="0" column="1">
+           <widget class="QComboBox" name="comboBox_flowControl">
+            <item>
+             <property name="text">
+              <string>Default Flow Control</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Prefer Flow Control</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Avoid Flow Control</string>
+             </property>
+            </item>
+           </widget>
+          </item>
+          <item row="0" column="0">
+           <widget class="QComboBox" name="comboBox_optimization">
+            <property name="currentIndex">
+             <number>1</number>
+            </property>
+            <item>
+             <property name="text">
+              <string>Disable Optimizations</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Optimization Level 0</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Optimization Level 1</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Optimization Level 2</string>
+             </property>
+            </item>
+            <item>
+             <property name="text">
+              <string>Optimization Level 3</string>
+             </property>
+            </item>
+           </widget>
+          </item>
+          <item row="1" column="0">
+           <widget class="QCheckBox" name="checkBox_debug">
+            <property name="text">
+             <string>Debug Compile</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="1">
+           <widget class="QCheckBox" name="checkBox_forceHalf">
+            <property name="text">
+             <string>Force Half Precision</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="1">
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>66</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="1" column="2">
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <widget class="QPushButton" name="pushButton_compile">
+          <property name="text">
+           <string>Compile</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="verticalSpacer_4">
+          <property name="orientation">
+           <enum>Qt::Vertical</enum>
+          </property>
+          <property name="sizeType">
+           <enum>QSizePolicy::Minimum</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>20</width>
+            <height>40</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>CodeEditor</class>
+   <extends>QPlainTextEdit</extends>
+   <header>codeeditor.h</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>plainTextEdit_msg</tabstop>
+  <tabstop>comboBox_optimization</tabstop>
+  <tabstop>checkBox_debug</tabstop>
+  <tabstop>comboBox_flowControl</tabstop>
+  <tabstop>checkBox_forceHalf</tabstop>
+  <tabstop>pushButton_compile</tabstop>
+ </tabstops>
+ <resources>
+  <include location="D3DChips_Dlg.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>plainTextEdit_editor</sender>
+   <signal>undoAvailable(bool)</signal>
+   <receiver>pushButton_undo</receiver>
+   <slot>setEnabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>292</x>
+     <y>167</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>26</x>
+     <y>314</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>plainTextEdit_editor</sender>
+   <signal>redoAvailable(bool)</signal>
+   <receiver>pushButton_redo</receiver>
+   <slot>setEnabled(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>292</x>
+     <y>167</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>60</x>
+     <y>314</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_undo</sender>
+   <signal>clicked()</signal>
+   <receiver>plainTextEdit_editor</receiver>
+   <slot>undo()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>26</x>
+     <y>314</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>292</x>
+     <y>167</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_redo</sender>
+   <signal>clicked()</signal>
+   <receiver>plainTextEdit_editor</receiver>
+   <slot>redo()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>60</x>
+     <y>314</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>292</x>
+     <y>167</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>tabWidget_shaderPages</sender>
+   <signal>currentChanged(int)</signal>
+   <receiver>Shaders_Dlg</receiver>
+   <slot>shaderPageChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>416</x>
+     <y>43</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>416</x>
+     <y>321</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>plainTextEdit_editor</sender>
+   <signal>cursorPositionChanged()</signal>
+   <receiver>Shaders_Dlg</receiver>
+   <slot>onCursorPositionChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>416</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>416</x>
+     <y>321</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_compile</sender>
+   <signal>clicked()</signal>
+   <receiver>Shaders_Dlg</receiver>
+   <slot>onCompile()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>770</x>
+     <y>500</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>416</x>
+     <y>321</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>plainTextEdit_editor</sender>
+   <signal>textChanged()</signal>
+   <receiver>Shaders_Dlg</receiver>
+   <slot>editorUpdated()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>467</x>
+     <y>125</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>467</x>
+     <y>362</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>shaderPageChanged()</slot>
+  <slot>onCursorPositionChanged()</slot>
+  <slot>onCompile()</slot>
+  <slot>editorUpdated()</slot>
+ </slots>
+</ui>

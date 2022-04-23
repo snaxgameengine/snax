@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GraphicsState_Dlg2</class>
+ <widget class="QWidget" name="GraphicsState_Dlg2">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>959</width>
+    <height>549</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_6">
+   <item row="0" column="0">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <property name="spacing">
+        <number>15</number>
+       </property>
+       <item>
+        <widget class="QGroupBox" name="groupBox">
+         <property name="title">
+          <string>Rasterizer State</string>
+         </property>
+         <layout class="QGridLayout" name="gridLayout">
+          <item row="0" column="0">
+           <widget class="QLabel" name="label_fillMode">
+            <property name="minimumSize">
+             <size>
+              <width>145</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Fill Mode:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QComboBox" name="comboBox_fillMode"/>
+          </item>
+          <item row="1" column="0">
+           <widget class="QLabel" name="label_cullMode">
+            <property name="text">
+             <string>Cull Mode:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="1">
+           <widget class="QComboBox" name="comboBox_cullMode"/>
+          </item>
+          <item row="2" column="0">
+           <widget class="QLabel" name="label_frontCounterClockwise">
+            <property name="font">
+             <font>
+              <weight>50</weight>
+              <bold>false</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Front Counter Clockwise:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="2" column="1">
+           <widget class="QComboBox" name="comboBox_frontCounterClockwise"/>
+          </item>
+          <item row="3" column="0">
+           <widget class="QLabel" name="label_depthBias">
+            <property name="text">
+             <string>Depth Bias:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="4" column="0">
+           <widget class="QLabel" name="label_depthBiasClamp">
+            <property name="text">
+             <string>Depth Bias Clamp:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="5" column="0">
+           <widget class="QLabel" name="label_slopeScaledDepthBias">
+            <property name="text">
+             <string>Slope Scaled Depth Bias:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="6" column="0">
+           <widget class="QLabel" name="label_depthClipEnable">
+            <property name="text">
+             <string>Depth Clip Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="6" column="1">
+           <widget class="QComboBox" name="comboBox_depthClipEnable"/>
+          </item>
+          <item row="7" column="0">
+           <widget class="QLabel" name="label_multisampleEnable">
+            <property name="text">
+             <string>Multisample Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="7" column="1">
+           <widget class="QComboBox" name="comboBox_multisampleEnable"/>
+          </item>
+          <item row="8" column="0">
+           <widget class="QLabel" name="label_antialiasedLineEnable">
+            <property name="text">
+             <string>Antialiased Line Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="8" column="1">
+           <widget class="QComboBox" name="comboBox_antialiasedLineEnable"/>
+          </item>
+          <item row="9" column="0">
+           <widget class="QLabel" name="label_forcedSampleCount">
+            <property name="text">
+             <string>Forced Sample Count:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="9" column="1">
+           <widget class="QComboBox" name="comboBox_forcedSampleCount"/>
+          </item>
+          <item row="10" column="0">
+           <widget class="QLabel" name="label_conservativeRaster">
+            <property name="text">
+             <string>Conservative Raster:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="10" column="1">
+           <widget class="QComboBox" name="comboBox_conservativeRaster"/>
+          </item>
+          <item row="3" column="1">
+           <widget class="QLineEdit" name="lineEdit_depthBias">
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item row="4" column="1">
+           <widget class="QLineEdit" name="lineEdit_depthBiasClamp">
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item row="5" column="1">
+           <widget class="QLineEdit" name="lineEdit_slopeScaledDepthBias">
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+            <property name="clearButtonEnabled">
+             <bool>false</bool>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <spacer name="verticalSpacer_2">
+         <property name="orientation">
+          <enum>Qt::Vertical</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>20</width>
+           <height>40</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item>
+        <widget class="QCheckBox" name="checkBox_showInherited">
+         <property name="text">
+          <string>Show Inherited Values when Available</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_3">
+       <item>
+        <widget class="QGroupBox" name="groupBox_2">
+         <property name="title">
+          <string>Depth Stencil State</string>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_2">
+          <item row="0" column="0">
+           <widget class="QLabel" name="label_depthEnable">
+            <property name="minimumSize">
+             <size>
+              <width>165</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Depth Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QComboBox" name="comboBox_depthEnable"/>
+          </item>
+          <item row="1" column="0">
+           <widget class="QLabel" name="label_depthWriteMask">
+            <property name="text">
+             <string>Depth Write Mask:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="1">
+           <widget class="QComboBox" name="comboBox_depthWriteMask"/>
+          </item>
+          <item row="2" column="0">
+           <widget class="QLabel" name="label_depthComparisonFunc">
+            <property name="text">
+             <string>Depth Function:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="2" column="1">
+           <widget class="QComboBox" name="comboBox_depthComparisonFunction"/>
+          </item>
+          <item row="3" column="0">
+           <widget class="QLabel" name="label_stencilEnable">
+            <property name="text">
+             <string>Stencil Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="3" column="1">
+           <widget class="QComboBox" name="comboBox_stencilEnable"/>
+          </item>
+          <item row="4" column="0">
+           <widget class="QLabel" name="label_stencilReadMask">
+            <property name="text">
+             <string>Stencil Read Mask:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="4" column="1">
+           <widget class="QLineEdit" name="lineEdit_stencilReadMask">
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item row="5" column="0">
+           <widget class="QLabel" name="label_stencilWriteMask">
+            <property name="text">
+             <string>Stencil Write Mask:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="5" column="1">
+           <widget class="QLineEdit" name="lineEdit_stencilWriteMask">
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item row="6" column="0" colspan="2">
+           <layout class="QHBoxLayout" name="horizontalLayout">
+            <property name="topMargin">
+             <number>15</number>
+            </property>
+            <item>
+             <widget class="QLabel" name="label_18">
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="text">
+               <string>Front Face</string>
+              </property>
+              <property name="alignment">
+               <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="Line" name="line_2">
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="orientation">
+               <enum>Qt::Horizontal</enum>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item row="7" column="0">
+           <widget class="QLabel" name="label_ff_stencilFunc">
+            <property name="text">
+             <string>Stencil Function:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="7" column="1">
+           <widget class="QComboBox" name="comboBox_ff_stencilFunction"/>
+          </item>
+          <item row="8" column="0">
+           <widget class="QLabel" name="label_ff_stencilPassOp">
+            <property name="text">
+             <string>Stencil Pass Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="8" column="1">
+           <widget class="QComboBox" name="comboBox_ff_stencilPassOp"/>
+          </item>
+          <item row="9" column="0">
+           <widget class="QLabel" name="label_ff_stencilFailOp">
+            <property name="text">
+             <string>Stencil Fail Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="9" column="1">
+           <widget class="QComboBox" name="comboBox_ff_stencilFailOp"/>
+          </item>
+          <item row="10" column="0">
+           <widget class="QLabel" name="label_ff_depthFailOp">
+            <property name="font">
+             <font>
+              <weight>50</weight>
+              <bold>false</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Stencil Depth Fail Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="10" column="1">
+           <widget class="QComboBox" name="comboBox_ff_stencilDepthFailOp"/>
+          </item>
+          <item row="11" column="0" colspan="2">
+           <layout class="QHBoxLayout" name="horizontalLayout_3">
+            <property name="topMargin">
+             <number>15</number>
+            </property>
+            <item>
+             <widget class="QLabel" name="label_19">
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Minimum" vsizetype="Minimum">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="text">
+               <string>Back Face</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="Line" name="line_3">
+              <property name="sizePolicy">
+               <sizepolicy hsizetype="Expanding" vsizetype="Minimum">
+                <horstretch>0</horstretch>
+                <verstretch>0</verstretch>
+               </sizepolicy>
+              </property>
+              <property name="orientation">
+               <enum>Qt::Horizontal</enum>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item row="12" column="0">
+           <widget class="QLabel" name="label_bf_stencilFunc">
+            <property name="text">
+             <string>Stencil Function:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="12" column="1">
+           <widget class="QComboBox" name="comboBox_bf_stencilFunction"/>
+          </item>
+          <item row="13" column="0">
+           <widget class="QLabel" name="label_bf_stencilPassOp">
+            <property name="text">
+             <string>Stencil Pass Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="13" column="1">
+           <widget class="QComboBox" name="comboBox_bf_stencilPassOp"/>
+          </item>
+          <item row="14" column="0">
+           <widget class="QLabel" name="label_bf_stencilFailOp">
+            <property name="text">
+             <string>Stencil Fail Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="14" column="1">
+           <widget class="QComboBox" name="comboBox_bf_stencilFailOp"/>
+          </item>
+          <item row="15" column="0">
+           <widget class="QLabel" name="label_bf_stencilDepthFailOp">
+            <property name="text">
+             <string>Stencil Depth Fail Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="15" column="1">
+           <widget class="QComboBox" name="comboBox_bf_stencilDepthFailOp"/>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <spacer name="verticalSpacer_5">
+         <property name="orientation">
+          <enum>Qt::Vertical</enum>
+         </property>
+         <property name="sizeType">
+          <enum>QSizePolicy::Expanding</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>20</width>
+           <height>0</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_2">
+       <item>
+        <widget class="QGroupBox" name="groupBox_3">
+         <property name="title">
+          <string>Blend State</string>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_4">
+          <item row="9" column="0">
+           <widget class="QLabel" name="label_blendOp">
+            <property name="text">
+             <string>Blend Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="18" column="0">
+           <widget class="QLabel" name="label_logicOpEnable">
+            <property name="text">
+             <string>Logic Operation Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="18" column="1">
+           <widget class="QComboBox" name="comboBox_logicOpEnable"/>
+          </item>
+          <item row="9" column="1">
+           <widget class="QComboBox" name="comboBox_blendOp"/>
+          </item>
+          <item row="7" column="0">
+           <widget class="QLabel" name="label_blendEnable">
+            <property name="text">
+             <string>Blend Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="0">
+           <widget class="QLabel" name="label_atocEnable">
+            <property name="minimumSize">
+             <size>
+              <width>155</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="font">
+             <font>
+              <weight>50</weight>
+              <bold>false</bold>
+             </font>
+            </property>
+            <property name="text">
+             <string>Alpha to Coverage Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="11" column="0">
+           <widget class="QLabel" name="label_destBlend">
+            <property name="text">
+             <string>Destination Blend:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="20" column="0">
+           <widget class="QLabel" name="label_renderTargetWriteMask">
+            <property name="text">
+             <string>Render Target Write Mask:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="1">
+           <widget class="QComboBox" name="comboBox_atocEnable"/>
+          </item>
+          <item row="2" column="1">
+           <widget class="QComboBox" name="comboBox_independentBlendEnable"/>
+          </item>
+          <item row="7" column="1">
+           <widget class="QComboBox" name="comboBox_blendEnable"/>
+          </item>
+          <item row="14" column="1">
+           <widget class="QComboBox" name="comboBox_srcBlendAlpha"/>
+          </item>
+          <item row="20" column="1">
+           <widget class="QComboBox" name="comboBox_renderTargetWriteMask"/>
+          </item>
+          <item row="5" column="0" colspan="2">
+           <widget class="Line" name="line">
+            <property name="minimumSize">
+             <size>
+              <width>0</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="orientation">
+             <enum>Qt::Horizontal</enum>
+            </property>
+           </widget>
+          </item>
+          <item row="10" column="0">
+           <widget class="QLabel" name="label_srcBlend">
+            <property name="text">
+             <string>Source Blend:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="11" column="1">
+           <widget class="QComboBox" name="comboBox_destBlend"/>
+          </item>
+          <item row="15" column="0">
+           <widget class="QLabel" name="label_destBlendAlpha">
+            <property name="text">
+             <string>Destination Blend Alpha:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="10" column="1">
+           <widget class="QComboBox" name="comboBox_sourceBlend"/>
+          </item>
+          <item row="14" column="0">
+           <widget class="QLabel" name="label_srcBlendAlpha">
+            <property name="text">
+             <string>Source Blend Alpha:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="15" column="1">
+           <widget class="QComboBox" name="comboBox_destBlendAlpha"/>
+          </item>
+          <item row="2" column="0">
+           <widget class="QLabel" name="label_independentBlendEnable">
+            <property name="text">
+             <string>Independent Blend Enable:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="3" column="0">
+           <widget class="QLabel" name="label_sampleMask">
+            <property name="text">
+             <string>Sample Mask:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="6" column="0">
+           <widget class="QLabel" name="label_renderTarget">
+            <property name="text">
+             <string>Render Target:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="6" column="1">
+           <layout class="QGridLayout" name="gridLayout_3">
+            <property name="topMargin">
+             <number>0</number>
+            </property>
+            <property name="rightMargin">
+             <number>0</number>
+            </property>
+            <property name="horizontalSpacing">
+             <number>20</number>
+            </property>
+            <item row="0" column="0">
+             <widget class="QRadioButton" name="radioButton_rt1">
+              <property name="minimumSize">
+               <size>
+                <width>30</width>
+                <height>0</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>1</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+            <item row="0" column="1">
+             <widget class="QRadioButton" name="radioButton_rt2">
+              <property name="minimumSize">
+               <size>
+                <width>30</width>
+                <height>0</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>2</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+            <item row="0" column="2">
+             <widget class="QRadioButton" name="radioButton_rt3">
+              <property name="minimumSize">
+               <size>
+                <width>30</width>
+                <height>0</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>3</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+            <item row="0" column="3">
+             <widget class="QRadioButton" name="radioButton_rt4">
+              <property name="minimumSize">
+               <size>
+                <width>30</width>
+                <height>0</height>
+               </size>
+              </property>
+              <property name="text">
+               <string>4</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+            <item row="1" column="0">
+             <widget class="QRadioButton" name="radioButton_rt5">
+              <property name="text">
+               <string>5</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+            <item row="1" column="1">
+             <widget class="QRadioButton" name="radioButton_rt6">
+              <property name="text">
+               <string>6</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+            <item row="1" column="2">
+             <widget class="QRadioButton" name="radioButton_rt7">
+              <property name="text">
+               <string>7</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+            <item row="1" column="3">
+             <widget class="QRadioButton" name="radioButton_rt8">
+              <property name="text">
+               <string>8</string>
+              </property>
+              <attribute name="buttonGroup">
+               <string notr="true">buttonGroup_rt</string>
+              </attribute>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item row="19" column="0">
+           <widget class="QLabel" name="label_logicOp">
+            <property name="text">
+             <string>Logic Operation:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="3" column="1">
+           <widget class="QLineEdit" name="lineEdit_sampleMask">
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item row="19" column="1">
+           <widget class="QComboBox" name="comboBox_logicOp"/>
+          </item>
+          <item row="4" column="1">
+           <spacer name="verticalSpacer_4">
+            <property name="orientation">
+             <enum>Qt::Vertical</enum>
+            </property>
+            <property name="sizeType">
+             <enum>QSizePolicy::Minimum</enum>
+            </property>
+            <property name="sizeHint" stdset="0">
+             <size>
+              <width>20</width>
+              <height>15</height>
+             </size>
+            </property>
+           </spacer>
+          </item>
+          <item row="13" column="0">
+           <widget class="QLabel" name="label_blendOpAlpha">
+            <property name="text">
+             <string>Blend Operation Alpha:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="13" column="1">
+           <widget class="QComboBox" name="comboBox_blendOpAlpha"/>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <spacer name="verticalSpacer_3">
+         <property name="orientation">
+          <enum>Qt::Vertical</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>20</width>
+           <height>40</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="1">
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>37</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="1" column="0">
+    <spacer name="verticalSpacer">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>33</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>comboBox_fillMode</tabstop>
+  <tabstop>comboBox_cullMode</tabstop>
+  <tabstop>comboBox_frontCounterClockwise</tabstop>
+  <tabstop>lineEdit_depthBias</tabstop>
+  <tabstop>lineEdit_depthBiasClamp</tabstop>
+  <tabstop>lineEdit_slopeScaledDepthBias</tabstop>
+  <tabstop>comboBox_depthClipEnable</tabstop>
+  <tabstop>comboBox_multisampleEnable</tabstop>
+  <tabstop>comboBox_antialiasedLineEnable</tabstop>
+  <tabstop>comboBox_forcedSampleCount</tabstop>
+  <tabstop>comboBox_conservativeRaster</tabstop>
+  <tabstop>comboBox_depthEnable</tabstop>
+  <tabstop>comboBox_depthWriteMask</tabstop>
+  <tabstop>comboBox_depthComparisonFunction</tabstop>
+  <tabstop>comboBox_stencilEnable</tabstop>
+  <tabstop>lineEdit_stencilReadMask</tabstop>
+  <tabstop>lineEdit_stencilWriteMask</tabstop>
+  <tabstop>comboBox_ff_stencilFunction</tabstop>
+  <tabstop>comboBox_ff_stencilPassOp</tabstop>
+  <tabstop>comboBox_ff_stencilFailOp</tabstop>
+  <tabstop>comboBox_ff_stencilDepthFailOp</tabstop>
+  <tabstop>comboBox_bf_stencilFunction</tabstop>
+  <tabstop>comboBox_bf_stencilPassOp</tabstop>
+  <tabstop>comboBox_bf_stencilFailOp</tabstop>
+  <tabstop>comboBox_bf_stencilDepthFailOp</tabstop>
+  <tabstop>comboBox_atocEnable</tabstop>
+  <tabstop>comboBox_independentBlendEnable</tabstop>
+  <tabstop>lineEdit_sampleMask</tabstop>
+  <tabstop>radioButton_rt1</tabstop>
+  <tabstop>radioButton_rt2</tabstop>
+  <tabstop>radioButton_rt3</tabstop>
+  <tabstop>radioButton_rt4</tabstop>
+  <tabstop>radioButton_rt5</tabstop>
+  <tabstop>radioButton_rt6</tabstop>
+  <tabstop>radioButton_rt7</tabstop>
+  <tabstop>radioButton_rt8</tabstop>
+  <tabstop>comboBox_blendEnable</tabstop>
+  <tabstop>comboBox_blendOp</tabstop>
+  <tabstop>comboBox_sourceBlend</tabstop>
+  <tabstop>comboBox_destBlend</tabstop>
+  <tabstop>comboBox_blendOpAlpha</tabstop>
+  <tabstop>comboBox_srcBlendAlpha</tabstop>
+  <tabstop>comboBox_destBlendAlpha</tabstop>
+  <tabstop>comboBox_logicOpEnable</tabstop>
+  <tabstop>comboBox_logicOp</tabstop>
+  <tabstop>comboBox_renderTargetWriteMask</tabstop>
+  <tabstop>checkBox_showInherited</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>comboBox_fillMode</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>43</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_cullMode</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>69</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_frontCounterClockwise</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_depthBias</sender>
+   <signal>returnPressed()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>121</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_depthBiasClamp</sender>
+   <signal>returnPressed()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>147</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_slopeScaledDepthBias</sender>
+   <signal>returnPressed()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>173</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_depthClipEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>199</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_multisampleEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>225</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_antialiasedLineEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>251</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_forcedSampleCount</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>277</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_conservativeRaster</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>303</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_depthBias</sender>
+   <signal>editingFinished()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>121</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_depthBiasClamp</sender>
+   <signal>editingFinished()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>147</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_slopeScaledDepthBias</sender>
+   <signal>editingFinished()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetRS2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>230</x>
+     <y>173</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_depthEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>43</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_depthWriteMask</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>69</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_depthComparisonFunction</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_stencilEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>121</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_stencilReadMask</sender>
+   <signal>returnPressed()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>147</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_stencilReadMask</sender>
+   <signal>editingFinished()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>147</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_stencilWriteMask</sender>
+   <signal>returnPressed()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>173</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_stencilWriteMask</sender>
+   <signal>editingFinished()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>555</x>
+     <y>173</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ff_stencilFailOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>296</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ff_stencilDepthFailOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>322</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ff_stencilPassOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>270</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ff_stencilFunction</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>244</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_bf_stencilFailOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>435</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_bf_stencilDepthFailOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>461</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_bf_stencilPassOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>409</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_bf_stencilFunction</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetDSS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>560</x>
+     <y>383</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_showInherited</sender>
+   <signal>clicked()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onShowInheritedChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>154</x>
+     <y>491</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_atocEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>43</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_independentBlendEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>69</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_sampleMask</sender>
+   <signal>returnPressed()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_sampleMask</sender>
+   <signal>editingFinished()</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_blendEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>199</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_logicOpEnable</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>931</x>
+     <y>391</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_sourceBlend</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>251</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_destBlend</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>277</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_blendOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>931</x>
+     <y>235</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_srcBlendAlpha</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>329</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_destBlendAlpha</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>355</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_blendOpAlpha</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>931</x>
+     <y>313</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_logicOp</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>407</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_renderTargetWriteMask</sender>
+   <signal>activated(int)</signal>
+   <receiver>GraphicsState_Dlg2</receiver>
+   <slot>onSetBS()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>901</x>
+     <y>433</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>511</x>
+     <y>298</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>onSetRS()</slot>
+  <slot>onSetRS2()</slot>
+  <slot>onSetDSS()</slot>
+  <slot>onSetDSS2()</slot>
+  <slot>onShowInheritedChanged()</slot>
+  <slot>onSetBS()</slot>
+  <slot>onSetBS2()</slot>
+ </slots>
+ <buttongroups>
+  <buttongroup name="buttonGroup_rt"/>
+ </buttongroups>
+</ui>

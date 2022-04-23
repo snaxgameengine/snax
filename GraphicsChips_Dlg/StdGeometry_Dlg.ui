@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>StdGeometry_Dlg</class>
+ <widget class="QWidget" name="StdGeometry_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>665</width>
+    <height>439</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_5">
+   <item row="0" column="0">
+    <layout class="QGridLayout" name="gridLayout_4">
+     <item row="0" column="0">
+      <widget class="QGroupBox" name="groupBox_2">
+       <property name="title">
+        <string>Summary</string>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout_3">
+        <item>
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>Vertex Count:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_vertexCount">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>TextLabel</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_2">
+          <property name="text">
+           <string>Index Count:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLabel" name="label_indexCount">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>TextLabel</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QGroupBox" name="groupBox_tsc">
+       <property name="title">
+        <string>Tangent Space Compression</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc0">
+          <property name="text">
+           <string>32 Bits Floating Point (12 Bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc1">
+          <property name="text">
+           <string>16 Bits Signed Normalized (8 Bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc2">
+          <property name="text">
+           <string>10 Bits Unsigned Normalized (4 Bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>32 Bits Spheremap Transform (8 Bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+        <item row="3" column="1" rowspan="2">
+         <widget class="QPushButton" name="pushButton_sphereMapFunc">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="D3DChips_Dlg.qrc">
+            <normaloff>:/D3DChips_Dlg/Resources/function-icon.png</normaloff>:/D3DChips_Dlg/Resources/function-icon.png</iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc4">
+          <property name="text">
+           <string>16 Bits Spheremap Transform (4 Bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+        <item row="5" column="0" colspan="2">
+         <widget class="Line" name="line">
+          <property name="orientation">
+           <enum>Qt::Horizontal</enum>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc5">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Tangent Space Quaternion (16 bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+        <item row="6" column="1" rowspan="3">
+         <widget class="QPushButton" name="pushButton_quatFunc">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="D3DChips_Dlg.qrc">
+            <normaloff>:/D3DChips_Dlg/Resources/function-icon.png</normaloff>:/D3DChips_Dlg/Resources/function-icon.png</iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc6">
+          <property name="text">
+           <string>Tangent Space Quaternion (8 bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+        <item row="8" column="0">
+         <widget class="QRadioButton" name="radioButton_tsc7">
+          <property name="text">
+           <string>Tangent Space Quaternion (4 bytes)</string>
+          </property>
+          <attribute name="buttonGroup">
+           <string notr="true">buttonGroup_tsc</string>
+          </attribute>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="1" column="0" rowspan="4">
+      <widget class="QGroupBox" name="groupBox">
+       <property name="title">
+        <string>Vertex Configuration</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_3">
+        <item row="0" column="1">
+         <widget class="QComboBox" name="comboBox_str_positions">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="2">
+         <widget class="QLabel" name="label_3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Positions</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_positions</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QPushButton" name="pushButton_del_normals">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QComboBox" name="comboBox_str_normals">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="2">
+         <widget class="QLabel" name="label_4">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Normals</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_normals</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QPushButton" name="pushButton_del_tangents">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QComboBox" name="comboBox_str_tangents">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="2">
+         <widget class="QLabel" name="label_5">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Tangents</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_tangents</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QPushButton" name="pushButton_del_bitangents">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QComboBox" name="comboBox_str_bitangents">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="2">
+         <widget class="QLabel" name="label_6">
+          <property name="enabled">
+           <bool>true</bool>
+          </property>
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Bitangents</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_bitangents</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QPushButton" name="pushButton_del_colors">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="1">
+         <widget class="QComboBox" name="comboBox_str_colors">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="2">
+         <widget class="QLabel" name="label_7">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Colors</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_colors</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="0">
+         <widget class="QPushButton" name="pushButton_del_blendWeights">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="1">
+         <widget class="QComboBox" name="comboBox_str_blendWeights">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="2">
+         <widget class="QLabel" name="label_8">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Blend Weights</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_blendWeights</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="0">
+         <widget class="QPushButton" name="pushButton_del_blendIndices">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="1">
+         <widget class="QComboBox" name="comboBox_str_blendIndices">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="6" column="2">
+         <widget class="QLabel" name="label_13">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>Blend Indices</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_blendIndices</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="0">
+         <widget class="QPushButton" name="pushButton_del_tc0">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="1">
+         <widget class="QComboBox" name="comboBox_str_tc0">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="2">
+         <widget class="QLabel" name="label_9">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>1st Texture Set</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_tc0</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="3">
+         <widget class="QComboBox" name="comboBox_comp_tc0">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="minimumSize">
+           <size>
+            <width>150</width>
+            <height>0</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="7" column="4" rowspan="4">
+         <widget class="QPushButton" name="pushButton_swapTexSet">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset resource="D3DChips_Dlg.qrc">
+            <normaloff>:/D3DChips_Dlg/Resources/arrow-cross-right-icon.png</normaloff>:/D3DChips_Dlg/Resources/arrow-cross-right-icon.png</iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="8" column="0">
+         <widget class="QPushButton" name="pushButton_del_tc1">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="8" column="1">
+         <widget class="QComboBox" name="comboBox_str_tc1">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="8" column="2">
+         <widget class="QLabel" name="label_10">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>2nd Texture Set</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_tc1</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="8" column="3">
+         <widget class="QComboBox" name="comboBox_comp_tc1">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+         </widget>
+        </item>
+        <item row="9" column="0">
+         <widget class="QPushButton" name="pushButton_del_tc2">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="9" column="1">
+         <widget class="QComboBox" name="comboBox_str_tc2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="9" column="2">
+         <widget class="QLabel" name="label_11">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>3rd Texture Set</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_tc2</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="9" column="3">
+         <widget class="QComboBox" name="comboBox_comp_tc2">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="0">
+         <widget class="QPushButton" name="pushButton_del_tc3">
+          <property name="text">
+           <string/>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normalon>:/D3DChips_Dlg/Resources/DeleteHS.png</normalon>
+           </iconset>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="1">
+         <widget class="QComboBox" name="comboBox_str_tc3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>40</width>
+            <height>16777215</height>
+           </size>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="2">
+         <widget class="QLabel" name="label_12">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="text">
+           <string>4th Texture Set</string>
+          </property>
+          <property name="buddy">
+           <cstring>comboBox_str_tc3</cstring>
+          </property>
+         </widget>
+        </item>
+        <item row="10" column="3">
+         <widget class="QComboBox" name="comboBox_comp_tc3">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QGroupBox" name="groupBox_4">
+       <property name="title">
+        <string>Packing</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_2">
+        <item row="0" column="0">
+         <widget class="QCheckBox" name="checkBox_packNormals">
+          <property name="text">
+           <string>Pack Normals, Tangents and Bitangents</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QCheckBox" name="checkBox_packTextureSets">
+          <property name="text">
+           <string>Pack Texture Sets</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <spacer name="verticalSpacer">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <property name="sizeType">
+        <enum>QSizePolicy::Expanding</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>238</width>
+         <height>0</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item row="4" column="1">
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <item>
+        <spacer name="horizontalSpacer_2">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>40</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton_transform">
+         <property name="text">
+          <string>Transform</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item row="1" column="0">
+    <spacer name="verticalSpacer_2">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>636</width>
+       <height>6</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="0" column="1">
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>40</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>comboBox_str_positions</tabstop>
+  <tabstop>pushButton_del_normals</tabstop>
+  <tabstop>comboBox_str_normals</tabstop>
+  <tabstop>pushButton_del_tangents</tabstop>
+  <tabstop>comboBox_str_tangents</tabstop>
+  <tabstop>pushButton_del_bitangents</tabstop>
+  <tabstop>comboBox_str_bitangents</tabstop>
+  <tabstop>pushButton_del_colors</tabstop>
+  <tabstop>comboBox_str_colors</tabstop>
+  <tabstop>pushButton_del_blendWeights</tabstop>
+  <tabstop>comboBox_str_blendWeights</tabstop>
+  <tabstop>pushButton_del_blendIndices</tabstop>
+  <tabstop>comboBox_str_blendIndices</tabstop>
+  <tabstop>pushButton_del_tc0</tabstop>
+  <tabstop>comboBox_str_tc0</tabstop>
+  <tabstop>comboBox_comp_tc0</tabstop>
+  <tabstop>pushButton_del_tc1</tabstop>
+  <tabstop>comboBox_str_tc1</tabstop>
+  <tabstop>comboBox_comp_tc1</tabstop>
+  <tabstop>pushButton_del_tc2</tabstop>
+  <tabstop>comboBox_str_tc2</tabstop>
+  <tabstop>comboBox_comp_tc2</tabstop>
+  <tabstop>pushButton_del_tc3</tabstop>
+  <tabstop>comboBox_str_tc3</tabstop>
+  <tabstop>comboBox_comp_tc3</tabstop>
+  <tabstop>pushButton_swapTexSet</tabstop>
+  <tabstop>radioButton_tsc0</tabstop>
+  <tabstop>radioButton_tsc1</tabstop>
+  <tabstop>radioButton_tsc2</tabstop>
+  <tabstop>radioButton_tsc3</tabstop>
+  <tabstop>radioButton_tsc4</tabstop>
+  <tabstop>radioButton_tsc5</tabstop>
+  <tabstop>radioButton_tsc6</tabstop>
+  <tabstop>radioButton_tsc7</tabstop>
+  <tabstop>pushButton_sphereMapFunc</tabstop>
+  <tabstop>pushButton_quatFunc</tabstop>
+  <tabstop>checkBox_packNormals</tabstop>
+  <tabstop>checkBox_packTextureSets</tabstop>
+ </tabstops>
+ <resources>
+  <include location="D3DChips_Dlg.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>pushButton_swapTexSet</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>swapTexSetClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>352</x>
+     <y>347</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_normals</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>122</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_tangents</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>152</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_bitangents</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>182</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_colors</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>212</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_blendWeights</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>242</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_blendIndices</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>272</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_tc0</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>302</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_tc1</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>332</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_tc2</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>362</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_del_tc3</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>delClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>33</x>
+     <y>392</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_sphereMapFunc</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>sphereMapFuncClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>622</x>
+     <y>173</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_quatFunc</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>quatFuncClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>622</x>
+     <y>240</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>350</x>
+     <y>274</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_packNormals</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>packNormalsClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>514</x>
+     <y>319</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>334</x>
+     <y>219</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_packTextureSets</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>packTexSetsClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>514</x>
+     <y>342</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>334</x>
+     <y>219</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_transform</sender>
+   <signal>clicked()</signal>
+   <receiver>StdGeometry_Dlg</receiver>
+   <slot>transformClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>627</x>
+     <y>402</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>650</x>
+     <y>425</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>normalsClicked(bool)</slot>
+  <slot>swapTexSetClicked()</slot>
+  <slot>delClicked()</slot>
+  <slot>sphereMapFuncClicked()</slot>
+  <slot>quatFuncClicked()</slot>
+  <slot>packNormalsClicked()</slot>
+  <slot>packTexSetsClicked()</slot>
+  <slot>transformClicked()</slot>
+ </slots>
+ <buttongroups>
+  <buttongroup name="buttonGroup_tsc"/>
+ </buttongroups>
+</ui>

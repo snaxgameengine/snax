@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ClassInstanceRefChip_Dlg</class>
+ <widget class="QWidget" name="ClassInstanceRefChip_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>354</width>
+    <height>372</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <widget class="QPushButton" name="pushButton_1">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="toolTip">
+        <string>New Instance</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="icon">
+        <iconset resource="StdChips_Dialogs.qrc">
+         <normaloff>:/StdChips_Dialogs/Resources/new.png</normaloff>:/StdChips_Dialogs/Resources/new.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_2">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="toolTip">
+        <string>Remove Reference</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="icon">
+        <iconset resource="StdChips_Dialogs.qrc">
+         <normaloff>:/StdChips_Dialogs/Resources/delete.png</normaloff>:/StdChips_Dialogs/Resources/delete.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_3">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="toolTip">
+        <string>Copy Reference</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="icon">
+        <iconset resource="StdChips_Dialogs.qrc">
+         <normaloff>:/StdChips_Dialogs/Resources/copy.png</normaloff>:/StdChips_Dialogs/Resources/copy.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QPushButton" name="pushButton_4">
+       <property name="minimumSize">
+        <size>
+         <width>0</width>
+         <height>0</height>
+        </size>
+       </property>
+       <property name="toolTip">
+        <string>Paste Reference</string>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="icon">
+        <iconset resource="StdChips_Dialogs.qrc">
+         <normaloff>:/StdChips_Dialogs/Resources/paste.png</normaloff>:/StdChips_Dialogs/Resources/paste.png</iconset>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkBox_owner">
+       <property name="text">
+        <string>Owner</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkBox_saveInstance">
+       <property name="text">
+        <string>Save Instance</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>Type:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="lineEdit_instanceType">
+       <property name="readOnly">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLabel" name="label_2">
+       <property name="text">
+        <string>Name:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <layout class="QHBoxLayout" name="horizontalLayout_2">
+       <item>
+        <widget class="QLineEdit" name="lineEdit_name"/>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_3">
+         <property name="text">
+          <string>ID:</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLineEdit" name="lineEdit_id">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>40</width>
+           <height>0</height>
+          </size>
+         </property>
+         <property name="maximumSize">
+          <size>
+           <width>40</width>
+           <height>16777215</height>
+          </size>
+         </property>
+         <property name="readOnly">
+          <bool>true</bool>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_4">
+     <item>
+      <widget class="QLabel" name="label_4">
+       <property name="text">
+        <string>Data Members:</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="Line" name="line">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="m3d::TableWidgetMod" name="tableWidget">
+     <property name="editTriggers">
+      <set>QAbstractItemView::AnyKeyPressed|QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed</set>
+     </property>
+     <property name="tabKeyNavigation">
+      <bool>true</bool>
+     </property>
+     <property name="selectionMode">
+      <enum>QAbstractItemView::SingleSelection</enum>
+     </property>
+     <property name="selectionBehavior">
+      <enum>QAbstractItemView::SelectRows</enum>
+     </property>
+     <column>
+      <property name="text">
+       <string>Name</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Type</string>
+      </property>
+     </column>
+     <column>
+      <property name="text">
+       <string>Value</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+   <item>
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <widget class="QCheckBox" name="checkBox_hideMembers">
+       <property name="text">
+        <string>Hide _prefixed Data Members</string>
+       </property>
+       <property name="checked">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer name="horizontalSpacer_2">
+       <property name="orientation">
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="checkBox_preload">
+       <property name="text">
+        <string>Preload target</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>m3d::TableWidgetMod</class>
+   <extends>QTableWidget</extends>
+   <header>tablewidgetmod.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources>
+  <include location="StdChips_Dialogs.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>pushButton_1</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>onNewInstance()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>59</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>246</x>
+     <y>183</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>tableWidget</sender>
+   <signal>cellDoubleClicked(int,int)</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>onTableDoubleClick(int,int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>246</x>
+     <y>224</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>246</x>
+     <y>183</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>onClearReference()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>165</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>246</x>
+     <y>183</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_3</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>onCopyReference()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>271</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>246</x>
+     <y>183</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_4</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>onPasteReference()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>377</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>246</x>
+     <y>183</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_hideMembers</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>hideMembersClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>229</x>
+     <y>336</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>229</x>
+     <y>176</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_saveInstance</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>saveInstanceClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>229</x>
+     <y>76</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>229</x>
+     <y>176</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_name</sender>
+   <signal>editingFinished()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>nameChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>247</x>
+     <y>101</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>229</x>
+     <y>176</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>tableWidget</sender>
+   <signal>cellChanged(int,int)</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>onCellChanged(int,int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>170</x>
+     <y>210</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>170</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_owner</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>ownerClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>205</x>
+     <y>21</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>170</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_preload</sender>
+   <signal>clicked()</signal>
+   <receiver>ClassInstanceRefChip_Dlg</receiver>
+   <slot>preloadClicked()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>281</x>
+     <y>308</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>170</x>
+     <y>164</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>onNewInstance()</slot>
+  <slot>onTableDoubleClick(int,int)</slot>
+  <slot>onClearReference()</slot>
+  <slot>onCopyReference()</slot>
+  <slot>onPasteReference()</slot>
+  <slot>hideMembersClicked()</slot>
+  <slot>saveInstanceClicked()</slot>
+  <slot>nameChanged()</slot>
+  <slot>onCellChanged(int,int)</slot>
+  <slot>ownerClicked()</slot>
+  <slot>preloadClicked()</slot>
+ </slots>
+</ui>

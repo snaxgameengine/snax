@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Texture_Dlg</class>
+ <widget class="QWidget" name="Texture_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>653</width>
+    <height>427</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout_10">
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout_4">
+     <property name="sizeConstraint">
+      <enum>QLayout::SetMinimumSize</enum>
+     </property>
+     <item>
+      <widget class="QFrame" name="frame_settings">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Minimum" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>280</width>
+         <height>16777215</height>
+        </size>
+       </property>
+       <property name="frameShape">
+        <enum>QFrame::NoFrame</enum>
+       </property>
+       <property name="frameShadow">
+        <enum>QFrame::Plain</enum>
+       </property>
+       <property name="lineWidth">
+        <number>0</number>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <property name="spacing">
+         <number>6</number>
+        </property>
+        <property name="leftMargin">
+         <number>0</number>
+        </property>
+        <property name="topMargin">
+         <number>0</number>
+        </property>
+        <property name="rightMargin">
+         <number>0</number>
+        </property>
+        <property name="bottomMargin">
+         <number>0</number>
+        </property>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout">
+          <item>
+           <widget class="QLabel" name="label">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Size:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="lineEdit_width">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="toolTip">
+             <string>Width of texture in pixels.</string>
+            </property>
+            <property name="inputMask">
+             <string/>
+            </property>
+            <property name="text">
+             <string>0</string>
+            </property>
+            <property name="maxLength">
+             <number>5</number>
+            </property>
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_10">
+            <property name="text">
+             <string>x</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="lineEdit_height">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="toolTip">
+             <string>Height of texture in pixels.</string>
+            </property>
+            <property name="inputMask">
+             <string/>
+            </property>
+            <property name="text">
+             <string>0</string>
+            </property>
+            <property name="maxLength">
+             <number>5</number>
+            </property>
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLabel" name="label_20">
+            <property name="text">
+             <string>x</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="lineEdit_depth">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="toolTip">
+             <string>Depth of texture in number of planes for 3D textures.</string>
+            </property>
+            <property name="inputMask">
+             <string/>
+            </property>
+            <property name="text">
+             <string>0</string>
+            </property>
+            <property name="maxLength">
+             <number>5</number>
+            </property>
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QLabel" name="label_2">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QCheckBox" name="checkBox_useBBSize">
+            <property name="toolTip">
+             <string>If width and height are to represent the percentage size of the current back buffer for this texture.</string>
+            </property>
+            <property name="text">
+             <string>Size is % of Back Buffer Size</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_5">
+          <item>
+           <widget class="QLabel" name="label_6">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Format:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QComboBox" name="comboBox_format">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="toolTip">
+             <string>The internal texture format for this texture.</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_6">
+          <item>
+           <widget class="QLabel" name="label_7">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QCheckBox" name="checkBox_useBBFmt">
+            <property name="toolTip">
+             <string>Using the current back buffer format for this texture.</string>
+            </property>
+            <property name="text">
+             <string>Use Back Buffer Format</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_7">
+          <item>
+           <widget class="QLabel" name="label_8">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Multisampling:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QComboBox" name="comboBox_msCount">
+            <property name="toolTip">
+             <string>Sample count for multisampled textures.</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QComboBox" name="comboBox_msQuality">
+            <property name="toolTip">
+             <string>Sample quality for multisampled textures.</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_3">
+          <item>
+           <widget class="QLabel" name="label_4">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Mip Levels:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QComboBox" name="comboBox_mipLevels">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="toolTip">
+             <string>The number of mip levels for this texture.</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+        <item>
+         <layout class="QHBoxLayout" name="horizontalLayout_4">
+          <item>
+           <widget class="QLabel" name="label_5">
+            <property name="minimumSize">
+             <size>
+              <width>70</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>70</width>
+              <height>16777215</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Array Size:</string>
+            </property>
+           </widget>
+          </item>
+          <item>
+           <widget class="QLineEdit" name="lineEdit_arraySize">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="toolTip">
+             <string>The number of elements for a texture array.</string>
+            </property>
+            <property name="inputMask">
+             <string/>
+            </property>
+            <property name="text">
+             <string>1</string>
+            </property>
+            <property name="maxLength">
+             <number>5</number>
+            </property>
+            <property name="alignment">
+             <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_12">
+         <item>
+          <widget class="QLabel" name="label_13">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="checkBox_srv">
+           <property name="toolTip">
+            <string>Allows this texture to be used as a shader resource.</string>
+           </property>
+           <property name="text">
+            <string>Shader Resource</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_13">
+         <item>
+          <widget class="QLabel" name="label_14">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="checkBox_rtv">
+           <property name="toolTip">
+            <string>Allows this texture to be used as a render target.</string>
+           </property>
+           <property name="text">
+            <string>Render Target</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_14">
+         <item>
+          <widget class="QLabel" name="label_15">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="checkBox_dsv">
+           <property name="toolTip">
+            <string>Allows this texture to be used as a depth-stencil buffer.</string>
+           </property>
+           <property name="text">
+            <string>Depth Stencil</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_9">
+         <item>
+          <widget class="QLabel" name="label_19">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="checkBox_uav">
+           <property name="toolTip">
+            <string>Allows this texture to be used as an unordered access view.</string>
+           </property>
+           <property name="text">
+            <string>Unordered Access View</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_8"/>
+       </item>
+       <item>
+        <widget class="Line" name="line">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_15">
+         <item>
+          <widget class="QLabel" name="label_16">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="checkBox_genMips">
+           <property name="toolTip">
+            <string>Generates the full mipmap chain when the texture image data is uploaded to GPU. Not all texture formats support this.</string>
+           </property>
+           <property name="text">
+            <string>Generate Mips</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_16">
+         <item>
+          <widget class="QLabel" name="label_17">
+           <property name="minimumSize">
+            <size>
+             <width>70</width>
+             <height>0</height>
+            </size>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>70</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QCheckBox" name="checkBox_forceSRGB">
+           <property name="toolTip">
+            <string>Forces the use of an SRGB format when the image data is uploaded to the GPU. No data conversion takes place.</string>
+           </property>
+           <property name="text">
+            <string>Force SRGB</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <spacer name="verticalSpacer">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>20</width>
+         <height>40</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout_2" stretch="0,0">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_17">
+       <item>
+        <widget class="QLabel" name="label_ImageInfo">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="toolTip">
+          <string>Information about image data.</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="alignment">
+          <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton_loadImage">
+         <property name="toolTip">
+          <string>Load image data from file.</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="D3DChips_Dlg.qrc">
+           <normaloff>:/D3DChips_Dlg/Resources/Open-icon.png</normaloff>:/D3DChips_Dlg/Resources/Open-icon.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton_saveImage">
+         <property name="toolTip">
+          <string>Save image data to file.</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="D3DChips_Dlg.qrc">
+           <normaloff>:/D3DChips_Dlg/Resources/saveHS.png</normaloff>:/D3DChips_Dlg/Resources/saveHS.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton_FromTexture">
+         <property name="toolTip">
+          <string>Create image data from current texture.</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="D3DChips_Dlg.qrc">
+           <normaloff>:/D3DChips_Dlg/Resources/InsertPictureHS.png</normaloff>:/D3DChips_Dlg/Resources/InsertPictureHS.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton_resample">
+         <property name="toolTip">
+          <string>Resample image data.</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="D3DChips_Dlg.qrc">
+           <normaloff>:/D3DChips_Dlg/Resources/ResizeHS.png</normaloff>:/D3DChips_Dlg/Resources/ResizeHS.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton_clearImage">
+         <property name="toolTip">
+          <string>Remove image data.</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="D3DChips_Dlg.qrc">
+           <normaloff>:/D3DChips_Dlg/Resources/DeleteHS.png</normaloff>:/D3DChips_Dlg/Resources/DeleteHS.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="pushButton_cArray">
+         <property name="toolTip">
+          <string>Save image data to C-style array.</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+         <property name="icon">
+          <iconset resource="D3DChips_Dlg.qrc">
+           <normaloff>:/D3DChips_Dlg/Resources/cArray.png</normaloff>:/D3DChips_Dlg/Resources/cArray.png</iconset>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QGroupBox" name="groupBox">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="title">
+        <string>Live View</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <widget class="m3d::TexturePreviewWidget" name="previewWidget" native="true">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>m3d::TexturePreviewWidget</class>
+   <extends>QWidget</extends>
+   <header>texturepreviewwidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>lineEdit_width</tabstop>
+  <tabstop>lineEdit_height</tabstop>
+  <tabstop>lineEdit_depth</tabstop>
+  <tabstop>checkBox_useBBSize</tabstop>
+  <tabstop>comboBox_format</tabstop>
+  <tabstop>checkBox_useBBFmt</tabstop>
+  <tabstop>comboBox_msCount</tabstop>
+  <tabstop>comboBox_msQuality</tabstop>
+  <tabstop>comboBox_mipLevels</tabstop>
+  <tabstop>lineEdit_arraySize</tabstop>
+  <tabstop>checkBox_srv</tabstop>
+  <tabstop>checkBox_rtv</tabstop>
+  <tabstop>checkBox_dsv</tabstop>
+  <tabstop>checkBox_uav</tabstop>
+  <tabstop>checkBox_genMips</tabstop>
+  <tabstop>checkBox_forceSRGB</tabstop>
+  <tabstop>pushButton_loadImage</tabstop>
+  <tabstop>pushButton_saveImage</tabstop>
+  <tabstop>pushButton_FromTexture</tabstop>
+  <tabstop>pushButton_resample</tabstop>
+  <tabstop>pushButton_clearImage</tabstop>
+ </tabstops>
+ <resources>
+  <include location="D3DChips_Dlg.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>lineEdit_width</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onWidthChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>231</x>
+     <y>43</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>274</x>
+     <y>253</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_height</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onHeightChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>165</x>
+     <y>26</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>274</x>
+     <y>253</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_depth</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onDepthChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>233</x>
+     <y>26</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_useBBSize</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onUseBBSizeChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>147</x>
+     <y>49</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_format</sender>
+   <signal>activated(int)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onFormatChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>121</x>
+     <y>78</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_useBBFmt</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onUseBBFormatChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>154</x>
+     <y>105</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_msCount</sender>
+   <signal>activated(int)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onCountQualityChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>121</x>
+     <y>131</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_msQuality</sender>
+   <signal>activated(int)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onCountQualityChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>196</x>
+     <y>131</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_mipLevels</sender>
+   <signal>activated(int)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onMipLevelsChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>185</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_arraySize</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onArraySizeChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>238</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_srv</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onSRVChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>290</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_rtv</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onRTVChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>315</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_dsv</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onDSVChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>340</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_uav</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onUAVChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>365</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_forceSRGB</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onForceSRGBChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>415</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>checkBox_genMips</sender>
+   <signal>clicked(bool)</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>onGenMipsChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>173</x>
+     <y>390</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_loadImage</sender>
+   <signal>clicked()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>loadImage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>365</x>
+     <y>55</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>344</x>
+     <y>254</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_resample</sender>
+   <signal>clicked()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>resampleImage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>497</x>
+     <y>22</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>281</x>
+     <y>236</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_clearImage</sender>
+   <signal>clicked()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>clearImage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>541</x>
+     <y>22</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>236</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_saveImage</sender>
+   <signal>clicked()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>saveImage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>439</x>
+     <y>22</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>236</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_FromTexture</sender>
+   <signal>clicked()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>saveTextureToData()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>479</x>
+     <y>22</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>236</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_cArray</sender>
+   <signal>clicked()</signal>
+   <receiver>Texture_Dlg</receiver>
+   <slot>saveToCArray()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>547</x>
+     <y>22</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>286</x>
+     <y>236</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>loadImage()</slot>
+  <slot>onWidthChanged()</slot>
+  <slot>onHeightChanged()</slot>
+  <slot>onDepthChanged()</slot>
+  <slot>onUseBBSizeChanged()</slot>
+  <slot>onFormatChanged()</slot>
+  <slot>onUseBBFormatChanged()</slot>
+  <slot>onCountQualityChanged()</slot>
+  <slot>onUseBBMSChanged()</slot>
+  <slot>onMipLevelsChanged()</slot>
+  <slot>onArraySizeChanged()</slot>
+  <slot>onSRVChanged()</slot>
+  <slot>onDSVChanged()</slot>
+  <slot>onRTVChanged()</slot>
+  <slot>onUAVChanged()</slot>
+  <slot>onGenMipsChanged()</slot>
+  <slot>onForceSRGBChanged()</slot>
+  <slot>resampleImage()</slot>
+  <slot>clearImage()</slot>
+  <slot>saveImage()</slot>
+  <slot>saveTextureToData()</slot>
+  <slot>saveToCArray()</slot>
+  <slot>onImmutableChanged()</slot>
+ </slots>
+</ui>

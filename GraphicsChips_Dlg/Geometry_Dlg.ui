@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Geometry_Dlg</class>
+ <widget class="QWidget" name="Geometry_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>860</width>
+    <height>593</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_5">
+   <item row="0" column="0">
+    <widget class="QTabWidget" name="tabWidget">
+     <property name="currentIndex">
+      <number>0</number>
+     </property>
+     <widget class="QWidget" name="tab">
+      <attribute name="title">
+       <string>Settings</string>
+      </attribute>
+      <layout class="QGridLayout" name="gridLayout_4">
+       <item row="2" column="0">
+        <widget class="QGroupBox" name="groupBox_inputLayout">
+         <property name="title">
+          <string>Input Layout</string>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_2">
+          <item row="0" column="0">
+           <widget class="QTreeWidget" name="treeWidget_inputLayout">
+            <property name="indentation">
+             <number>0</number>
+            </property>
+            <column>
+             <property name="text">
+              <string>Semantic Name</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Semantic Index</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Format</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Input Slot</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Aligned Byte Offset</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Input Slot Class</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Instance Data Step Rate</string>
+             </property>
+            </column>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item row="1" column="0">
+        <widget class="QGroupBox" name="groupBox_5">
+         <property name="title">
+          <string>Misc</string>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_3">
+          <item row="0" column="0">
+           <widget class="QLabel" name="label_7">
+            <property name="minimumSize">
+             <size>
+              <width>80</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Draw API:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="1">
+           <widget class="QLabel" name="label_drawAPI">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="minimumSize">
+             <size>
+              <width>150</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Draw/Draw Indexed</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="2">
+           <widget class="QLabel" name="label_9">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="minimumSize">
+             <size>
+              <width>80</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Index Format:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="3">
+           <widget class="QLabel" name="label_indexFormat">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="minimumSize">
+             <size>
+              <width>150</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>16/32-bits</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="4">
+           <widget class="QLabel" name="label">
+            <property name="minimumSize">
+             <size>
+              <width>80</width>
+              <height>0</height>
+             </size>
+            </property>
+            <property name="text">
+             <string>Vertex Size:</string>
+            </property>
+           </widget>
+          </item>
+          <item row="0" column="5">
+           <widget class="QLabel" name="label_vertexSize">
+            <property name="sizePolicy">
+             <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+              <horstretch>0</horstretch>
+              <verstretch>0</verstretch>
+             </sizepolicy>
+            </property>
+            <property name="text">
+             <string>n Bytes</string>
+            </property>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item row="0" column="0">
+        <widget class="QGroupBox" name="groupBox">
+         <property name="title">
+          <string>Subsets</string>
+         </property>
+         <layout class="QGridLayout" name="gridLayout">
+          <item row="0" column="0">
+           <widget class="QTreeWidget" name="treeWidget_subsets">
+            <property name="indentation">
+             <number>0</number>
+            </property>
+            <column>
+             <property name="text">
+              <string>Name</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Primitive Topology</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Count</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Start Location</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Base Vertex Location</string>
+             </property>
+            </column>
+            <column>
+             <property name="text">
+              <string>Bounding Box</string>
+             </property>
+            </column>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+     <widget class="QWidget" name="tab_2">
+      <attribute name="title">
+       <string>3D View</string>
+      </attribute>
+      <layout class="QGridLayout" name="gridLayout_7">
+       <item row="0" column="0">
+        <layout class="QGridLayout" name="gridLayout_6">
+         <property name="sizeConstraint">
+          <enum>QLayout::SetMinimumSize</enum>
+         </property>
+         <item row="0" column="0">
+          <widget class="QListWidget" name="listWidget_subsets">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Minimum" vsizetype="Expanding">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="maximumSize">
+            <size>
+             <width>200</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="editTriggers">
+            <set>QAbstractItemView::AnyKeyPressed|QAbstractItemView::DoubleClicked|QAbstractItemView::EditKeyPressed</set>
+           </property>
+           <property name="selectionMode">
+            <enum>QAbstractItemView::MultiSelection</enum>
+           </property>
+          </widget>
+         </item>
+         <item row="1" column="0">
+          <widget class="QComboBox" name="comboBox_tech">
+           <property name="maximumSize">
+            <size>
+             <width>200</width>
+             <height>16777215</height>
+            </size>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="0">
+          <widget class="QCheckBox" name="checkBox_scaleWholeObject">
+           <property name="maximumSize">
+            <size>
+             <width>200</width>
+             <height>16777215</height>
+            </size>
+           </property>
+           <property name="text">
+            <string>Scale Whole Object</string>
+           </property>
+          </widget>
+         </item>
+         <item row="3" column="0">
+          <widget class="QCheckBox" name="checkBox_backFaceCulling">
+           <property name="text">
+            <string>Cull Back Facing Polygons</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item row="0" column="1">
+        <widget class="m3d::Geometry3DView" name="widget_preview" native="true">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="contextMenuPolicy">
+          <enum>Qt::PreventContextMenu</enum>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>m3d::Geometry3DView</class>
+   <extends>QWidget</extends>
+   <header>Geometry3DView.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>treeWidget_subsets</tabstop>
+  <tabstop>treeWidget_inputLayout</tabstop>
+ </tabstops>
+ <resources>
+  <include location="D3DChips_Dlg.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>treeWidget_subsets</sender>
+   <signal>itemChanged(QTreeWidgetItem*,int)</signal>
+   <receiver>Geometry_Dlg</receiver>
+   <slot>ssItemChanged(QTreeWidgetItem*,int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>425</x>
+     <y>110</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>425</x>
+     <y>286</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>tabWidget</sender>
+   <signal>currentChanged(int)</signal>
+   <receiver>Geometry_Dlg</receiver>
+   <slot>tabChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>54</x>
+     <y>20</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>856</x>
+     <y>323</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_subsets</sender>
+   <signal>itemSelectionChanged()</signal>
+   <receiver>Geometry_Dlg</receiver>
+   <slot>ss2SelectionChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>82</x>
+     <y>78</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>6</x>
+     <y>74</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>listWidget_subsets</sender>
+   <signal>itemChanged(QListWidgetItem*)</signal>
+   <receiver>Geometry_Dlg</receiver>
+   <slot>ss2ItemChanged(QListWidgetItem*)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>65</x>
+     <y>103</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>4</x>
+     <y>111</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>ssItemChanged(QTreeWidgetItem*,int)</slot>
+  <slot>tabChanged()</slot>
+  <slot>render3D()</slot>
+  <slot>ss2SelectionChanged()</slot>
+  <slot>ss2ItemChanged(QListWidgetItem*)</slot>
+ </slots>
+</ui>

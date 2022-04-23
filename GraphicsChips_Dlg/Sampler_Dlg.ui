@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Sampler_Dlg</class>
+ <widget class="QWidget" name="Sampler_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>422</width>
+    <height>357</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QLabel" name="label_filter">
+     <property name="minimumSize">
+      <size>
+       <width>120</width>
+       <height>0</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>Filter:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QComboBox" name="comboBox_ss_filter"/>
+   </item>
+   <item row="1" column="0">
+    <widget class="QLabel" name="label_addressU">
+     <property name="text">
+      <string>Address U:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QComboBox" name="comboBox_ss_addressU"/>
+   </item>
+   <item row="2" column="0">
+    <widget class="QLabel" name="label_addressV">
+     <property name="text">
+      <string>Address V:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QComboBox" name="comboBox_ss_addressV"/>
+   </item>
+   <item row="3" column="0">
+    <widget class="QLabel" name="label_addressW">
+     <property name="text">
+      <string>Address W:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1">
+    <widget class="QComboBox" name="comboBox_ss_addressW"/>
+   </item>
+   <item row="4" column="0">
+    <widget class="QLabel" name="label_compFunc">
+     <property name="text">
+      <string>Comparison Function:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="4" column="1">
+    <widget class="QComboBox" name="comboBox_ss_compFunc"/>
+   </item>
+   <item row="5" column="0">
+    <widget class="QLabel" name="label_borderColor">
+     <property name="text">
+      <string>Border Color (RGBA):</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="1">
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <widget class="QLineEdit" name="lineEdit_ss_borderR">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEdit_ss_borderG">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEdit_ss_borderB">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEdit_ss_borderA">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QToolButton" name="toolButton_staticColors">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="text">
+        <string>...</string>
+       </property>
+       <property name="popupMode">
+        <enum>QToolButton::MenuButtonPopup</enum>
+       </property>
+       <property name="autoRaise">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="6" column="0">
+    <widget class="QLabel" name="label_mipLodBias">
+     <property name="text">
+      <string>Mip-LOD-Bias:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="1">
+    <widget class="QLineEdit" name="lineEdit_ss_mipLODBias">
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="0">
+    <widget class="QLabel" name="label_maxAnis">
+     <property name="text">
+      <string>Max Anisotropy:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="1">
+    <widget class="QLineEdit" name="lineEdit_ss_maxAnisotropy">
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="0">
+    <widget class="QLabel" name="label_minLod">
+     <property name="text">
+      <string>Minimum LOD:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="8" column="1">
+    <widget class="QLineEdit" name="lineEdit_ss_minLOD">
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="0">
+    <widget class="QLabel" name="label_maxLod">
+     <property name="text">
+      <string>Maximum LOD:</string>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="1">
+    <widget class="QLineEdit" name="lineEdit_ss_maxLOD">
+     <property name="alignment">
+      <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="1">
+    <spacer name="verticalSpacer">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>74</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>comboBox_ss_filter</tabstop>
+  <tabstop>comboBox_ss_addressU</tabstop>
+  <tabstop>comboBox_ss_addressV</tabstop>
+  <tabstop>comboBox_ss_addressW</tabstop>
+  <tabstop>comboBox_ss_compFunc</tabstop>
+  <tabstop>lineEdit_ss_borderR</tabstop>
+  <tabstop>lineEdit_ss_borderG</tabstop>
+  <tabstop>lineEdit_ss_borderB</tabstop>
+  <tabstop>lineEdit_ss_borderA</tabstop>
+  <tabstop>toolButton_staticColors</tabstop>
+  <tabstop>lineEdit_ss_mipLODBias</tabstop>
+  <tabstop>lineEdit_ss_maxAnisotropy</tabstop>
+  <tabstop>lineEdit_ss_minLOD</tabstop>
+  <tabstop>lineEdit_ss_maxLOD</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>comboBox_ss_filter</sender>
+   <signal>activated(int)</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>18</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ss_addressU</sender>
+   <signal>activated(int)</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>44</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ss_addressV</sender>
+   <signal>activated(int)</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>70</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ss_addressW</sender>
+   <signal>activated(int)</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>96</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>comboBox_ss_compFunc</sender>
+   <signal>activated(int)</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>122</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_borderR</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>162</x>
+     <y>149</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_borderG</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>222</x>
+     <y>149</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_borderB</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>282</x>
+     <y>149</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_borderA</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>342</x>
+     <y>149</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_mipLODBias</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>176</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_maxAnisotropy</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>202</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_minLOD</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>228</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>lineEdit_ss_maxLOD</sender>
+   <signal>editingFinished()</signal>
+   <receiver>Sampler_Dlg</receiver>
+   <slot>onUpdate()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>254</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>210</x>
+     <y>178</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>onUpdate()</slot>
+ </slots>
+</ui>

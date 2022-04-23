@@ -1,0 +1,402 @@
+=================================================
+SnaX Game Engine - Licensed under the MIT License
+Copyright (c) 2013-2022 Frank-Vegar Mortensen
+=================================================
+
+----------------------------
+VERSION 1.7.0.0 (23.04.2022)
+----------------------------
+
+OVERVIEW
+Major refactoring update. SnaX goes open source.
+
+UPDATES
+- Replaced all proprietary container classes with std equivalents.
+- Replaced proprietary string classes with std::string.
+- Updated to Qt6.
+- JSON saver/loader added (.m3j files). m3x is deprecated.
+- Converted all examples, templates and libraries from .m3x to .m3j.
+- Using magic-enum to save enum item names, not raw values for enums.
+- D3D12Chips and GraphicsChips merged.
+- Improvements to build system.
+- Developer can read .ini config files, instead of using registry.
+
+FIXES
+-
+
+KNOWN ISSUES
+- Refactoring can have caused bugs not yet found.
+- Outdated documentation.
+
+----------------------------
+VERSION 1.6.0.0 (05.04.2021)
+----------------------------
+
+OVERVIEW
+Major release of SnaX with many new features including libraries, The Simple Render Framework library,
+multi-connectors, UI-improvements and bugfixes.
+
+Caution: The Simple Render Framework is to be considered as work-in-progress! It is an immature library 
+that can change a lot in upcoming releases of SnaX. You should therefore be careful about using it for 
+some serious work. You are of course free to make a copy of it and modify it on your own!
+
+UPDATES
+- Added support for libraries in SnaX!
+- Work-in-progress on the "Simple Render Framework" library.
+- Added multi-connections. All growing connections can now be converted to a multi-connection!
+- Added description-field to classes.
+- Many UI improvements and updates, including:
+  * New startup dialog to make it easier to find startup templates and examples.
+  * New "Select files to save" dialog.
+  * More readable tree-widgets and instance dialog widgets.
+  * Added colors to log messages.
+  * Editor view is limited to 60 FPS.
+  * Added option to show/hide FPS.
+  * Added focus rectangle to editor view.
+- AssImp-importer now supports embedded textures!
+- AssImp-importer can now load files containing nothing but skeletal animations.
+- "Clear Container" command accepts multiple inputs.
+- Update and additions to examples.
+- The 'C'-key context menu in the editor view now accepts functions and classes, in addition to chips.
+
+FIXES
+- Save texture from Texture-dialog did not work.
+- Fixed issue causing some mouse clicks in editor view to throw chips far away.
+- ValueArrays in GraphicsBuffer did not work correctly.
+- Improved handling of lost graphics devices.
+- Fixed deadlock when loading if there were cyclic dependencies in class inheritance between files.
+- SkeletonController produced NaN if a skeleton had no animations.
+- Fixed null-pointer exception in "Take Screenshot" functionality.
+- Shaders-chip hit a slow path after a shader failed to compile.
+- Copy/Paste animations in Skeleton caused a crash on exit.
+- The "Save Dirty" function was sometimes messed up.
+- HBAO+-chip messed up internal render state.
+- Material binds null descriptors to missing resources, instead of not rendering an object.
+- Starting/opening a new project did not clear the preloaded documents (and classes).
+
+KNOWN ISSUES
+- Documentation is not up-to-date on the new features (libraries and multi-connections).
+
+
+----------------------------
+VERSION 1.5.0.0 (22.04.2020)
+----------------------------
+
+OVERVIEW
+This version brings many updates and bugfixes to SnaX! Of new features are the new chip 
+for screen space ambient accolusion(SSAO) implementing Nvidia's HBAO+ library, 
+support for loading HDR-textures, many updates for efficient implementation of physical 
+based rendering (PBR), and more. A couple of new examples demonstrates how to implement 
+shadow-mapping, HDR-rendering including tonemapping and calculation of average luminance 
+using historgrams, physically based rendering and the popular FXAA-algorithm for anti-aliasing!
+
+UPDATES
+- Added chip for Nvidia's Horizon Based Ambient Occlusion (HBAO+) library!
+- HDR textures (.HDR-files) are now supported for both read and write through the Texture dialog!
+- GraphicsBuffer can now also be used as a UAV. "UAV write" -> "CB read" is now possible!
+- Added tangent space for most primitives (Primitive-chip).
+- Added TextArray chip + config dialog.
+- Added config dialogs for InstanceRefByValueMap and InstanceRefByTextMap.
+- Value-, Vector- and MatrixOperator have lots of new standard linear algebra operations.
+- ExpressionMatrix and ExpressionVector is deprecated. Use MatrixOperator and VectorOperator instead!
+- ExpressionValue is no longer to accept Vectors and Matrices as input!
+- Added "Get Chip Timestamp" to ValueOperator.
+- Added "Always trigger on first call" option to Trigger-chip.
+- GraphicsValue added the "Get subresource index" option.
+- GraphicsCommand added options "Destroy resource" and "Set texture parameters".
+- Importer now flips normals for back facing triangles in the default pixel shader.
+- Shader dialog now makes better use of screen space.
+- Some UI-improvements and tooltips to Texture and GraphicsResource dialogs.
+- Replaced the chip search option "Match exactly" with "Contains text" for easier use.
+- The project tree now allows for inline renaming of classes and documents. Added drag-and-drop of documents to other folders.
+- Added examples "Physically Based Rendering", "Simple Shadow Maps" and "HBAO".
+- Qt updated to 5.14.2.
+
+FIXES
+- GraphicsState did not inherit root signatures.
+- Fixed crash in texture gpu-upload with "Generate mips" enabled on unsupported formats.
+- Resolving relative paths in project did not always work correctly.
+- Fixed race condition in loading of projects.
+- Fixed race condition in ExpressionValue/Vector/Matrix.
+- Fixed crash related to back/forward navigation buttons.
+- Removed unused child connections in VectorArrayElement.
+- InstanceRefArray had a potential nullptr crash.
+- UAV-config in GraphicsResourceChip had a bug in format settings.
+- Fixed crash in shader pipeline validation (matching shader stage signatures).
+- Shader RWBuffer-type did not work.
+- Texture did not set timestamp when texture gpu resource created.
+- Sampler-chip did not set parameters from its config dialog correctly.
+- Fixed crash in Texture dialog when viewing textures arrays or when texture fails to init.
+- Fixed deadlock when pressing "Reload all project files" when the project is being loaded.
+- Render target views and depth stencil views did not update when changing settings in GraphicsResource-chip dialog.
+- Compute-chip did not work if d3d-device was not already created.
+- Publisher did not create output directories as expected.
+
+KNOWN ISSUES
+-
+
+----------------------------
+VERSION 1.4.4.0 (15.03.2020)
+----------------------------
+
+OVERVIEW
+Critical fix to Shader serialization function.
+
+UPDATES
+- Improved function for locating textures in importer.
+
+FIXES
+- Critical: Shader-chip serialization function did not include all data causing the document to be unloadable.
+- Importer did not parse vertex colors correctly.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.4.3.0 (14.03.2020)
+----------------------------
+
+OVERVIEW
+Another maintenance release with a few updates and bugfixes.
+
+UPDATES
+- Qt updated to version 5.14.
+- PhysX updated to version 4.1.1.
+- Assimp updated to version 5.0.1.
+- Major internal refactorings to GraphicsChips and D3D12Chips to easier support multiple graphics APIs in the future.
+
+FIXES
+- GraphicsBuffer chip did not support all type of numeric formats given in shaders.
+- Mouse wheel input did not distinguish between vertical and horizontal scrolling.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.4.2.0 (03.12.2019)
+----------------------------
+
+OVERVIEW
+Maintenance release.
+
+UPDATES
+-
+
+FIXES
+- The predefined transform-operators in ExpressionVector was incorrect.
+- Fixed crash when trying to create a SRV with an unsupported format.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.4.1.0 (28.11.2019)
+----------------------------
+
+OVERVIEW
+Maintenance release.
+
+UPDATES
+-
+
+FIXES
+- PhysX-chips did not work because of a build system issue.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.4.0.0 (27.11.2019)
+----------------------------
+
+OVERVIEW
+This release contains numerous bugfixes greatly improving the stability and
+performance of SnaX Developer. In addition, SDL is now used to provide 
+joystick inputs.
+
+UPDATES
+- Using SDL2 for joystick inputs.
+
+FIXES
+- Fixed crash when resizing an inactive render window.
+- GraphicsValue: Get UAV-width/height did not work correctly.
+- D3D12 state tracking for resources sometimes failed when re-setting a state.
+- GraphicsBuffer did not resize.
+- Runtime-checks for D3D12-chips was not enabled -> crashed on invalid chip inputs.
+- ExpressionVector cross-product did not work.
+- Fixed crash on save that could happen in certain situations.
+- Removed requirement for pixel shader.
+- Sampler border color did not save.
+- Fix Font-chip size issue.
+- Numerous UI-fixes.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.3.2.0 (09.11.2019)
+----------------------------
+
+OVERVIEW
+Maintenance release.
+
+UPDATES
+-
+
+FIXES
+- Fixing problem compiling shaders.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.3.1.0 (01.11.2019)
+----------------------------
+
+OVERVIEW
+Maintenance release fixing a few issues. See below.
+
+UPDATES
+- Vector dialog now got a color selector.
+- Project views does now get focus when tab is opened.
+
+FIXES
+- Publishing did not work because Primitives.dll was not included.
+- Update to example "PhysX - Wrecking Ball.m3x".
+
+KNOWN ISSUES
+-
+
+----------------------------
+VERSION 1.3.0.0 (31.10.2019)
+----------------------------
+
+OVERVIEW
+This release brings multiple Constant Buffer Views (CBV) per Material. This enables you to
+group constants (Values, Vectors and Matrices) based on update frequencies. Lighting properties
+can for example be updated and grouped independently of typical material properties such as
+colors, shininess, opacity etc which is placed in a separate CBV. SnaX already got this grouping
+for Camera and Object materices (World, Projection, WorldViewProjection etc).
+
+UPDATES
+- Material now supports multiple Constant Buffer Views (CBV).
+- Skeleton now got a "World Matrix Array" to get the local matrix for each joint.
+- Assimp upgraded to version 5.0.0.
+
+FIXES
+- Fixed PhysX crash when GPU-acceleration was not available.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.2.0.0 (28.09.2019)
+----------------------------
+
+OVERVIEW
+The big news with this release is the new SDK for SnaX: https://github.com/snaxgameengine/snaxsdk
+This SDK enables anyone to create their own chips for SnaX, implementing all kinds of new functionality, 
+for example integrating new physics engines, sound and network libraries etc. 
+In preparation for the SDK, this release contains mostly internal upgrades and refactorings, 
+and not really any other new features.
+
+UPDATES
+- Upgraded to Visual Studio 2019.
+- Qt is upgraded to 5.13.0.
+- The SnaX installer now includes the VC redistributables. No local deployment anymore!
+
+FIXES
+-
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.1.0.0 (28.08.2019)
+----------------------------
+
+OVERVIEW
+This release brings a couple of new features including the External Project View! This very interesting
+feature allows users to fully utilize a multi-monitor setup with SnaX. They can have the Project View
+going full screen at one monitor, the editor at another monitor, and possibly also property dialogs
+at a third monitor! There are also lots of other updates and bugfixes to this release!
+
+UPDATES
+- Added the External Project View.
+- Starting a New Project does now open a dialog with a list of available startup-templates.
+- Added pause mode to stop program execution while having a Project View open.
+- Chips can be added from Editor View's context menu. This list is also searchable.
+- Chips can be added to the Editor View by pressing 'C' to bring up the searchable list of chips.
+- Added the ReadbackBuffer to the D3D12-chips to do a async. download of textures from GPU.
+- Improved formatting of numbers for Value, Vector and Matrix.
+- Textures can be saved to disk from the Texture-dialog.
+- Semi-transparent start-arrow is shown for the start-chip (if any) in classes that is not the current 
+   startup class. This is good for creating startup-templates!
+- The Compute-chip now accepts a "target size" instead of the "Thread Group Count".
+- Added a couple of new startup templates.
+- Added some new camera templates.
+- Added an example for how to use Break Points.
+- Editor panning is still middle mouse button, but now also right button. ALT+right button is zoom.
+
+FIXES
+- Fixed crash if resizing Project View window while in break-point mode.
+- Fixed other potential issues while in break-point mode.
+- The Resampling texture dialog forced apsect radio to always be maintained.
+- Fixed border condition for the Texture preview window.
+- Rubber banding in the Editor View is now left-button only.
+- Removed immutable state from Texture.
+- Fixed race condition for loading of documents when Project View is open.
+- Fixed a potential issue with the Class-chip.
+
+
+KNOWN ISSUES
+-
+
+----------------------------
+VERSION 1.0.1.0 (30.07.2019)
+----------------------------
+
+OVERVIEW
+This maintenance release contains mostly bugfixes and updates to examples, 
+but does also enable SnaX for D3D12 hardware limited to resource binding Tier 1 and 2.
+
+UPDATES
+- The D3D12 hardware tier 1/2 limitation is removed.
+- The Font-chip now accepts size as a child value input.
+- Textout-chip accepts setting v/h alignment.
+- The XGUI example is added. Plan is to make this a fully featured GUI library for SnaX.
+- PhysX-examples are updated with XGUI.
+
+FIXES
+- Several bugfixes for random crashes.
+- Fixed faulty screenshot function.
+
+KNOWN ISSUES
+-
+
+
+----------------------------
+VERSION 1.0.0.0 (22.04.2019)
+----------------------------
+
+OVERVIEW
+Initial release of the Snax Game Engine!
+
+UPDATES
+-
+
+FIXES
+-
+
+KNOWN ISSUES
+-
+
+

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BreakPoint_Dlg</class>
+ <widget class="QWidget" name="BreakPoint_Dlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>421</width>
+    <height>256</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="0" column="0">
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="5" column="2">
+      <widget class="QLineEdit" name="lineEdit_instanceID">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="2">
+      <widget class="QLineEdit" name="lineEdit_childValue">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="5" column="0">
+      <widget class="QCheckBox" name="checkBox_instanceID">
+       <property name="text">
+        <string>Instance ID:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QComboBox" name="comboBox_hitCount">
+       <item>
+        <property name="text">
+         <string>Equal to</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Greater or equal to</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Power of</string>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item row="1" column="2">
+      <widget class="QLineEdit" name="lineEdit_hitCount">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QCheckBox" name="checkBox_enabled">
+       <property name="text">
+        <string>Enabled</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QCheckBox" name="checkBox_hitCount">
+       <property name="text">
+        <string>Hit Count:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLabel" name="label">
+       <property name="text">
+        <string>Current Hit Count:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QLineEdit" name="lineEdit_currentHitCount">
+       <property name="alignment">
+        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QCheckBox" name="checkBox_childValue">
+       <property name="text">
+        <string>Child Value:</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="1">
+      <widget class="QComboBox" name="comboBox_childValue">
+       <item>
+        <property name="text">
+         <string>==</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>!=</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>&lt;</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>&lt;=</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>&gt;</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>&gt;=</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Has changed</string>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QCheckBox" name="checkBox_resetHitCountPrFrame">
+       <property name="text">
+        <string>Reset Each Frame</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="1">
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>46</width>
+       <height>20</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="1" column="0">
+    <spacer name="verticalSpacer">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>83</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>checkBox_enabled</tabstop>
+  <tabstop>checkBox_hitCount</tabstop>
+  <tabstop>comboBox_hitCount</tabstop>
+  <tabstop>lineEdit_hitCount</tabstop>
+  <tabstop>lineEdit_currentHitCount</tabstop>
+  <tabstop>checkBox_resetHitCountPrFrame</tabstop>
+  <tabstop>checkBox_childValue</tabstop>
+  <tabstop>comboBox_childValue</tabstop>
+  <tabstop>lineEdit_childValue</tabstop>
+  <tabstop>checkBox_instanceID</tabstop>
+  <tabstop>lineEdit_instanceID</tabstop>
+ </tabstops>
+ <resources/>
+ <connections/>
+</ui>

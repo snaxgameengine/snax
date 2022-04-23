@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 21,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "Base",
+	  "hidden": true,
+	  "toolchainFile": "./vcpkg/scripts/buildsystems/vcpkg.cmake",
+	  "architecture": "x64",
+      "cacheVariables": {
+		"CMAKE_TOOLCHAIN_FILE": {
+		"value": "./vcpkg/scripts/buildsystems/vcpkg.cmake",
+		"type": "FILEPATH"
+		},
+		"CMAKE_CROSSCOMPILING": true
+      }
+    },
+    {
+      "name": "SnaXVS2019",
+	  "displayName": "SnaX VS2019 (x64)",
+	  "inherits": [ "Base" ],
+      "generator": "Visual Studio 16 2019",
+	  "binaryDir": "./Build",
+      "cacheVariables": {
+      }
+    },
+    {
+      "name": "SnaXVS2022",
+	  "displayName": "SnaX VS2022 (x64)",
+	  "inherits": [ "Base" ],
+      "generator": "Visual Studio 17 2022",
+	  "binaryDir": "./Build",
+      "cacheVariables": {
+      }
+    }
+  ]
+}

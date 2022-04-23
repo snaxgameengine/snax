@@ -1,0 +1,573 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{D27FF489-2396-4EFE-9871-0705655B8622}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {
+              "operatorType": "CLEAR_RTV"
+            },
+            "chipId": "{D2D4EA8B-6D89-4BCE-9F28-34CB1B7FC039}",
+            "connections": [{
+                "chipId": "{C1A0016F-9187-4B25-BABF-900B355248F3}",
+                "connection": 0
+              }, {
+                "chipId": "{B9076445-9FCC-47BA-BA63-26CF7F1CA84E}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Clear Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_RTV"
+            },
+            "chipId": "{3D049DAB-87AB-43BD-9360-343872E58371}",
+            "connections": [{
+                "chipId": "{8F67A817-CF80-4ACC-98FD-F76203CE5B32}",
+                "connection": 0
+              }, {
+                "chipId": "{4518CB12-551D-4FE3-8B29-9EEDAB0B1431}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {},
+            "chipId": "{4518CB12-551D-4FE3-8B29-9EEDAB0B1431}",
+            "name": "Back Buffer",
+            "type": "{D27FF489-2396-4EFE-9871-0705655B8622}"
+          }, {
+            "chipData": {
+              "vector": [0.15000000596046449, 0.15000000596046449, 0.5, 1.0]
+            },
+            "chipId": "{C1A0016F-9187-4B25-BABF-900B355248F3}",
+            "name": "Clear Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_DEPTH_STENCIL|M3D_RESOURCE_FLAG_DENY_SHADER_RESOURCE",
+              "flagsEx": 7,
+              "format": "M3D_FORMAT_D32_FLOAT_S8X24_UINT",
+              "height": 100,
+              "mipLevels": 1,
+              "msCount": 1,
+              "width": 100
+            },
+            "chipId": "{8F67A817-CF80-4ACC-98FD-F76203CE5B32}",
+            "name": "Depth Buffer",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "operatorType": "CLEAR_DSV"
+            },
+            "chipId": "{C489E8AA-09C1-44B8-A90C-CF1A8638557E}",
+            "connections": [{
+                "chipId": "{EBB05116-EA6D-4C6E-ABB5-698229811A5B}",
+                "connection": 0
+              }, {
+                "chipId": "{DDA968B0-89B9-4F5E-B0CB-94EEC08A6F91}",
+                "connection": 1
+              }, {
+                "chipId": "{1C3EEF20-59AC-41DA-8023-0C79B7BE7E0A}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Clear Depth Stencil Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "original": "{4518CB12-551D-4FE3-8B29-9EEDAB0B1431}"
+            },
+            "chipId": "{B9076445-9FCC-47BA-BA63-26CF7F1CA84E}",
+            "name": "Back Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{8F67A817-CF80-4ACC-98FD-F76203CE5B32}"
+            },
+            "chipId": "{1C3EEF20-59AC-41DA-8023-0C79B7BE7E0A}",
+            "name": "Depth Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{28A5D431-7EBE-4ADC-B59C-EB7E28B11727}",
+            "connections": [{
+                "chipId": "{3D049DAB-87AB-43BD-9360-343872E58371}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{D2D4EA8B-6D89-4BCE-9F28-34CB1B7FC039}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{C489E8AA-09C1-44B8-A90C-CF1A8638557E}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{EC1B60F2-1006-4CE7-8837-1D8EF5FFB344}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "Set up back buffer",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{EBB05116-EA6D-4C6E-ABB5-698229811A5B}",
+            "name": "Depth",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{DDA968B0-89B9-4F5E-B0CB-94EEC08A6F91}",
+            "name": "Stencil",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_VIEWPORTS"
+            },
+            "chipId": "{EC1B60F2-1006-4CE7-8837-1D8EF5FFB344}",
+            "connections": [{
+                "chipId": "{DFC78350-9633-4F83-A46C-54FD2A057D37}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Set Viewports (Relative)",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 1.0, 1.0]
+            },
+            "chipId": "{DFC78350-9633-4F83-A46C-54FD2A057D37}",
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{9031F191-F783-4093-AF7B-BB092B09BA8B}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{D2D4EA8B-6D89-4BCE-9F28-34CB1B7FC039}",
+                "x": -175,
+                "y": -444,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3D049DAB-87AB-43BD-9360-343872E58371}",
+                "x": -597,
+                "y": -437,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4518CB12-551D-4FE3-8B29-9EEDAB0B1431}",
+                "x": -558,
+                "y": -651,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C1A0016F-9187-4B25-BABF-900B355248F3}",
+                "x": -293,
+                "y": -772,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8F67A817-CF80-4ACC-98FD-F76203CE5B32}",
+                "x": -689,
+                "y": -747,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C489E8AA-09C1-44B8-A90C-CF1A8638557E}",
+                "x": 165,
+                "y": -440,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B9076445-9FCC-47BA-BA63-26CF7F1CA84E}",
+                "x": -110,
+                "y": -678,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1C3EEF20-59AC-41DA-8023-0C79B7BE7E0A}",
+                "x": 260,
+                "y": -702,
+                "objectType": "chip"
+              }, {
+                "chipId": "{28A5D431-7EBE-4ADC-B59C-EB7E28B11727}",
+                "x": 6,
+                "y": -1,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EBB05116-EA6D-4C6E-ABB5-698229811A5B}",
+                "x": 7,
+                "y": -910,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DDA968B0-89B9-4F5E-B0CB-94EEC08A6F91}",
+                "x": 139,
+                "y": -803,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EC1B60F2-1006-4CE7-8837-1D8EF5FFB344}",
+                "x": 556,
+                "y": -442,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DFC78350-9633-4F83-A46C-54FD2A057D37}",
+                "x": 574,
+                "y": -711,
+                "objectType": "chip"
+              }],
+            "extent": [-739, -960, 694, 49]
+          }
+        },
+        "id": "{886EC3A5-0194-4321-9436-8702D34C4A42}",
+        "inheritance": [],
+        "name": "Set Up Back Buffer",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {
+              "operatorType": "CLEAR_RTV"
+            },
+            "chipId": "{412B8FE5-07DB-415C-A80C-16B63866F9DB}",
+            "connections": [{
+                "chipId": "{C6B5EDB0-F8C2-4FFC-B31B-1116F4BCE2AA}",
+                "connection": 0
+              }, {
+                "chipId": "{A6EEFEF2-D922-464E-9DF1-3AC3B853ED03}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Clear Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_RTV"
+            },
+            "chipId": "{EEA995AA-F894-48B3-B2D1-15270F6EDE68}",
+            "connections": [{
+                "chipId": "{2DD9FF9E-A668-4C94-A3BC-A8367B26E317}",
+                "connection": 0
+              }, {
+                "chipId": "{EBF20E85-0E58-4CA4-A35A-6A1EDCD4761B}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.30000001192092898, 0.30000001192092898, 0.5, 1.0]
+            },
+            "chipId": "{C6B5EDB0-F8C2-4FFC-B31B-1116F4BCE2AA}",
+            "name": "Clear Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_DEPTH_STENCIL|M3D_RESOURCE_FLAG_DENY_SHADER_RESOURCE",
+              "flagsEx": 1,
+              "format": "M3D_FORMAT_D32_FLOAT_S8X24_UINT",
+              "height": 100,
+              "mipLevels": 1,
+              "msCount": 4,
+              "width": 100
+            },
+            "chipId": "{2DD9FF9E-A668-4C94-A3BC-A8367B26E317}",
+            "name": "Depth Buffer",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "operatorType": "CLEAR_DSV"
+            },
+            "chipId": "{1E30415D-A455-416A-9191-4D24A13DE929}",
+            "connections": [{
+                "chipId": "{43F4E52B-8C1C-4A30-A666-675622398DA6}",
+                "connection": 0
+              }, {
+                "chipId": "{BFDC7874-1A15-43CC-B2F1-E7A28F8F2D73}",
+                "connection": 1
+              }, {
+                "chipId": "{B6CE14F3-3C76-4F5B-B9E4-29AEC0F55D9C}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Clear Depth Stencil Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "original": "{2DD9FF9E-A668-4C94-A3BC-A8367B26E317}"
+            },
+            "chipId": "{B6CE14F3-3C76-4F5B-B9E4-29AEC0F55D9C}",
+            "name": "Depth Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_RENDER_TARGET",
+              "flagsEx": 3,
+              "format": "M3D_FORMAT_R8G8B8A8_UNORM",
+              "height": 100,
+              "mipLevels": 1,
+              "msCount": 4,
+              "width": 100
+            },
+            "chipId": "{EBF20E85-0E58-4CA4-A35A-6A1EDCD4761B}",
+            "name": "Render Target",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "original": "{EBF20E85-0E58-4CA4-A35A-6A1EDCD4761B}"
+            },
+            "chipId": "{A6EEFEF2-D922-464E-9DF1-3AC3B853ED03}",
+            "name": "Render Target",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{80B055BC-FB4F-4DFE-B01A-B73854EF20C4}",
+            "connections": [{
+                "chipId": "{EEA995AA-F894-48B3-B2D1-15270F6EDE68}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{412B8FE5-07DB-415C-A80C-16B63866F9DB}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{1E30415D-A455-416A-9191-4D24A13DE929}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{2C9437E3-ADC3-4FA9-9039-1B71163AC9C5}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "Set up render target",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_VIEWPORTS"
+            },
+            "chipId": "{2C9437E3-ADC3-4FA9-9039-1B71163AC9C5}",
+            "connections": [{
+                "chipId": "{5CDE2F59-7E75-4E10-9BB0-62FAD3C01A0F}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Set Viewports (Relative)",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 1.0, 1.0]
+            },
+            "chipId": "{5CDE2F59-7E75-4E10-9BB0-62FAD3C01A0F}",
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{43F4E52B-8C1C-4A30-A666-675622398DA6}",
+            "name": "Depth",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{BFDC7874-1A15-43CC-B2F1-E7A28F8F2D73}",
+            "name": "Stencil",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{2602F961-AF48-41CE-B4C6-E22C3BE3C739}",
+            "name": "Back Buffer",
+            "type": "{D27FF489-2396-4EFE-9871-0705655B8622}"
+          }, {
+            "chipData": {
+              "operatorType": "RESOLVE_SUBRESOURCE"
+            },
+            "chipId": "{FDBF174B-7ED8-4A54-B631-DDB21224A5C3}",
+            "connections": [{
+                "chipId": "{606C28E5-796A-482C-A171-AB67C41AF4C1}",
+                "connection": 0
+              }, {
+                "chipId": "{2602F961-AF48-41CE-B4C6-E22C3BE3C739}",
+                "connection": 3
+              }],
+            "name": "Resolve Subresource",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "UNBIND_RTV"
+            },
+            "chipId": "{4A9DAFBC-E56A-45B8-909B-D637363D7E27}",
+            "name": "Unbind Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {},
+            "chipId": "{BA161983-59BE-466E-8412-2B532E17CF0E}",
+            "connections": [{
+                "chipId": "{4A9DAFBC-E56A-45B8-909B-D637363D7E27}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{FDBF174B-7ED8-4A54-B631-DDB21224A5C3}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "name": "Resolve to back buffer",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "original": "{EBF20E85-0E58-4CA4-A35A-6A1EDCD4761B}"
+            },
+            "chipId": "{606C28E5-796A-482C-A171-AB67C41AF4C1}",
+            "name": "Render Target",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{EA589615-7E0A-4EFB-BB01-1336BB3B7A36}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{412B8FE5-07DB-415C-A80C-16B63866F9DB}",
+                "x": -194,
+                "y": -414,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EEA995AA-F894-48B3-B2D1-15270F6EDE68}",
+                "x": -623,
+                "y": -407,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C6B5EDB0-F8C2-4FFC-B31B-1116F4BCE2AA}",
+                "x": -284,
+                "y": -720,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2DD9FF9E-A668-4C94-A3BC-A8367B26E317}",
+                "x": -700,
+                "y": -798,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1E30415D-A455-416A-9191-4D24A13DE929}",
+                "x": 172,
+                "y": -414,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B6CE14F3-3C76-4F5B-B9E4-29AEC0F55D9C}",
+                "x": 294,
+                "y": -655,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EBF20E85-0E58-4CA4-A35A-6A1EDCD4761B}",
+                "x": -593,
+                "y": -705,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A6EEFEF2-D922-464E-9DF1-3AC3B853ED03}",
+                "x": -97,
+                "y": -640,
+                "objectType": "chip"
+              }, {
+                "chipId": "{80B055BC-FB4F-4DFE-B01A-B73854EF20C4}",
+                "x": 7,
+                "y": 12,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2C9437E3-ADC3-4FA9-9039-1B71163AC9C5}",
+                "x": 553,
+                "y": -407,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5CDE2F59-7E75-4E10-9BB0-62FAD3C01A0F}",
+                "x": 571,
+                "y": -675,
+                "objectType": "chip"
+              }, {
+                "chipId": "{43F4E52B-8C1C-4A30-A666-675622398DA6}",
+                "x": 51,
+                "y": -866,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BFDC7874-1A15-43CC-B2F1-E7A28F8F2D73}",
+                "x": 183,
+                "y": -759,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2602F961-AF48-41CE-B4C6-E22C3BE3C739}",
+                "x": 1290,
+                "y": -636,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FDBF174B-7ED8-4A54-B631-DDB21224A5C3}",
+                "x": 1212,
+                "y": -394,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4A9DAFBC-E56A-45B8-909B-D637363D7E27}",
+                "x": 943,
+                "y": -397,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BA161983-59BE-466E-8412-2B532E17CF0E}",
+                "x": 1076,
+                "y": -4,
+                "objectType": "chip"
+              }, {
+                "chipId": "{606C28E5-796A-482C-A171-AB67C41AF4C1}",
+                "x": 1055,
+                "y": -641,
+                "objectType": "chip"
+              }],
+            "extent": [-750, -916, 1367, 62]
+          }
+        },
+        "id": "{02F140E6-9EE9-4CC1-BA78-826866F2FFB8}",
+        "inheritance": [],
+        "name": "Set Up MS Back Buffer",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{00000000-0000-0000-0000-000000000000}",
+    "version": "1.2.7.0"
+  }
+}

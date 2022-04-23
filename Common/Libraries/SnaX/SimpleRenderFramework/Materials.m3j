@@ -1,0 +1,3884 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{51D9E503-FF04-46F9-8ED1-F5B614DEBA61}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7908D608-A149-4286-826D-270EDEDE12FE}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9D9BF71A-5AA3-4488-A627-22FB341CD06B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{E0A5A4A5-BDEA-4263-BDC5-640A51DF2C66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C80642C6-0537-41FE-A28B-1659548A9838}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{CAD1FECE-CC41-483F-8D77-48C1CF815133}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{57C5BE6B-7430-4B2A-B221-30EB87E20882}",
+            "connections": [{
+                "chipId": "{A8FB571D-68A8-46C5-80CB-D24C8ADD61E3}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "elements": {
+                        "count": 0
+                      }
+                    },
+                    "chipId": "{1F972118-CB47-4060-A060-EE28443B5168}",
+                    "name": "Graphics State",
+                    "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+                  }
+                }
+              },
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{E014784F-C377-4ACA-83E0-5D28C2D7420E}",
+            "connections": [{
+                "chipId": "{020B8832-5EB7-492B-87A9-D2C4C0706E4C}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "Graphics State",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "RootGraphicsState",
+              "preload": true,
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{020B8832-5EB7-492B-87A9-D2C4C0706E4C}",
+            "name": "SGraphics->RootGraphicsState",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "GetInstance",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{61E3202D-7C1F-4C33-9106-E4CA916C5C9D}",
+            "name": "SRenderContext->GetInstance",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "Get Material",
+              "preload": true,
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{A8FB571D-68A8-46C5-80CB-D24C8ADD61E3}",
+            "connections": [{
+                "chipId": "{61E3202D-7C1F-4C33-9106-E4CA916C5C9D}",
+                "connection": 0
+              }, {
+                "chipId": "{10FEC39D-6EED-411F-A332-59C33A83F226}",
+                "connection": 1
+              }],
+            "name": "SRenderContext->Get Material",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{10FEC39D-6EED-411F-A332-59C33A83F226}",
+            "name": "Material Instance",
+            "type": "{51D9E503-FF04-46F9-8ED1-F5B614DEBA61}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{B8526199-98B4-4093-B22C-299407660350}",
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Forward Rendering Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{DF98CFA6-C0D0-4B56-885E-25176EC78B57}",
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow Map Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{FB80DD7A-B2D2-40F8-8DF4-6EC852036284}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{57C5BE6B-7430-4B2A-B221-30EB87E20882}",
+                "x": 3,
+                "y": -3,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E014784F-C377-4ACA-83E0-5D28C2D7420E}",
+                "x": -717,
+                "y": 14,
+                "objectType": "chip"
+              }, {
+                "chipId": "{020B8832-5EB7-492B-87A9-D2C4C0706E4C}",
+                "x": -642,
+                "y": -241,
+                "objectType": "chip"
+              }, {
+                "chipId": "{61E3202D-7C1F-4C33-9106-E4CA916C5C9D}",
+                "x": -138,
+                "y": -603,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A8FB571D-68A8-46C5-80CB-D24C8ADD61E3}",
+                "x": 2,
+                "y": -276,
+                "objectType": "chip"
+              }, {
+                "chipId": "{10FEC39D-6EED-411F-A332-59C33A83F226}",
+                "x": 28,
+                "y": -707,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B8526199-98B4-4093-B22C-299407660350}",
+                "x": 740,
+                "y": 0,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DF98CFA6-C0D0-4B56-885E-25176EC78B57}",
+                "x": 1440,
+                "y": 1,
+                "objectType": "chip"
+              }],
+            "extent": [-837, -757, 1508, 64]
+          }
+        },
+        "id": "{34CFE47F-6C41-4208-9052-912A082D9617}",
+        "inheritance": [],
+        "name": "SMaterialBase",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{44AE29DC-D6FE-4CD1-8E26-0F5D723658D9}",
+            "connections": [{
+                "chipId": "{5EC53A42-5DB4-49AB-B579-4E06D34B0982}",
+                "connection": 0
+              }, {
+                "chipId": "{5C7E613C-7E35-4408-8176-9A9DF9A5EBBC}",
+                "connection": 3,
+                "subConnection": 0
+              }, {
+                "chipId": "{CF63622E-F57E-4AC6-BEE1-74753AF4D039}",
+                "connection": 3,
+                "subConnection": 1
+              }, {
+                "chipId": "{4424D0D5-70BF-4211-9C27-AD28D229C3AB}",
+                "connection": 3,
+                "subConnection": 2
+              }, {
+                "chipId": "{ED71297F-1174-46F7-898B-7D1B92075F20}",
+                "connection": 4,
+                "multiConnection": true
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SMaterialBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+              "functionName": "Graphics State",
+              "preload": true,
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{AFAF5D83-8692-48F2-A2E5-5FB15099E011}",
+            "name": "SMaterialBase->Graphics State",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 0
+              }
+            },
+            "chipId": "{5EC53A42-5DB4-49AB-B579-4E06D34B0982}",
+            "connections": [{
+                "chipId": "{5F504B54-1431-4A2F-AB6E-92700ECE6F7B}",
+                "connection": 0
+              }, {
+                "chipId": "{CB3E6DCC-BAD5-49E5-A263-6B4B973EBE57}",
+                "connection": 1
+              }, {
+                "chipId": "{AFAF5D83-8692-48F2-A2E5-5FB15099E011}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{5F504B54-1431-4A2F-AB6E-92700ECE6F7B}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{CB3E6DCC-BAD5-49E5-A263-6B4B973EBE57}",
+            "connections": [{
+                "chipId": "{EFC50915-B204-477A-8311-F0F93AD0EF41}",
+                "connection": 0
+              }, {
+                "chipId": "{C19663D0-5F8C-4DC9-A4AB-EF543672D88E}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {},
+            "chipId": "{5C7E613C-7E35-4408-8176-9A9DF9A5EBBC}",
+            "connections": [{
+                "chipId": "{A1032DBB-9158-4DC4-9CC1-705B1586A87C}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{EC2D2A7C-6BD2-4810-B6F6-A8E5C9CC65F8}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{CA3EDF35-F657-4386-A77B-73CB8BE3B7EA}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{D6DF8F7C-AB7D-4BD5-BC0C-7E9F4284E675}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{70F349A2-E7C3-4F7C-BE77-B59259ED1067}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{2D791316-3766-42DE-A842-89E56C4BCF53}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{BD4EA454-9185-423A-AD82-63EC2C8B486B}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{3F9D14E5-3071-4838-8401-EC330B9EA8D9}",
+                "connection": 0,
+                "subConnection": 7
+              }],
+            "name": "Material Constants",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {},
+            "chipId": "{D6DF8F7C-AB7D-4BD5-BC0C-7E9F4284E675}",
+            "name": "Bump Scaling",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "0uugXQEAAAA=eJxziXByZrI8955b7+j9vmkl20TnzL3DyMDA8IeJgYEZSOsAcQ0QfwBiz2B3Pw8gDZRi4ABiCwYEYIbS7OwMDI5o4oxQ8QD/YM8QT38/Bj//IF9HHwZ/oHk5UDUg8wKgehiRzOMH4hhs5gE1pKKJM0HFg8Pi4Vah2xns4RrBAlQYCDSlEag+i4OBMRKoza3PAG43CMtAzY0HGl0kIIDCBsmnMzCwfFIQgOtJBckpCKCwQe7JADoLJGbGwMBaxABR7yYEoUFiTVAxRgcQ2WAvyMDAKQQ1140PSiO5TQKIQWqU8KiRhKpxwqNGCqqmCY8aaagaIai/sKlhQHIPLjWMSO7BpQYUVgJQu5igYQRW24RqlwDULlxqGKFqnPCoAYnbAZkAWTA9iQ==",
+                    "size": 764
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }],
+                  "count": 2
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 65
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// This is the input to the vertex shader. The Geometry connected to your Renderable must supply all these elements!\nstruct ShaderInput\n{\n    float3 position     : POSITION;\n    float3 normal       : NORMAL;\n};\n\n// This is the output from the vertex shader. If you modify this you must also update the ShaderInput for the pixel shader accordingly.\nstruct ShaderOutput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n};\n\n\n// Entry point for the vertex shader.\nShaderOutput main(in ShaderInput IN)\n{\n    ShaderOutput OUT = (ShaderOutput) 0;\n    OUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n    OUT.worldPos = mul(float4(IN.position, 1.0), world).xyz;\n    OUT.normal = mul(IN.normal, (float3x3)world);\n    return OUT;\n}\n"
+            },
+            "chipId": "{EFC50915-B204-477A-8311-F0F93AD0EF41}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "rp1W4AEAAAA=eJztWF9om1UUP8nXL/mS1CaNOvcHXFaEsVI1q7XUiEnbtek6u7Zru9KJYBWFUv9XpA6hhqBMB5t7sdQXmX+Q4V4m+OKDTWEPFvHBh6JPinRvYygM9EERPfe759yc3H5J9iz74HJzz/ndc849f757vgzNDR554J/vKtc+/PqXn69/+8n9Z1/vDAHAZ7sAHJy7cFzEsYVjdHpk/AXQdA/HJOgnRDT1JHE8CdXHIX40CvCcRQ8TfXr2qcmJ6dGZ0YlxMD/GJ6aOD4zBBOrsIhlKZ8aSwTpRxszA1MjwDFy+PH10eG7zboATSF9yARY9CD28G2AQ138dfLXy64nv11nGb+1LhX0/DVV4vXZt45vnb7xo1m9/dCWfWV7N83plebHy7qnrZr21MVmZbHva4O/7++r62lfnDH/+/dOFG5cGCrx+4/ftfNfHpw0ePogVjp27aezxvjizHln50ay3148VNt88YuStfbm8fqnwlpG3tTBZOXvXollnPx3LL0yNmvXa0Tvz88+mjLxT6PLi+SzIJ2HxlK/DNFzmeZqnaA6NRyyeorXQyBDvCYBI8SWtj3k+3dN0pStOQz1zu1HWSq19J0/W8tSeEMli3jMpcJZSKZ/Ov5WtmHPOzUzKxyzgkdRZcRVNg6YV0xrH8xAemXlxmvsQv0S/I9a+boDWbtB6P9+r53C/QpQwBiUT5yLZhrLijC+CxF8c0EM/vWSH0hEieUxzLJqyrYVsCtHeMtEEzlM41+irfXgPmD2YS/jzAEBskOzMsV9K1TwAf25xOgmzT+ARl2Wc3D+GJMZH8LfSF9Jxaee9xXL2inIG74+J/Y14Kn4sg3Wgz1vV2aMqRvHm8lV+GDvCpDOs9/cIHstnf6GeO5QeT8uvqSNcG18cELo4tzxpW1ivMbeSQfJClrw90je0F1eeOENJnTUqzgMB5+AZ9SbYX4xH23wZtrxeqiXff6Vq3XrE6wjgxYg3GMCj94CfqzHS78/pqn47PhJXJ/5Rlid9HGsg61ZjHbVi41ixOSRi82CwbTGbpuqL5YGOb90z1eQ02c3xiwja7Du1MjlPcB3iGiSeqRXpc3mmdthZK2Ghi+fH0e4O4nXS3CbsNra5mne77m7X3f+h7mpyu07doWUJlr16JvieVFhZM7KeWbesX7qPW7ep1iJ7qrGLvNe4fhV9Nar38cz169D5HbKF5c+20exqHspKivvb6LPu7kB6nfxJBNzbgftl3bH9sl4Oo6yyJT9XCvbJfuxncmB6KY99H6YclA9+ZoT2owjG94i4NtPzUBOsPJ86YrkJBuk1PU177f7WAF118RjnOOvT5/b7WTP4vH2Zaq3mLPlYDzHb51THG3ru7+9r8D4M4rGOgyKeSta/+Mh+83CdeA6Lfdx/r76WqQZ0Xv9WvfMhwip59WTzvYm+i6e59tuoHz+fzfA3UY7kIC7RsROXZVzIwg42wIYtLNsahHUENugO/jOZ4rNFWU4nYfgbgv3oUGzKVkwU7uofm/3H6W5S7zlzRxGGef5984NPN++oXnrf6O/BFN9X/nuBaXS/uTL2IGgO7Ph+8e10xfkVPwX6uyVHvCTWOdtcvHDBYFddrVvxOwL4RbKNvwM9ovm9Fep5Oe08qganV5F82ku14TbIrRFUyxiWGXklEwmJPHEpZ/37S8QMAuLD+HtFjKVPFGYXTn0Wv+rn0mNp/LnT16WCeg824qVEHLi34fd0jxUjF5rf97fS23Fes85oAM+Bmvs7GaSrWd+n8Or+4TPguUr8XpV9n31GnlXfYO7smMajbb4Mxcd71sjrFbVVr++zebLvs3my7/Og2p/YfZ+MncQNUbzleWRvLf1PfU+UvwmYJvOAeXtB/vdRv8dv1vfZ8lTfZ9OC+r6AfdW+x63GyiOZO3oiq+/rDsBw/ik5lEMJ7rca9YTN+rA+0S9y38Q+VrWoesa4rtWGvY3C3UN/3y6J+POs9vG7BKD2TuR3iUq/pUzVdteKXwvlZpkwnVYs8ijjP0T1mNU=",
+                    "size": 5796
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_TARGET",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 8,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float4x4 view;\nfloat4x4 projection;\nfloat4x4 viewInverse;\nfloat4x4 viewInverseTranspose;\nfloat4x4 projectionInverse;\nfloat4x4 viewProjection;\nfloat4x4 viewProjectionInverse;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std1",
+                        "returnType": 0,
+                        "size": 448,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 4
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "float shininess;\nfloat shininess_strength;\nfloat opacity;\nfloat bump_scaling;\nfloat4 ambient_color;\nfloat4 diffuse_color;\nfloat4 specular_color;\nfloat4 emissive_color;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "material",
+                        "returnType": 0,
+                        "size": 80,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 3,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 3,
+                        "bufferLayout": "int num_lights;\nfloat4 type_and_attenuation[8];\nfloat4 direction[8];\nfloat4 position[8];\nfloat3 ambient_intensity[8];\nfloat3 diffuse_intensity[8];\nfloat3 specular_intensity[8];\nint shadow_map_index[8];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "lights",
+                        "returnType": 0,
+                        "size": 912,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 4,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 4,
+                        "bufferLayout": "float4x4 shadow_matrix[8];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "shadow_matrices",
+                        "returnType": 0,
+                        "size": 512,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "randomTex",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 4,
+                        "bindPoint": 1,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "shadowMaps",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 4,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 4,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultWPSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 10,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 10,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "sam",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 2,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// Here we define the layout of the material constant buffer.\nstruct Material\n{\n    float shininess;\n    float shininess_strength;\n    float opacity;\n    float bump_scaling;\n    float4 ambient_color;\n    float4 diffuse_color;\n    float4 specular_color;\n    float4 emissive_color;\n};\n\n// Define the material constant buffer as the first buffer connected to the material.\nConstantBuffer<Material> material : CBUFFER1;\n \nstruct Lights\n{\n\tint num_lights;\n\tfloat4 type_and_attenuation[8]; // x: 1: directional, 2: point, 3: cone   yzw: attenuation: const, linear, exp (point and cone only)\n\tfloat4 direction[8]; // w: inner cone theta (cone light)\n\tfloat4 position[8]; // w: outer cone theta (cone light)\n    float3 ambient_intensity[8];\n    float3 diffuse_intensity[8];\n    float3 specular_intensity[8];\n\tint shadow_map_index[8];\n};\n\nConstantBuffer<Lights> lights : CBUFFER2;\n\nstruct ShadowMatrix\n{\n\tfloat4x4 shadow_matrix[8];\n};\n\nConstantBuffer<ShadowMatrix> shadow_matrices : CBUFFER3;\n\nTexture2D<float> randomTex : TEXTURE1;\nTexture2D<float> shadowMaps[4] : TEXTURE2;\nSamplerComparisonState  sam : STATIC_SAMPLER1;\n\n\n// This is the output from the vertex shader. It must match (or be a strict subset of) the ShaderOutput struct in the vertex shader.\nstruct ShaderInput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n};\n\nstruct LightCalculationParams\n{\n\tfloat4 positionSS;\n\tfloat3 world_pos;\n\tfloat3 normal;\n\tfloat3 ambient_material; \n\tfloat3 diffuse_material;\n\tfloat3 specular_material;\n\tfloat shininess;\n\tfloat shininess_strength;\n};\n\nstatic const float2 poissonDisk[16] = \n{ \n   float2( -0.94201624, -0.39906216 ), \n   float2( 0.94558609, -0.76890725 ), \n   float2( -0.094184101, -0.92938870 ), \n   float2( 0.34495938, 0.29387760 ), \n   float2( -0.91588581, 0.45771432 ), \n   float2( -0.81544232, -0.87912464 ), \n   float2( -0.38277543, 0.27676845 ), \n   float2( 0.97484398, 0.75648379 ), \n   float2( 0.44323325, -0.97511554 ), \n   float2( 0.53742981, -0.47373420 ), \n   float2( -0.26496911, -0.41893023 ), \n   float2( 0.79197514, 0.19090188 ), \n   float2( -0.24188840, 0.99706507 ), \n   float2( -0.81409955, 0.91437590 ), \n   float2( 0.19984126, 0.78641367 ), \n   float2( 0.14383161, -0.14100790 ) \n};\n\n\n\nfloat3 calculateLight(int light_index, in LightCalculationParams p, float3 light_dir, float shadow = 1.0)\n{\n\tfloat3 color = float3(0,0,0);\n\n\t// Ambient component\n    color += p.ambient_material * lights.ambient_intensity[light_index];\n\n//\tif (shadow == 0)\n\t//\treturn color;\n\t\t\n    // Add diffuse contribution.\n    float nDotL = max(dot(p.normal, light_dir), 0.0);\n    color += p.diffuse_material * lights.diffuse_intensity[light_index] * nDotL * shadow;\n\n    // Add specular contribution.\n    float3 reflection_dir = reflect(-light_dir, p.normal);\n    float3 eye_dir = normalize(viewInverse[3].xyz - p.world_pos);\n    float spec = max(dot(eye_dir, reflection_dir), 0.0);\n    color += p.specular_material * lights.specular_intensity[light_index] * pow(spec, p.shininess) * p.shininess_strength * shadow;\n\n\treturn color;\n}\n\nfloat3 applyDirectionalLight(int light_index, in LightCalculationParams p)\n{\n    float3 light_dir = normalize(-lights.direction[light_index].xyz);\n \n\treturn calculateLight(light_index, p, light_dir);\n}\n\nfloat3 applyPointLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 light_dir = lights.position[light_index].xyz - p.world_pos;\n\n\tfloat dist = length(light_dir);\n\n\tlight_dir /= dist;\n\n\tfloat3 color = calculateLight(light_index, p, light_dir);\n\n\tcolor /= dot(lights.type_and_attenuation[light_index].yzw, float3(1.0, dist, dist * dist));\n\n\treturn color;\n}\n\nfloat3 applyConeLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 light_dir = lights.position[light_index].xyz - p.world_pos;\n\n\tfloat dist = length(light_dir);\n\n\tlight_dir /= dist;\n\n\tfloat theata = dot(light_dir, -normalize(lights.direction[light_index].xyz));\n\n\tfloat inner = lights.direction[light_index].w;\n\tfloat outer = lights.position[light_index].w;\n\n\tif (theata < outer)\n\t\treturn float3(0,0,0);\n\t\t\n\tfloat falloff = smoothstep(outer, inner, clamp(theata, outer, inner));\n\n\tfloat shadow = 1.0;\n\tint shadowMapIndex = lights.shadow_map_index[light_index];\n\tif (shadowMapIndex != -1) {\n\t\tfloat r = randomTex.Sample(defaultWPSampler, (float2(p.world_pos.xy) + float2(p.world_pos.z, -p.world_pos.z)) * 20.0) * 2.0 * 3.14;\n    \tfloat2x2 randomRotationMatrix = float2x2(float2(cos(r), -sin(r)), float2(sin(r), cos(r)));\n\n\t\tfloat4 shadowMapCoord = mul(float4(p.world_pos, 1.0), shadow_matrices.shadow_matrix[shadowMapIndex]);\n\t\tshadowMapCoord /= shadowMapCoord.w;\n\n\t\tfloat bias = 0;//0.001 * tan(acos(nDotL)); // cosTheta is dot( n,l ), clamped between 0 and 1\n\t\n\t\tfloat pdScale = 0.002;\n\t\tshadow = 0.0;\n\t\tif (shadowMapCoord.z < 1.0) {\n\t\t\tfor (int i = 0; i < 16; i++) {\n\t\t\t\tshadow += shadowMaps[shadowMapIndex].SampleCmpLevelZero(sam, shadowMapCoord.xy + mul(poissonDisk[i], randomRotationMatrix) * pdScale, shadowMapCoord.z - bias);\n\t\t\t}\n\t\t\tshadow /= 16.0;\n\t\t}\n\t\telse\n\t\t\tshadow = 1;\n\t}\n\t\t\n\tfloat3 color = calculateLight(light_index, p, light_dir, shadow);\n\n\tcolor /= dot(lights.type_and_attenuation[light_index].yzw, float3(1.0, dist, dist * dist));\n\tcolor *= falloff;\n\n\treturn color;\n} \n\nfloat3 applyLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 color = float3(0,0,0);\n\t\n\tswitch ((int)lights.type_and_attenuation[light_index].x) \n\t{\n\t\tcase 1: color = applyDirectionalLight(light_index, p); break;\n\t\tcase 2: color = applyPointLight(light_index, p); break;\n\t\tcase 3: color = applyConeLight(light_index, p); break;\n\t}\n\t\n\treturn color;\n}\n\n\n// Entry point for the pixel shader. The shader returns a color for render target 0.\nfloat4 main(in ShaderInput IN) : SV_TARGET0\n{\n    float4 OUT = float4(0.0, 0.0, 0.0, 1.0);\n    float3 color = float3(0.0, 0.0, 0.0);\n\n\tfloat3 normal = normalize(IN.normal);\n\tfloat3 ambient = material.ambient_color.xyz;\n    float3 diffuse = material.diffuse_color.xyz;\n    float3 specular = material.specular_color.xyz;\t\n\n\tLightCalculationParams p;\n\tp.positionSS = IN.position;\n\tp.world_pos = IN.worldPos;\n\tp.normal = normal;\n\tp.ambient_material = ambient; \n\tp.diffuse_material = diffuse;\n\tp.specular_material = specular;\n\tp.shininess = material.shininess;\n\tp.shininess_strength = material.shininess_strength;\n\t\t\n\tfor (int i = 0; i < lights.num_lights; i++)\t\n\t\tcolor += applyLight(i, p);\n\n    // Add emissive lighting.\n    float3 emissive = material.emissive_color.xyz;\n    color += emissive;\n    OUT.xyz = color;\n\n    // Apply opacity.\n    float alpha = 1.0;\n    alpha *= material.opacity;\n    OUT =  (float4(color, alpha));\n    return OUT;\n}\n"
+            },
+            "chipId": "{C19663D0-5F8C-4DC9-A4AB-EF543672D88E}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 20.0
+                    },
+                    "chipId": "{2B62C925-9CA8-421E-8C46-AEAC478C57D5}",
+                    "name": "Shininess",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{A1032DBB-9158-4DC4-9CC1-705B1586A87C}",
+            "name": "Shininess",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 1.0
+                    },
+                    "chipId": "{23A59F12-0202-4D1A-82AD-4F3CC31AF90B}",
+                    "name": "Shininess Strength",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{EC2D2A7C-6BD2-4810-B6F6-A8E5C9CC65F8}",
+            "name": "Shininess Strength",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 1.0
+                    },
+                    "chipId": "{CA8F26CC-B626-4910-AA09-2F6458D481A5}",
+                    "name": "Opacity",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{CA3EDF35-F657-4386-A77B-73CB8BE3B7EA}",
+            "name": "Opacity",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{438D81E6-BB1E-46B8-BE6B-32683EA5E0C3}",
+                    "name": "Ambient Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{70F349A2-E7C3-4F7C-BE77-B59259ED1067}",
+            "name": "Ambient Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{E03043CB-8A4C-4163-A554-5A77A4428D71}",
+                    "name": "Diffuse Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{2D791316-3766-42DE-A842-89E56C4BCF53}",
+            "name": "Diffuse Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{2AA3874B-A00A-4F53-9F67-74A96126EB71}",
+                    "name": "Specular Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{BD4EA454-9185-423A-AD82-63EC2C8B486B}",
+            "name": "Specular Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [0.0, 0.0, 0.0, 1.0]
+                    },
+                    "chipId": "{EB01E53F-530A-4DD7-8593-C9E0DB8C028E}",
+                    "name": "Emissive Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{3F9D14E5-3071-4838-8401-EC330B9EA8D9}",
+            "name": "Emissive Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{34E2638A-11A9-45AE-BD06-17903B5A16AD}",
+            "connections": [{
+                "chipId": "{44AE29DC-D6FE-4CD1-8E26-0F5D723658D9}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Forward Rendering Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "GetInstance",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{C1C687B5-6369-4BD8-99D0-52774E7910DE}",
+            "name": "SRenderContext->GetInstance",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SFwdRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "Get Light Shader Data",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{9B6BD6BC-35BC-46F6-93A8-648E5622465A}",
+            "connections": [{
+                "chipId": "{C1C687B5-6369-4BD8-99D0-52774E7910DE}",
+                "connection": 0
+              }],
+            "name": "SFwdRenderContext->Get Light Shader Data",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Light Shader Data",
+              "preload": true,
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{CF63622E-F57E-4AC6-BEE1-74753AF4D039}",
+            "connections": [{
+                "chipId": "{9B6BD6BC-35BC-46F6-93A8-648E5622465A}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Light Shader Data",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{5AEBBE32-5FDA-45C9-96BB-9D476AAC8B6A}",
+            "connections": [{
+                "chipId": "{A6914628-D6CB-4873-A36C-29D80053F1A3}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow Map Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {},
+            "chipId": "{A6914628-D6CB-4873-A36C-29D80053F1A3}",
+            "connections": [{
+                "chipId": "{48640610-D64B-42E2-A2F6-8F8C6B745C62}",
+                "connection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SMaterialBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+              "functionName": "Graphics State",
+              "preload": true,
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{73C722E7-1212-4EFB-A49C-5D8F6254AE63}",
+            "name": "SMaterialBase->Graphics State",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 1,
+                "map": [{
+                    "first": "RS_CM",
+                    "second": {
+                      "type": "M3D_CULL_MODE",
+                      "value": "M3D_CULL_MODE_FRONT"
+                    }
+                  }]
+              }
+            },
+            "chipId": "{48640610-D64B-42E2-A2F6-8F8C6B745C62}",
+            "connections": [{
+                "chipId": "{9FFCE9AB-EBDD-47B5-A721-EBF1314B5E13}",
+                "connection": 0
+              }, {
+                "chipId": "{9B3B2360-83BC-4724-B089-3F4C8D76D53A}",
+                "connection": 1
+              }, {
+                "chipId": "{73C722E7-1212-4EFB-A49C-5D8F6254AE63}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{9FFCE9AB-EBDD-47B5-A721-EBF1314B5E13}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{9B3B2360-83BC-4724-B089-3F4C8D76D53A}",
+            "connections": [{
+                "chipId": "{28A7DFF8-060F-4782-97B2-5C02239F40AD}",
+                "connection": 0
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "wuD7RQAAAAA=RFhCQ6Tbec+XsOpGN6aViPQ/3LQBAAAApAEAAAMAAAAsAAAAYAAAAJQAAABJU0dOLAAAAAEAAAAIAAAAIAAAAAAAAAAAAAAAAwAAAAAAAAAHBwAAUE9TSVRJT04Aq6urT1NHTiwAAAABAAAACAAAACAAAAAAAAAAAQAAAAMAAAAAAAAADwAAAFNWX1BPU0lUSU9OAFNIRVgIAQAAUQABAEIAAABqCAABWQAAB0aOMAAAAAAAAQAAAAEAAAAcAAAAAAAAAF8AAANyEBAAAAAAAGcAAATyIBAAAAAAAAEAAABoAAACAQAAADYAAAVyABAAAAAAAEYSEAAAAAAANgAABYIAEAAAAAAAAUAAAAAAgD8RAAAJEiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABgAAAARAAAJIiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABkAAAARAAAJQiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABoAAAARAAAJgiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABsAAAA+AAAB",
+                    "size": 420
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 64
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// This is the input to the vertex shader. The Geometry connected to your Renderable must supply all these elements!\nstruct ShaderInput\n{\n    float3 position     : POSITION;\n};\n\n// This is the output from the vertex shader. If you modify this you must also update the ShaderInput for the pixel shader accordingly.\nstruct ShaderOutput\n{\n    float4 position     : SV_POSITION;\n};\n\n\n// Entry point for the vertex shader.\nShaderOutput main(in ShaderInput IN)\n{\n    ShaderOutput OUT = (ShaderOutput) 0;\n    OUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n    return OUT;\n}\n"
+            },
+            "chipId": "{28A7DFF8-060F-4782-97B2-5C02239F40AD}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Map Matrices",
+              "preload": true,
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{4424D0D5-70BF-4211-9C27-AD28D229C3AB}",
+            "connections": [{
+                "chipId": "{9B6BD6BC-35BC-46F6-93A8-648E5622465A}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Shadow Map Matrices",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+              "value": "COMBO"
+            },
+            "chipId": "{ED71297F-1174-46F7-898B-7D1B92075F20}",
+            "connections": [{
+                "chipId": "{ED8B05EB-5943-4B3E-9091-060A6D559011}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{8963BA90-C559-46F3-A277-70868C057698}",
+                "connection": 1
+              }, {
+                "chipId": "{6D9CD501-B2F1-4AB6-8CA2-CF3B19D5B8A6}",
+                "connection": 2
+              }, {
+                "chipId": "{44C5C6D3-0B7B-43E0-A5FE-69946E9BB19D}",
+                "connection": 3
+              }],
+            "name": "Combination",
+            "type": "{9D9BF71A-5AA3-4488-A627-22FB341CD06B}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Number Of Shadow Maps",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{8963BA90-C559-46F3-A277-70868C057698}",
+            "connections": [{
+                "chipId": "{9B6BD6BC-35BC-46F6-93A8-648E5622465A}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Number Of Shadow Maps",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Map Contexts",
+              "preload": true,
+              "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}"
+            },
+            "chipId": "{B4804D58-0E15-411B-BC01-0ED6834C4019}",
+            "connections": [{
+                "chipId": "{9B6BD6BC-35BC-46F6-93A8-648E5622465A}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Shadow Map Contexts",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "operatorType": "ARRAY"
+            },
+            "chipId": "{741ADAA3-68C6-4726-9ACC-4DC60511CDA2}",
+            "connections": [{
+                "chipId": "{B4804D58-0E15-411B-BC01-0ED6834C4019}",
+                "connection": 0
+              }, {
+                "chipId": "{6D9CD501-B2F1-4AB6-8CA2-CF3B19D5B8A6}",
+                "connection": 1
+              }],
+            "name": "Array-Element by Index",
+            "type": "{E0A5A4A5-BDEA-4263-BDC5-640A51DF2C66}"
+          }, {
+            "chipData": {},
+            "chipId": "{6D9CD501-B2F1-4AB6-8CA2-CF3B19D5B8A6}",
+            "name": "Current Chip",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SShadowMapRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "Get Shadow Map",
+              "preload": true,
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{44C5C6D3-0B7B-43E0-A5FE-69946E9BB19D}",
+            "connections": [{
+                "chipId": "{741ADAA3-68C6-4726-9ACC-4DC60511CDA2}",
+                "connection": 0
+              }],
+            "name": "SShadowMapRenderContext->Get Shadow Map",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "RandomTexture128x128",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{ED8B05EB-5943-4B3E-9091-060A6D559011}",
+            "name": "SGraphics->RandomTexture128x128",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{40E97483-329A-4CAF-8D6D-2293B7232E64}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": [{
+                "chipId": "{FB80DD7A-B2D2-40F8-8DF4-6EC852036284}",
+                "id": "{34CFE47F-6C41-4208-9052-912A082D9617}",
+                "subConnection": 0
+              }]
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{44AE29DC-D6FE-4CD1-8E26-0F5D723658D9}",
+                "x": 19,
+                "y": -246,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AFAF5D83-8692-48F2-A2E5-5FB15099E011}",
+                "x": -984,
+                "y": -1012,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5EC53A42-5DB4-49AB-B579-4E06D34B0982}",
+                "x": -1115,
+                "y": -618,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5F504B54-1431-4A2F-AB6E-92700ECE6F7B}",
+                "x": -1481,
+                "y": -839,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CB3E6DCC-BAD5-49E5-A263-6B4B973EBE57}",
+                "x": -1341,
+                "y": -1102,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5C7E613C-7E35-4408-8176-9A9DF9A5EBBC}",
+                "x": -195,
+                "y": -1130,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D6DF8F7C-AB7D-4BD5-BC0C-7E9F4284E675}",
+                "x": -451,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EFC50915-B204-477A-8311-F0F93AD0EF41}",
+                "x": -1424,
+                "y": -1346,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C19663D0-5F8C-4DC9-A4AB-EF543672D88E}",
+                "x": -1278,
+                "y": -1447,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A1032DBB-9158-4DC4-9CC1-705B1586A87C}",
+                "x": -886,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EC2D2A7C-6BD2-4810-B6F6-A8E5C9CC65F8}",
+                "x": -741,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CA3EDF35-F657-4386-A77B-73CB8BE3B7EA}",
+                "x": -596,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{70F349A2-E7C3-4F7C-BE77-B59259ED1067}",
+                "x": -253,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2D791316-3766-42DE-A842-89E56C4BCF53}",
+                "x": -3,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BD4EA454-9185-423A-AD82-63EC2C8B486B}",
+                "x": 247,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3F9D14E5-3071-4838-8401-EC330B9EA8D9}",
+                "x": 497,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{34E2638A-11A9-45AE-BD06-17903B5A16AD}",
+                "x": 28,
+                "y": 6,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C1C687B5-6369-4BD8-99D0-52774E7910DE}",
+                "x": 1133,
+                "y": -2233,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9B6BD6BC-35BC-46F6-93A8-648E5622465A}",
+                "x": 1134,
+                "y": -2044,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CF63622E-F57E-4AC6-BEE1-74753AF4D039}",
+                "x": 831,
+                "y": -1097,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5AEBBE32-5FDA-45C9-96BB-9D476AAC8B6A}",
+                "x": 3626,
+                "y": -10,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A6914628-D6CB-4873-A36C-29D80053F1A3}",
+                "x": 3665,
+                "y": -364,
+                "objectType": "chip"
+              }, {
+                "chipId": "{73C722E7-1212-4EFB-A49C-5D8F6254AE63}",
+                "x": 3728,
+                "y": -1090,
+                "objectType": "chip"
+              }, {
+                "chipId": "{48640610-D64B-42E2-A2F6-8F8C6B745C62}",
+                "x": 3597,
+                "y": -696,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9FFCE9AB-EBDD-47B5-A721-EBF1314B5E13}",
+                "x": 3231,
+                "y": -917,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9B3B2360-83BC-4724-B089-3F4C8D76D53A}",
+                "x": 3371,
+                "y": -1180,
+                "objectType": "chip"
+              }, {
+                "chipId": "{28A7DFF8-060F-4782-97B2-5C02239F40AD}",
+                "x": 3304,
+                "y": -1424,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4424D0D5-70BF-4211-9C27-AD28D229C3AB}",
+                "x": 1006,
+                "y": -1005,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ED71297F-1174-46F7-898B-7D1B92075F20}",
+                "x": 1695,
+                "y": -900,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8963BA90-C559-46F3-A277-70868C057698}",
+                "x": 1329,
+                "y": -1197,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B4804D58-0E15-411B-BC01-0ED6834C4019}",
+                "x": 1344,
+                "y": -1733,
+                "objectType": "chip"
+              }, {
+                "chipId": "{741ADAA3-68C6-4726-9ACC-4DC60511CDA2}",
+                "x": 2046,
+                "y": -1355,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6D9CD501-B2F1-4AB6-8CA2-CF3B19D5B8A6}",
+                "x": 1972,
+                "y": -1649,
+                "objectType": "chip"
+              }, {
+                "chipId": "{44C5C6D3-0B7B-43E0-A5FE-69946E9BB19D}",
+                "x": 2037,
+                "y": -1133,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ED8B05EB-5943-4B3E-9091-060A6D559011}",
+                "x": 1645,
+                "y": -1271,
+                "objectType": "chip"
+              }],
+            "extent": [-1566, -2283, 3820, 56]
+          }
+        },
+        "id": "{EE383C06-80C9-47D9-9001-DD89102BD02A}",
+        "inheritance": [{
+            "fileName": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+            "id": "{34CFE47F-6C41-4208-9052-912A082D9617}"
+          }],
+        "name": "SColoredMaterial",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{513A33E7-8898-42F2-89FF-368BE2882B01}",
+            "connections": [{
+                "chipId": "{9A99EA9C-2203-4E95-B817-8FC1E5EE7856}",
+                "connection": 0
+              }, {
+                "chipId": "{9FD6F027-3BEE-4AE1-984B-C90613C77272}",
+                "connection": 3,
+                "subConnection": 0
+              }, {
+                "chipId": "{9EC67658-4DD9-4808-ABDE-CC088B3B9E20}",
+                "connection": 3,
+                "subConnection": 1
+              }, {
+                "chipId": "{9A3B67A8-BBFE-4533-96FB-3345EF07E599}",
+                "connection": 3,
+                "subConnection": 2
+              }, {
+                "chipId": "{85A06F24-8FE0-4B87-A907-A5641617719F}",
+                "connection": 4,
+                "multiConnection": true
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SMaterialBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+              "functionName": "Graphics State",
+              "preload": true,
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{15485A96-329C-40DF-86AC-9D0F37CF4927}",
+            "name": "SMaterialBase->Graphics State",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 0
+              }
+            },
+            "chipId": "{9A99EA9C-2203-4E95-B817-8FC1E5EE7856}",
+            "connections": [{
+                "chipId": "{22758570-B2CF-4ECA-A97A-6A0A256F77E7}",
+                "connection": 0
+              }, {
+                "chipId": "{F23AA50B-7D2C-41FF-B61F-605530D589A5}",
+                "connection": 1
+              }, {
+                "chipId": "{15485A96-329C-40DF-86AC-9D0F37CF4927}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{22758570-B2CF-4ECA-A97A-6A0A256F77E7}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{F23AA50B-7D2C-41FF-B61F-605530D589A5}",
+            "connections": [{
+                "chipId": "{6F8B4093-2759-483E-9805-6ED7D9EBD538}",
+                "connection": 0
+              }, {
+                "chipId": "{F1E8A679-FC05-4C60-847D-B5242B962B74}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {},
+            "chipId": "{9FD6F027-3BEE-4AE1-984B-C90613C77272}",
+            "connections": [{
+                "chipId": "{F6778455-273A-4199-BCDF-143684B88B70}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{12D7549D-5C79-4907-8F25-5DDF6AFDCF73}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{AE6F4C3E-606C-4E5B-83AD-76E7A9720448}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{46A879D6-B335-49DB-A16C-50C1111BFF5C}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{3987ACB4-79B8-4A1A-867F-F1AEEAE198F0}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{D48268ED-7D41-494F-8B04-FEE96340CE01}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{489856B8-86BB-47C4-BB06-FEF73DA84923}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{8B292EC2-7788-48D5-B00B-082E4467DA59}",
+                "connection": 0,
+                "subConnection": 7
+              }],
+            "name": "Material Constants",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {},
+            "chipId": "{46A879D6-B335-49DB-A16C-50C1111BFF5C}",
+            "name": "Bump Scaling",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "HDEdWgEAAAA=eJxziXBy3sLhxvr5tGaqz+1dm4JWFFczMjAwFDAzMAARgw4QLwBiC6CgZ7C7Xw4DRJwDiAMYEIAZSrOzMzBEookzQsUT0MSZQDSQEeAf7Bni6e/H4Ocf5OvowxDiGuHs7x/kwrB69Wp/oJ0TgOpYoHZmQPUzItnJD8Ql2OwEaqjFYidIvAVNHIx5GBiCw+LhzsHnrmAP1wgDoGGBQJt6gHqzOBgYgf5md+szgLsPhGWgdsQDjS8SEEBhM0LZRkA2yF3pQG9+UhCA608FqVMQQGEzQdlGQDYzJDyYQPJmDAysRQwQvW5CEBok1gQVY3QAkQ32ggwMnEJQO9z4oDSSmyWAGKRGCY8aSagaJzxqpKBqmvCokYaqEYL6EZsaBiT34FLDiOQeXGpA4SYAtYsJGkZgtU2odglA7cKlhhGqxgmPGiZo2MPiyA0av3ZAaQBmd0lG",
+                    "size": 880
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 4
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 65
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// This is the input to the vertex shader. The Geometry connected to your Renderable must supply all these elements!\nstruct ShaderInput\n{\n    float3 position     : POSITION;\n    float3 normal       : NORMAL;\n\tfloat2 texcoord0    : TEXCOORD0;\n};\n\n// This is the output from the vertex shader. If you modify this you must also update the ShaderInput for the pixel shader accordingly.\nstruct ShaderOutput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n\tfloat2 texcoord0    : TEXCOORD0;\n};\n\n\n// Entry point for the vertex shader.\nShaderOutput main(in ShaderInput IN)\n{\n    ShaderOutput OUT = (ShaderOutput) 0;\n    OUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n    OUT.worldPos = mul(float4(IN.position, 1.0), world).xyz;\n    OUT.normal = mul(IN.normal, (float3x3)world);\n\tOUT.texcoord0 = IN.texcoord0;\n    return OUT;\n}\n"
+            },
+            "chipId": "{6F8B4093-2759-483E-9805-6ED7D9EBD538}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "SV2DjwEAAAA=eJztWE1oXFUUvvNeMv9JJlNNEwt2GoTSEHA6xmGMmEkmyaSpaSZN0jB1YxTFEPEvCrGIcQiVqtCajUNwIYpQi9lUcGsmtC66cCFYdCupuJCiUFBEET3nvXPunPfmvUm2Qh/c3HnnfPfc83vveRkrF0Y/u5bt+e6f7g+fS/fUDtz6qSuglCofVMqEuR/G1zD+hDE5NzG9AXMLjDCMJWU/iDfpdweM11T9MYkfCin1potuEP28i24N+DO38ORMaW5yfrI0rfSP6dLsqZEpNT9eHi2VZsfU1tZWCfTqp31Qr5RLHusF8uZHZifG52HR3InxcrlLqdNAr7YqtRxWgYe7lSrA+19HX6n9ePqbbZbxa+dK/tAPYzV+37y189Xzt1/Q7+c/ujqUWq0O8fva6nLtnbO/6PebOzO1mfanNP6Bv69vb355UfMX3z+Xv31lJM/vr/+2O9T/yTmNVx9E8icv3tH6hD+/sB1c+16/726fzN94Y1TL2/xidftK/i0t7+bSTO29e5b1e/rTqaGl2Un9vnniwNDiMwkt7yyEpXgpreQTc/HQ1waNVuaFbR7SOI6PuHhIa6GRIt4TSgWLL9r7sUxJD4g1Fj1s0xEXpYFPuRv2WHPqfeaMk4eyeLh50h7mPZ1Q5koiYeH5t0G/M/Ab7XkWTL2TSlh4qAmjHeZxcNmKsmlFwhXX2GJ4FlPaXkCF1hmbtOXzPAbqMG+Q5hzgUTbq9EeHcx3wIsizZBjEW6/HKyAwpg9GylE+GFybUSqeAQzG5fJ9tj7GMCIrkFsVnb9F8h/IjDK+SLON/3jEHvaTBZuTwMc4BEge04IuGuoYIvsDtHadaAIXRlxY7+d8ssLHAeJDFgWOgA/Wyc/s+2ilnt/KmlvMQcIcEnjApRkn108BifFgi4n74W/gdvJa8PPVEeHniFjfjMe5wvuRz+NoO9YI5spe8jkXAxR3nnH9gOCxfPZXjvI9RnjT3kf74IhqzN+Y1Mmw3yGn2qQcwyWnR/qC1sBbWOhcQduiQn/loTfPGdJb4kEnS4ZbHuRJCHMwjusr9XMmTLxeD16EeAUPHp1bVm7GaX9rTtb3d8dD4nziHWJ50rfxJrL2G1v2kXLF5JiIyYPeOkXcNKwjPkuUHVdfWxy5S/py3CKCtvC2UybnB7wHuNaIp2tC+lra1KmcNVGg84j34vlx0LuXeH00twu9tW6tNu9ufd2tr/9TfTly2Ke+QLMYy65e8L73ECtrQ9Yt7y3rlO7X+C7VVLCnHrPgu83rFHuEashexzPXKfL6aEZdWP5CO82tNg9kdYj7OO1zF3vSffIm5nEPe66X9cb6yzo5Tv42hPzBirdPDlN/gjzug3Avg3JPPveCew9Tf4L4ARHXvfZ5aA+stA9N1Pr7YIDu6FE6nevjHnv54iHOUd7PttvqT/Vge3Mp73MMeRmqMelzqt8dex4ezjU5B/14KO+oiCfK+hce2T8e94nnuFjH/XT11ZT+vsFvDJyRfoywKM9PNt+P4Ltokmu/nfrrS+kUf7sNkhzAxXobcWnGBVzYQhOs4cKyrl5YU2C97lqsL7ItxHL6CMPfBOxHU8SGdeA4XP/9xvApupPwnNN3E2GY14Yiv7XoFc7BLJ03yIvSOqQVBC2m6t8ehqrfB0wzVcP3iHW+yRggP6Hs75A+4nVAnbPOxY0Nja222nsjv9eDXyTd8LvuGskKtlAPRXrg81LSfBQH8ujetmoj2CS3JmBb1v3nKMl+ORXk781BWo85y9/1HDPlER+29X4RY+kTzL0umHIuft3PlceS8LPR15U8noPNeAkRB+5p+JweEDzW0e+e308Ph9jL0fpeUdV4b5vKcW+3yT326u8Qh/cN6wx2WDnMvS73d26beMY+Qd/RERsP+loykA/3qpaXFbXk19+5ebK/c/Nkf8f9rDW7+jsZK4kbo3qU9sjeWfo95iNrv3GXPsJH9jDu/s5Dp4ib5tXfednC+7It3OegzIbex9XfZTwwnG9oB+WOPqub9X5+/RbLy4m+kPsj9i3WHPaGUbsmm/YwiDtI/3Lm//ng/jzjOj4zlHLefXxmqJSKrKTqultrxf++0I9Z7BUI0+eKxRDI+A/w1LVz",
+                    "size": 5976
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 4
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_TARGET",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 10,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float4x4 view;\nfloat4x4 projection;\nfloat4x4 viewInverse;\nfloat4x4 viewInverseTranspose;\nfloat4x4 projectionInverse;\nfloat4x4 viewProjection;\nfloat4x4 viewProjectionInverse;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std1",
+                        "returnType": 0,
+                        "size": 448,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 4
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "float shininess;\nfloat shininess_strength;\nfloat opacity;\nfloat bump_scaling;\nfloat4 ambient_color;\nfloat4 diffuse_color;\nfloat4 specular_color;\nfloat4 emissive_color;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "material",
+                        "returnType": 0,
+                        "size": 80,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 3,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 3,
+                        "bufferLayout": "int num_lights;\nfloat4 type_and_attenuation[8];\nfloat4 direction[8];\nfloat4 position[8];\nfloat3 ambient_intensity[8];\nfloat3 diffuse_intensity[8];\nfloat3 specular_intensity[8];\nint shadow_map_index[8];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "lights",
+                        "returnType": 0,
+                        "size": 912,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 4,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 4,
+                        "bufferLayout": "float4x4 shadow_matrix[8];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "shadow_matrices",
+                        "returnType": 0,
+                        "size": 512,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "colorTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "randomTex",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 4,
+                        "bindPoint": 2,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "shadowMaps",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultLSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 4,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 4,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultWPSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 10,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 10,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "sam",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 2,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// Here we define the layout of the material constant buffer.\nstruct Material\n{\n    float shininess;\n    float shininess_strength;\n    float opacity;\n    float bump_scaling;\n    float4 ambient_color;\n    float4 diffuse_color;\n    float4 specular_color;\n    float4 emissive_color;\n};\n\n// Define the material constant buffer as the first buffer connected to the material.\nConstantBuffer<Material> material : CBUFFER1;\n \nstruct Lights\n{\n\tint num_lights;\n\tfloat4 type_and_attenuation[8]; // x: 1: directional, 2: point, 3: cone   yzw: attenuation: const, linear, exp (point and cone only)\n\tfloat4 direction[8]; // w: inner cone theta (cone light)\n\tfloat4 position[8]; // w: outer cone theta (cone light)\n    float3 ambient_intensity[8];\n    float3 diffuse_intensity[8];\n    float3 specular_intensity[8];\n\tint shadow_map_index[8];\n};\n\nConstantBuffer<Lights> lights : CBUFFER2;\n\nstruct ShadowMatrix\n{\n\tfloat4x4 shadow_matrix[8];\n};\n\nConstantBuffer<ShadowMatrix> shadow_matrices : CBUFFER3;\n\nTexture2D<float4> colorTexture : TEXTURE1;\nTexture2D<float> randomTex : TEXTURE2;\nTexture2D<float> shadowMaps[4] : TEXTURE3;\nSamplerComparisonState  sam : STATIC_SAMPLER1;\n\n\n// This is the output from the vertex shader. It must match (or be a strict subset of) the ShaderOutput struct in the vertex shader.\nstruct ShaderInput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n\tfloat2 texcoord0    : TEXCOORD0;\n};\n\nstruct LightCalculationParams\n{\n\tfloat3 world_pos;\n\tfloat3 normal;\n\tfloat3 ambient_material; \n\tfloat3 diffuse_material;\n\tfloat3 specular_material;\n\tfloat shininess;\n\tfloat shininess_strength;\n};\n\nstatic const float2 poissonDisk[16] = \n{ \n   float2( -0.94201624, -0.39906216 ), \n   float2( 0.94558609, -0.76890725 ), \n   float2( -0.094184101, -0.92938870 ), \n   float2( 0.34495938, 0.29387760 ), \n   float2( -0.91588581, 0.45771432 ), \n   float2( -0.81544232, -0.87912464 ), \n   float2( -0.38277543, 0.27676845 ), \n   float2( 0.97484398, 0.75648379 ), \n   float2( 0.44323325, -0.97511554 ), \n   float2( 0.53742981, -0.47373420 ), \n   float2( -0.26496911, -0.41893023 ), \n   float2( 0.79197514, 0.19090188 ), \n   float2( -0.24188840, 0.99706507 ), \n   float2( -0.81409955, 0.91437590 ), \n   float2( 0.19984126, 0.78641367 ), \n   float2( 0.14383161, -0.14100790 ) \n};\n\n\nfloat3 calculateLight(int light_index, in LightCalculationParams p, float3 light_dir, float shadow = 1.0)\n{\n\tfloat3 color = float3(0,0,0);\n\n\t// Ambient component\n    color += p.ambient_material * lights.ambient_intensity[light_index];\n\n//\tif (shadow == 0)\n\t//\treturn color;\n\t\t\n    // Add diffuse contribution.\n    float nDotL = max(dot(p.normal, light_dir), 0.0);\n    color += p.diffuse_material * lights.diffuse_intensity[light_index] * nDotL * shadow;\n\n    // Add specular contribution.\n    float3 reflection_dir = reflect(-light_dir, p.normal);\n    float3 eye_dir = normalize(viewInverse[3].xyz - p.world_pos);\n    float spec = max(dot(eye_dir, reflection_dir), 0.0);\n    color += p.specular_material * lights.specular_intensity[light_index] * pow(spec, p.shininess) * p.shininess_strength * shadow;\n\n\treturn color;\n}\n\nfloat3 applyDirectionalLight(int light_index, in LightCalculationParams p)\n{\n    float3 light_dir = normalize(-lights.direction[light_index].xyz);\n \n\treturn calculateLight(light_index, p, light_dir);\n}\n\nfloat3 applyPointLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 light_dir = lights.position[light_index].xyz - p.world_pos;\n\n\tfloat dist = length(light_dir);\n\n\tlight_dir /= dist;\n\n\tfloat3 color = calculateLight(light_index, p, light_dir);\n\n\tcolor /= dot(lights.type_and_attenuation[light_index].yzw, float3(1.0, dist, dist * dist));\n\n\treturn color;\n}\n\nfloat3 applyConeLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 light_dir = lights.position[light_index].xyz - p.world_pos;\n\n\tfloat dist = length(light_dir);\n\n\tlight_dir /= dist;\n\n\tfloat theata = dot(light_dir, -normalize(lights.direction[light_index].xyz));\n\n\tfloat inner = lights.direction[light_index].w;\n\tfloat outer = lights.position[light_index].w;\n\n\tif (theata < outer)\n\t\treturn float3(0,0,0);\n\t\t\n\tfloat falloff = smoothstep(outer, inner, clamp(theata, outer, inner));\n\n\tfloat shadow = 1.0;\n\tint shadowMapIndex = lights.shadow_map_index[light_index];\n\tif (shadowMapIndex != -1) {\n\t\tfloat r = randomTex.Sample(defaultWPSampler, (float2(p.world_pos.xy) + float2(p.world_pos.z, -p.world_pos.z)) * 20.0) * 2.0 * 3.14;\n    \tfloat2x2 randomRotationMatrix = float2x2(float2(cos(r), -sin(r)), float2(sin(r), cos(r)));\n\n\t\tfloat4 shadowMapCoord = mul(float4(p.world_pos, 1.0), shadow_matrices.shadow_matrix[shadowMapIndex]);\n\t\tshadowMapCoord /= shadowMapCoord.w;\n\n\t\tfloat bias = 0;//0.001 * tan(acos(nDotL)); // cosTheta is dot( n,l ), clamped between 0 and 1\n\t\n\t\tfloat pdScale = 0.002;\n\t\tshadow = 0.0;\n\t\tif (shadowMapCoord.z < 1.0) {\n\t\t\tfor (int i = 0; i < 16; i++) {\n\t\t\t\tshadow += shadowMaps[shadowMapIndex].SampleCmpLevelZero(sam, shadowMapCoord.xy + mul(poissonDisk[i], randomRotationMatrix) * pdScale, shadowMapCoord.z - bias);\n\t\t\t}\n\t\t\tshadow /= 16.0;\n\t\t}\n\t\telse\n\t\t\tshadow = 1;\n\t}\n\t\n\tfloat3 color = calculateLight(light_index, p, light_dir, shadow);\n\n\tcolor /= dot(lights.type_and_attenuation[light_index].yzw, float3(1.0, dist, dist * dist));\n\tcolor *= falloff;\n\n\treturn color;\n}\n\nfloat3 applyLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 color = float3(0,0,0);\n\t\n\tswitch ((int)lights.type_and_attenuation[light_index].x) \n\t{\n\t\tcase 1: color = applyDirectionalLight(light_index, p); break;\n\t\tcase 2: color = applyPointLight(light_index, p); break;\n\t\tcase 3: color = applyConeLight(light_index, p); break;\n\t}\n\t\n\treturn color;\n}\n\n\n// Entry point for the pixel shader. The shader returns a color for render target 0.\nfloat4 main(in ShaderInput IN) : SV_TARGET0\n{\n    float4 OUT = float4(0.0, 0.0, 0.0, 1.0);\n    float3 color = float3(0.0, 0.0, 0.0);\n\n\tfloat3 texColor = colorTexture.Sample(defaultLSampler, IN.texcoord0).rgb;\n\n\tfloat3 normal = normalize(IN.normal);\n\tfloat3 ambient = material.ambient_color.rgb * texColor;\n    float3 diffuse = material.diffuse_color.rgb * texColor;\n    float3 specular = material.specular_color.rgb * texColor;\t\n\n\tLightCalculationParams p;\n\tp.world_pos = IN.worldPos;\n\tp.normal = normal;\n\tp.ambient_material = ambient; \n\tp.diffuse_material = diffuse;\n\tp.specular_material = specular;\n\tp.shininess = material.shininess;\n\tp.shininess_strength = material.shininess_strength;\n\t\t\n\tfor (int i = 0; i < lights.num_lights; i++)\t\n\t\tcolor += applyLight(i, p);\n\n    // Add emissive lighting.\n    float3 emissive = material.emissive_color.xyz;\n    color += emissive;\n    OUT.xyz = color;\n\n    // Apply opacity.\n    float alpha = 1.0;\n    alpha *= material.opacity;\n    OUT = saturate(float4(color, alpha));\n    return OUT;\n}\n"
+            },
+            "chipId": "{F1E8A679-FC05-4C60-847D-B5242B962B74}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 20.0
+                    },
+                    "chipId": "{2D841C45-1E14-4617-BBB1-DCB12A1BFDDE}",
+                    "name": "Shininess",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{F6778455-273A-4199-BCDF-143684B88B70}",
+            "name": "Shininess",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 1.0
+                    },
+                    "chipId": "{CCB1BE36-4252-4318-B1F3-372AACDEAF18}",
+                    "name": "Shininess Strength",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{12D7549D-5C79-4907-8F25-5DDF6AFDCF73}",
+            "name": "Shininess Strength",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 1.0
+                    },
+                    "chipId": "{84087E80-11FF-41C9-AF1C-1743F0006064}",
+                    "name": "Opacity",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{AE6F4C3E-606C-4E5B-83AD-76E7A9720448}",
+            "name": "Opacity",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{A31E1C56-1D71-417C-9ABD-6DA9383BA0ED}",
+                    "name": "Ambient Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{3987ACB4-79B8-4A1A-867F-F1AEEAE198F0}",
+            "name": "Ambient Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{035701EE-EB7B-47FE-9478-3B435B297F3E}",
+                    "name": "Diffuse Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{D48268ED-7D41-494F-8B04-FEE96340CE01}",
+            "name": "Diffuse Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{445AB16F-7C13-4D1E-9319-85A05BD410BC}",
+                    "name": "Specular Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{489856B8-86BB-47C4-BB06-FEF73DA84923}",
+            "name": "Specular Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [0.0, 0.0, 0.0, 1.0]
+                    },
+                    "chipId": "{AD1972F1-850A-4E26-8A7D-451181190587}",
+                    "name": "Emissive Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{8B292EC2-7788-48D5-B00B-082E4467DA59}",
+            "name": "Emissive Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{4FD360F8-74DB-488E-B81C-77F178212E48}",
+            "connections": [{
+                "chipId": "{513A33E7-8898-42F2-89FF-368BE2882B01}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Forward Rendering Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "GetInstance",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{6113A1AA-0BBC-4082-9A37-0D5DC3387AA7}",
+            "name": "SRenderContext->GetInstance",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SFwdRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "Get Light Shader Data",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{A25CD7B6-090D-48BB-948F-E77A0AC18476}",
+            "connections": [{
+                "chipId": "{6113A1AA-0BBC-4082-9A37-0D5DC3387AA7}",
+                "connection": 0
+              }],
+            "name": "SFwdRenderContext->Get Light Shader Data",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Light Shader Data",
+              "preload": true,
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{9EC67658-4DD9-4808-ABDE-CC088B3B9E20}",
+            "connections": [{
+                "chipId": "{A25CD7B6-090D-48BB-948F-E77A0AC18476}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Light Shader Data",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{461E2F72-5E31-4C32-901F-E1886872CFC2}",
+            "connections": [{
+                "chipId": "{D67565B0-8536-4C19-8583-3904CB1B7EBD}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow Map Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {},
+            "chipId": "{D67565B0-8536-4C19-8583-3904CB1B7EBD}",
+            "connections": [{
+                "chipId": "{22B0C7C2-1B73-440F-8DC1-E6950288D676}",
+                "connection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SMaterialBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+              "functionName": "Graphics State",
+              "preload": true,
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{3BE728BC-0CEA-4B9F-BCED-65567FF46A7E}",
+            "name": "SMaterialBase->Graphics State",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 1,
+                "map": [{
+                    "first": "RS_CM",
+                    "second": {
+                      "type": "M3D_CULL_MODE",
+                      "value": "M3D_CULL_MODE_FRONT"
+                    }
+                  }]
+              }
+            },
+            "chipId": "{22B0C7C2-1B73-440F-8DC1-E6950288D676}",
+            "connections": [{
+                "chipId": "{EB85DE5E-74D5-46C5-899C-32F24B74876A}",
+                "connection": 0
+              }, {
+                "chipId": "{005FB8B3-2075-4073-A7C4-314E0F6788AD}",
+                "connection": 1
+              }, {
+                "chipId": "{3BE728BC-0CEA-4B9F-BCED-65567FF46A7E}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{EB85DE5E-74D5-46C5-899C-32F24B74876A}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{005FB8B3-2075-4073-A7C4-314E0F6788AD}",
+            "connections": [{
+                "chipId": "{CE434E8F-B41A-46FC-A69E-17A3F4AC42E3}",
+                "connection": 0
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "wuD7RQAAAAA=RFhCQ6Tbec+XsOpGN6aViPQ/3LQBAAAApAEAAAMAAAAsAAAAYAAAAJQAAABJU0dOLAAAAAEAAAAIAAAAIAAAAAAAAAAAAAAAAwAAAAAAAAAHBwAAUE9TSVRJT04Aq6urT1NHTiwAAAABAAAACAAAACAAAAAAAAAAAQAAAAMAAAAAAAAADwAAAFNWX1BPU0lUSU9OAFNIRVgIAQAAUQABAEIAAABqCAABWQAAB0aOMAAAAAAAAQAAAAEAAAAcAAAAAAAAAF8AAANyEBAAAAAAAGcAAATyIBAAAAAAAAEAAABoAAACAQAAADYAAAVyABAAAAAAAEYSEAAAAAAANgAABYIAEAAAAAAAAUAAAAAAgD8RAAAJEiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABgAAAARAAAJIiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABkAAAARAAAJQiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABoAAAARAAAJgiAQAAAAAABGDhAAAAAAAEaOMAAAAAAAAQAAABsAAAA+AAAB",
+                    "size": 420
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 64
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// This is the input to the vertex shader. The Geometry connected to your Renderable must supply all these elements!\nstruct ShaderInput\n{\n    float3 position     : POSITION;\n};\n\n// This is the output from the vertex shader. If you modify this you must also update the ShaderInput for the pixel shader accordingly.\nstruct ShaderOutput\n{\n    float4 position     : SV_POSITION;\n};\n\n\n// Entry point for the vertex shader.\nShaderOutput main(in ShaderInput IN)\n{\n    ShaderOutput OUT = (ShaderOutput) 0;\n    OUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n    return OUT;\n}\n"
+            },
+            "chipId": "{CE434E8F-B41A-46FC-A69E-17A3F4AC42E3}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Map Matrices",
+              "preload": true,
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{9A3B67A8-BBFE-4533-96FB-3345EF07E599}",
+            "connections": [{
+                "chipId": "{A25CD7B6-090D-48BB-948F-E77A0AC18476}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Shadow Map Matrices",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+              "value": "COMBO"
+            },
+            "chipId": "{85A06F24-8FE0-4B87-A907-A5641617719F}",
+            "connections": [{
+                "chipId": "{C520833F-930C-4D43-9E9E-1B1715337EFF}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{F5652A83-5BD0-4B40-82C7-641BD14E9BF5}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{6E2C8824-C5D7-47D0-AB31-CAB54A7FD45F}",
+                "connection": 1
+              }, {
+                "chipId": "{2339E09F-2FB0-4D05-BF9A-D8C8E37D08C4}",
+                "connection": 2
+              }, {
+                "chipId": "{9866E68A-315E-4724-955F-AB1447FD2D99}",
+                "connection": 3
+              }],
+            "name": "Combination",
+            "type": "{9D9BF71A-5AA3-4488-A627-22FB341CD06B}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Number Of Shadow Maps",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{6E2C8824-C5D7-47D0-AB31-CAB54A7FD45F}",
+            "connections": [{
+                "chipId": "{A25CD7B6-090D-48BB-948F-E77A0AC18476}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Number Of Shadow Maps",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Map Contexts",
+              "preload": true,
+              "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}"
+            },
+            "chipId": "{E553327F-D024-4C3E-BD09-E7E8E41F8EE2}",
+            "connections": [{
+                "chipId": "{A25CD7B6-090D-48BB-948F-E77A0AC18476}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Shadow Map Contexts",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "operatorType": "ARRAY"
+            },
+            "chipId": "{B6984269-8960-4AB6-9B6B-30827586F417}",
+            "connections": [{
+                "chipId": "{E553327F-D024-4C3E-BD09-E7E8E41F8EE2}",
+                "connection": 0
+              }, {
+                "chipId": "{2339E09F-2FB0-4D05-BF9A-D8C8E37D08C4}",
+                "connection": 1
+              }],
+            "name": "Array-Element by Index",
+            "type": "{E0A5A4A5-BDEA-4263-BDC5-640A51DF2C66}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{2339E09F-2FB0-4D05-BF9A-D8C8E37D08C4}",
+            "name": "Current Chip",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SShadowMapRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "Get Shadow Map",
+              "preload": true,
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{9866E68A-315E-4724-955F-AB1447FD2D99}",
+            "connections": [{
+                "chipId": "{B6984269-8960-4AB6-9B6B-30827586F417}",
+                "connection": 0
+              }],
+            "name": "SShadowMapRenderContext->Get Shadow Map",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "data": {
+                        "data": "2uSINAEAAAA=eJzrDPBz5+WS4mJgYOD19HAJYmBgZABhDiYgdVnA3hDEKw5yd2JYd07mJZDDku7o68jAsLGf+08iK5DPWeARWczAwHcYhBmP569IYWCQvO/p4hhSEff2giIfsyMPy8G//5cLB92pPXDmaLTy2d+vvk/UmZy6yWfaSaNItdMpMxGc1yUzR2UGWqasnS8FVWrNZawmjMrQVSanfy52CZ3JpbtGZQZcZrczO1rMXXuJ1YRRGbrKbDvuh11i2kmr2FGZAZe5u5B5sFWBozJAzu1kdewSp1Pm6o3KDLjMuwuNg60KHJUBct5unIxdInWT3/RRmQGXKX/hMNiqwFEZIOfbjZPYJYwil+PQMipDP5lN1iUKlFdaozJUl6l+k4JdYhCMWYzKpNyUtZpAeaU1KkN1GdsyHBKDYMxiVGbTGz7ZE0RWTaMy9JT5ck8+79O05CsCf+8yAIGnq5/LOqeEJgCsKEDc",
+                        "size": 6730
+                      },
+                      "fileFormat": "IFF_PNG",
+                      "flagsEx": 16
+                    },
+                    "chipId": "{F550B96E-649C-456A-9EA7-A9D996CF3342}",
+                    "name": "Texture",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{C520833F-930C-4D43-9E9E-1B1715337EFF}",
+            "name": "Texture",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "RandomTexture128x128",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{F5652A83-5BD0-4B40-82C7-641BD14E9BF5}",
+            "name": "SGraphics->RandomTexture128x128",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{AA24E799-87DF-400E-BBED-FC787A1CCDB6}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": [{
+                "chipId": "{FB80DD7A-B2D2-40F8-8DF4-6EC852036284}",
+                "id": "{34CFE47F-6C41-4208-9052-912A082D9617}",
+                "subConnection": 0
+              }]
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{513A33E7-8898-42F2-89FF-368BE2882B01}",
+                "x": -1839,
+                "y": -253,
+                "objectType": "chip"
+              }, {
+                "chipId": "{15485A96-329C-40DF-86AC-9D0F37CF4927}",
+                "x": -2286,
+                "y": -969,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9A99EA9C-2203-4E95-B817-8FC1E5EE7856}",
+                "x": -2417,
+                "y": -575,
+                "objectType": "chip"
+              }, {
+                "chipId": "{22758570-B2CF-4ECA-A97A-6A0A256F77E7}",
+                "x": -2783,
+                "y": -796,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F23AA50B-7D2C-41FF-B61F-605530D589A5}",
+                "x": -2643,
+                "y": -1059,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9FD6F027-3BEE-4AE1-984B-C90613C77272}",
+                "x": -1497,
+                "y": -1087,
+                "objectType": "chip"
+              }, {
+                "chipId": "{46A879D6-B335-49DB-A16C-50C1111BFF5C}",
+                "x": -1753,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6F8B4093-2759-483E-9805-6ED7D9EBD538}",
+                "x": -2726,
+                "y": -1303,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F1E8A679-FC05-4C60-847D-B5242B962B74}",
+                "x": -2579,
+                "y": -1404,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F6778455-273A-4199-BCDF-143684B88B70}",
+                "x": -2188,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{12D7549D-5C79-4907-8F25-5DDF6AFDCF73}",
+                "x": -2043,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AE6F4C3E-606C-4E5B-83AD-76E7A9720448}",
+                "x": -1898,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3987ACB4-79B8-4A1A-867F-F1AEEAE198F0}",
+                "x": -1555,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D48268ED-7D41-494F-8B04-FEE96340CE01}",
+                "x": -1305,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{489856B8-86BB-47C4-BB06-FEF73DA84923}",
+                "x": -1055,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8B292EC2-7788-48D5-B00B-082E4467DA59}",
+                "x": -805,
+                "y": -1495,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4FD360F8-74DB-488E-B81C-77F178212E48}",
+                "x": -1830,
+                "y": 0,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6113A1AA-0BBC-4082-9A37-0D5DC3387AA7}",
+                "x": -571,
+                "y": -1588,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A25CD7B6-090D-48BB-948F-E77A0AC18476}",
+                "x": -570,
+                "y": -1399,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9EC67658-4DD9-4808-ABDE-CC088B3B9E20}",
+                "x": -645,
+                "y": -840,
+                "objectType": "chip"
+              }, {
+                "chipId": "{461E2F72-5E31-4C32-901F-E1886872CFC2}",
+                "x": 1769,
+                "y": -17,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D67565B0-8536-4C19-8583-3904CB1B7EBD}",
+                "x": 1807,
+                "y": -371,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3BE728BC-0CEA-4B9F-BCED-65567FF46A7E}",
+                "x": 1871,
+                "y": -1096,
+                "objectType": "chip"
+              }, {
+                "chipId": "{22B0C7C2-1B73-440F-8DC1-E6950288D676}",
+                "x": 1739,
+                "y": -702,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EB85DE5E-74D5-46C5-899C-32F24B74876A}",
+                "x": 1373,
+                "y": -923,
+                "objectType": "chip"
+              }, {
+                "chipId": "{005FB8B3-2075-4073-A7C4-314E0F6788AD}",
+                "x": 1514,
+                "y": -1186,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CE434E8F-B41A-46FC-A69E-17A3F4AC42E3}",
+                "x": 1494,
+                "y": -1502,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9A3B67A8-BBFE-4533-96FB-3345EF07E599}",
+                "x": -470,
+                "y": -748,
+                "objectType": "chip"
+              }, {
+                "chipId": "{85A06F24-8FE0-4B87-A907-A5641617719F}",
+                "x": 236,
+                "y": -643,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6E2C8824-C5D7-47D0-AB31-CAB54A7FD45F}",
+                "x": -146,
+                "y": -939,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E553327F-D024-4C3E-BD09-E7E8E41F8EE2}",
+                "x": 113,
+                "y": -1303,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B6984269-8960-4AB6-9B6B-30827586F417}",
+                "x": 544,
+                "y": -1079,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2339E09F-2FB0-4D05-BF9A-D8C8E37D08C4}",
+                "x": 339,
+                "y": -1435,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9866E68A-315E-4724-955F-AB1447FD2D99}",
+                "x": 562,
+                "y": -876,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C520833F-930C-4D43-9E9E-1B1715337EFF}",
+                "x": 61,
+                "y": -1070,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F5652A83-5BD0-4B40-82C7-641BD14E9BF5}",
+                "x": 186,
+                "y": -1106,
+                "objectType": "chip"
+              }],
+            "extent": [-2868, -1638, 1962, 50]
+          }
+        },
+        "id": "{741706DF-CCE9-426D-83F3-B685893605F5}",
+        "inheritance": [{
+            "fileName": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+            "id": "{34CFE47F-6C41-4208-9052-912A082D9617}"
+          }],
+        "name": "STexturedMaterial",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{7B9F2FF8-89A0-4322-B264-3193DED4D420}",
+            "connections": [{
+                "chipId": "{14767F57-BF27-4E31-868C-50AA1AE171F4}",
+                "connection": 0
+              }, {
+                "chipId": "{EBEF3C8E-0B55-46C2-94B9-7AEA030D8D78}",
+                "connection": 3,
+                "subConnection": 0
+              }, {
+                "chipId": "{5601F2F5-7279-45B1-9CB7-B72956586788}",
+                "connection": 3,
+                "subConnection": 1
+              }, {
+                "chipId": "{AA502040-D3C7-4B07-9FB2-62AA7500F565}",
+                "connection": 3,
+                "subConnection": 2
+              }, {
+                "chipId": "{B5755E3F-8277-41C6-9E4D-151994B4A656}",
+                "connection": 4,
+                "multiConnection": true
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SMaterialBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+              "functionName": "Graphics State",
+              "preload": true,
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{027BDE85-36F6-455A-9200-D3B49839702E}",
+            "name": "SMaterialBase->Graphics State",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 0
+              }
+            },
+            "chipId": "{14767F57-BF27-4E31-868C-50AA1AE171F4}",
+            "connections": [{
+                "chipId": "{863A46F4-ADA4-4246-A9B5-ED01E2D10046}",
+                "connection": 0
+              }, {
+                "chipId": "{70090796-F19A-4155-9027-79A2743C7B9C}",
+                "connection": 1
+              }, {
+                "chipId": "{027BDE85-36F6-455A-9200-D3B49839702E}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{863A46F4-ADA4-4246-A9B5-ED01E2D10046}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{70090796-F19A-4155-9027-79A2743C7B9C}",
+            "connections": [{
+                "chipId": "{05734BB9-BDBF-4D4B-857A-75984C1EBC8F}",
+                "connection": 0
+              }, {
+                "chipId": "{ABAEB80F-7B56-45FA-BB5B-170268B20BD6}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {},
+            "chipId": "{EBEF3C8E-0B55-46C2-94B9-7AEA030D8D78}",
+            "connections": [{
+                "chipId": "{72DBD395-750D-4019-8248-72A92B7BC7F0}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{F4CAE963-312F-4F07-A59C-E363C8A49285}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{DD990DFA-4E4B-41F8-B7CF-831315CAAEAC}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{F2ACA51D-CDEE-4536-9DA9-F8298C9AB08E}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{F57AEDF1-8E4E-4B18-BD5C-8CBB3A9E1A78}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{6D6B303A-2358-4805-9386-C9D4EAC5486B}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{9B946A28-387C-4DC2-920E-26C8DAB2FAAF}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{9A4CC86A-5947-4064-93C4-62436277DE3C}",
+                "connection": 0,
+                "subConnection": 7
+              }],
+            "name": "Material Constants",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {},
+            "chipId": "{F2ACA51D-CDEE-4536-9DA9-F8298C9AB08E}",
+            "name": "Bump Scaling",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "rpukZgEAAAA=eJyNVM9rE0EUfjubZDdBmm0QrbWENacqChIwQi21brLbBtqsdkMbTz1ZxYsSPHixlEWEgkiugvTYS676Z3jx4B/gyXMO4kXjm503m8lmNxgyvLff9837NbPb6jnNsy9fd++NVi+fLq68eN3Y+KsBwG8DQEd7E9dPXCcItoOtzmf087hMjsHkp5M1cN9pAtcIHyRwxi06HxM4X+UywLmC8xg5wh/6Qbvb9jvQ8fd2H+xA1+01fX+vBc6O22kduO2t7W4gHtr4b7oBDH2sfUAxeO3PlLiydgwNr9Jqxw1vUmrn+NuU2vULAMH+YVxmZr3D4TDYdnsvCwCPMNMnTPbcBO3OEkAlinhyH2Z+/489xhK9D7fjPvlaIbZnInc8zR0dCe4QW+hb1pSvkV9Hn5E/Ql9XfD7bpzjikW3FcZ/w/bY15TPy67bYj2fBimgbeLX6IPZ6FWE5FhKmbYq+EDNHIGKyzdnOJc8yeOxau4azqYDIv0ZaHp/3oENOLxG3ivmTOh+g9IOwX+XpPFFNEN8dowZiLjLeDbJVhOro5xMx/ozHY02p9S5A0aEYcq9GuUq038Y8IWnWEpoG1c+5ZcmhfkS+tyA4ryrsOnJ14r7nhX1Hz+vKzGQs2dd16lXFeA28r/cAF78RxnusUm9VWox0QLPjq6DodYXjs7lF55tTdN6xHc9f8vhawXkpmzdo9lk8x/fzs/wizcGk+QFZnbhaCmcQ56RwBeLCFC4nODOUfVbJng3i+1jHOyLfB77HVPtaELilnB1/tyItE8+WcnYqZxDnpHAFytunGmSsOC8TuHx/Gd0Zfl8v4Rixp2LFnvQZxVW+VUui72JtjuYKaZw5mmXShHM0V0lTsSczTGpAqSdLoyn1ZGmYmGmUS84tsuF0LotyZWnoTKNcWRo5f/md9ejbvYH0P+ErkAY=",
+                    "size": 2040
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 15,
+                      "semanticIndex": 0,
+                      "semanticName": "BLENDWEIGHTS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_UINT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 15,
+                      "semanticIndex": 0,
+                      "semanticName": "BLENDINDICES",
+                      "stream": 0
+                    }],
+                  "count": 5
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 4
+                },
+                "uniforms": {
+                  "count": 2,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 65
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 bones[128];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "bonesbuffer",
+                        "returnType": 0,
+                        "size": 8192,
+                        "space": 0,
+                        "type": "D3D_SIT_TBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 1
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// This is the tbuffer containing the skinning matrices.\ntbuffer bonesbuffer : TEXTURE2\n{\n    float4x4 bones[128]; // Max 128 bones!\n}\n\n// This is the input to the vertex shader. The Geometry connected to your Renderable must supply all these elements!\nstruct ShaderInput\n{\n    float3 position     : POSITION;\n    float3 normal       : NORMAL;\n    float2 texcoord0    : TEXCOORD0;\n    float4 blendWeights : BLENDWEIGHTS;\n    uint4  blendIndices : BLENDINDICES;\n};\n\n// This is the output from the vertex shader. If you modify this you must also update the ShaderInput for the pixel shader accordingly.\nstruct ShaderOutput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n\tfloat2 texcoord0    : TEXCOORD0;\n};\n\n\n// Entry point for the vertex shader.\nShaderOutput main(in ShaderInput IN)\n{\n    ShaderOutput OUT = (ShaderOutput) 0;\n    float4 p = float4(0.0, 0.0, 0.0, 0.0);\n    float3 n = float3(0.0, 0.0, 0.0), t = float3(0.0, 0.0, 0.0), b = float3(0.0, 0.0, 0.0);\n    for (int i = 0; i < 4; i++) {\n        p +=  mul(float4(IN.position, 1.0), bones[IN.blendIndices[i]]) * IN.blendWeights[i];\n        n +=  mul(IN.normal, (float3x3)bones[IN.blendIndices[i]]) * IN.blendWeights[i];\n    }\n    OUT.position = mul(p, worldViewProjection);\n    OUT.worldPos = mul(p, world).xyz;\n    OUT.normal = mul(n, (float3x3)world);\n    OUT.texcoord0 = IN.texcoord0;\n    return OUT;\n}\n"
+            },
+            "chipId": "{05734BB9-BDBF-4D4B-857A-75984C1EBC8F}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "xrwbSgEAAAA=eJztWE1oXFUUvvNeMv9JJtH+WbDTIJSGoNMxhjHiTDLJTJqaZtIkDVNdGEUhJCgahVjEOIRKVWjNxiGrogRKsZsW3DYJ1kVBFy6K3UoEF1IUCoroQs9575z7znvz3iRboQ/u3HfP+e65556fe8+bkWpx+Mly98bKrcV97d+Vxl9azF8JKaWqB5Qyoe+F9i20v6CNTY9OrEHfAi0KbV7ZD+JNeu+A9q5yHpP4kYhSH3joBtEveOhWg5/p2ZcnK9NjM2OVCaVfJipTp4fG1UypOlypTI2o69evV0CvXloH9Up75LFeIG9maGq0NAOTpk+WqtX9Sp0Ber1VqYWoCj1zUKkijP8+9vbWT2e+32QZv3UuFQ7fG9ni8frP27cW77+hxxeu3Minl+t5Hq8sL2x9fO5XPb67Pbk12f6Kxj/xz+3N9a8vaf7cZ+cL968NFXj83u87+d4vz2u8+jxWOHXpgdYn+tXFzfDKj3q8s3mqcOf9YS1v/eby5rXCh1re3fnJrU8fXdDjzMZ4fn5qTI/XTz6Sn3stpeWdA7eUL2eUfBIeHtraoNbKvKjNQxr78VkPD2kt1NLEe1GpcPlNez2WKekhMceiR2064uLU8KkehDVW3HqfPevmSb29PNY7LHivppS5lEpZ8/jdoPcsvCP+dZj2IJ2y8JATRjv0JTDZkrJpZcKVV3jH8Myl9X4BFVllbJctn/sRMC/zBqjPAR5lo05/drjnAS+GPEuGQbxVZ98hgTEDMFKOCsDg3KxSySxg0C9XH7P1MQYRWYPYqun4LZP9QGac8WXqbfwXQ3azn37YcxfwMa5CJI9pYQ8NdYzQ/kM0d5VoAhdFXFSv5376hY1DxIcoCh0FG6ySndn28ZoTJ8rqW8wBwhwWeMBlGCfnjwOJ8bAXE9fDd+B28lyw840hYeeYmN+Mx7HC65HNk7h3zBGMld3kcyyGyO/c4/w+wWP5bK8cxXuC8Ka9jrbBUdUYvwmpk2GPIabapBzDI+eQtAXNgVFU6FzDvcWF/spHb+6zpLfEg06WDK88iJMIxmAS59eccyZKvG4fXox4RR8enVtWbCZpfavvctb3+kPiAvwdYXnStskmsvbqW7aR8vjkuPDJU/46xbw0zCM+S5Tt18C9uGKX9GW/xQRt9iO3TI4PGIc414inc0LaWu6pU7lzokjnEa/F/QugdzfxeqhvF3pr3Vpt3sP8ephf/6f8csVwQH6BZgmWXb/of+8hVuaGzFteW+Yp3a/JHcqp8CHHZ+FPmucp1gj1iD2Pe85T5PVQj7qw/Nl26lttHsjqEPdxJuAu9qUHxE3C5x72nS/zjfWXeXKC7G0I+QM1f5scofoEeVwH4VoGxZ589oF5j1B9gvg+4dfd1nl6F6zcH25R6x+AAbqrRul0z0/6rBWIBz/HeT1731Z9qhvvN5f2P8eQl6Uckzan/N22+8HBXJNzMIiH8o4Jf6Ksf+GR9eOJAH+WxDyup+vvpJ0cnUvrb6fjhEV5QbL5fgTbxbs499upvr6cSfO32wDJAVyiuxGXYVzIgy02wRoeLOvqhzUF1u+uxfyivUVYTg9h+JuA7WgK37AO7Ifbf9wZPE13Ep5z+m4iDPPaUOQPFr3GMdhP5w3y4jQPaUVBSyjn28NQzn3ANFM1fI9Y55v0AfJTyv4O6SFeB+Q561xeW9PYequ9NvK7ffhl0g2/674hWeEWqqFID3zi9zaew4Y8uret3Ag3ia1RWJZ1/yVOst9Khxk7QPMxZvm7nn2mfPzDe31c+FjaBGNvP3Q5D9+xc+35LnhttHWtgOdgM15K+IFrGj6n+wSPdQy65/dSwyH2atxZK64a721Tue7tNrnGbvUd4vC+YZ1hH1YMc63L9Z13T9xjnaDv6JiNB30tGciHe1XL6xe5FFTfeXmyvvPyZH3H9azVe+o76SuJG6F8lPuRtbO0eyJA1l79Lm2Ej6xhvPWdj04xL82vvvPbC6/Le+E6B2U21D6e+i7rg+F4w31Q7OizulntF1RvsbycqAu5PmLbYs5hbRi3c7JpDYO4A/SXM//ng+tzj/P4zFDKfffxmYFht5R2dLfmiv++WigmVwnT4/FFHmT8B0MhtaA=",
+                    "size": 5976
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 4
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_TARGET",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 10,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float4x4 view;\nfloat4x4 projection;\nfloat4x4 viewInverse;\nfloat4x4 viewInverseTranspose;\nfloat4x4 projectionInverse;\nfloat4x4 viewProjection;\nfloat4x4 viewProjectionInverse;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std1",
+                        "returnType": 0,
+                        "size": 448,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 4
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "float shininess;\nfloat shininess_strength;\nfloat opacity;\nfloat bump_scaling;\nfloat4 ambient_color;\nfloat4 diffuse_color;\nfloat4 specular_color;\nfloat4 emissive_color;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "material",
+                        "returnType": 0,
+                        "size": 80,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 3,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 3,
+                        "bufferLayout": "int num_lights;\nfloat4 type_and_attenuation[8];\nfloat4 direction[8];\nfloat4 position[8];\nfloat3 ambient_intensity[8];\nfloat3 diffuse_intensity[8];\nfloat3 specular_intensity[8];\nint shadow_map_index[8];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "lights",
+                        "returnType": 0,
+                        "size": 912,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 4,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 4,
+                        "bufferLayout": "float4x4 shadow_matrix[8];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "shadow_matrices",
+                        "returnType": 0,
+                        "size": 512,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "colorTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "randomTex",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 3,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 4,
+                        "bindPoint": 3,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "shadowMaps",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultLSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 4,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 4,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultWPSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 10,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 10,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "sam",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 2,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// Here we define the layout of the material constant buffer.\nstruct Material\n{\n    float shininess;\n    float shininess_strength;\n    float opacity;\n    float bump_scaling;\n    float4 ambient_color;\n    float4 diffuse_color;\n    float4 specular_color;\n    float4 emissive_color;\n};\n\n// Define the material constant buffer as the first buffer connected to the material.\nConstantBuffer<Material> material : CBUFFER1;\n \nstruct Lights\n{\n\tint num_lights;\n\tfloat4 type_and_attenuation[8]; // x: 1: directional, 2: point, 3: cone   yzw: attenuation: const, linear, exp (point and cone only)\n\tfloat4 direction[8]; // w: inner cone theta (cone light)\n\tfloat4 position[8]; // w: outer cone theta (cone light)\n    float3 ambient_intensity[8];\n    float3 diffuse_intensity[8];\n    float3 specular_intensity[8];\n\tint shadow_map_index[8];\n};\n\nConstantBuffer<Lights> lights : CBUFFER2;\n\nstruct ShadowMatrix\n{\n\tfloat4x4 shadow_matrix[8];\n};\n\nConstantBuffer<ShadowMatrix> shadow_matrices : CBUFFER3;\n\nTexture2D<float4> colorTexture : TEXTURE1;\nTexture2D<float> randomTex : TEXTURE3;\nTexture2D<float> shadowMaps[4] : TEXTURE4;\nSamplerComparisonState  sam : STATIC_SAMPLER1;\n\n\n// This is the output from the vertex shader. It must match (or be a strict subset of) the ShaderOutput struct in the vertex shader.\nstruct ShaderInput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n\tfloat2 texcoord0    : TEXCOORD0;\n};\n\nstruct LightCalculationParams\n{\n\tfloat3 world_pos;\n\tfloat3 normal;\n\tfloat3 ambient_material; \n\tfloat3 diffuse_material;\n\tfloat3 specular_material;\n\tfloat shininess;\n\tfloat shininess_strength;\n};\n\nstatic const float2 poissonDisk[16] = \n{ \n   float2( -0.94201624, -0.39906216 ), \n   float2( 0.94558609, -0.76890725 ), \n   float2( -0.094184101, -0.92938870 ), \n   float2( 0.34495938, 0.29387760 ), \n   float2( -0.91588581, 0.45771432 ), \n   float2( -0.81544232, -0.87912464 ), \n   float2( -0.38277543, 0.27676845 ), \n   float2( 0.97484398, 0.75648379 ), \n   float2( 0.44323325, -0.97511554 ), \n   float2( 0.53742981, -0.47373420 ), \n   float2( -0.26496911, -0.41893023 ), \n   float2( 0.79197514, 0.19090188 ), \n   float2( -0.24188840, 0.99706507 ), \n   float2( -0.81409955, 0.91437590 ), \n   float2( 0.19984126, 0.78641367 ), \n   float2( 0.14383161, -0.14100790 ) \n};\n\nfloat3 calculateLight(int light_index, in LightCalculationParams p, float3 light_dir, float shadow = 1.0)\n{\n\tfloat3 color = float3(0,0,0);\n\n\t// Ambient component\n    color += p.ambient_material * lights.ambient_intensity[light_index];\n\n//\tif (shadow == 0)\n\t//\treturn color;\n\t\t\n    // Add diffuse contribution.\n    float nDotL = max(dot(p.normal, light_dir), 0.0);\n    color += p.diffuse_material * lights.diffuse_intensity[light_index] * nDotL * shadow;\n\n    // Add specular contribution.\n    float3 reflection_dir = reflect(-light_dir, p.normal);\n    float3 eye_dir = normalize(viewInverse[3].xyz - p.world_pos);\n    float spec = max(dot(eye_dir, reflection_dir), 0.0);\n    color += p.specular_material * lights.specular_intensity[light_index] * pow(spec, p.shininess) * p.shininess_strength * shadow;\n\n\treturn color;\n}\n\nfloat3 applyDirectionalLight(int light_index, in LightCalculationParams p)\n{\n    float3 light_dir = normalize(-lights.direction[light_index].xyz);\n \n\treturn calculateLight(light_index, p, light_dir);\n}\n\nfloat3 applyPointLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 light_dir = lights.position[light_index].xyz - p.world_pos;\n\n\tfloat dist = length(light_dir);\n\n\tlight_dir /= dist;\n\n\tfloat3 color = calculateLight(light_index, p, light_dir);\n\n\tcolor /= dot(lights.type_and_attenuation[light_index].yzw, float3(1.0, dist, dist * dist));\n\n\treturn color;\n}\n\nfloat3 applyConeLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 light_dir = lights.position[light_index].xyz - p.world_pos;\n\n\tfloat dist = length(light_dir);\n\n\tlight_dir /= dist;\n\n\tfloat theata = dot(light_dir, -normalize(lights.direction[light_index].xyz));\n\n\tfloat inner = lights.direction[light_index].w;\n\tfloat outer = lights.position[light_index].w;\n\n\tif (theata < outer)\n\t\treturn float3(0,0,0);\n\t\t\n\tfloat falloff = smoothstep(outer, inner, clamp(theata, outer, inner));\n\n\tfloat shadow = 1.0;\n\tint shadowMapIndex = lights.shadow_map_index[light_index];\n\tif (shadowMapIndex != -1) {\n\t\tfloat r = randomTex.Sample(defaultWPSampler, (float2(p.world_pos.xy) + float2(p.world_pos.z, -p.world_pos.z))*20.0)*2.0*3.14;\n\t    float2x2 randomRotationMatrix = float2x2(float2(cos(r), -sin(r)), float2(sin(r), cos(r)));\n\n\t\tfloat4 shadowMapCoord = mul(float4(p.world_pos, 1.0), shadow_matrices.shadow_matrix[shadowMapIndex]);\n\t\tshadowMapCoord /= shadowMapCoord.w;\n\n\t\tfloat bias = 0;//0.001 * tan(acos(nDotL)); // cosTheta is dot( n,l ), clamped between 0 and 1\n\t\n\t\tfloat pdScale = 0.005;\n\t\tshadow = 0.0;\n\t\tif (shadowMapCoord.z < 1.0) {\n\t\t\tfor (int i = 0; i < 16; i++) {\n\t\t\t\tshadow += shadowMaps[shadowMapIndex].SampleCmpLevelZero(sam, shadowMapCoord.xy + mul(poissonDisk[i], randomRotationMatrix) * pdScale, shadowMapCoord.z - bias);\n\t\t\t}\n\t\t\tshadow /= 16.0;\n\t\t}\n\t\telse\n\t\t\tshadow = 1;\n\t}\n\t\n\tfloat3 color = calculateLight(light_index, p, light_dir, shadow);\n\n\tcolor /= dot(lights.type_and_attenuation[light_index].yzw, float3(1.0, dist, dist * dist));\n\tcolor *= falloff;\n\n\treturn color;\n}\n\nfloat3 applyLight(int light_index, in LightCalculationParams p)\n{\n\tfloat3 color = float3(0,0,0);\n\t\n\tswitch ((int)lights.type_and_attenuation[light_index].x) \n\t{\n\t\tcase 1: color = applyDirectionalLight(light_index, p); break;\n\t\tcase 2: color = applyPointLight(light_index, p); break;\n\t\tcase 3: color = applyConeLight(light_index, p); break;\n\t}\n\t\n\treturn color;\n}\n\n\n// Entry point for the pixel shader. The shader returns a color for render target 0.\nfloat4 main(in ShaderInput IN) : SV_TARGET0\n{\n    float4 OUT = float4(0.0, 0.0, 0.0, 1.0);\n    float3 color = float3(0.0, 0.0, 0.0);\n\n\tfloat3 texColor = colorTexture.Sample(defaultLSampler, IN.texcoord0).rgb;\n\n\tfloat3 normal = normalize(IN.normal);\n\tfloat3 ambient = material.ambient_color.rgb * texColor;\n    float3 diffuse = material.diffuse_color.rgb * texColor;\n    float3 specular = material.specular_color.rgb * texColor;\t\n\n\tLightCalculationParams p;\n\tp.world_pos = IN.worldPos;\n\tp.normal = normal;\n\tp.ambient_material = ambient; \n\tp.diffuse_material = diffuse;\n\tp.specular_material = specular;\n\tp.shininess = material.shininess;\n\tp.shininess_strength = material.shininess_strength;\n\t\t\n\tfor (int i = 0; i < lights.num_lights; i++)\t\n\t\tcolor += applyLight(i, p);\n\n    // Add emissive lighting.\n    float3 emissive = material.emissive_color.xyz;\n    color += emissive;\n    OUT.xyz = color;\n\n    // Apply opacity.\n    float alpha = 1.0;\n    alpha *= material.opacity;\n    OUT = (float4(color, alpha));\n    return OUT;\n}\n"
+            },
+            "chipId": "{ABAEB80F-7B56-45FA-BB5B-170268B20BD6}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 20.0
+                    },
+                    "chipId": "{A7728268-BCC4-4A4C-9FF9-838B49134C24}",
+                    "name": "Shininess",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{72DBD395-750D-4019-8248-72A92B7BC7F0}",
+            "name": "Shininess",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 1.0
+                    },
+                    "chipId": "{7B5A7010-0226-4C54-A783-EF6885E37EAC}",
+                    "name": "Shininess Strength",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{F4CAE963-312F-4F07-A59C-E363C8A49285}",
+            "name": "Shininess Strength",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "value": 1.0
+                    },
+                    "chipId": "{A7E4CAD2-E28E-40D5-9420-7C686FD79239}",
+                    "name": "Opacity",
+                    "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+                  }
+                }
+              },
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{DD990DFA-4E4B-41F8-B7CF-831315CAAEAC}",
+            "name": "Opacity",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{8B5109CF-7F3F-4A27-B258-5830003A99D5}",
+                    "name": "Ambient Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{F57AEDF1-8E4E-4B18-BD5C-8CBB3A9E1A78}",
+            "name": "Ambient Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{D0E68F19-B65B-4016-A589-A88009E8CCE3}",
+                    "name": "Diffuse Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{6D6B303A-2358-4805-9386-C9D4EAC5486B}",
+            "name": "Diffuse Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [1.0, 1.0, 1.0, 1.0]
+                    },
+                    "chipId": "{815B9EED-DE13-4165-8678-4DF384317937}",
+                    "name": "Specular Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{9B946A28-387C-4DC2-920E-26C8DAB2FAAF}",
+            "name": "Specular Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "vector": [0.0, 0.0, 0.0, 1.0]
+                    },
+                    "chipId": "{BBB1BD8E-BF92-4758-BEC3-5E997E0DEB5B}",
+                    "name": "Emissive Color",
+                    "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+                  }
+                }
+              },
+              "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+            },
+            "chipId": "{9A4CC86A-5947-4064-93C4-62436277DE3C}",
+            "name": "Emissive Color",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{4D6F4141-C2FD-4B19-A28B-2DBD94471899}",
+            "connections": [{
+                "chipId": "{7B9F2FF8-89A0-4322-B264-3193DED4D420}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Forward Rendering Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "GetInstance",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{CA236BFD-5361-49D5-92B7-4BA43868D843}",
+            "name": "SRenderContext->GetInstance",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SFwdRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "Get Light Shader Data",
+              "preload": true,
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{49A15BBF-2A2A-4142-AB2D-6A4AFBB4BD25}",
+            "connections": [{
+                "chipId": "{CA236BFD-5361-49D5-92B7-4BA43868D843}",
+                "connection": 0
+              }],
+            "name": "SFwdRenderContext->Get Light Shader Data",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Light Shader Data",
+              "preload": true,
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{5601F2F5-7279-45B1-9CB7-B72956586788}",
+            "connections": [{
+                "chipId": "{49A15BBF-2A2A-4142-AB2D-6A4AFBB4BD25}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Light Shader Data",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+            },
+            "chipId": "{420A85A0-02A2-4B69-88B3-8C0C78F348FE}",
+            "connections": [{
+                "chipId": "{86F7D6EC-BE70-4A0A-8CB7-D76775BFF2E5}",
+                "connection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Virtual"
+            },
+            "name": "Get Shadow Map Material",
+            "type": "{7908D608-A149-4286-826D-270EDEDE12FE}"
+          }, {
+            "chipData": {},
+            "chipId": "{86F7D6EC-BE70-4A0A-8CB7-D76775BFF2E5}",
+            "connections": [{
+                "chipId": "{F1DFB15C-75AA-419C-B4ED-910E37B0764D}",
+                "connection": 0
+              }, {
+                "chipId": "{46509D6C-2435-4F0C-A224-61999A61DBF2}",
+                "connection": 4,
+                "subConnection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "callByName": true,
+              "classId": "SMaterialBase",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+              "functionName": "Graphics State",
+              "preload": true,
+              "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+            },
+            "chipId": "{86A9754A-9D19-4DCB-94F2-CFC5C355B415}",
+            "name": "SMaterialBase->Graphics State",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 1,
+                "map": [{
+                    "first": "RS_CM",
+                    "second": {
+                      "type": "M3D_CULL_MODE",
+                      "value": "M3D_CULL_MODE_FRONT"
+                    }
+                  }]
+              }
+            },
+            "chipId": "{F1DFB15C-75AA-419C-B4ED-910E37B0764D}",
+            "connections": [{
+                "chipId": "{31AD8BA7-4B0E-463D-ACE6-8B758B0DA4A6}",
+                "connection": 0
+              }, {
+                "chipId": "{D2362C74-9FBE-4E5F-83B9-D0AB2A1F86EA}",
+                "connection": 1
+              }, {
+                "chipId": "{86A9754A-9D19-4DCB-94F2-CFC5C355B415}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{31AD8BA7-4B0E-463D-ACE6-8B758B0DA4A6}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{D2362C74-9FBE-4E5F-83B9-D0AB2A1F86EA}",
+            "connections": [{
+                "chipId": "{23AA4D89-4E19-4B3D-88BF-145DE23155BD}",
+                "connection": 0
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Map Matrices",
+              "preload": true,
+              "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+            },
+            "chipId": "{AA502040-D3C7-4B07-9FB2-62AA7500F565}",
+            "connections": [{
+                "chipId": "{49A15BBF-2A2A-4142-AB2D-6A4AFBB4BD25}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Shadow Map Matrices",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+              "value": "COMBO"
+            },
+            "chipId": "{B5755E3F-8277-41C6-9E4D-151994B4A656}",
+            "connections": [{
+                "chipId": "{D302D9FD-9BB6-4358-9E53-3D95A98641F8}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{89E34FE5-FB85-471F-95DF-90004F88B415}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{85D81715-8334-4D80-908B-500FCB201E44}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{D8C79D32-0578-47AB-B767-10D43EDBEB7B}",
+                "connection": 1
+              }, {
+                "chipId": "{E5C882DF-E0E9-4CC0-9CA7-1AF48B808BB7}",
+                "connection": 2
+              }, {
+                "chipId": "{7A6DD5FB-0233-42DD-9200-1C2849E1B363}",
+                "connection": 3
+              }],
+            "name": "Combination",
+            "type": "{9D9BF71A-5AA3-4488-A627-22FB341CD06B}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Number Of Shadow Maps",
+              "preload": true,
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{D8C79D32-0578-47AB-B767-10D43EDBEB7B}",
+            "connections": [{
+                "chipId": "{49A15BBF-2A2A-4142-AB2D-6A4AFBB4BD25}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Number Of Shadow Maps",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SLightShaderData",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Lights.m3j",
+              "functionName": "Get Shadow Map Contexts",
+              "preload": true,
+              "type": "{DD99A19D-D2A2-41A3-BA1D-53C2FF219446}"
+            },
+            "chipId": "{0A76EEB4-B42C-4465-A5E1-9C0687C07028}",
+            "connections": [{
+                "chipId": "{49A15BBF-2A2A-4142-AB2D-6A4AFBB4BD25}",
+                "connection": 0
+              }],
+            "name": "SLightShaderData->Get Shadow Map Contexts",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "operatorType": "ARRAY"
+            },
+            "chipId": "{E8D370FF-7CEB-4A91-AC53-350983F86E8E}",
+            "connections": [{
+                "chipId": "{0A76EEB4-B42C-4465-A5E1-9C0687C07028}",
+                "connection": 0
+              }, {
+                "chipId": "{E5C882DF-E0E9-4CC0-9CA7-1AF48B808BB7}",
+                "connection": 1
+              }],
+            "name": "Array-Element by Index",
+            "type": "{E0A5A4A5-BDEA-4263-BDC5-640A51DF2C66}"
+          }, {
+            "chipData": {},
+            "chipId": "{E5C882DF-E0E9-4CC0-9CA7-1AF48B808BB7}",
+            "name": "Current Chip",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SShadowMapRenderContext",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\RenderContext.m3j",
+              "functionName": "Get Shadow Map",
+              "preload": true,
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{7A6DD5FB-0233-42DD-9200-1C2849E1B363}",
+            "connections": [{
+                "chipId": "{E8D370FF-7CEB-4A91-AC53-350983F86E8E}",
+                "connection": 0
+              }],
+            "name": "SShadowMapRenderContext->Get Shadow Map",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "data": {
+                        "data": "2uSINAEAAAA=eJzrDPBz5+WS4mJgYOD19HAJYmBgZABhDiYgdVnA3hDEKw5yd2JYd07mJZDDku7o68jAsLGf+08iK5DPWeARWczAwHcYhBmP569IYWCQvO/p4hhSEff2giIfsyMPy8G//5cLB92pPXDmaLTy2d+vvk/UmZy6yWfaSaNItdMpMxGc1yUzR2UGWqasnS8FVWrNZawmjMrQVSanfy52CZ3JpbtGZQZcZrczO1rMXXuJ1YRRGbrKbDvuh11i2kmr2FGZAZe5u5B5sFWBozJAzu1kdewSp1Pm6o3KDLjMuwuNg60KHJUBct5unIxdInWT3/RRmQGXKX/hMNiqwFEZIOfbjZPYJYwil+PQMipDP5lN1iUKlFdaozJUl6l+k4JdYhCMWYzKpNyUtZpAeaU1KkN1GdsyHBKDYMxiVGbTGz7ZE0RWTaMy9JT5ck8+79O05CsCf+8yAIGnq5/LOqeEJgCsKEDc",
+                        "size": 6730
+                      },
+                      "fileFormat": "IFF_PNG",
+                      "flagsEx": 16
+                    },
+                    "chipId": "{24333E29-29DA-4C15-A2A7-7FA74CDE73D0}",
+                    "name": "Texture",
+                    "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+                  }
+                }
+              },
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{D302D9FD-9BB6-4358-9E53-3D95A98641F8}",
+            "name": "Texture",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "PusXTAEAAAA=eJyNU89rE0EU/ia7m2wKmrgUqWkJa05aKrSCFaTUsm22WZCksiXGU8FDFY/Fg6ciOVvx6MmDB1E8eBZ6q3cvPfavyKE3ie9l3uxO0zQ47PDeft+b7/2Y3a1etPn218/T78cLn05W/hy1yrPrCsA3D3DILrFP+4x2km6330DjPu0d5MsRWyoBz8dw1qtUgH0LZ6wg+E4nTXaTThvRk2Z761kz2W7tpvoloWezmeJHh3IvyTnOHVo6JjdJIe3uZXJpq9n77QJPKWqFAl/7UA/mgGAU/e4xLq3/x6jHUvxhOauB94KwPZ+4w+ULJ/al+T0q96BazfwB+cryeSYvAXcQVjPtVzQqGitWAe8AGo8DbRnrC6Y2dG2E+QNo3cLG5er5TACdSwlP1arb1FND8BmLpxHSjF2nJtgdOj8e1yGXa+O7KArGuc09mztSkoM1jV5NztVJ44Vgtgavv8PhUInGQ6AcWRqO1YfRDClPX2IWx2JM/67UL99oaSB+fF1zcV1rrRH3RXS716RHX9s1a2aPrH7Y3pUabIxrYPsemDXz4h7ryDcEKyDfvLpePhNHcDOTe3Lnrsxu1MdhmN254T3RuYpn/OvM1XyR/POKrsPmb1CvgfA8P4gtCteYwDnCRRM4T7j+BM7VnG/mzvfEc4g/f8y+x/v0jZh/wNRh5sfvChf/g0WxN2mkpF0OwjzfSMP61+d0/nJjSswtiYmmxNQkpj8lZp72Orn/APM9Y7k=",
+                    "size": 1448
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 15,
+                      "semanticIndex": 0,
+                      "semanticName": "BLENDWEIGHTS",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_UINT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 15,
+                      "semanticIndex": 0,
+                      "semanticName": "BLENDINDICES",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 2,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 64
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float4x4 bones[104];\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "bonesbuffer",
+                        "returnType": 0,
+                        "size": 6656,
+                        "space": 0,
+                        "type": "D3D_SIT_TBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 1
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// This is the tbuffer containing the skinning matrices.\ntbuffer bonesbuffer : TEXTURE1\n{\n    float4x4 bones[104];\n}\n\n// This is the input to the vertex shader. The Geometry connected to your Renderable must supply all these elements!\nstruct ShaderInput\n{\n    float3 position     : POSITION;\n    float4 blendWeights : BLENDWEIGHTS;\n    uint4  blendIndices : BLENDINDICES;\n};\n\n// This is the output from the vertex shader. If you modify this you must also update the ShaderInput for the pixel shader accordingly.\nstruct ShaderOutput\n{\n    float4 position     : SV_POSITION;\n};\n\n\n// Entry point for the vertex shader.\nShaderOutput main(in ShaderInput IN)\n{\n    ShaderOutput OUT = (ShaderOutput) 0;\n    float4 p = float4(0.0, 0.0, 0.0, 0.0);\n    for (int i = 0; i < 4; i++) {\n        p +=  mul(float4(IN.position, 1.0), bones[IN.blendIndices[i]]) * IN.blendWeights[i];\n    }\n    OUT.position = mul(p, worldViewProjection);\n    return OUT;\n}\n"
+            },
+            "chipId": "{23AA4D89-4E19-4B3D-88BF-145DE23155BD}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SSkinningMatrices",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Matrices.m3j",
+              "functionName": "Get Skinning Matrix Buffer",
+              "preload": true,
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{89E34FE5-FB85-471F-95DF-90004F88B415}",
+            "connections": [{
+                "chipId": "{9CC72F0A-CFBB-40A1-9E19-800FB0F8AEAE}",
+                "connection": 0
+              }],
+            "name": "SSkinningMatrices->Get Skinning Matrix Buffer",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "template": {
+                "ptr": {
+                  "chip": {
+                    "chipData": {
+                      "object": {
+                        "type": 0
+                      },
+                      "preload": true,
+                      "save": true
+                    },
+                    "chipId": "{7C51E1E6-CE18-40E8-9707-10CA2B058E21}",
+                    "name": "Skinning Matrices",
+                    "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+                  }
+                }
+              },
+              "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+            },
+            "chipId": "{9CC72F0A-CFBB-40A1-9E19-800FB0F8AEAE}",
+            "name": "Skinning Matrices",
+            "type": "{5A1470EF-802F-46FD-A8F7-6E79B6F5D3B7}"
+          }, {
+            "chipData": {
+              "original": "{89E34FE5-FB85-471F-95DF-90004F88B415}"
+            },
+            "chipId": "{46509D6C-2435-4F0C-A224-61999A61DBF2}",
+            "name": "SSkinningMatrices->Get Skinning Matrix Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "RandomTexture128x128",
+              "preload": true,
+              "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+            },
+            "chipId": "{85D81715-8334-4D80-908B-500FCB201E44}",
+            "name": "SGraphics->RandomTexture128x128",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{82EFF21A-3C5D-466A-BCC8-F6B958DB9EA9}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": [{
+                "chipId": "{FB80DD7A-B2D2-40F8-8DF4-6EC852036284}",
+                "id": "{34CFE47F-6C41-4208-9052-912A082D9617}",
+                "subConnection": 0
+              }]
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{7B9F2FF8-89A0-4322-B264-3193DED4D420}",
+                "x": -1799,
+                "y": -253,
+                "objectType": "chip"
+              }, {
+                "chipId": "{027BDE85-36F6-455A-9200-D3B49839702E}",
+                "x": -2246,
+                "y": -969,
+                "objectType": "chip"
+              }, {
+                "chipId": "{14767F57-BF27-4E31-868C-50AA1AE171F4}",
+                "x": -2377,
+                "y": -575,
+                "objectType": "chip"
+              }, {
+                "chipId": "{863A46F4-ADA4-4246-A9B5-ED01E2D10046}",
+                "x": -2743,
+                "y": -796,
+                "objectType": "chip"
+              }, {
+                "chipId": "{70090796-F19A-4155-9027-79A2743C7B9C}",
+                "x": -2603,
+                "y": -1059,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EBEF3C8E-0B55-46C2-94B9-7AEA030D8D78}",
+                "x": -1456,
+                "y": -1087,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F2ACA51D-CDEE-4536-9DA9-F8298C9AB08E}",
+                "x": -1712,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{05734BB9-BDBF-4D4B-857A-75984C1EBC8F}",
+                "x": -2686,
+                "y": -1303,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ABAEB80F-7B56-45FA-BB5B-170268B20BD6}",
+                "x": -2539,
+                "y": -1404,
+                "objectType": "chip"
+              }, {
+                "chipId": "{72DBD395-750D-4019-8248-72A92B7BC7F0}",
+                "x": -2147,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F4CAE963-312F-4F07-A59C-E363C8A49285}",
+                "x": -2002,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DD990DFA-4E4B-41F8-B7CF-831315CAAEAC}",
+                "x": -1857,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F57AEDF1-8E4E-4B18-BD5C-8CBB3A9E1A78}",
+                "x": -1515,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6D6B303A-2358-4805-9386-C9D4EAC5486B}",
+                "x": -1265,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9B946A28-387C-4DC2-920E-26C8DAB2FAAF}",
+                "x": -1015,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9A4CC86A-5947-4064-93C4-62436277DE3C}",
+                "x": -765,
+                "y": -1494,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4D6F4141-C2FD-4B19-A28B-2DBD94471899}",
+                "x": -1789,
+                "y": 0,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CA236BFD-5361-49D5-92B7-4BA43868D843}",
+                "x": -531,
+                "y": -1588,
+                "objectType": "chip"
+              }, {
+                "chipId": "{49A15BBF-2A2A-4142-AB2D-6A4AFBB4BD25}",
+                "x": -530,
+                "y": -1399,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5601F2F5-7279-45B1-9CB7-B72956586788}",
+                "x": -604,
+                "y": -839,
+                "objectType": "chip"
+              }, {
+                "chipId": "{420A85A0-02A2-4B69-88B3-8C0C78F348FE}",
+                "x": 1809,
+                "y": -17,
+                "objectType": "chip"
+              }, {
+                "chipId": "{86F7D6EC-BE70-4A0A-8CB7-D76775BFF2E5}",
+                "x": 1865,
+                "y": -370,
+                "objectType": "chip"
+              }, {
+                "chipId": "{86A9754A-9D19-4DCB-94F2-CFC5C355B415}",
+                "x": 1911,
+                "y": -1096,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F1DFB15C-75AA-419C-B4ED-910E37B0764D}",
+                "x": 1779,
+                "y": -702,
+                "objectType": "chip"
+              }, {
+                "chipId": "{31AD8BA7-4B0E-463D-ACE6-8B758B0DA4A6}",
+                "x": 1414,
+                "y": -923,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D2362C74-9FBE-4E5F-83B9-D0AB2A1F86EA}",
+                "x": 1554,
+                "y": -1186,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AA502040-D3C7-4B07-9FB2-62AA7500F565}",
+                "x": -430,
+                "y": -748,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B5755E3F-8277-41C6-9E4D-151994B4A656}",
+                "x": 277,
+                "y": -642,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D8C79D32-0578-47AB-B767-10D43EDBEB7B}",
+                "x": -106,
+                "y": -939,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0A76EEB4-B42C-4465-A5E1-9C0687C07028}",
+                "x": 153,
+                "y": -1302,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E8D370FF-7CEB-4A91-AC53-350983F86E8E}",
+                "x": 585,
+                "y": -1079,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E5C882DF-E0E9-4CC0-9CA7-1AF48B808BB7}",
+                "x": 380,
+                "y": -1434,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7A6DD5FB-0233-42DD-9200-1C2849E1B363}",
+                "x": 602,
+                "y": -876,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D302D9FD-9BB6-4358-9E53-3D95A98641F8}",
+                "x": 90,
+                "y": -1010,
+                "objectType": "chip"
+              }, {
+                "chipId": "{23AA4D89-4E19-4B3D-88BF-145DE23155BD}",
+                "x": 1469,
+                "y": -1462,
+                "objectType": "chip"
+              }, {
+                "chipId": "{89E34FE5-FB85-471F-95DF-90004F88B415}",
+                "x": 228,
+                "y": -1002,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9CC72F0A-CFBB-40A1-9E19-800FB0F8AEAE}",
+                "x": 235,
+                "y": -1199,
+                "objectType": "chip"
+              }, {
+                "chipId": "{46509D6C-2435-4F0C-A224-61999A61DBF2}",
+                "x": 1957,
+                "y": -588,
+                "objectType": "chip"
+              }, {
+                "chipId": "{85D81715-8334-4D80-908B-500FCB201E44}",
+                "x": 292,
+                "y": -890,
+                "objectType": "chip"
+              }],
+            "extent": [-2828, -1638, 2038, 50]
+          }
+        },
+        "id": "{BB962B3D-64C4-4BDD-BD7B-938509C23D4C}",
+        "inheritance": [{
+            "fileName": "$lib\\SnaX\\SimpleRenderFramework\\Materials.m3j",
+            "id": "{34CFE47F-6C41-4208-9052-912A082D9617}"
+          }],
+        "name": "STexturedSkinnedMaterial",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{00000000-0000-0000-0000-000000000000}",
+    "version": "1.2.7.0"
+  }
+}

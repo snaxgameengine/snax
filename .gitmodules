@@ -1,0 +1,9 @@
+[submodule "generator"]
+	path = generator
+	url = https://github.com/snaxgameengine/generator.git
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/snaxgameengine/vcpkg.git
+[submodule "HBAOPlus"]
+	path = HBAOPlus
+	url = https://github.com/snaxgameengine/HBAOPlus.git

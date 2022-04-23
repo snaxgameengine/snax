@@ -1,0 +1,1081 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{7908D608-A149-4286-826D-270EDEDE12FE}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C80642C6-0537-41FE-A28B-1659548A9838}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{1F0E0DFA-C361-4512-9A62-E9F067B9B31F}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "/QS1MQEAAAA=eJztWM+LFFcQrv6xs5M2rsOQQGgIDnMwpPHgrosugzvTM+6OetA17ipDDokIggoqbAIhF5lIIJeQQw6B/AM57P4DuQQWUf+KnAIhdwUPBiT15tXXXf3smZ7D5uaDR/e+qvqqXn31XtfsxmhwvnHu7z+P/vDs5RfdndHl1390PSJ6+gFRwM+TPL/n+TvPS9sXrlzlp8+zznON7DD6gbwf47lB+Qgg55ftG19effjV3a/vPnxAO5uj81tb1zZof39/i3FPip7BbTn2wGX7nf61C5s7bLR9cXMUcoyfGbsFont18j4nqg0fnJro+zLNGH1Ei8NHp0iP69ft81aDgpVGY+L7Nrt70WpM1u+wOcPSOoe0QnbNS63N8FEe4UWioy/I2g8FR8vpZiuLB/b3iY7sso0/xaajbFj3R++NR0Y/UPonvinXXyVaHEi8HYkrEl+nWfZ4ikzbJepZZqdlqyIz77HEGMkTdkGJrMxfZ4a/jtitKX+J4uWffz/t8mtd7X3cl/xAb9XBBSfLv+6tLytZ4vg+TmGA9zNEC6iR4ZLN4YcMc5xrBzpLvE3UjD/hfNzTcygyrp2fvL88gt9562dix7ttOnV35tvZdjwWb4lNzbf7r3k2rybmwYyYkRNy8m+wYnmuEL0P/FfH7NPPfR/IpBs1KyOnPnyVc5pSc4H1857Ze0h5HcoeDzpKB/aoOa0DHwNVl57yYWRNtT9f6TD2kXYuG39H9u4S/DSStVB0VV29pduRNZKYB8qnjtnduz670EF8POpthxvt28jd3EZFebZ35BP+P1a8xEoH8Ws7FVuK2PQ5MWep6dwPWEN9mac9X8UzqPdnRpN19Hok68aW44p0zpD//b29ddwTyMsgjz9bR/0gr36J3Le5mfDnO/lGjch9mXE8TcfsFXvnPdV0rcGn2ddaK7/vkhIePeGRVD6Qw7McR9tZwz2BnGquNLexyiGPXiT3DzjIct3Q92NYwEIeXazYwcr0FBZ4kHOb3fO6/nGuYyXHOSbJS6jyomwX2yJDHmCnc5AUc3Zgn2lq+gHE/MuCjeF5xb28NuXba4bBw307lLiqvg+Gt0TtFTXpfvObNpel8kByjdiw55yrcRfnCvXeL8bRA17Z/pDvZXXXOPcZVeErXqJ2RRy+9VX/WfZWC/Pz9luEuykMsHdgujVmMQ96sdIrqzXoJSqX59S3s0PFfgjnw/2+oT6BF8k6zpCuUx1bSMVzh3sF/kxdIbeo06r+QeMBA3lHbVbVOjB0nmdxjJpwfVdxHiu7w+Od0vl4p/Rwebffz9m829je8f5/8D6ek/fxIfM+noP38TveS3h/In9P4x3fx9m8p/35eE/7mnfNwXRu0341t9Y/uNVT92Y86ujzkJtJnI3i7wES/NDKsl5S+oAMI1YYUQkG4o4axX50WX73oj4m/4NJqWxkPUWk4jLjE5YBoyY6wFpSfbzFffs3KnqKafinVU8cq/2YoXvihIo9CeprVq+G2taYkerZUatlGMJ3r6xnR5yrSpY4OmW9uu9g6J5c9+q+Wp/Vq7tY8/Tq5s7YFTvwWNW/Gqzdltj4+W++x63i/64Mfpfnf1tmHMM=",
+                    "size": 5316
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_Position",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 2
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_TARGET",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 2,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "InputTexture",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultLSampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "#define FXAA_GREEN_AS_LUMA 0\n//#define FXAA_QUALITY__PRESET 39\n\n//----------------------------------------------------------------------------------\n// File:        FXAA\\media/FXAA.hlsl\n// SDK Version: v1.2 \n// Email:       gameworks@nvidia.com\n// Site:        http://developer.nvidia.com/\n//\n// Copyright (c) 2014, NVIDIA CORPORATION. All rights reserved.\n//\n// Redistribution and use in source and binary forms, with or without\n// modification, are permitted provided that the following conditions\n// are met:\n//  * Redistributions of source code must retain the above copyright\n//    notice, this list of conditions and the following disclaimer.\n//  * Redistributions in binary form must reproduce the above copyright\n//    notice, this list of conditions and the following disclaimer in the\n//    documentation and/or other materials provided with the distribution.\n//  * Neither the name of NVIDIA CORPORATION nor the names of its\n//    contributors may be used to endorse or promote products derived\n//    from this software without specific prior written permission.\n//\n// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS ``AS IS'' AND ANY\n// EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE\n// IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR\n// PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE COPYRIGHT OWNER OR\n// CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,\n// EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,\n// PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR\n// PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY\n// OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT\n// (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\n// OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n//\n//----------------------------------------------------------------------------------\n/*============================================================================\n\n\n                    NVIDIA FXAA 3.11 by TIMOTHY LOTTES\n\n------------------------------------------------------------------------------\n                           INTEGRATION CHECKLIST\n------------------------------------------------------------------------------\n(1.)\nIn the shader source, setup defines for the desired configuration.\nWhen providing multiple shaders (for different presets),\nsimply setup the defines differently in multiple files.\nExample,\n\n  #define FXAA_PC 1\n  #define FXAA_HLSL_5 1\n  #define FXAA_QUALITY__PRESET 12\n\nOr,\n\n  #define FXAA_360 1\n  \nOr,\n\n  #define FXAA_PS3 1\n  \nEtc.\n\n(2.)\nThen include this file,\n\n  #include \"Fxaa3_11.h\"\n\n(3.)\nThen call the FXAA pixel shader from within your desired shader.\nLook at the FXAA Quality FxaaPixelShader() for docs on inputs.\nAs for FXAA 3.11 all inputs for all shaders are the same \nto enable easy porting between platforms.\n\n  return FxaaPixelShader(...);\n\n(4.)\nInsure pass prior to FXAA outputs RGBL (see next section).\nOr use,\n\n  #define FXAA_GREEN_AS_LUMA 1\n\n(5.)\nSetup engine to provide the following constants\nwhich are used in the FxaaPixelShader() inputs,\n\n  FxaaFloat2 fxaaQualityRcpFrame,\n  FxaaFloat4 fxaaConsoleRcpFrameOpt,\n  FxaaFloat4 fxaaConsoleRcpFrameOpt2,\n  FxaaFloat4 fxaaConsole360RcpFrameOpt2,\n  FxaaFloat fxaaQualitySubpix,\n  FxaaFloat fxaaQualityEdgeThreshold,\n  FxaaFloat fxaaQualityEdgeThresholdMin,\n  FxaaFloat fxaaConsoleEdgeSharpness,\n  FxaaFloat fxaaConsoleEdgeThreshold,\n  FxaaFloat fxaaConsoleEdgeThresholdMin,\n  FxaaFloat4 fxaaConsole360ConstDir\n\nLook at the FXAA Quality FxaaPixelShader() for docs on inputs.\n\n(6.)\nHave FXAA vertex shader run as a full screen triangle,\nand output \"pos\" and \"fxaaConsolePosPos\" \nsuch that inputs in the pixel shader provide,\n\n  // {xy} = center of pixel\n  FxaaFloat2 pos,\n\n  // {xy__} = upper left of pixel\n  // {__zw} = lower right of pixel\n  FxaaFloat4 fxaaConsolePosPos,\n\n(7.)\nInsure the texture sampler(s) used by FXAA are set to bilinear filtering.\n\n\n------------------------------------------------------------------------------\n                    INTEGRATION - RGBL AND COLORSPACE\n------------------------------------------------------------------------------\nFXAA3 requires RGBL as input unless the following is set, \n\n  #define FXAA_GREEN_AS_LUMA 1\n\nIn which case the engine uses green in place of luma,\nand requires RGB input is in a non-linear colorspace.\n\nRGB should be LDR (low dynamic range).\nSpecifically do FXAA after tonemapping.\n\nRGB data as returned by a texture fetch can be non-linear,\nor linear when FXAA_GREEN_AS_LUMA is not set.\nNote an \"sRGB format\" texture counts as linear,\nbecause the result of a texture fetch is linear data.\nRegular \"RGBA8\" textures in the sRGB colorspace are non-linear.\n\nIf FXAA_GREEN_AS_LUMA is not set,\nluma must be stored in the alpha channel prior to running FXAA.\nThis luma should be in a perceptual space (could be gamma 2.0).\nExample pass before FXAA where output is gamma 2.0 encoded,\n\n  color.rgb = ToneMap(color.rgb); // linear color output\n  color.rgb = sqrt(color.rgb);    // gamma 2.0 color output\n  return color;\n\nTo use FXAA,\n\n  color.rgb = ToneMap(color.rgb);  // linear color output\n  color.rgb = sqrt(color.rgb);     // gamma 2.0 color output\n  color.a = dot(color.rgb, FxaaFloat3(0.299, 0.587, 0.114)); // compute luma\n  return color;\n\nAnother example where output is linear encoded,\nsay for instance writing to an sRGB formated render target,\nwhere the render target does the conversion back to sRGB after blending,\n\n  color.rgb = ToneMap(color.rgb); // linear color output\n  return color;\n\nTo use FXAA,\n\n  color.rgb = ToneMap(color.rgb); // linear color output\n  color.a = sqrt(dot(color.rgb, FxaaFloat3(0.299, 0.587, 0.114))); // compute luma\n  return color;\n\nGetting luma correct is required for the algorithm to work correctly.\n\n\n------------------------------------------------------------------------------\n                          BEING LINEARLY CORRECT?\n------------------------------------------------------------------------------\nApplying FXAA to a framebuffer with linear RGB color will look worse.\nThis is very counter intuitive, but happends to be true in this case.\nThe reason is because dithering artifacts will be more visiable \nin a linear colorspace.\n\n\n------------------------------------------------------------------------------\n                             COMPLEX INTEGRATION\n------------------------------------------------------------------------------\nQ. What if the engine is blending into RGB before wanting to run FXAA?\n\nA. In the last opaque pass prior to FXAA,\n   have the pass write out luma into alpha.\n   Then blend into RGB only.\n   FXAA should be able to run ok\n   assuming the blending pass did not any add aliasing.\n   This should be the common case for particles and common blending passes.\n\nA. Or use FXAA_GREEN_AS_LUMA.\n\n============================================================================*/\n\n/*============================================================================\n\n                             INTEGRATION KNOBS\n\n============================================================================*/\n//\n// FXAA_PS3 and FXAA_360 choose the console algorithm (FXAA3 CONSOLE).\n// FXAA_360_OPT is a prototype for the new optimized 360 version.\n//\n// 1 = Use API.\n// 0 = Don't use API.\n//\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_PS3\n    #define FXAA_PS3 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_360\n    #define FXAA_360 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_360_OPT\n    #define FXAA_360_OPT 0\n#endif\n/*==========================================================================*/\n#ifndef FXAA_PC\n    //\n    // FXAA Quality\n    // The high quality PC algorithm.\n    //\n    #define FXAA_PC 1\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_PC_CONSOLE\n    //\n    // The console algorithm for PC is included\n    // for developers targeting really low spec machines.\n    // Likely better to just run FXAA_PC, and use a really low preset.\n    //\n    #define FXAA_PC_CONSOLE 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_GLSL_120\n    #define FXAA_GLSL_120 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_GLSL_130\n    #define FXAA_GLSL_130 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_HLSL_3\n    #define FXAA_HLSL_3 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_HLSL_4\n    #define FXAA_HLSL_4 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_HLSL_5\n    #define FXAA_HLSL_5 1\n#endif\n/*==========================================================================*/\n#ifndef FXAA_GREEN_AS_LUMA\n    //\n    // For those using non-linear color,\n    // and either not able to get luma in alpha, or not wanting to,\n    // this enables FXAA to run using green as a proxy for luma.\n    // So with this enabled, no need to pack luma in alpha.\n    //\n    // This will turn off AA on anything which lacks some amount of green.\n    // Pure red and blue or combination of only R and B, will get no AA.\n    //\n    // Might want to lower the settings for both,\n    //    fxaaConsoleEdgeThresholdMin\n    //    fxaaQualityEdgeThresholdMin\n    // In order to insure AA does not get turned off on colors \n    // which contain a minor amount of green.\n    //\n    // 1 = On.\n    // 0 = Off.\n    //\n    #define FXAA_GREEN_AS_LUMA 1\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_EARLY_EXIT\n    //\n    // Controls algorithm's early exit path.\n    // On PS3 turning this ON adds 2 cycles to the shader.\n    // On 360 turning this OFF adds 10ths of a millisecond to the shader.\n    // Turning this off on console will result in a more blurry image.\n    // So this defaults to on.\n    //\n    // 1 = On.\n    // 0 = Off.\n    //\n    #define FXAA_EARLY_EXIT 1\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_DISCARD\n    //\n    // Only valid for PC OpenGL currently.\n    // Probably will not work when FXAA_GREEN_AS_LUMA = 1.\n    //\n    // 1 = Use discard on pixels which don't need AA.\n    //     For APIs which enable concurrent TEX+ROP from same surface.\n    // 0 = Return unchanged color on pixels which don't need AA.\n    //\n    #define FXAA_DISCARD 0\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_FAST_PIXEL_OFFSET\n    //\n    // Used for GLSL 120 only.\n    //\n    // 1 = GL API supports fast pixel offsets\n    // 0 = do not use fast pixel offsets\n    //\n    #ifdef GL_EXT_gpu_shader4\n        #define FXAA_FAST_PIXEL_OFFSET 1\n    #endif\n    #ifdef GL_NV_gpu_shader5\n        #define FXAA_FAST_PIXEL_OFFSET 1\n    #endif\n    #ifdef GL_ARB_gpu_shader5\n        #define FXAA_FAST_PIXEL_OFFSET 1\n    #endif\n    #ifndef FXAA_FAST_PIXEL_OFFSET\n        #define FXAA_FAST_PIXEL_OFFSET 0\n    #endif\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_GATHER4_ALPHA\n    //\n    // 1 = API supports gather4 on alpha channel.\n    // 0 = API does not support gather4 on alpha channel.\n    //\n    #if (FXAA_HLSL_5 == 1)\n        #define FXAA_GATHER4_ALPHA 1\n    #endif\n    #ifdef GL_ARB_gpu_shader5\n        #define FXAA_GATHER4_ALPHA 1\n    #endif\n    #ifdef GL_NV_gpu_shader5\n        #define FXAA_GATHER4_ALPHA 1\n    #endif\n    #ifndef FXAA_GATHER4_ALPHA\n        #define FXAA_GATHER4_ALPHA 0\n    #endif\n#endif\n\n/*============================================================================\n                      FXAA CONSOLE PS3 - TUNING KNOBS\n============================================================================*/\n#ifndef FXAA_CONSOLE__PS3_EDGE_SHARPNESS\n    //\n    // Consoles the sharpness of edges on PS3 only.\n    // Non-PS3 tuning is done with shader input.\n    //\n    // Due to the PS3 being ALU bound,\n    // there are only two safe values here: 4 and 8.\n    // These options use the shaders ability to a free *|/ by 2|4|8.\n    //\n    // 8.0 is sharper\n    // 4.0 is softer\n    // 2.0 is really soft (good for vector graphics inputs)\n    //\n    #if 1\n        #define FXAA_CONSOLE__PS3_EDGE_SHARPNESS 8.0\n    #endif\n    #if 0\n        #define FXAA_CONSOLE__PS3_EDGE_SHARPNESS 4.0\n    #endif\n    #if 0\n        #define FXAA_CONSOLE__PS3_EDGE_SHARPNESS 2.0\n    #endif\n#endif\n/*--------------------------------------------------------------------------*/\n#ifndef FXAA_CONSOLE__PS3_EDGE_THRESHOLD\n    //\n    // Only effects PS3.\n    // Non-PS3 tuning is done with shader input.\n    //\n    // The minimum amount of local contrast required to apply algorithm.\n    // The console setting has a different mapping than the quality setting.\n    //\n    // This only applies when FXAA_EARLY_EXIT is 1.\n    //\n    // Due to the PS3 being ALU bound,\n    // there are only two safe values here: 0.25 and 0.125.\n    // These options use the shaders ability to a free *|/ by 2|4|8.\n    //\n    // 0.125 leaves less aliasing, but is softer\n    // 0.25 leaves more aliasing, and is sharper\n    //\n    #if 1\n        #define FXAA_CONSOLE__PS3_EDGE_THRESHOLD 0.125\n    #else\n        #define FXAA_CONSOLE__PS3_EDGE_THRESHOLD 0.25\n    #endif\n#endif\n\n/*============================================================================\n                        FXAA QUALITY - TUNING KNOBS\n------------------------------------------------------------------------------\nNOTE the other tuning knobs are now in the shader function inputs!\n============================================================================*/\n#ifndef FXAA_QUALITY__PRESET\n    //\n    // Choose the quality preset.\n    // This needs to be compiled into the shader as it effects code.\n    // Best option to include multiple presets is to \n    // in each shader define the preset, then include this file.\n    // \n    // OPTIONS\n    // -----------------------------------------------------------------------\n    // 10 to 15 - default medium dither (10=fastest, 15=highest quality)\n    // 20 to 29 - less dither, more expensive (20=fastest, 29=highest quality)\n    // 39       - no dither, very expensive \n    //\n    // NOTES\n    // -----------------------------------------------------------------------\n    // 12 = slightly faster then FXAA 3.9 and higher edge quality (default)\n    // 13 = about same speed as FXAA 3.9 and better than 12\n    // 23 = closest to FXAA 3.9 visually and performance wise\n    //  _ = the lowest digit is directly related to performance\n    // _  = the highest digit is directly related to style\n    // \n    #define FXAA_QUALITY__PRESET 12\n#endif\n\n\n/*============================================================================\n\n                           FXAA QUALITY - PRESETS\n\n============================================================================*/\n\n/*============================================================================\n                     FXAA QUALITY - MEDIUM DITHER PRESETS\n============================================================================*/\n#if (FXAA_QUALITY__PRESET == 10)\n    #define FXAA_QUALITY__PS 3\n    #define FXAA_QUALITY__P0 1.5\n    #define FXAA_QUALITY__P1 3.0\n    #define FXAA_QUALITY__P2 12.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 11)\n    #define FXAA_QUALITY__PS 4\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 3.0\n    #define FXAA_QUALITY__P3 12.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 12)\n    #define FXAA_QUALITY__PS 5\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 4.0\n    #define FXAA_QUALITY__P4 12.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 13)\n    #define FXAA_QUALITY__PS 6\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 4.0\n    #define FXAA_QUALITY__P5 12.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 14)\n    #define FXAA_QUALITY__PS 7\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 4.0\n    #define FXAA_QUALITY__P6 12.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 15)\n    #define FXAA_QUALITY__PS 8\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 2.0\n    #define FXAA_QUALITY__P6 4.0\n    #define FXAA_QUALITY__P7 12.0\n#endif\n\n/*============================================================================\n                     FXAA QUALITY - LOW DITHER PRESETS\n============================================================================*/\n#if (FXAA_QUALITY__PRESET == 20)\n    #define FXAA_QUALITY__PS 3\n    #define FXAA_QUALITY__P0 1.5\n    #define FXAA_QUALITY__P1 2.0\n    #define FXAA_QUALITY__P2 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 21)\n    #define FXAA_QUALITY__PS 4\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 22)\n    #define FXAA_QUALITY__PS 5\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 23)\n    #define FXAA_QUALITY__PS 6\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 24)\n    #define FXAA_QUALITY__PS 7\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 3.0\n    #define FXAA_QUALITY__P6 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 25)\n    #define FXAA_QUALITY__PS 8\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 2.0\n    #define FXAA_QUALITY__P6 4.0\n    #define FXAA_QUALITY__P7 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 26)\n    #define FXAA_QUALITY__PS 9\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 2.0\n    #define FXAA_QUALITY__P6 2.0\n    #define FXAA_QUALITY__P7 4.0\n    #define FXAA_QUALITY__P8 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 27)\n    #define FXAA_QUALITY__PS 10\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 2.0\n    #define FXAA_QUALITY__P6 2.0\n    #define FXAA_QUALITY__P7 2.0\n    #define FXAA_QUALITY__P8 4.0\n    #define FXAA_QUALITY__P9 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 28)\n    #define FXAA_QUALITY__PS 11\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 2.0\n    #define FXAA_QUALITY__P6 2.0\n    #define FXAA_QUALITY__P7 2.0\n    #define FXAA_QUALITY__P8 2.0\n    #define FXAA_QUALITY__P9 4.0\n    #define FXAA_QUALITY__P10 8.0\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_QUALITY__PRESET == 29)\n    #define FXAA_QUALITY__PS 12\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.5\n    #define FXAA_QUALITY__P2 2.0\n    #define FXAA_QUALITY__P3 2.0\n    #define FXAA_QUALITY__P4 2.0\n    #define FXAA_QUALITY__P5 2.0\n    #define FXAA_QUALITY__P6 2.0\n    #define FXAA_QUALITY__P7 2.0\n    #define FXAA_QUALITY__P8 2.0\n    #define FXAA_QUALITY__P9 2.0\n    #define FXAA_QUALITY__P10 4.0\n    #define FXAA_QUALITY__P11 8.0\n#endif\n\n/*============================================================================\n                     FXAA QUALITY - EXTREME QUALITY\n============================================================================*/\n#if (FXAA_QUALITY__PRESET == 39)\n    #define FXAA_QUALITY__PS 12\n    #define FXAA_QUALITY__P0 1.0\n    #define FXAA_QUALITY__P1 1.0\n    #define FXAA_QUALITY__P2 1.0\n    #define FXAA_QUALITY__P3 1.0\n    #define FXAA_QUALITY__P4 1.0\n    #define FXAA_QUALITY__P5 1.5\n    #define FXAA_QUALITY__P6 2.0\n    #define FXAA_QUALITY__P7 2.0\n    #define FXAA_QUALITY__P8 2.0\n    #define FXAA_QUALITY__P9 2.0\n    #define FXAA_QUALITY__P10 4.0\n    #define FXAA_QUALITY__P11 8.0\n#endif\n\n\n\n/*============================================================================\n\n                                API PORTING\n\n============================================================================*/\n#if (FXAA_GLSL_120 == 1) || (FXAA_GLSL_130 == 1)\n    #define FxaaBool bool\n    #define FxaaDiscard discard\n    #define FxaaFloat float\n    #define FxaaFloat2 vec2\n    #define FxaaFloat3 vec3\n    #define FxaaFloat4 vec4\n    #define FxaaHalf float\n    #define FxaaHalf2 vec2\n    #define FxaaHalf3 vec3\n    #define FxaaHalf4 vec4\n    #define FxaaInt2 ivec2\n    #define FxaaSat(x) clamp(x, 0.0, 1.0)\n    #define FxaaTex sampler2D\n#else\n    #define FxaaBool bool\n    #define FxaaDiscard clip(-1)\n    #define FxaaFloat float\n    #define FxaaFloat2 float2\n    #define FxaaFloat3 float3\n    #define FxaaFloat4 float4\n    #define FxaaHalf half\n    #define FxaaHalf2 half2\n    #define FxaaHalf3 half3\n    #define FxaaHalf4 half4\n    #define FxaaSat(x) saturate(x)\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_GLSL_120 == 1)\n    // Requires,\n    //  #version 120\n    // And at least,\n    //  #extension GL_EXT_gpu_shader4 : enable\n    //  (or set FXAA_FAST_PIXEL_OFFSET 1 to work like DX9)\n    #define FxaaTexTop(t, p) texture2DLod(t, p, 0.0)\n    #if (FXAA_FAST_PIXEL_OFFSET == 1)\n        #define FxaaTexOff(t, p, o, r) texture2DLodOffset(t, p, 0.0, o)\n    #else\n        #define FxaaTexOff(t, p, o, r) texture2DLod(t, p + (o * r), 0.0)\n    #endif\n    #if (FXAA_GATHER4_ALPHA == 1)\n        // use #extension GL_ARB_gpu_shader5 : enable\n        #define FxaaTexAlpha4(t, p) textureGather(t, p, 3)\n        #define FxaaTexOffAlpha4(t, p, o) textureGatherOffset(t, p, o, 3)\n        #define FxaaTexGreen4(t, p) textureGather(t, p, 1)\n        #define FxaaTexOffGreen4(t, p, o) textureGatherOffset(t, p, o, 1)\n    #endif\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_GLSL_130 == 1)\n    // Requires \"#version 130\" or better\n    #define FxaaTexTop(t, p) textureLod(t, p, 0.0)\n    #define FxaaTexOff(t, p, o, r) textureLodOffset(t, p, 0.0, o)\n    #if (FXAA_GATHER4_ALPHA == 1)\n        // use #extension GL_ARB_gpu_shader5 : enable\n        #define FxaaTexAlpha4(t, p) textureGather(t, p, 3)\n        #define FxaaTexOffAlpha4(t, p, o) textureGatherOffset(t, p, o, 3)\n        #define FxaaTexGreen4(t, p) textureGather(t, p, 1)\n        #define FxaaTexOffGreen4(t, p, o) textureGatherOffset(t, p, o, 1)\n    #endif\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_HLSL_3 == 1) || (FXAA_360 == 1) || (FXAA_PS3 == 1)\n    #define FxaaInt2 float2\n    #define FxaaTex sampler2D\n    #define FxaaTexTop(t, p) tex2Dlod(t, float4(p, 0.0, 0.0))\n    #define FxaaTexOff(t, p, o, r) tex2Dlod(t, float4(p + (o * r), 0, 0))\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_HLSL_4 == 1)\n    #define FxaaInt2 int2\n    struct FxaaTex { SamplerState smpl; Texture2D tex; };\n    #define FxaaTexTop(t, p) t.tex.SampleLevel(t.smpl, p, 0.0)\n    #define FxaaTexOff(t, p, o, r) t.tex.SampleLevel(t.smpl, p, 0.0, o)\n#endif\n/*--------------------------------------------------------------------------*/\n#if (FXAA_HLSL_5 == 1)\n    #define FxaaInt2 int2\n    struct FxaaTex { SamplerState smpl; Texture2D tex; };\n    #define FxaaTexTop(t, p) t.tex.SampleLevel(t.smpl, p, 0.0)\n    #define FxaaTexOff(t, p, o, r) t.tex.SampleLevel(t.smpl, p, 0.0, o)\n    #define FxaaTexAlpha4(t, p) t.tex.GatherAlpha(t.smpl, p)\n    #define FxaaTexOffAlpha4(t, p, o) t.tex.GatherAlpha(t.smpl, p, o)\n    #define FxaaTexGreen4(t, p) t.tex.GatherGreen(t.smpl, p)\n    #define FxaaTexOffGreen4(t, p, o) t.tex.GatherGreen(t.smpl, p, o)\n#endif\n\n\n/*============================================================================\n                   GREEN AS LUMA OPTION SUPPORT FUNCTION\n============================================================================*/\n#if (FXAA_GREEN_AS_LUMA == 0)\n    FxaaFloat FxaaLuma(FxaaFloat4 rgba) { return rgba.w; }\n#else\n    FxaaFloat FxaaLuma(FxaaFloat4 rgba) { return rgba.y; }\n#endif    \n\n\n\n\n/*============================================================================\n\n                             FXAA3 QUALITY - PC\n\n============================================================================*/\n#if (FXAA_PC == 1)\n/*--------------------------------------------------------------------------*/\nFxaaFloat4 FxaaPixelShader(\n    //\n    // Use noperspective interpolation here (turn off perspective interpolation).\n    // {xy} = center of pixel\n    FxaaFloat2 pos,\n    //\n    // Used only for FXAA Console, and not used on the 360 version.\n    // Use noperspective interpolation here (turn off perspective interpolation).\n    // {xy__} = upper left of pixel\n    // {__zw} = lower right of pixel\n    FxaaFloat4 fxaaConsolePosPos,\n    //\n    // Input color texture.\n    // {rgb_} = color in linear or perceptual color space\n    // if (FXAA_GREEN_AS_LUMA == 0)\n    //     {___a} = luma in perceptual color space (not linear)\n    FxaaTex tex,\n    //\n    // Only used on the optimized 360 version of FXAA Console.\n    // For everything but 360, just use the same input here as for \"tex\".\n    // For 360, same texture, just alias with a 2nd sampler.\n    // This sampler needs to have an exponent bias of -1.\n    FxaaTex fxaaConsole360TexExpBiasNegOne,\n    //\n    // Only used on the optimized 360 version of FXAA Console.\n    // For everything but 360, just use the same input here as for \"tex\".\n    // For 360, same texture, just alias with a 3nd sampler.\n    // This sampler needs to have an exponent bias of -2.\n    FxaaTex fxaaConsole360TexExpBiasNegTwo,\n    //\n    // Only used on FXAA Quality.\n    // This must be from a constant/uniform.\n    // {x_} = 1.0/screenWidthInPixels\n    // {_y} = 1.0/screenHeightInPixels\n    FxaaFloat2 fxaaQualityRcpFrame,\n    //\n    // Only used on FXAA Console.\n    // This must be from a constant/uniform.\n    // This effects sub-pixel AA quality and inversely sharpness.\n    //   Where N ranges between,\n    //     N = 0.50 (default)\n    //     N = 0.33 (sharper)\n    // {x___} = -N/screenWidthInPixels  \n    // {_y__} = -N/screenHeightInPixels\n    // {__z_} =  N/screenWidthInPixels  \n    // {___w} =  N/screenHeightInPixels \n    FxaaFloat4 fxaaConsoleRcpFrameOpt,\n    //\n    // Only used on FXAA Console.\n    // Not used on 360, but used on PS3 and PC.\n    // This must be from a constant/uniform.\n    // {x___} = -2.0/screenWidthInPixels  \n    // {_y__} = -2.0/screenHeightInPixels\n    // {__z_} =  2.0/screenWidthInPixels  \n    // {___w} =  2.0/screenHeightInPixels \n    FxaaFloat4 fxaaConsoleRcpFrameOpt2,\n    //\n    // Only used on FXAA Console.\n    // Only used on 360 in place of fxaaConsoleRcpFrameOpt2.\n    // This must be from a constant/uniform.\n    // {x___} =  8.0/screenWidthInPixels  \n    // {_y__} =  8.0/screenHeightInPixels\n    // {__z_} = -4.0/screenWidthInPixels  \n    // {___w} = -4.0/screenHeightInPixels \n    FxaaFloat4 fxaaConsole360RcpFrameOpt2,\n    //\n    // Only used on FXAA Quality.\n    // This used to be the FXAA_QUALITY__SUBPIX define.\n    // It is here now to allow easier tuning.\n    // Choose the amount of sub-pixel aliasing removal.\n    // This can effect sharpness.\n    //   1.00 - upper limit (softer)\n    //   0.75 - default amount of filtering\n    //   0.50 - lower limit (sharper, less sub-pixel aliasing removal)\n    //   0.25 - almost off\n    //   0.00 - completely off\n    FxaaFloat fxaaQualitySubpix,\n    //\n    // Only used on FXAA Quality.\n    // This used to be the FXAA_QUALITY__EDGE_THRESHOLD define.\n    // It is here now to allow easier tuning.\n    // The minimum amount of local contrast required to apply algorithm.\n    //   0.333 - too little (faster)\n    //   0.250 - low quality\n    //   0.166 - default\n    //   0.125 - high quality \n    //   0.063 - overkill (slower)\n    FxaaFloat fxaaQualityEdgeThreshold,\n    //\n    // Only used on FXAA Quality.\n    // This used to be the FXAA_QUALITY__EDGE_THRESHOLD_MIN define.\n    // It is here now to allow easier tuning.\n    // Trims the algorithm from processing darks.\n    //   0.0833 - upper limit (default, the start of visible unfiltered edges)\n    //   0.0625 - high quality (faster)\n    //   0.0312 - visible limit (slower)\n    // Special notes when using FXAA_GREEN_AS_LUMA,\n    //   Likely want to set this to zero.\n    //   As colors that are mostly not-green\n    //   will appear very dark in the green channel!\n    //   Tune by looking at mostly non-green content,\n    //   then start at zero and increase until aliasing is a problem.\n    FxaaFloat fxaaQualityEdgeThresholdMin,\n    // \n    // Only used on FXAA Console.\n    // This used to be the FXAA_CONSOLE__EDGE_SHARPNESS define.\n    // It is here now to allow easier tuning.\n    // This does not effect PS3, as this needs to be compiled in.\n    //   Use FXAA_CONSOLE__PS3_EDGE_SHARPNESS for PS3.\n    //   Due to the PS3 being ALU bound,\n    //   there are only three safe values here: 2 and 4 and 8.\n    //   These options use the shaders ability to a free *|/ by 2|4|8.\n    // For all other platforms can be a non-power of two.\n    //   8.0 is sharper (default!!!)\n    //   4.0 is softer\n    //   2.0 is really soft (good only for vector graphics inputs)\n    FxaaFloat fxaaConsoleEdgeSharpness,\n    //\n    // Only used on FXAA Console.\n    // This used to be the FXAA_CONSOLE__EDGE_THRESHOLD define.\n    // It is here now to allow easier tuning.\n    // This does not effect PS3, as this needs to be compiled in.\n    //   Use FXAA_CONSOLE__PS3_EDGE_THRESHOLD for PS3.\n    //   Due to the PS3 being ALU bound,\n    //   there are only two safe values here: 1/4 and 1/8.\n    //   These options use the shaders ability to a free *|/ by 2|4|8.\n    // The console setting has a different mapping than the quality setting.\n    // Other platforms can use other values.\n    //   0.125 leaves less aliasing, but is softer (default!!!)\n    //   0.25 leaves more aliasing, and is sharper\n    FxaaFloat fxaaConsoleEdgeThreshold,\n    //\n    // Only used on FXAA Console.\n    // This used to be the FXAA_CONSOLE__EDGE_THRESHOLD_MIN define.\n    // It is here now to allow easier tuning.\n    // Trims the algorithm from processing darks.\n    // The console setting has a different mapping than the quality setting.\n    // This only applies when FXAA_EARLY_EXIT is 1.\n    // This does not apply to PS3, \n    // PS3 was simplified to avoid more shader instructions.\n    //   0.06 - faster but more aliasing in darks\n    //   0.05 - default\n    //   0.04 - slower and less aliasing in darks\n    // Special notes when using FXAA_GREEN_AS_LUMA,\n    //   Likely want to set this to zero.\n    //   As colors that are mostly not-green\n    //   will appear very dark in the green channel!\n    //   Tune by looking at mostly non-green content,\n    //   then start at zero and increase until aliasing is a problem.\n    FxaaFloat fxaaConsoleEdgeThresholdMin,\n    //    \n    // Extra constants for 360 FXAA Console only.\n    // Use zeros or anything else for other platforms.\n    // These must be in physical constant registers and NOT immedates.\n    // Immedates will result in compiler un-optimizing.\n    // {xyzw} = float4(1.0, -1.0, 0.25, -0.25)\n    FxaaFloat4 fxaaConsole360ConstDir\n) {\n/*--------------------------------------------------------------------------*/\n    FxaaFloat2 posM;\n    posM.x = pos.x;\n    posM.y = pos.y;\n    #if (FXAA_GATHER4_ALPHA == 1)\n        #if (FXAA_DISCARD == 0)\n            FxaaFloat4 rgbyM = FxaaTexTop(tex, posM);\n            #if (FXAA_GREEN_AS_LUMA == 0)\n                #define lumaM rgbyM.w\n            #else\n                #define lumaM rgbyM.y\n            #endif\n        #endif\n        #if (FXAA_GREEN_AS_LUMA == 0)\n            FxaaFloat4 luma4A = FxaaTexAlpha4(tex, posM);\n            FxaaFloat4 luma4B = FxaaTexOffAlpha4(tex, posM, FxaaInt2(-1, -1));\n        #else\n            FxaaFloat4 luma4A = FxaaTexGreen4(tex, posM);\n            FxaaFloat4 luma4B = FxaaTexOffGreen4(tex, posM, FxaaInt2(-1, -1));\n        #endif\n        #if (FXAA_DISCARD == 1)\n            #define lumaM luma4A.w\n        #endif\n        #define lumaE luma4A.z\n        #define lumaS luma4A.x\n        #define lumaSE luma4A.y\n        #define lumaNW luma4B.w\n        #define lumaN luma4B.z\n        #define lumaW luma4B.x\n    #else\n        FxaaFloat4 rgbyM = FxaaTexTop(tex, posM);\n        #if (FXAA_GREEN_AS_LUMA == 0)\n            #define lumaM rgbyM.w\n        #else\n            #define lumaM rgbyM.y\n        #endif\n        FxaaFloat lumaS = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2( 0, 1), fxaaQualityRcpFrame.xy));\n        FxaaFloat lumaE = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2( 1, 0), fxaaQualityRcpFrame.xy));\n        FxaaFloat lumaN = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2( 0,-1), fxaaQualityRcpFrame.xy));\n        FxaaFloat lumaW = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2(-1, 0), fxaaQualityRcpFrame.xy));\n    #endif\n/*--------------------------------------------------------------------------*/\n    FxaaFloat maxSM = max(lumaS, lumaM);\n    FxaaFloat minSM = min(lumaS, lumaM);\n    FxaaFloat maxESM = max(lumaE, maxSM);\n    FxaaFloat minESM = min(lumaE, minSM);\n    FxaaFloat maxWN = max(lumaN, lumaW);\n    FxaaFloat minWN = min(lumaN, lumaW);\n    FxaaFloat rangeMax = max(maxWN, maxESM);\n    FxaaFloat rangeMin = min(minWN, minESM);\n    FxaaFloat rangeMaxScaled = rangeMax * fxaaQualityEdgeThreshold;\n    FxaaFloat range = rangeMax - rangeMin;\n    FxaaFloat rangeMaxClamped = max(fxaaQualityEdgeThresholdMin, rangeMaxScaled);\n    FxaaBool earlyExit = range < rangeMaxClamped;\n/*--------------------------------------------------------------------------*/\n    if(earlyExit)\n        #if (FXAA_DISCARD == 1)\n            FxaaDiscard;\n        #else\n            return rgbyM;\n        #endif\n/*--------------------------------------------------------------------------*/\n    #if (FXAA_GATHER4_ALPHA == 0)\n        FxaaFloat lumaNW = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2(-1,-1), fxaaQualityRcpFrame.xy));\n        FxaaFloat lumaSE = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2( 1, 1), fxaaQualityRcpFrame.xy));\n        FxaaFloat lumaNE = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2( 1,-1), fxaaQualityRcpFrame.xy));\n        FxaaFloat lumaSW = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2(-1, 1), fxaaQualityRcpFrame.xy));\n    #else\n        FxaaFloat lumaNE = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2(1, -1), fxaaQualityRcpFrame.xy));\n        FxaaFloat lumaSW = FxaaLuma(FxaaTexOff(tex, posM, FxaaInt2(-1, 1), fxaaQualityRcpFrame.xy));\n    #endif\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaNS = lumaN + lumaS;\n    FxaaFloat lumaWE = lumaW + lumaE;\n    FxaaFloat subpixRcpRange = 1.0/range;\n    FxaaFloat subpixNSWE = lumaNS + lumaWE;\n    FxaaFloat edgeHorz1 = (-2.0 * lumaM) + lumaNS;\n    FxaaFloat edgeVert1 = (-2.0 * lumaM) + lumaWE;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaNESE = lumaNE + lumaSE;\n    FxaaFloat lumaNWNE = lumaNW + lumaNE;\n    FxaaFloat edgeHorz2 = (-2.0 * lumaE) + lumaNESE;\n    FxaaFloat edgeVert2 = (-2.0 * lumaN) + lumaNWNE;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaNWSW = lumaNW + lumaSW;\n    FxaaFloat lumaSWSE = lumaSW + lumaSE;\n    FxaaFloat edgeHorz4 = (abs(edgeHorz1) * 2.0) + abs(edgeHorz2);\n    FxaaFloat edgeVert4 = (abs(edgeVert1) * 2.0) + abs(edgeVert2);\n    FxaaFloat edgeHorz3 = (-2.0 * lumaW) + lumaNWSW;\n    FxaaFloat edgeVert3 = (-2.0 * lumaS) + lumaSWSE;\n    FxaaFloat edgeHorz = abs(edgeHorz3) + edgeHorz4;\n    FxaaFloat edgeVert = abs(edgeVert3) + edgeVert4;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat subpixNWSWNESE = lumaNWSW + lumaNESE;\n    FxaaFloat lengthSign = fxaaQualityRcpFrame.x;\n    FxaaBool horzSpan = edgeHorz >= edgeVert;\n    FxaaFloat subpixA = subpixNSWE * 2.0 + subpixNWSWNESE;\n/*--------------------------------------------------------------------------*/\n    if(!horzSpan) lumaN = lumaW;\n    if(!horzSpan) lumaS = lumaE;\n    if(horzSpan) lengthSign = fxaaQualityRcpFrame.y;\n    FxaaFloat subpixB = (subpixA * (1.0/12.0)) - lumaM;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat gradientN = lumaN - lumaM;\n    FxaaFloat gradientS = lumaS - lumaM;\n    FxaaFloat lumaNN = lumaN + lumaM;\n    FxaaFloat lumaSS = lumaS + lumaM;\n    FxaaBool pairN = abs(gradientN) >= abs(gradientS);\n    FxaaFloat gradient = max(abs(gradientN), abs(gradientS));\n    if(pairN) lengthSign = -lengthSign;\n    FxaaFloat subpixC = FxaaSat(abs(subpixB) * subpixRcpRange);\n/*--------------------------------------------------------------------------*/\n    FxaaFloat2 posB;\n    posB.x = posM.x;\n    posB.y = posM.y;\n    FxaaFloat2 offNP;\n    offNP.x = (!horzSpan) ? 0.0 : fxaaQualityRcpFrame.x;\n    offNP.y = ( horzSpan) ? 0.0 : fxaaQualityRcpFrame.y;\n    if(!horzSpan) posB.x += lengthSign * 0.5;\n    if( horzSpan) posB.y += lengthSign * 0.5;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat2 posN;\n    posN.x = posB.x - offNP.x * FXAA_QUALITY__P0;\n    posN.y = posB.y - offNP.y * FXAA_QUALITY__P0;\n    FxaaFloat2 posP;\n    posP.x = posB.x + offNP.x * FXAA_QUALITY__P0;\n    posP.y = posB.y + offNP.y * FXAA_QUALITY__P0;\n    FxaaFloat subpixD = ((-2.0)*subpixC) + 3.0;\n    FxaaFloat lumaEndN = FxaaLuma(FxaaTexTop(tex, posN));\n    FxaaFloat subpixE = subpixC * subpixC;\n    FxaaFloat lumaEndP = FxaaLuma(FxaaTexTop(tex, posP));\n/*--------------------------------------------------------------------------*/\n    if(!pairN) lumaNN = lumaSS;\n    FxaaFloat gradientScaled = gradient * 1.0/4.0;\n    FxaaFloat lumaMM = lumaM - lumaNN * 0.5;\n    FxaaFloat subpixF = subpixD * subpixE;\n    FxaaBool lumaMLTZero = lumaMM < 0.0;\n/*--------------------------------------------------------------------------*/\n    lumaEndN -= lumaNN * 0.5;\n    lumaEndP -= lumaNN * 0.5;\n    FxaaBool doneN = abs(lumaEndN) >= gradientScaled;\n    FxaaBool doneP = abs(lumaEndP) >= gradientScaled;\n    if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P1;\n    if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P1;\n    FxaaBool doneNP = (!doneN) || (!doneP);\n    if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P1;\n    if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P1;\n/*--------------------------------------------------------------------------*/\n    if(doneNP) {\n        if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n        if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n        if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n        if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n        doneN = abs(lumaEndN) >= gradientScaled;\n        doneP = abs(lumaEndP) >= gradientScaled;\n        if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P2;\n        if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P2;\n        doneNP = (!doneN) || (!doneP);\n        if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P2;\n        if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P2;\n/*--------------------------------------------------------------------------*/\n        #if (FXAA_QUALITY__PS > 3)\n        if(doneNP) {\n            if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n            if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n            if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n            if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n            doneN = abs(lumaEndN) >= gradientScaled;\n            doneP = abs(lumaEndP) >= gradientScaled;\n            if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P3;\n            if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P3;\n            doneNP = (!doneN) || (!doneP);\n            if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P3;\n            if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P3;\n/*--------------------------------------------------------------------------*/\n            #if (FXAA_QUALITY__PS > 4)\n            if(doneNP) {\n                if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n                if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n                if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n                if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n                doneN = abs(lumaEndN) >= gradientScaled;\n                doneP = abs(lumaEndP) >= gradientScaled;\n                if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P4;\n                if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P4;\n                doneNP = (!doneN) || (!doneP);\n                if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P4;\n                if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P4;\n/*--------------------------------------------------------------------------*/\n                #if (FXAA_QUALITY__PS > 5)\n                if(doneNP) {\n                    if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n                    if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n                    if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n                    if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n                    doneN = abs(lumaEndN) >= gradientScaled;\n                    doneP = abs(lumaEndP) >= gradientScaled;\n                    if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P5;\n                    if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P5;\n                    doneNP = (!doneN) || (!doneP);\n                    if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P5;\n                    if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P5;\n/*--------------------------------------------------------------------------*/\n                    #if (FXAA_QUALITY__PS > 6)\n                    if(doneNP) {\n                        if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n                        if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n                        if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n                        if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n                        doneN = abs(lumaEndN) >= gradientScaled;\n                        doneP = abs(lumaEndP) >= gradientScaled;\n                        if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P6;\n                        if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P6;\n                        doneNP = (!doneN) || (!doneP);\n                        if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P6;\n                        if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P6;\n/*--------------------------------------------------------------------------*/\n                        #if (FXAA_QUALITY__PS > 7)\n                        if(doneNP) {\n                            if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n                            if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n                            if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n                            if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n                            doneN = abs(lumaEndN) >= gradientScaled;\n                            doneP = abs(lumaEndP) >= gradientScaled;\n                            if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P7;\n                            if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P7;\n                            doneNP = (!doneN) || (!doneP);\n                            if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P7;\n                            if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P7;\n/*--------------------------------------------------------------------------*/\n    #if (FXAA_QUALITY__PS > 8)\n    if(doneNP) {\n        if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n        if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n        if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n        if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n        doneN = abs(lumaEndN) >= gradientScaled;\n        doneP = abs(lumaEndP) >= gradientScaled;\n        if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P8;\n        if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P8;\n        doneNP = (!doneN) || (!doneP);\n        if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P8;\n        if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P8;\n/*--------------------------------------------------------------------------*/\n        #if (FXAA_QUALITY__PS > 9)\n        if(doneNP) {\n            if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n            if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n            if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n            if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n            doneN = abs(lumaEndN) >= gradientScaled;\n            doneP = abs(lumaEndP) >= gradientScaled;\n            if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P9;\n            if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P9;\n            doneNP = (!doneN) || (!doneP);\n            if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P9;\n            if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P9;\n/*--------------------------------------------------------------------------*/\n            #if (FXAA_QUALITY__PS > 10)\n            if(doneNP) {\n                if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n                if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n                if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n                if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n                doneN = abs(lumaEndN) >= gradientScaled;\n                doneP = abs(lumaEndP) >= gradientScaled;\n                if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P10;\n                if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P10;\n                doneNP = (!doneN) || (!doneP);\n                if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P10;\n                if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P10;\n/*--------------------------------------------------------------------------*/\n                #if (FXAA_QUALITY__PS > 11)\n                if(doneNP) {\n                    if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n                    if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n                    if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n                    if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n                    doneN = abs(lumaEndN) >= gradientScaled;\n                    doneP = abs(lumaEndP) >= gradientScaled;\n                    if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P11;\n                    if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P11;\n                    doneNP = (!doneN) || (!doneP);\n                    if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P11;\n                    if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P11;\n/*--------------------------------------------------------------------------*/\n                    #if (FXAA_QUALITY__PS > 12)\n                    if(doneNP) {\n                        if(!doneN) lumaEndN = FxaaLuma(FxaaTexTop(tex, posN.xy));\n                        if(!doneP) lumaEndP = FxaaLuma(FxaaTexTop(tex, posP.xy));\n                        if(!doneN) lumaEndN = lumaEndN - lumaNN * 0.5;\n                        if(!doneP) lumaEndP = lumaEndP - lumaNN * 0.5;\n                        doneN = abs(lumaEndN) >= gradientScaled;\n                        doneP = abs(lumaEndP) >= gradientScaled;\n                        if(!doneN) posN.x -= offNP.x * FXAA_QUALITY__P12;\n                        if(!doneN) posN.y -= offNP.y * FXAA_QUALITY__P12;\n                        doneNP = (!doneN) || (!doneP);\n                        if(!doneP) posP.x += offNP.x * FXAA_QUALITY__P12;\n                        if(!doneP) posP.y += offNP.y * FXAA_QUALITY__P12;\n/*--------------------------------------------------------------------------*/\n                    }\n                    #endif\n/*--------------------------------------------------------------------------*/\n                }\n                #endif\n/*--------------------------------------------------------------------------*/\n            }\n            #endif\n/*--------------------------------------------------------------------------*/\n        }\n        #endif\n/*--------------------------------------------------------------------------*/\n    }\n    #endif\n/*--------------------------------------------------------------------------*/\n                        }\n                        #endif\n/*--------------------------------------------------------------------------*/\n                    }\n                    #endif\n/*--------------------------------------------------------------------------*/\n                }\n                #endif\n/*--------------------------------------------------------------------------*/\n            }\n            #endif\n/*--------------------------------------------------------------------------*/\n        }\n        #endif\n/*--------------------------------------------------------------------------*/\n    }\n/*--------------------------------------------------------------------------*/\n    FxaaFloat dstN = posM.x - posN.x;\n    FxaaFloat dstP = posP.x - posM.x;\n    if(!horzSpan) dstN = posM.y - posN.y;\n    if(!horzSpan) dstP = posP.y - posM.y;\n/*--------------------------------------------------------------------------*/\n    FxaaBool goodSpanN = (lumaEndN < 0.0) != lumaMLTZero;\n    FxaaFloat spanLength = (dstP + dstN);\n    FxaaBool goodSpanP = (lumaEndP < 0.0) != lumaMLTZero;\n    FxaaFloat spanLengthRcp = 1.0/spanLength;\n/*--------------------------------------------------------------------------*/\n    FxaaBool directionN = dstN < dstP;\n    FxaaFloat dst = min(dstN, dstP);\n    FxaaBool goodSpan = directionN ? goodSpanN : goodSpanP;\n    FxaaFloat subpixG = subpixF * subpixF;\n    FxaaFloat pixelOffset = (dst * (-spanLengthRcp)) + 0.5;\n    FxaaFloat subpixH = subpixG * fxaaQualitySubpix;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat pixelOffsetGood = goodSpan ? pixelOffset : 0.0;\n    FxaaFloat pixelOffsetSubpix = max(pixelOffsetGood, subpixH);\n    if(!horzSpan) posM.x += pixelOffsetSubpix * lengthSign;\n    if( horzSpan) posM.y += pixelOffsetSubpix * lengthSign;\n    #if (FXAA_DISCARD == 1)\n        return FxaaTexTop(tex, posM);\n    #else\n        return FxaaFloat4(FxaaTexTop(tex, posM).xyz, lumaM);\n    #endif\n}\n/*==========================================================================*/\n#endif\n\n\n\n\n/*============================================================================\n\n                         FXAA3 CONSOLE - PC VERSION\n                         \n------------------------------------------------------------------------------\nInstead of using this on PC, I'd suggest just using FXAA Quality with\n    #define FXAA_QUALITY__PRESET 10\nOr \n    #define FXAA_QUALITY__PRESET 20\nEither are higher qualilty and almost as fast as this on modern PC GPUs.\n============================================================================*/\n#if (FXAA_PC_CONSOLE == 1)\n/*--------------------------------------------------------------------------*/\nFxaaFloat4 FxaaPixelShader(\n    // See FXAA Quality FxaaPixelShader() source for docs on Inputs!\n    FxaaFloat2 pos,\n    FxaaFloat4 fxaaConsolePosPos,\n    FxaaTex tex,\n    FxaaTex fxaaConsole360TexExpBiasNegOne,\n    FxaaTex fxaaConsole360TexExpBiasNegTwo,\n    FxaaFloat2 fxaaQualityRcpFrame,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt2,\n    FxaaFloat4 fxaaConsole360RcpFrameOpt2,\n    FxaaFloat fxaaQualitySubpix,\n    FxaaFloat fxaaQualityEdgeThreshold,\n    FxaaFloat fxaaQualityEdgeThresholdMin,\n    FxaaFloat fxaaConsoleEdgeSharpness,\n    FxaaFloat fxaaConsoleEdgeThreshold,\n    FxaaFloat fxaaConsoleEdgeThresholdMin,\n    FxaaFloat4 fxaaConsole360ConstDir\n) {\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaNw = FxaaLuma(FxaaTexTop(tex, fxaaConsolePosPos.xy));\n    FxaaFloat lumaSw = FxaaLuma(FxaaTexTop(tex, fxaaConsolePosPos.xw));\n    FxaaFloat lumaNe = FxaaLuma(FxaaTexTop(tex, fxaaConsolePosPos.zy));\n    FxaaFloat lumaSe = FxaaLuma(FxaaTexTop(tex, fxaaConsolePosPos.zw));\n/*--------------------------------------------------------------------------*/\n    FxaaFloat4 rgbyM = FxaaTexTop(tex, pos.xy);\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        FxaaFloat lumaM = rgbyM.w;\n    #else\n        FxaaFloat lumaM = rgbyM.y;\n    #endif\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaMaxNwSw = max(lumaNw, lumaSw);\n    lumaNe += 1.0/384.0;\n    FxaaFloat lumaMinNwSw = min(lumaNw, lumaSw);\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaMaxNeSe = max(lumaNe, lumaSe);\n    FxaaFloat lumaMinNeSe = min(lumaNe, lumaSe);\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaMax = max(lumaMaxNeSe, lumaMaxNwSw);\n    FxaaFloat lumaMin = min(lumaMinNeSe, lumaMinNwSw);\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaMaxScaled = lumaMax * fxaaConsoleEdgeThreshold;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat lumaMinM = min(lumaMin, lumaM);\n    FxaaFloat lumaMaxScaledClamped = max(fxaaConsoleEdgeThresholdMin, lumaMaxScaled);\n    FxaaFloat lumaMaxM = max(lumaMax, lumaM);\n    FxaaFloat dirSwMinusNe = lumaSw - lumaNe;\n    FxaaFloat lumaMaxSubMinM = lumaMaxM - lumaMinM;\n    FxaaFloat dirSeMinusNw = lumaSe - lumaNw;\n    if(lumaMaxSubMinM < lumaMaxScaledClamped) return rgbyM;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat2 dir;\n    dir.x = dirSwMinusNe + dirSeMinusNw;\n    dir.y = dirSwMinusNe - dirSeMinusNw;\n/*--------------------------------------------------------------------------*/\n    FxaaFloat2 dir1 = normalize(dir.xy);\n    FxaaFloat4 rgbyN1 = FxaaTexTop(tex, pos.xy - dir1 * fxaaConsoleRcpFrameOpt.zw);\n    FxaaFloat4 rgbyP1 = FxaaTexTop(tex, pos.xy + dir1 * fxaaConsoleRcpFrameOpt.zw);\n/*--------------------------------------------------------------------------*/\n    FxaaFloat dirAbsMinTimesC = min(abs(dir1.x), abs(dir1.y)) * fxaaConsoleEdgeSharpness;\n    FxaaFloat2 dir2 = clamp(dir1.xy / dirAbsMinTimesC, -2.0, 2.0);\n/*--------------------------------------------------------------------------*/\n    FxaaFloat4 rgbyN2 = FxaaTexTop(tex, pos.xy - dir2 * fxaaConsoleRcpFrameOpt2.zw);\n    FxaaFloat4 rgbyP2 = FxaaTexTop(tex, pos.xy + dir2 * fxaaConsoleRcpFrameOpt2.zw);\n/*--------------------------------------------------------------------------*/\n    FxaaFloat4 rgbyA = rgbyN1 + rgbyP1;\n    FxaaFloat4 rgbyB = ((rgbyN2 + rgbyP2) * 0.25) + (rgbyA * 0.25);\n/*--------------------------------------------------------------------------*/\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        FxaaBool twoTap = (rgbyB.w < lumaMin) || (rgbyB.w > lumaMax);\n    #else\n        FxaaBool twoTap = (rgbyB.y < lumaMin) || (rgbyB.y > lumaMax);\n    #endif\n    if(twoTap) rgbyB.xyz = rgbyA.xyz * 0.5;\n    return rgbyB; }\n/*==========================================================================*/\n#endif\n\n\n\n/*============================================================================\n\n                      FXAA3 CONSOLE - 360 PIXEL SHADER \n\n------------------------------------------------------------------------------\nThis optimized version thanks to suggestions from Andy Luedke.\nShould be fully tex bound in all cases.\nAs of the FXAA 3.11 release, I have still not tested this code,\nhowever I fixed a bug which was in both FXAA 3.9 and FXAA 3.10.\nAnd note this is replacing the old unoptimized version.\nIf it does not work, please let me know so I can fix it.\n============================================================================*/\n#if (FXAA_360 == 1)\n/*--------------------------------------------------------------------------*/\n[reduceTempRegUsage(4)]\nfloat4 FxaaPixelShader(\n    // See FXAA Quality FxaaPixelShader() source for docs on Inputs!\n    FxaaFloat2 pos,\n    FxaaFloat4 fxaaConsolePosPos,\n    FxaaTex tex,\n    FxaaTex fxaaConsole360TexExpBiasNegOne,\n    FxaaTex fxaaConsole360TexExpBiasNegTwo,\n    FxaaFloat2 fxaaQualityRcpFrame,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt2,\n    FxaaFloat4 fxaaConsole360RcpFrameOpt2,\n    FxaaFloat fxaaQualitySubpix,\n    FxaaFloat fxaaQualityEdgeThreshold,\n    FxaaFloat fxaaQualityEdgeThresholdMin,\n    FxaaFloat fxaaConsoleEdgeSharpness,\n    FxaaFloat fxaaConsoleEdgeThreshold,\n    FxaaFloat fxaaConsoleEdgeThresholdMin,\n    FxaaFloat4 fxaaConsole360ConstDir\n) {\n/*--------------------------------------------------------------------------*/\n    float4 lumaNwNeSwSe;\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        asm { \n            tfetch2D lumaNwNeSwSe.w___, tex, pos.xy, OffsetX = -0.5, OffsetY = -0.5, UseComputedLOD=false\n            tfetch2D lumaNwNeSwSe._w__, tex, pos.xy, OffsetX =  0.5, OffsetY = -0.5, UseComputedLOD=false\n            tfetch2D lumaNwNeSwSe.__w_, tex, pos.xy, OffsetX = -0.5, OffsetY =  0.5, UseComputedLOD=false\n            tfetch2D lumaNwNeSwSe.___w, tex, pos.xy, OffsetX =  0.5, OffsetY =  0.5, UseComputedLOD=false\n        };\n    #else\n        asm { \n            tfetch2D lumaNwNeSwSe.y___, tex, pos.xy, OffsetX = -0.5, OffsetY = -0.5, UseComputedLOD=false\n            tfetch2D lumaNwNeSwSe._y__, tex, pos.xy, OffsetX =  0.5, OffsetY = -0.5, UseComputedLOD=false\n            tfetch2D lumaNwNeSwSe.__y_, tex, pos.xy, OffsetX = -0.5, OffsetY =  0.5, UseComputedLOD=false\n            tfetch2D lumaNwNeSwSe.___y, tex, pos.xy, OffsetX =  0.5, OffsetY =  0.5, UseComputedLOD=false\n        };\n    #endif\n/*--------------------------------------------------------------------------*/\n    lumaNwNeSwSe.y += 1.0/384.0;\n    float2 lumaMinTemp = min(lumaNwNeSwSe.xy, lumaNwNeSwSe.zw);\n    float2 lumaMaxTemp = max(lumaNwNeSwSe.xy, lumaNwNeSwSe.zw);\n    float lumaMin = min(lumaMinTemp.x, lumaMinTemp.y);\n    float lumaMax = max(lumaMaxTemp.x, lumaMaxTemp.y);\n/*--------------------------------------------------------------------------*/\n    float4 rgbyM = tex2Dlod(tex, float4(pos.xy, 0.0, 0.0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        float lumaMinM = min(lumaMin, rgbyM.w);\n        float lumaMaxM = max(lumaMax, rgbyM.w);\n    #else\n        float lumaMinM = min(lumaMin, rgbyM.y);\n        float lumaMaxM = max(lumaMax, rgbyM.y);\n    #endif        \n    if((lumaMaxM - lumaMinM) < max(fxaaConsoleEdgeThresholdMin, lumaMax * fxaaConsoleEdgeThreshold)) return rgbyM;\n/*--------------------------------------------------------------------------*/\n    float2 dir;\n    dir.x = dot(lumaNwNeSwSe, fxaaConsole360ConstDir.yyxx);\n    dir.y = dot(lumaNwNeSwSe, fxaaConsole360ConstDir.xyxy);\n    dir = normalize(dir);\n/*--------------------------------------------------------------------------*/\n    float4 dir1 = dir.xyxy * fxaaConsoleRcpFrameOpt.xyzw;\n/*--------------------------------------------------------------------------*/\n    float4 dir2;\n    float dirAbsMinTimesC = min(abs(dir.x), abs(dir.y)) * fxaaConsoleEdgeSharpness;\n    dir2 = saturate(fxaaConsole360ConstDir.zzww * dir.xyxy / dirAbsMinTimesC + 0.5);\n    dir2 = dir2 * fxaaConsole360RcpFrameOpt2.xyxy + fxaaConsole360RcpFrameOpt2.zwzw;\n/*--------------------------------------------------------------------------*/\n    float4 rgbyN1 = tex2Dlod(fxaaConsole360TexExpBiasNegOne, float4(pos.xy + dir1.xy, 0.0, 0.0));\n    float4 rgbyP1 = tex2Dlod(fxaaConsole360TexExpBiasNegOne, float4(pos.xy + dir1.zw, 0.0, 0.0));\n    float4 rgbyN2 = tex2Dlod(fxaaConsole360TexExpBiasNegTwo, float4(pos.xy + dir2.xy, 0.0, 0.0));\n    float4 rgbyP2 = tex2Dlod(fxaaConsole360TexExpBiasNegTwo, float4(pos.xy + dir2.zw, 0.0, 0.0));\n/*--------------------------------------------------------------------------*/\n    float4 rgbyA = rgbyN1 + rgbyP1;\n    float4 rgbyB = rgbyN2 + rgbyP2 + rgbyA * 0.5;\n/*--------------------------------------------------------------------------*/\n    float4 rgbyR = ((FxaaLuma(rgbyB) - lumaMax) > 0.0) ? rgbyA : rgbyB; \n    rgbyR = ((FxaaLuma(rgbyB) - lumaMin) > 0.0) ? rgbyR : rgbyA; \n    return rgbyR; }\n/*==========================================================================*/\n#endif\n\n\n\n/*============================================================================\n\n         FXAA3 CONSOLE - OPTIMIZED PS3 PIXEL SHADER (NO EARLY EXIT)\n\n==============================================================================\nThe code below does not exactly match the assembly.\nI have a feeling that 12 cycles is possible, but was not able to get there.\nMight have to increase register count to get full performance.\nNote this shader does not use perspective interpolation.\n\nUse the following cgc options,\n\n  --fenable-bx2 --fastmath --fastprecision --nofloatbindings\n\n------------------------------------------------------------------------------\n                             NVSHADERPERF OUTPUT\n------------------------------------------------------------------------------\nFor reference and to aid in debug, output of NVShaderPerf should match this,\n\nShader to schedule:\n  0: texpkb h0.w(TRUE), v5.zyxx, #0\n  2: addh h2.z(TRUE), h0.w, constant(0.001953, 0.000000, 0.000000, 0.000000).x\n  4: texpkb h0.w(TRUE), v5.xwxx, #0\n  6: addh h0.z(TRUE), -h2, h0.w\n  7: texpkb h1.w(TRUE), v5, #0\n  9: addh h0.x(TRUE), h0.z, -h1.w\n 10: addh h3.w(TRUE), h0.z, h1\n 11: texpkb h2.w(TRUE), v5.zwzz, #0\n 13: addh h0.z(TRUE), h3.w, -h2.w\n 14: addh h0.x(TRUE), h2.w, h0\n 15: nrmh h1.xz(TRUE), h0_n\n 16: minh_m8 h0.x(TRUE), |h1|, |h1.z|\n 17: maxh h4.w(TRUE), h0, h1\n 18: divx h2.xy(TRUE), h1_n.xzzw, h0_n\n 19: movr r1.zw(TRUE), v4.xxxy\n 20: madr r2.xz(TRUE), -h1, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w).zzww, r1.zzww\n 22: minh h5.w(TRUE), h0, h1\n 23: texpkb h0(TRUE), r2.xzxx, #0\n 25: madr r0.zw(TRUE), h1.xzxz, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w), r1\n 27: maxh h4.x(TRUE), h2.z, h2.w\n 28: texpkb h1(TRUE), r0.zwzz, #0\n 30: addh_d2 h1(TRUE), h0, h1\n 31: madr r0.xy(TRUE), -h2, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w).xyxx, r1.zwzz\n 33: texpkb h0(TRUE), r0, #0\n 35: minh h4.z(TRUE), h2, h2.w\n 36: fenct TRUE\n 37: madr r1.xy(TRUE), h2, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w).xyxx, r1.zwzz\n 39: texpkb h2(TRUE), r1, #0\n 41: addh_d2 h0(TRUE), h0, h2\n 42: maxh h2.w(TRUE), h4, h4.x\n 43: minh h2.x(TRUE), h5.w, h4.z\n 44: addh_d2 h0(TRUE), h0, h1\n 45: slth h2.x(TRUE), h0.w, h2\n 46: sgth h2.w(TRUE), h0, h2\n 47: movh h0(TRUE), h0\n 48: addx.c0 rc(TRUE), h2, h2.w\n 49: movh h0(c0.NE.x), h1\n\nIPU0 ------ Simplified schedule: --------\nPass |  Unit  |  uOp |  PC:  Op\n-----+--------+------+-------------------------\n   1 | SCT0/1 |  mov |   0:  TXLr h0.w, g[TEX1].zyxx, const.xxxx, TEX0;\n     |    TEX |  txl |   0:  TXLr h0.w, g[TEX1].zyxx, const.xxxx, TEX0;\n     |   SCB1 |  add |   2:  ADDh h2.z, h0.--w-, const.--x-;\n     |        |      |\n   2 | SCT0/1 |  mov |   4:  TXLr h0.w, g[TEX1].xwxx, const.xxxx, TEX0;\n     |    TEX |  txl |   4:  TXLr h0.w, g[TEX1].xwxx, const.xxxx, TEX0;\n     |   SCB1 |  add |   6:  ADDh h0.z,-h2, h0.--w-;\n     |        |      |\n   3 | SCT0/1 |  mov |   7:  TXLr h1.w, g[TEX1], const.xxxx, TEX0;\n     |    TEX |  txl |   7:  TXLr h1.w, g[TEX1], const.xxxx, TEX0;\n     |   SCB0 |  add |   9:  ADDh h0.x, h0.z---,-h1.w---;\n     |   SCB1 |  add |  10:  ADDh h3.w, h0.---z, h1;\n     |        |      |\n   4 | SCT0/1 |  mov |  11:  TXLr h2.w, g[TEX1].zwzz, const.xxxx, TEX0;\n     |    TEX |  txl |  11:  TXLr h2.w, g[TEX1].zwzz, const.xxxx, TEX0;\n     |   SCB0 |  add |  14:  ADDh h0.x, h2.w---, h0;\n     |   SCB1 |  add |  13:  ADDh h0.z, h3.--w-,-h2.--w-;\n     |        |      |\n   5 |   SCT1 |  mov |  15:  NRMh h1.xz, h0;\n     |    SRB |  nrm |  15:  NRMh h1.xz, h0;\n     |   SCB0 |  min |  16:  MINh*8 h0.x, |h1|, |h1.z---|;\n     |   SCB1 |  max |  17:  MAXh h4.w, h0, h1;\n     |        |      |\n   6 |   SCT0 |  div |  18:  DIVx h2.xy, h1.xz--, h0;\n     |   SCT1 |  mov |  19:  MOVr r1.zw, g[TEX0].--xy;\n     |   SCB0 |  mad |  20:  MADr r2.xz,-h1, const.z-w-, r1.z-w-;\n     |   SCB1 |  min |  22:  MINh h5.w, h0, h1;\n     |        |      |\n   7 | SCT0/1 |  mov |  23:  TXLr h0, r2.xzxx, const.xxxx, TEX0;\n     |    TEX |  txl |  23:  TXLr h0, r2.xzxx, const.xxxx, TEX0;\n     |   SCB0 |  max |  27:  MAXh h4.x, h2.z---, h2.w---;\n     |   SCB1 |  mad |  25:  MADr r0.zw, h1.--xz, const, r1;\n     |        |      |\n   8 | SCT0/1 |  mov |  28:  TXLr h1, r0.zwzz, const.xxxx, TEX0;\n     |    TEX |  txl |  28:  TXLr h1, r0.zwzz, const.xxxx, TEX0;\n     | SCB0/1 |  add |  30:  ADDh/2 h1, h0, h1;\n     |        |      |\n   9 |   SCT0 |  mad |  31:  MADr r0.xy,-h2, const.xy--, r1.zw--;\n     |   SCT1 |  mov |  33:  TXLr h0, r0, const.zzzz, TEX0;\n     |    TEX |  txl |  33:  TXLr h0, r0, const.zzzz, TEX0;\n     |   SCB1 |  min |  35:  MINh h4.z, h2, h2.--w-;\n     |        |      |\n  10 |   SCT0 |  mad |  37:  MADr r1.xy, h2, const.xy--, r1.zw--;\n     |   SCT1 |  mov |  39:  TXLr h2, r1, const.zzzz, TEX0;\n     |    TEX |  txl |  39:  TXLr h2, r1, const.zzzz, TEX0;\n     | SCB0/1 |  add |  41:  ADDh/2 h0, h0, h2;\n     |        |      |\n  11 |   SCT0 |  min |  43:  MINh h2.x, h5.w---, h4.z---;\n     |   SCT1 |  max |  42:  MAXh h2.w, h4, h4.---x;\n     | SCB0/1 |  add |  44:  ADDh/2 h0, h0, h1;\n     |        |      |\n  12 |   SCT0 |  set |  45:  SLTh h2.x, h0.w---, h2;\n     |   SCT1 |  set |  46:  SGTh h2.w, h0, h2;\n     | SCB0/1 |  mul |  47:  MOVh h0, h0;\n     |        |      |\n  13 |   SCT0 |  mad |  48:  ADDxc0_s rc, h2, h2.w---;\n     | SCB0/1 |  mul |  49:  MOVh h0(NE0.xxxx), h1;\n \nPass   SCT  TEX  SCB\n  1:   0% 100%  25%\n  2:   0% 100%  25%\n  3:   0% 100%  50%\n  4:   0% 100%  50%\n  5:   0%   0%  50%\n  6: 100%   0%  75%\n  7:   0% 100%  75%\n  8:   0% 100% 100%\n  9:   0% 100%  25%\n 10:   0% 100% 100%\n 11:  50%   0% 100%\n 12:  50%   0% 100%\n 13:  25%   0% 100%\n\nMEAN:  17%  61%  67%\n\nPass   SCT0  SCT1   TEX  SCB0  SCB1\n  1:    0%    0%  100%    0%  100%\n  2:    0%    0%  100%    0%  100%\n  3:    0%    0%  100%  100%  100%\n  4:    0%    0%  100%  100%  100%\n  5:    0%    0%    0%  100%  100%\n  6:  100%  100%    0%  100%  100%\n  7:    0%    0%  100%  100%  100%\n  8:    0%    0%  100%  100%  100%\n  9:    0%    0%  100%    0%  100%\n 10:    0%    0%  100%  100%  100%\n 11:  100%  100%    0%  100%  100%\n 12:  100%  100%    0%  100%  100%\n 13:  100%    0%    0%  100%  100%\n\nMEAN:   30%   23%   61%   76%  100%\nFragment Performance Setup: Driver RSX Compiler, GPU RSX, Flags 0x5\nResults 13 cycles, 3 r regs, 923,076,923 pixels/s\n============================================================================*/\n#if (FXAA_PS3 == 1) && (FXAA_EARLY_EXIT == 0)\n/*--------------------------------------------------------------------------*/\n#pragma regcount 7\n#pragma disablepc all\n#pragma option O3\n#pragma option OutColorPrec=fp16\n#pragma texformat default RGBA8\n/*==========================================================================*/\nhalf4 FxaaPixelShader(\n    // See FXAA Quality FxaaPixelShader() source for docs on Inputs!\n    FxaaFloat2 pos,\n    FxaaFloat4 fxaaConsolePosPos,\n    FxaaTex tex,\n    FxaaTex fxaaConsole360TexExpBiasNegOne,\n    FxaaTex fxaaConsole360TexExpBiasNegTwo,\n    FxaaFloat2 fxaaQualityRcpFrame,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt2,\n    FxaaFloat4 fxaaConsole360RcpFrameOpt2,\n    FxaaFloat fxaaQualitySubpix,\n    FxaaFloat fxaaQualityEdgeThreshold,\n    FxaaFloat fxaaQualityEdgeThresholdMin,\n    FxaaFloat fxaaConsoleEdgeSharpness,\n    FxaaFloat fxaaConsoleEdgeThreshold,\n    FxaaFloat fxaaConsoleEdgeThresholdMin,\n    FxaaFloat4 fxaaConsole360ConstDir\n) {\n/*--------------------------------------------------------------------------*/\n// (1)\n    half4 dir;\n    half4 lumaNe = h4tex2Dlod(tex, half4(fxaaConsolePosPos.zy, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        lumaNe.w += half(1.0/512.0);\n        dir.x = -lumaNe.w;\n        dir.z = -lumaNe.w;\n    #else\n        lumaNe.y += half(1.0/512.0);\n        dir.x = -lumaNe.y;\n        dir.z = -lumaNe.y;\n    #endif\n/*--------------------------------------------------------------------------*/\n// (2)\n    half4 lumaSw = h4tex2Dlod(tex, half4(fxaaConsolePosPos.xw, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        dir.x += lumaSw.w;\n        dir.z += lumaSw.w;\n    #else\n        dir.x += lumaSw.y;\n        dir.z += lumaSw.y;\n    #endif        \n/*--------------------------------------------------------------------------*/\n// (3)\n    half4 lumaNw = h4tex2Dlod(tex, half4(fxaaConsolePosPos.xy, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        dir.x -= lumaNw.w;\n        dir.z += lumaNw.w;\n    #else\n        dir.x -= lumaNw.y;\n        dir.z += lumaNw.y;\n    #endif\n/*--------------------------------------------------------------------------*/\n// (4)\n    half4 lumaSe = h4tex2Dlod(tex, half4(fxaaConsolePosPos.zw, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        dir.x += lumaSe.w;\n        dir.z -= lumaSe.w;\n    #else\n        dir.x += lumaSe.y;\n        dir.z -= lumaSe.y;\n    #endif\n/*--------------------------------------------------------------------------*/\n// (5)\n    half4 dir1_pos;\n    dir1_pos.xy = normalize(dir.xyz).xz;\n    half dirAbsMinTimesC = min(abs(dir1_pos.x), abs(dir1_pos.y)) * half(FXAA_CONSOLE__PS3_EDGE_SHARPNESS);\n/*--------------------------------------------------------------------------*/\n// (6)\n    half4 dir2_pos;\n    dir2_pos.xy = clamp(dir1_pos.xy / dirAbsMinTimesC, half(-2.0), half(2.0));\n    dir1_pos.zw = pos.xy;\n    dir2_pos.zw = pos.xy;\n    half4 temp1N;\n    temp1N.xy = dir1_pos.zw - dir1_pos.xy * fxaaConsoleRcpFrameOpt.zw;\n/*--------------------------------------------------------------------------*/\n// (7)\n    temp1N = h4tex2Dlod(tex, half4(temp1N.xy, 0.0, 0.0));\n    half4 rgby1;\n    rgby1.xy = dir1_pos.zw + dir1_pos.xy * fxaaConsoleRcpFrameOpt.zw;\n/*--------------------------------------------------------------------------*/\n// (8)\n    rgby1 = h4tex2Dlod(tex, half4(rgby1.xy, 0.0, 0.0));\n    rgby1 = (temp1N + rgby1) * 0.5;\n/*--------------------------------------------------------------------------*/\n// (9)\n    half4 temp2N;\n    temp2N.xy = dir2_pos.zw - dir2_pos.xy * fxaaConsoleRcpFrameOpt2.zw;\n    temp2N = h4tex2Dlod(tex, half4(temp2N.xy, 0.0, 0.0));\n/*--------------------------------------------------------------------------*/\n// (10)\n    half4 rgby2;\n    rgby2.xy = dir2_pos.zw + dir2_pos.xy * fxaaConsoleRcpFrameOpt2.zw;\n    rgby2 = h4tex2Dlod(tex, half4(rgby2.xy, 0.0, 0.0));\n    rgby2 = (temp2N + rgby2) * 0.5;\n/*--------------------------------------------------------------------------*/\n// (11)\n    // compilier moves these scalar ops up to other cycles\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        half lumaMin = min(min(lumaNw.w, lumaSw.w), min(lumaNe.w, lumaSe.w));\n        half lumaMax = max(max(lumaNw.w, lumaSw.w), max(lumaNe.w, lumaSe.w));\n    #else\n        half lumaMin = min(min(lumaNw.y, lumaSw.y), min(lumaNe.y, lumaSe.y));\n        half lumaMax = max(max(lumaNw.y, lumaSw.y), max(lumaNe.y, lumaSe.y));\n    #endif        \n    rgby2 = (rgby2 + rgby1) * 0.5;\n/*--------------------------------------------------------------------------*/\n// (12)\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        bool twoTapLt = rgby2.w < lumaMin;\n        bool twoTapGt = rgby2.w > lumaMax;\n    #else\n        bool twoTapLt = rgby2.y < lumaMin;\n        bool twoTapGt = rgby2.y > lumaMax;\n    #endif\n/*--------------------------------------------------------------------------*/\n// (13)\n    if(twoTapLt || twoTapGt) rgby2 = rgby1;\n/*--------------------------------------------------------------------------*/\n    return rgby2; }\n/*==========================================================================*/\n#endif\n\n\n\n/*============================================================================\n\n       FXAA3 CONSOLE - OPTIMIZED PS3 PIXEL SHADER (WITH EARLY EXIT)\n\n==============================================================================\nThe code mostly matches the assembly.\nI have a feeling that 14 cycles is possible, but was not able to get there.\nMight have to increase register count to get full performance.\nNote this shader does not use perspective interpolation.\n\nUse the following cgc options,\n\n --fenable-bx2 --fastmath --fastprecision --nofloatbindings\n\nUse of FXAA_GREEN_AS_LUMA currently adds a cycle (16 clks).\nWill look at fixing this for FXAA 3.12.\n------------------------------------------------------------------------------\n                             NVSHADERPERF OUTPUT\n------------------------------------------------------------------------------\nFor reference and to aid in debug, output of NVShaderPerf should match this,\n\nShader to schedule:\n  0: texpkb h0.w(TRUE), v5.zyxx, #0\n  2: addh h2.y(TRUE), h0.w, constant(0.001953, 0.000000, 0.000000, 0.000000).x\n  4: texpkb h1.w(TRUE), v5.xwxx, #0\n  6: addh h0.x(TRUE), h1.w, -h2.y\n  7: texpkb h2.w(TRUE), v5.zwzz, #0\n  9: minh h4.w(TRUE), h2.y, h2\n 10: maxh h5.x(TRUE), h2.y, h2.w\n 11: texpkb h0.w(TRUE), v5, #0\n 13: addh h3.w(TRUE), -h0, h0.x\n 14: addh h0.x(TRUE), h0.w, h0\n 15: addh h0.z(TRUE), -h2.w, h0.x\n 16: addh h0.x(TRUE), h2.w, h3.w\n 17: minh h5.y(TRUE), h0.w, h1.w\n 18: nrmh h2.xz(TRUE), h0_n\n 19: minh_m8 h2.w(TRUE), |h2.x|, |h2.z|\n 20: divx h4.xy(TRUE), h2_n.xzzw, h2_n.w\n 21: movr r1.zw(TRUE), v4.xxxy\n 22: maxh h2.w(TRUE), h0, h1\n 23: fenct TRUE\n 24: madr r0.xy(TRUE), -h2.xzzw, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w).zwzz, r1.zwzz\n 26: texpkb h0(TRUE), r0, #0\n 28: maxh h5.x(TRUE), h2.w, h5\n 29: minh h5.w(TRUE), h5.y, h4\n 30: madr r1.xy(TRUE), h2.xzzw, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w).zwzz, r1.zwzz\n 32: texpkb h2(TRUE), r1, #0\n 34: addh_d2 h2(TRUE), h0, h2\n 35: texpkb h1(TRUE), v4, #0\n 37: maxh h5.y(TRUE), h5.x, h1.w\n 38: minh h4.w(TRUE), h1, h5\n 39: madr r0.xy(TRUE), -h4, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w).xyxx, r1.zwzz\n 41: texpkb h0(TRUE), r0, #0\n 43: addh_m8 h5.z(TRUE), h5.y, -h4.w\n 44: madr r2.xy(TRUE), h4, constant(cConst5.x, cConst5.y, cConst5.z, cConst5.w).xyxx, r1.zwzz\n 46: texpkb h3(TRUE), r2, #0\n 48: addh_d2 h0(TRUE), h0, h3\n 49: addh_d2 h3(TRUE), h0, h2\n 50: movh h0(TRUE), h3\n 51: slth h3.x(TRUE), h3.w, h5.w\n 52: sgth h3.w(TRUE), h3, h5.x\n 53: addx.c0 rc(TRUE), h3.x, h3\n 54: slth.c0 rc(TRUE), h5.z, h5\n 55: movh h0(c0.NE.w), h2\n 56: movh h0(c0.NE.x), h1\n\nIPU0 ------ Simplified schedule: --------\nPass |  Unit  |  uOp |  PC:  Op\n-----+--------+------+-------------------------\n   1 | SCT0/1 |  mov |   0:  TXLr h0.w, g[TEX1].zyxx, const.xxxx, TEX0;\n     |    TEX |  txl |   0:  TXLr h0.w, g[TEX1].zyxx, const.xxxx, TEX0;\n     |   SCB0 |  add |   2:  ADDh h2.y, h0.-w--, const.-x--;\n     |        |      |\n   2 | SCT0/1 |  mov |   4:  TXLr h1.w, g[TEX1].xwxx, const.xxxx, TEX0;\n     |    TEX |  txl |   4:  TXLr h1.w, g[TEX1].xwxx, const.xxxx, TEX0;\n     |   SCB0 |  add |   6:  ADDh h0.x, h1.w---,-h2.y---;\n     |        |      |\n   3 | SCT0/1 |  mov |   7:  TXLr h2.w, g[TEX1].zwzz, const.xxxx, TEX0;\n     |    TEX |  txl |   7:  TXLr h2.w, g[TEX1].zwzz, const.xxxx, TEX0;\n     |   SCB0 |  max |  10:  MAXh h5.x, h2.y---, h2.w---;\n     |   SCB1 |  min |   9:  MINh h4.w, h2.---y, h2;\n     |        |      |\n   4 | SCT0/1 |  mov |  11:  TXLr h0.w, g[TEX1], const.xxxx, TEX0;\n     |    TEX |  txl |  11:  TXLr h0.w, g[TEX1], const.xxxx, TEX0;\n     |   SCB0 |  add |  14:  ADDh h0.x, h0.w---, h0;\n     |   SCB1 |  add |  13:  ADDh h3.w,-h0, h0.---x;\n     |        |      |\n   5 |   SCT0 |  mad |  16:  ADDh h0.x, h2.w---, h3.w---;\n     |   SCT1 |  mad |  15:  ADDh h0.z,-h2.--w-, h0.--x-;\n     |   SCB0 |  min |  17:  MINh h5.y, h0.-w--, h1.-w--;\n     |        |      |\n   6 |   SCT1 |  mov |  18:  NRMh h2.xz, h0;\n     |    SRB |  nrm |  18:  NRMh h2.xz, h0;\n     |   SCB1 |  min |  19:  MINh*8 h2.w, |h2.---x|, |h2.---z|;\n     |        |      |\n   7 |   SCT0 |  div |  20:  DIVx h4.xy, h2.xz--, h2.ww--;\n     |   SCT1 |  mov |  21:  MOVr r1.zw, g[TEX0].--xy;\n     |   SCB1 |  max |  22:  MAXh h2.w, h0, h1;\n     |        |      |\n   8 |   SCT0 |  mad |  24:  MADr r0.xy,-h2.xz--, const.zw--, r1.zw--;\n     |   SCT1 |  mov |  26:  TXLr h0, r0, const.xxxx, TEX0;\n     |    TEX |  txl |  26:  TXLr h0, r0, const.xxxx, TEX0;\n     |   SCB0 |  max |  28:  MAXh h5.x, h2.w---, h5;\n     |   SCB1 |  min |  29:  MINh h5.w, h5.---y, h4;\n     |        |      |\n   9 |   SCT0 |  mad |  30:  MADr r1.xy, h2.xz--, const.zw--, r1.zw--;\n     |   SCT1 |  mov |  32:  TXLr h2, r1, const.xxxx, TEX0;\n     |    TEX |  txl |  32:  TXLr h2, r1, const.xxxx, TEX0;\n     | SCB0/1 |  add |  34:  ADDh/2 h2, h0, h2;\n     |        |      |\n  10 | SCT0/1 |  mov |  35:  TXLr h1, g[TEX0], const.xxxx, TEX0;\n     |    TEX |  txl |  35:  TXLr h1, g[TEX0], const.xxxx, TEX0;\n     |   SCB0 |  max |  37:  MAXh h5.y, h5.-x--, h1.-w--;\n     |   SCB1 |  min |  38:  MINh h4.w, h1, h5;\n     |        |      |\n  11 |   SCT0 |  mad |  39:  MADr r0.xy,-h4, const.xy--, r1.zw--;\n     |   SCT1 |  mov |  41:  TXLr h0, r0, const.zzzz, TEX0;\n     |    TEX |  txl |  41:  TXLr h0, r0, const.zzzz, TEX0;\n     |   SCB0 |  mad |  44:  MADr r2.xy, h4, const.xy--, r1.zw--;\n     |   SCB1 |  add |  43:  ADDh*8 h5.z, h5.--y-,-h4.--w-;\n     |        |      |\n  12 | SCT0/1 |  mov |  46:  TXLr h3, r2, const.xxxx, TEX0;\n     |    TEX |  txl |  46:  TXLr h3, r2, const.xxxx, TEX0;\n     | SCB0/1 |  add |  48:  ADDh/2 h0, h0, h3;\n     |        |      |\n  13 | SCT0/1 |  mad |  49:  ADDh/2 h3, h0, h2;\n     | SCB0/1 |  mul |  50:  MOVh h0, h3;\n     |        |      |\n  14 |   SCT0 |  set |  51:  SLTh h3.x, h3.w---, h5.w---;\n     |   SCT1 |  set |  52:  SGTh h3.w, h3, h5.---x;\n     |   SCB0 |  set |  54:  SLThc0 rc, h5.z---, h5;\n     |   SCB1 |  add |  53:  ADDxc0_s rc, h3.---x, h3;\n     |        |      |\n  15 | SCT0/1 |  mul |  55:  MOVh h0(NE0.wwww), h2;\n     | SCB0/1 |  mul |  56:  MOVh h0(NE0.xxxx), h1;\n \nPass   SCT  TEX  SCB\n  1:   0% 100%  25%\n  2:   0% 100%  25%\n  3:   0% 100%  50%\n  4:   0% 100%  50%\n  5:  50%   0%  25%\n  6:   0%   0%  25%\n  7: 100%   0%  25%\n  8:   0% 100%  50%\n  9:   0% 100% 100%\n 10:   0% 100%  50%\n 11:   0% 100%  75%\n 12:   0% 100% 100%\n 13: 100%   0% 100%\n 14:  50%   0%  50%\n 15: 100%   0% 100%\n\nMEAN:  26%  60%  56%\n\nPass   SCT0  SCT1   TEX  SCB0  SCB1\n  1:    0%    0%  100%  100%    0%\n  2:    0%    0%  100%  100%    0%\n  3:    0%    0%  100%  100%  100%\n  4:    0%    0%  100%  100%  100%\n  5:  100%  100%    0%  100%    0%\n  6:    0%    0%    0%    0%  100%\n  7:  100%  100%    0%    0%  100%\n  8:    0%    0%  100%  100%  100%\n  9:    0%    0%  100%  100%  100%\n 10:    0%    0%  100%  100%  100%\n 11:    0%    0%  100%  100%  100%\n 12:    0%    0%  100%  100%  100%\n 13:  100%  100%    0%  100%  100%\n 14:  100%  100%    0%  100%  100%\n 15:  100%  100%    0%  100%  100%\n\nMEAN:   33%   33%   60%   86%   80%\nFragment Performance Setup: Driver RSX Compiler, GPU RSX, Flags 0x5\nResults 15 cycles, 3 r regs, 800,000,000 pixels/s\n============================================================================*/\n#if (FXAA_PS3 == 1) && (FXAA_EARLY_EXIT == 1)\n/*--------------------------------------------------------------------------*/\n#pragma regcount 7\n#pragma disablepc all\n#pragma option O2\n#pragma option OutColorPrec=fp16\n#pragma texformat default RGBA8\n/*==========================================================================*/\nhalf4 FxaaPixelShader(\n    // See FXAA Quality FxaaPixelShader() source for docs on Inputs!\n    FxaaFloat2 pos,\n    FxaaFloat4 fxaaConsolePosPos,\n    FxaaTex tex,\n    FxaaTex fxaaConsole360TexExpBiasNegOne,\n    FxaaTex fxaaConsole360TexExpBiasNegTwo,\n    FxaaFloat2 fxaaQualityRcpFrame,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt,\n    FxaaFloat4 fxaaConsoleRcpFrameOpt2,\n    FxaaFloat4 fxaaConsole360RcpFrameOpt2,\n    FxaaFloat fxaaQualitySubpix,\n    FxaaFloat fxaaQualityEdgeThreshold,\n    FxaaFloat fxaaQualityEdgeThresholdMin,\n    FxaaFloat fxaaConsoleEdgeSharpness,\n    FxaaFloat fxaaConsoleEdgeThreshold,\n    FxaaFloat fxaaConsoleEdgeThresholdMin,\n    FxaaFloat4 fxaaConsole360ConstDir\n) {\n/*--------------------------------------------------------------------------*/\n// (1)\n    half4 rgbyNe = h4tex2Dlod(tex, half4(fxaaConsolePosPos.zy, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        half lumaNe = rgbyNe.w + half(1.0/512.0);\n    #else\n        half lumaNe = rgbyNe.y + half(1.0/512.0);\n    #endif\n/*--------------------------------------------------------------------------*/\n// (2)\n    half4 lumaSw = h4tex2Dlod(tex, half4(fxaaConsolePosPos.xw, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        half lumaSwNegNe = lumaSw.w - lumaNe;\n    #else\n        half lumaSwNegNe = lumaSw.y - lumaNe;\n    #endif\n/*--------------------------------------------------------------------------*/\n// (3)\n    half4 lumaNw = h4tex2Dlod(tex, half4(fxaaConsolePosPos.xy, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        half lumaMaxNwSw = max(lumaNw.w, lumaSw.w);\n        half lumaMinNwSw = min(lumaNw.w, lumaSw.w);\n    #else\n        half lumaMaxNwSw = max(lumaNw.y, lumaSw.y);\n        half lumaMinNwSw = min(lumaNw.y, lumaSw.y);\n    #endif\n/*--------------------------------------------------------------------------*/\n// (4)\n    half4 lumaSe = h4tex2Dlod(tex, half4(fxaaConsolePosPos.zw, 0, 0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        half dirZ =  lumaNw.w + lumaSwNegNe;\n        half dirX = -lumaNw.w + lumaSwNegNe;\n    #else\n        half dirZ =  lumaNw.y + lumaSwNegNe;\n        half dirX = -lumaNw.y + lumaSwNegNe;\n    #endif\n/*--------------------------------------------------------------------------*/\n// (5)\n    half3 dir;\n    dir.y = 0.0;\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        dir.x =  lumaSe.w + dirX;\n        dir.z = -lumaSe.w + dirZ;\n        half lumaMinNeSe = min(lumaNe, lumaSe.w);\n    #else\n        dir.x =  lumaSe.y + dirX;\n        dir.z = -lumaSe.y + dirZ;\n        half lumaMinNeSe = min(lumaNe, lumaSe.y);\n    #endif\n/*--------------------------------------------------------------------------*/\n// (6)\n    half4 dir1_pos;\n    dir1_pos.xy = normalize(dir).xz;\n    half dirAbsMinTimes8 = min(abs(dir1_pos.x), abs(dir1_pos.y)) * half(FXAA_CONSOLE__PS3_EDGE_SHARPNESS);\n/*--------------------------------------------------------------------------*/\n// (7)\n    half4 dir2_pos;\n    dir2_pos.xy = clamp(dir1_pos.xy / dirAbsMinTimes8, half(-2.0), half(2.0));\n    dir1_pos.zw = pos.xy;\n    dir2_pos.zw = pos.xy;\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        half lumaMaxNeSe = max(lumaNe, lumaSe.w);\n    #else\n        half lumaMaxNeSe = max(lumaNe, lumaSe.y);\n    #endif\n/*--------------------------------------------------------------------------*/\n// (8)\n    half4 temp1N;\n    temp1N.xy = dir1_pos.zw - dir1_pos.xy * fxaaConsoleRcpFrameOpt.zw;\n    temp1N = h4tex2Dlod(tex, half4(temp1N.xy, 0.0, 0.0));\n    half lumaMax = max(lumaMaxNwSw, lumaMaxNeSe);\n    half lumaMin = min(lumaMinNwSw, lumaMinNeSe);\n/*--------------------------------------------------------------------------*/\n// (9)\n    half4 rgby1;\n    rgby1.xy = dir1_pos.zw + dir1_pos.xy * fxaaConsoleRcpFrameOpt.zw;\n    rgby1 = h4tex2Dlod(tex, half4(rgby1.xy, 0.0, 0.0));\n    rgby1 = (temp1N + rgby1) * 0.5;\n/*--------------------------------------------------------------------------*/\n// (10)\n    half4 rgbyM = h4tex2Dlod(tex, half4(pos.xy, 0.0, 0.0));\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        half lumaMaxM = max(lumaMax, rgbyM.w);\n        half lumaMinM = min(lumaMin, rgbyM.w);\n    #else\n        half lumaMaxM = max(lumaMax, rgbyM.y);\n        half lumaMinM = min(lumaMin, rgbyM.y);\n    #endif\n/*--------------------------------------------------------------------------*/\n// (11)\n    half4 temp2N;\n    temp2N.xy = dir2_pos.zw - dir2_pos.xy * fxaaConsoleRcpFrameOpt2.zw;\n    temp2N = h4tex2Dlod(tex, half4(temp2N.xy, 0.0, 0.0));\n    half4 rgby2;\n    rgby2.xy = dir2_pos.zw + dir2_pos.xy * fxaaConsoleRcpFrameOpt2.zw;\n    half lumaRangeM = (lumaMaxM - lumaMinM) / FXAA_CONSOLE__PS3_EDGE_THRESHOLD;\n/*--------------------------------------------------------------------------*/\n// (12)\n    rgby2 = h4tex2Dlod(tex, half4(rgby2.xy, 0.0, 0.0));\n    rgby2 = (temp2N + rgby2) * 0.5;\n/*--------------------------------------------------------------------------*/\n// (13)\n    rgby2 = (rgby2 + rgby1) * 0.5;\n/*--------------------------------------------------------------------------*/\n// (14)\n    #if (FXAA_GREEN_AS_LUMA == 0)\n        bool twoTapLt = rgby2.w < lumaMin;\n        bool twoTapGt = rgby2.w > lumaMax;\n    #else\n        bool twoTapLt = rgby2.y < lumaMin;\n        bool twoTapGt = rgby2.y > lumaMax;\n    #endif\n    bool earlyExit = lumaRangeM < lumaMax;\n    bool twoTap = twoTapLt || twoTapGt;\n/*--------------------------------------------------------------------------*/\n// (15)\n    if(twoTap) rgby2 = rgby1;\n    if(earlyExit) rgby2 = rgbyM;\n/*--------------------------------------------------------------------------*/\n    return rgby2; }\n/*==========================================================================*/\n#endif\n\n\n#include <Std>\n\n\nstruct VO\n{\n\tfloat4 position   \t: SV_Position;\n\tfloat2 texcoord0 \t: TEXCOORD0;\n};\n\n/*\nFxaaVS_Output FxaaVS(uint id : SV_VertexID) {\n    FxaaVS_Output Output;\n    Output.Tex = float2((id << 1) & 2, id & 2);\n    Output.Pos = float4(Output.Tex * float2(2.0f, -2.0f) + float2(-1.0f, 1.0f), 0.0f, 1.0f);\n    return Output;\n}*/\n\nTexture2D<float4>    InputTexture : TEXTURE1;\n\nfloat4 main(VO Input) : SV_TARGET \n{\n    FxaaTex InputFXAATex = { defaultLSampler, InputTexture };\n\n\tfloat2 wh;\n\tInputTexture.GetDimensions(wh.x, wh.y);\n\t\n    return FxaaPixelShader(\n        Input.texcoord0.xy,\t\t\t\t\t\t\t// FxaaFloat2 pos,\n        FxaaFloat4(0.0f, 0.0f, 0.0f, 0.0f),\t\t// FxaaFloat4 fxaaConsolePosPos,\n        InputFXAATex,\t\t\t\t\t\t\t// FxaaTex tex,\n        InputFXAATex,\t\t\t\t\t\t\t// FxaaTex fxaaConsole360TexExpBiasNegOne,\n        InputFXAATex,\t\t\t\t\t\t\t// FxaaTex fxaaConsole360TexExpBiasNegTwo,\n        1.0 / wh,\t\t\t\t\t\t\t\t// FxaaFloat2 fxaaQualityRcpFrame,\n        FxaaFloat4(0.0f, 0.0f, 0.0f, 0.0f),\t\t// FxaaFloat4 fxaaConsoleRcpFrameOpt,\n        FxaaFloat4(0.0f, 0.0f, 0.0f, 0.0f),\t\t// FxaaFloat4 fxaaConsoleRcpFrameOpt2,\n        FxaaFloat4(0.0f, 0.0f, 0.0f, 0.0f),\t\t// FxaaFloat4 fxaaConsole360RcpFrameOpt2,\n        0.75f,\t\t\t\t\t\t\t\t\t// FxaaFloat fxaaQualitySubpix,\n        0.166f,\t\t\t\t\t\t\t\t\t// FxaaFloat fxaaQualityEdgeThreshold,\n        0.0833f,\t\t\t\t\t\t\t\t// FxaaFloat fxaaQualityEdgeThresholdMin,\n        0.0f,\t\t\t\t\t\t\t\t\t// FxaaFloat fxaaConsoleEdgeSharpness,\n        0.0f,\t\t\t\t\t\t\t\t\t// FxaaFloat fxaaConsoleEdgeThreshold,\n        0.0f,\t\t\t\t\t\t\t\t\t// FxaaFloat fxaaConsoleEdgeThresholdMin,\n        FxaaFloat4(0.0f, 0.0f, 0.0f, 0.0f)\t\t// FxaaFloat fxaaConsole360ConstDir,\n    );\n}"
+            },
+            "chipId": "{A6A0C3A2-DCC4-4FB0-A0AC-89CE1851C83C}",
+            "name": "Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{5DCCD38D-4DE9-47F8-BE10-6929F64F2174}",
+            "connections": [{
+                "chipId": "{8A9165BD-9957-4D3B-A2E3-DC0054333AB5}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{94D2D30C-5FB2-4EEF-AE24-C7027C65EA1A}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{8424A209-DD2D-4C87-9822-F249C87B1709}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{A2ECF084-33BC-4E9A-AFDC-2C7666108BEC}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{3D1CA5FC-4FB3-40BD-83C9-A7CDAF767D49}",
+                "connection": 0,
+                "subConnection": 4
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{B0AD5E4F-40C3-49B4-B315-74191A97B769}"
+                }, {
+                  "chipId": "{C3E639FD-0C1C-4121-9655-741D933A52EF}"
+                }],
+              "type": "Static"
+            },
+            "name": "FXAA",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "UNBIND_RTV"
+            },
+            "chipId": "{8A9165BD-9957-4D3B-A2E3-DC0054333AB5}",
+            "name": "Unbind Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_RTV"
+            },
+            "chipId": "{94D2D30C-5FB2-4EEF-AE24-C7027C65EA1A}",
+            "connections": [{
+                "chipId": "{C3E639FD-0C1C-4121-9655-741D933A52EF}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "CLEAR_RTV"
+            },
+            "chipId": "{8424A209-DD2D-4C87-9822-F249C87B1709}",
+            "connections": [{
+                "chipId": "{C3E639FD-0C1C-4121-9655-741D933A52EF}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Clear Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_VIEWPORTS"
+            },
+            "chipId": "{A2ECF084-33BC-4E9A-AFDC-2C7666108BEC}",
+            "connections": [{
+                "chipId": "{01916757-50BC-410B-A21F-12AA2A393AF2}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Set Viewports (Relative)",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 1.0, 1.0]
+            },
+            "chipId": "{01916757-50BC-410B-A21F-12AA2A393AF2}",
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "boundingBox": {
+                "isinf": true
+              },
+              "subsets": {
+                "count": 0
+              },
+              "useSubsetCulling": true,
+              "useWholeObjectCulling": false
+            },
+            "chipId": "{3D1CA5FC-4FB3-40BD-83C9-A7CDAF767D49}",
+            "connections": [{
+                "chipId": "{9E5E8435-E5F4-4F75-896D-4099F92E41D6}",
+                "connection": 0
+              }, {
+                "chipId": "{B341B8B2-3B8F-4B59-836D-20D49922F682}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Renderable",
+            "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 7,
+                "map": [{
+                    "first": "RS_FM",
+                    "second": {
+                      "type": "M3D_FILL_MODE",
+                      "value": "M3D_FILL_MODE_SOLID"
+                    }
+                  }, {
+                    "first": "RS_CM",
+                    "second": {
+                      "type": "M3D_CULL_MODE",
+                      "value": "M3D_CULL_MODE_BACK"
+                    }
+                  }, {
+                    "first": "DSS_DE",
+                    "second": {
+                      "type": "INT",
+                      "value": 0
+                    }
+                  }, {
+                    "first": "BS_RT0_BE",
+                    "second": {
+                      "type": "INT",
+                      "value": 0
+                    }
+                  }, {
+                    "first": "BS_RT0_SB",
+                    "second": {
+                      "type": "INT",
+                      "value": 2
+                    }
+                  }, {
+                    "first": "BS_RT0_DB",
+                    "second": {
+                      "type": "INT",
+                      "value": 2
+                    }
+                  }, {
+                    "first": "BS_RT0_BO",
+                    "second": {
+                      "type": "INT",
+                      "value": 1
+                    }
+                  }]
+              }
+            },
+            "chipId": "{B7B6FF8B-6A8C-45C5-BF01-D47C2D6A3A32}",
+            "connections": [{
+                "chipId": "{0CC94BC7-0ED7-42A1-BF15-0AE73833BB62}",
+                "connection": 0
+              }, {
+                "chipId": "{F4F0F0BA-60D3-4F87-8386-217627A8A15D}",
+                "connection": 1
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "kNePlwEAAAA=eJxziXByvm6w86x8ZNDhCW8KLMQjQloZGRgYWJgYGJiBtA4QJwDxDiD2DHb3A/FB8hxArMAAAWxQMRBgBDKCw+LDUotKUis8XRj8gXoCgOJMUD0WMHUMEPNBgB+IXRgQgBkmzwM2KyC/OLMkMz+PIcQ1wtnfP8iFYfXq1cEerhEuQEWBQJWBQLVZHAyMQHeyCAkIwN2UDuR/UhCA25cKNNIIyAexM4BOArkplIGBXYgBooYLqpfRAaIeiNmVcMiFMTCwGjFAzHKDqmFANgsqB6ONgN40grrFDSrG5ADiNThAMARAxfZDMASYAYPuEFQvE1wlDDTYA83mcoLaK8Ug0OAI9S8jRK0DhG6wNwO5Ger/Nqh6O6AyAPI+L4M=",
+                    "size": 516
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_UINT32",
+                      "mask": 1,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 1,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_VertexID",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_Position",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 2
+                },
+                "uniforms": {
+                  "count": 0
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "struct VO\n{\n\tfloat4 position   \t: SV_Position;\n\tfloat2 texcoord0 \t: TEXCOORD0;\n};\n\n\nvoid main(uint index : SV_VertexID, out VO OUT) \n{\n\tOUT.texcoord0 = float2(index / 2, index % 2) * 2.0f;\n\tOUT.position = float4(OUT.texcoord0 * 2.0f - 1.0f, 0.0f, 1.0f);\n\tOUT.texcoord0.y = 1.0 - OUT.texcoord0.y;\n}"
+            },
+            "chipId": "{56831666-AD54-4028-9EDD-144F8AA2EE53}",
+            "name": "Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{F4F0F0BA-60D3-4F87-8386-217627A8A15D}",
+            "connections": [{
+                "chipId": "{56831666-AD54-4028-9EDD-144F8AA2EE53}",
+                "connection": 0
+              }, {
+                "chipId": "{A6A0C3A2-DCC4-4FB0-A0AC-89CE1851C83C}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {},
+            "chipId": "{B341B8B2-3B8F-4B59-836D-20D49922F682}",
+            "connections": [{
+                "chipId": "{B7B6FF8B-6A8C-45C5-BF01-D47C2D6A3A32}",
+                "connection": 0
+              }, {
+                "chipId": "{B0AD5E4F-40C3-49B4-B315-74191A97B769}",
+                "connection": 4,
+                "subConnection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{C3E639FD-0C1C-4121-9655-741D933A52EF}",
+            "name": "Target",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "FullscreenTriangle",
+              "preload": true,
+              "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}"
+            },
+            "chipId": "{9E5E8435-E5F4-4F75-896D-4099F92E41D6}",
+            "name": "SGraphics->FullscreenTriangle",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{0CC94BC7-0ED7-42A1-BF15-0AE73833BB62}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{B0AD5E4F-40C3-49B4-B315-74191A97B769}",
+            "name": "Source",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {},
+            "chipId": "{256BDC37-905C-4272-81CC-9D515261E3C9}",
+            "connections": [{
+                "chipId": "{216F6874-8FF1-4607-96B5-16924B82E057}",
+                "connection": 0
+              }, {
+                "chipId": "{44AA7478-A9E8-4ECA-BC04-BB26CD1B505D}",
+                "connection": 1
+              }, {
+                "chipId": "{33A561D7-154E-44AE-85F2-08D3C325C882}",
+                "connection": 2
+              }, {
+                "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}",
+                "connection": 5,
+                "subConnection": 0
+              }],
+            "name": "Compute",
+            "type": "{1F0E0DFA-C361-4512-9A62-E9F067B9B31F}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "j0zNhwAAAAA=RFhCQ4FFYGVs95EO6nW1NWMxB+UBAAAAFAEAAAQAAAAwAAAAQAAAAFAAAAAEAQAASVNHTggAAAAAAAAACAAAAE9TR04IAAAAAAAAAAgAAABTSEVYrAAAAFEABQArAAAAaggAAZwYAAdG7jEAAAAAAAAAAAAAAAAAVVUAAAAAAABfAAACMgACAGgAAAIBAAAAmwAABBAAAAAQAAAAAQAAAKMAAAdyABAAAAAAAEYFAgBG7iEAAAAAAAAAAAAQAAAKggAQAAAAAABGAhAAAAAAAAJAAACHFpk+okUWP9V46T0AAAAApAAAB/LgIQAAAAAAAAAAAEYFAgBGDhAAAAAAAD4AAAFTRkkwCAAAAAAIAAAAAAAA",
+                    "size": 276
+                  }
+                },
+                "inputParams": {
+                  "count": 0
+                },
+                "outputParams": {
+                  "count": 0
+                },
+                "threadGroupSizeX": 16,
+                "threadGroupSizeY": 16,
+                "threadGroupSizeZ": 1,
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "UAV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "tex",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_UAV_RWTYPED",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "CS",
+              "sourceCode": "\n#include <Std>\n\nRWTexture2D<float4> tex : UAV1;\n\n\n[numthreads(16, 16, 1)]\nvoid main(uint3 DTid : SV_DispatchThreadID)\n{\n\tfloat3 srgb = tex[DTid.xy].rgb;\n\n\ttex[DTid.xy] = float4(srgb, dot(srgb, float3(0.299, 0.587, 0.114)));\n}\n\n"
+            },
+            "chipId": "{44AA7478-A9E8-4ECA-BC04-BB26CD1B505D}",
+            "name": "Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{216F6874-8FF1-4607-96B5-16924B82E057}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "vector": [505.0, 412.0, 1.0, 1.0]
+            },
+            "chipId": "{33A561D7-154E-44AE-85F2-08D3C325C882}",
+            "connections": [{
+                "chipId": "{FDF5AD24-DCB4-420A-9532-DB00F29471A9}",
+                "connection": 0
+              }, {
+                "chipId": "{6E3E4E9D-F037-4E18-9CEE-440434318E3A}",
+                "connection": 1
+              }],
+            "name": "targetSize",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_WIDTH",
+              "value": 505.0
+            },
+            "chipId": "{FDF5AD24-DCB4-420A-9532-DB00F29471A9}",
+            "connections": [{
+                "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Width",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_HEIGHT",
+              "value": 412.0
+            },
+            "chipId": "{6E3E4E9D-F037-4E18-9CEE-440434318E3A}",
+            "connections": [{
+                "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Height",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}"
+            },
+            "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}",
+            "name": "Source1",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {},
+            "chipId": "{B009482C-76FA-4CE7-A891-55F474601E9C}",
+            "connections": [{
+                "chipId": "{250805AC-D67D-4957-9A78-7D8E2967D4B1}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{256BDC37-905C-4272-81CC-9D515261E3C9}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}"
+                }],
+              "type": "Static"
+            },
+            "name": "Convert RGB(A) to RGBL",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {},
+            "chipId": "{416FC80F-9592-41AC-930A-14F86D10E058}",
+            "connections": [{
+                "chipId": "{63B1E210-8F99-4681-829B-89CD9BC2B0E5}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{1CDE0260-7CB9-41C6-8FCC-A4749721903C}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}"
+                }, {
+                  "chipId": "{C3E639FD-0C1C-4121-9655-741D933A52EF}"
+                }],
+              "type": "Static"
+            },
+            "name": "Convert RGB(A) to RGBL and do FXAA",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "UNBIND_RTV"
+            },
+            "chipId": "{250805AC-D67D-4957-9A78-7D8E2967D4B1}",
+            "name": "Unbind Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SFXAA",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\FXAA.m3j",
+              "functionName": "Convert RGB(A) to RGBL",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{63B1E210-8F99-4681-829B-89CD9BC2B0E5}",
+            "connections": [{
+                "chipId": "{DAC10C20-C853-44B9-A7F7-2FE50EB255DD}",
+                "connection": 1
+              }],
+            "name": "SFXAA->Convert RGB(A) to RGBL",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "original": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}"
+            },
+            "chipId": "{DAC10C20-C853-44B9-A7F7-2FE50EB255DD}",
+            "name": "Source1",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SFXAA",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\FXAA.m3j",
+              "functionName": "FXAA",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{1CDE0260-7CB9-41C6-8FCC-A4749721903C}",
+            "connections": [{
+                "chipId": "{DAC10C20-C853-44B9-A7F7-2FE50EB255DD}",
+                "connection": 1
+              }, {
+                "chipId": "{21881FBD-3E62-40FA-9274-A362DA52A547}",
+                "connection": 2
+              }],
+            "name": "SFXAA->FXAA",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "original": "{C3E639FD-0C1C-4121-9655-741D933A52EF}"
+            },
+            "chipId": "{21881FBD-3E62-40FA-9274-A362DA52A547}",
+            "name": "Target",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{40CE63CA-A15C-48A1-A386-F50FA8DD4134}",
+            "connections": [{
+                "chipId": "{E1235A1C-D3C9-422A-95E8-7B441FEF31FA}",
+                "connection": 0
+              }, {
+                "chipId": "{3C8AA352-95A0-4D9B-B277-02DEDA144210}",
+                "connection": 1
+              }, {
+                "chipId": "{869736CF-D4AA-45FE-95F6-8BC6CDEC42F0}",
+                "connection": 2
+              }, {
+                "chipId": "{4F155E38-D7BC-4228-9808-E28082833351}",
+                "connection": 4,
+                "subConnection": 0
+              }, {
+                "chipId": "{DB002C88-1F4E-4D9A-8B0C-FE0895C6FDDE}",
+                "connection": 5,
+                "subConnection": 0
+              }],
+            "name": "Compute",
+            "type": "{1F0E0DFA-C361-4512-9A62-E9F067B9B31F}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "BBIfVQAAAAA=RFhCQzN0PtZpyOJzwgFeJ0yOXgQBAAAAUAEAAAMAAAAsAAAAPAAAAEwAAABJU0dOCAAAAAAAAAAIAAAAT1NHTggAAAAAAAAACAAAAFNIRVj8AAAAUQAFAD8AAABqCAABWBgAB0Z+MAAAAAAAAAAAAAAAAABVVQAAAAAAAJwYAAdG7jEAAAAAAAAAAAAAAAAAVVUAAAAAAABfAAACMgACAGgAAAIBAAAAmwAABBAAAAAQAAAAAQAAADYAAAQyABAAAAAAAEYAAgA2AAAIwgAQAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAAAC0AAAhyABAAAAAAAEYOEAAAAAAARn4gAAAAAAAAAAAAEAAACoIAEAAAAAAARgIQAAAAAAACQAAAhxaZPqJFFj/VeOk9AAAAAKQAAAfy4CEAAAAAAAAAAABGBQIARg4QAAAAAAA+AAAB",
+                    "size": 336
+                  }
+                },
+                "inputParams": {
+                  "count": 0
+                },
+                "outputParams": {
+                  "count": 0
+                },
+                "threadGroupSizeX": 16,
+                "threadGroupSizeY": 16,
+                "threadGroupSizeZ": 1,
+                "uniforms": {
+                  "count": 2,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "source",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "UAV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "target",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_UAV_RWTYPED",
+                        "uFlags": 12,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "CS",
+              "sourceCode": "\n#include <Std>\n\nTexture2D<float4> source : TEXTURE1;\n\nRWTexture2D<float4> target : UAV1;\n\n\n[numthreads(16, 16, 1)]\nvoid main(uint3 DTid : SV_DispatchThreadID)\n{\n\tfloat3 srgb = source[DTid.xy].rgb;\n\n\ttarget[DTid.xy] = float4(srgb, dot(srgb, float3(0.299, 0.587, 0.114)));\n}\n\n"
+            },
+            "chipId": "{3C8AA352-95A0-4D9B-B277-02DEDA144210}",
+            "name": "Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SGraphics",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\Graphics.m3j",
+              "functionName": "Root Signature",
+              "preload": true,
+              "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+            },
+            "chipId": "{E1235A1C-D3C9-422A-95E8-7B441FEF31FA}",
+            "name": "SGraphics->Root Signature",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "vector": [505.0, 412.0, 1.0, 1.0]
+            },
+            "chipId": "{869736CF-D4AA-45FE-95F6-8BC6CDEC42F0}",
+            "connections": [{
+                "chipId": "{FC91C554-2568-4668-9FE9-E33B0E1FFF8A}",
+                "connection": 0
+              }, {
+                "chipId": "{E0AF6384-8632-4D6D-9DE1-7DCA3B531A75}",
+                "connection": 1
+              }],
+            "name": "targetSize",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_WIDTH",
+              "value": 505.0
+            },
+            "chipId": "{FC91C554-2568-4668-9FE9-E33B0E1FFF8A}",
+            "connections": [{
+                "chipId": "{DB002C88-1F4E-4D9A-8B0C-FE0895C6FDDE}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Width",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "UAV_HEIGHT",
+              "value": 412.0
+            },
+            "chipId": "{E0AF6384-8632-4D6D-9DE1-7DCA3B531A75}",
+            "connections": [{
+                "chipId": "{DB002C88-1F4E-4D9A-8B0C-FE0895C6FDDE}",
+                "connection": 0
+              }],
+            "name": "Get Unordered Access Height",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {},
+            "chipId": "{42DB3357-5C63-4A76-8DF7-FF3FCBD26E1B}",
+            "connections": [{
+                "chipId": "{E0C0F47B-4D9A-4DE7-B85C-4E3513015CC0}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{40CE63CA-A15C-48A1-A386-F50FA8DD4134}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}"
+                }, {
+                  "chipId": "{C3E639FD-0C1C-4121-9655-741D933A52EF}"
+                }],
+              "type": "Static"
+            },
+            "name": "Convert RGB(A) to RGBL 2",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "UNBIND_RTV"
+            },
+            "chipId": "{E0C0F47B-4D9A-4DE7-B85C-4E3513015CC0}",
+            "name": "Unbind Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "original": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}"
+            },
+            "chipId": "{4F155E38-D7BC-4228-9808-E28082833351}",
+            "name": "Source1",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{C3E639FD-0C1C-4121-9655-741D933A52EF}"
+            },
+            "chipId": "{DB002C88-1F4E-4D9A-8B0C-FE0895C6FDDE}",
+            "name": "Target",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{B14F6ACC-0ABB-451A-9755-F19055B256F9}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{A6A0C3A2-DCC4-4FB0-A0AC-89CE1851C83C}",
+                "x": 1057,
+                "y": -2148,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5DCCD38D-4DE9-47F8-BE10-6929F64F2174}",
+                "comment": "Source parameter must have an SRV format of RGBA_SUNORM. Alpha channel contains the pixel luminace for use by FXAA.\n\nFXAA is written to Target. Target must have an SUNORM  RTV format.",
+                "x": 4,
+                "y": 7,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8A9165BD-9957-4D3B-A2E3-DC0054333AB5}",
+                "x": -1043,
+                "y": -807,
+                "objectType": "chip"
+              }, {
+                "chipId": "{94D2D30C-5FB2-4EEF-AE24-C7027C65EA1A}",
+                "x": -778,
+                "y": -1050,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8424A209-DD2D-4C87-9822-F249C87B1709}",
+                "x": -517,
+                "y": -1088,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A2ECF084-33BC-4E9A-AFDC-2C7666108BEC}",
+                "x": -183,
+                "y": -1154,
+                "objectType": "chip"
+              }, {
+                "chipId": "{01916757-50BC-410B-A21F-12AA2A393AF2}",
+                "x": -166,
+                "y": -1351,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3D1CA5FC-4FB3-40BD-83C9-A7CDAF767D49}",
+                "x": 904,
+                "y": -671,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B7B6FF8B-6A8C-45C5-BF01-D47C2D6A3A32}",
+                "x": 891,
+                "y": -1453,
+                "objectType": "chip"
+              }, {
+                "chipId": "{56831666-AD54-4028-9EDD-144F8AA2EE53}",
+                "x": 906,
+                "y": -2124,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F4F0F0BA-60D3-4F87-8386-217627A8A15D}",
+                "x": 982,
+                "y": -1888,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B341B8B2-3B8F-4B59-836D-20D49922F682}",
+                "x": 1051,
+                "y": -1083,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C3E639FD-0C1C-4121-9655-741D933A52EF}",
+                "comment": "Render target. Should be a RGB(A)_SUNORM format.",
+                "x": -660,
+                "y": -1431,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9E5E8435-E5F4-4F75-896D-4099F92E41D6}",
+                "x": 569,
+                "y": -990,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0CC94BC7-0ED7-42A1-BF15-0AE73833BB62}",
+                "x": 758,
+                "y": -1757,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B0AD5E4F-40C3-49B4-B315-74191A97B769}",
+                "comment": "RGBL. Must have a SRV format of RGBA_SUNORM.",
+                "x": 1178,
+                "y": -1317,
+                "objectType": "chip"
+              }, {
+                "chipId": "{256BDC37-905C-4272-81CC-9D515261E3C9}",
+                "x": -2992,
+                "y": -314,
+                "objectType": "chip"
+              }, {
+                "chipId": "{44AA7478-A9E8-4ECA-BC04-BB26CD1B505D}",
+                "x": -3395,
+                "y": -814,
+                "objectType": "chip"
+              }, {
+                "chipId": "{216F6874-8FF1-4607-96B5-16924B82E057}",
+                "x": -3533,
+                "y": -710,
+                "objectType": "chip"
+              }, {
+                "chipId": "{33A561D7-154E-44AE-85F2-08D3C325C882}",
+                "x": -3191,
+                "y": -755,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FDF5AD24-DCB4-420A-9532-DB00F29471A9}",
+                "x": -3315,
+                "y": -1023,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6E3E4E9D-F037-4E18-9CEE-440434318E3A}",
+                "x": -3113,
+                "y": -1126,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9396CA05-6CD4-49B4-A31D-A6CC6C950C26}",
+                "comment": "RGB(A) buffer being converted to RGBL.",
+                "x": -2938,
+                "y": -1435,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B009482C-76FA-4CE7-A891-55F474601E9C}",
+                "comment": "Parameter must have an UAV format of RGBA_SRGB. Alpha channel is overwritten, and replaced with the pixel luminace for use by FXAA.",
+                "x": -3093,
+                "y": 20,
+                "objectType": "chip"
+              }, {
+                "chipId": "{416FC80F-9592-41AC-930A-14F86D10E058}",
+                "comment": "Source parameter must have an UAV/SRV format of RGBA_SUNORM. Alpha channel is overwritten, and replaced with the pixel luminace for use by FXAA.\n\nFXAA is the performed and written to Target. Target must have an SUNORM  RTV format.",
+                "x": -2040,
+                "y": 13,
+                "objectType": "chip"
+              }, {
+                "chipId": "{250805AC-D67D-4957-9A78-7D8E2967D4B1}",
+                "x": -3459,
+                "y": -223,
+                "objectType": "chip"
+              }, {
+                "chipId": "{63B1E210-8F99-4681-829B-89CD9BC2B0E5}",
+                "x": -2281,
+                "y": -293,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DAC10C20-C853-44B9-A7F7-2FE50EB255DD}",
+                "x": -2265,
+                "y": -618,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1CDE0260-7CB9-41C6-8FCC-A4749721903C}",
+                "x": -1785,
+                "y": -361,
+                "objectType": "chip"
+              }, {
+                "chipId": "{21881FBD-3E62-40FA-9274-A362DA52A547}",
+                "x": -1740,
+                "y": -640,
+                "objectType": "chip"
+              }, {
+                "chipId": "{40CE63CA-A15C-48A1-A386-F50FA8DD4134}",
+                "x": -4431,
+                "y": -303,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3C8AA352-95A0-4D9B-B277-02DEDA144210}",
+                "x": -4852,
+                "y": -804,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E1235A1C-D3C9-422A-95E8-7B441FEF31FA}",
+                "x": -4989,
+                "y": -700,
+                "objectType": "chip"
+              }, {
+                "chipId": "{869736CF-D4AA-45FE-95F6-8BC6CDEC42F0}",
+                "x": -4648,
+                "y": -745,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FC91C554-2568-4668-9FE9-E33B0E1FFF8A}",
+                "x": -4772,
+                "y": -1013,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E0AF6384-8632-4D6D-9DE1-7DCA3B531A75}",
+                "x": -4569,
+                "y": -1116,
+                "objectType": "chip"
+              }, {
+                "chipId": "{42DB3357-5C63-4A76-8DF7-FF3FCBD26E1B}",
+                "comment": "Parameter must have an UAV format of RGBA_SRGB. Alpha channel is overwritten, and replaced with the pixel luminace for use by FXAA.",
+                "x": -4550,
+                "y": 31,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E0C0F47B-4D9A-4DE7-B85C-4E3513015CC0}",
+                "x": -4916,
+                "y": -213,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4F155E38-D7BC-4228-9808-E28082833351}",
+                "x": -4446,
+                "y": -581,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DB002C88-1F4E-4D9A-8B0C-FE0895C6FDDE}",
+                "x": -4337,
+                "y": -1403,
+                "objectType": "chip"
+              }],
+            "extent": [-5039, -2198, 1228, 81]
+          }
+        },
+        "id": "{8FDA515E-E94E-419C-98F5-F25F2105C017}",
+        "inheritance": [],
+        "name": "SFXAA",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{00000000-0000-0000-0000-000000000000}",
+    "version": "1.2.7.0"
+  }
+}

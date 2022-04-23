@@ -1,0 +1,2129 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{7908D608-A149-4286-826D-270EDEDE12FE}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{18E9144A-6102-4AB4-94BE-05642DD3368D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{402A1E54-5B7E-4BF5-A4D6-65D729FE7043}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{D27FF489-2396-4EFE-9871-0705655B8622}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{87605A8A-FDA7-4ACE-81C7-4AD243632654}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{01466AAB-80E4-447C-9662-089B79485231}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C80642C6-0537-41FE-A28B-1659548A9838}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F75CC4D4-BB15-40DE-B718-07C3BC40661B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{4221CFFF-DEBE-4E70-9787-CF6543C4D9E3}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {},
+            "chipId": "{3EA4722E-25EF-4B3B-9354-40DA636E249F}",
+            "connections": [{
+                "chipId": "{1E43A75B-4C14-4300-B71F-0B3F4BFDD26C}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{D4AE42EC-F66A-4D19-A292-2E78D6FF1BF4}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{6202E83B-8209-45B7-A073-766C0BB40BF7}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{170F1828-E81B-4352-BE2C-3B028148A74C}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{8046C7C2-8BAB-4DC7-8B3B-A72C15F9718B}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{7086C823-47FA-489A-8AC2-36D088A40420}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{92C8A88D-6FF3-4862-8948-245149667AE2}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{70289FAC-5836-427C-BBC2-E4FFCFB403B3}",
+                "connection": 0,
+                "subConnection": 7
+              }, {
+                "chipId": "{ABF0DEE7-E9CF-429F-901E-8533AA60F6A2}",
+                "connection": 0,
+                "subConnection": 8
+              }, {
+                "chipId": "{7D508D0B-47B9-4324-BC9E-11CF8D839BE3}",
+                "connection": 0,
+                "subConnection": 9
+              }],
+            "name": "Project Start",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "CLEAR_RTV"
+            },
+            "chipId": "{D4AE42EC-F66A-4D19-A292-2E78D6FF1BF4}",
+            "connections": [{
+                "chipId": "{35CFB133-92F8-4668-ACED-093428209EBC}",
+                "connection": 0
+              }, {
+                "chipId": "{9F3F4C35-A221-4389-BDE7-7D7E34D98B2E}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Clear Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_RTV"
+            },
+            "chipId": "{1E43A75B-4C14-4300-B71F-0B3F4BFDD26C}",
+            "connections": [{
+                "chipId": "{19879395-7ABC-48DB-9DD0-E09F8E55F82F}",
+                "connection": 0
+              }, {
+                "chipId": "{9F3F4C35-A221-4389-BDE7-7D7E34D98B2E}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.15000000596046449, 0.15000000596046449, 0.5, 1.0]
+            },
+            "chipId": "{35CFB133-92F8-4668-ACED-093428209EBC}",
+            "name": "Clear Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_VIEWPORTS"
+            },
+            "chipId": "{170F1828-E81B-4352-BE2C-3B028148A74C}",
+            "connections": [{
+                "chipId": "{35166729-EB6F-4B8A-9959-6FDDA239CF01}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Set Viewports (Relative)",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 1.0, 1.0]
+            },
+            "chipId": "{35166729-EB6F-4B8A-9959-6FDDA239CF01}",
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "depth": 1,
+              "dsv_format": "M3D_FORMAT_D32_FLOAT",
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_DEPTH_STENCIL",
+              "flagsEx": 1,
+              "format": "M3D_FORMAT_R32_TYPELESS",
+              "height": 100,
+              "mipLevels": 1,
+              "msCount": 1,
+              "srv_format": "M3D_FORMAT_R32_FLOAT",
+              "width": 100
+            },
+            "chipId": "{19879395-7ABC-48DB-9DD0-E09F8E55F82F}",
+            "name": "Depth Buffer",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "operatorType": "CLEAR_DSV"
+            },
+            "chipId": "{6202E83B-8209-45B7-A073-766C0BB40BF7}",
+            "connections": [{
+                "chipId": "{ECBE7ED4-BF01-4145-9F01-EC03EBBDECB6}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Clear Depth Stencil Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "original": "{19879395-7ABC-48DB-9DD0-E09F8E55F82F}"
+            },
+            "chipId": "{ECBE7ED4-BF01-4145-9F01-EC03EBBDECB6}",
+            "name": "Depth Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{7086C823-47FA-489A-8AC2-36D088A40420}",
+            "connections": [{
+                "chipId": "{FC575095-1B03-4015-ADB1-F40DF29D9854}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{3AB7F7DD-3D01-443A-A9C8-B6ED7FA6F14C}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{4BD9A85F-B0F5-43EF-BD5C-C3E6C8297CB3}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "Render your stuff here!",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {},
+            "chipId": "{3AB7F7DD-3D01-443A-A9C8-B6ED7FA6F14C}",
+            "connections": [{
+                "chipId": "{BAA493E8-063F-46DB-8968-A796A94BEA1D}",
+                "connection": 0
+              }, {
+                "chipId": "{D8F0BE5C-859C-4F57-BE43-3A8474AF3D37}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "3D Object",
+            "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}"
+          }, {
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{BAA493E8-063F-46DB-8968-A796A94BEA1D}",
+            "name": "World Matrix",
+            "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+          }, {
+            "chipData": {
+              "boundingBox": {
+                "isinf": true
+              },
+              "subsets": {
+                "count": 0
+              },
+              "useSubsetCulling": true,
+              "useWholeObjectCulling": false
+            },
+            "chipId": "{D8F0BE5C-859C-4F57-BE43-3A8474AF3D37}",
+            "connections": [{
+                "chipId": "{94405F09-A638-482C-8338-48B28810D4F9}",
+                "connection": 0
+              }, {
+                "chipId": "{FE89A43B-3077-40FD-84FC-C8DA1903E4F2}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Renderable",
+            "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}"
+          }, {
+            "chipData": {
+              "flags": 7,
+              "primitiveType": "TEAPOT"
+            },
+            "chipId": "{94405F09-A638-482C-8338-48B28810D4F9}",
+            "name": "Utah Teapot",
+            "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_CAMERA_MATRIES"
+            },
+            "chipId": "{8046C7C2-8BAB-4DC7-8B3B-A72C15F9718B}",
+            "connections": [{
+                "chipId": "{070FD63E-31DD-4620-92B3-BA902015E300}",
+                "connection": 0
+              }, {
+                "chipId": "{CDB8C033-5733-4F6F-92DB-3023E19DBD6F}",
+                "connection": 1
+              }],
+            "name": "Set Camera Matrices",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "matrix": [0.5984952449798584, 0.0, 0.0, 0.0, 0.0, 1.7320507764816285, 0.0, 0.0, 0.0, 0.0, 1.000100016593933, 1.0, 0.0, 0.0, -0.10001000016927719, 0.0],
+              "operatorType": "PERSPECTIVE_FOVY"
+            },
+            "chipId": "{CDB8C033-5733-4F6F-92DB-3023E19DBD6F}",
+            "connections": [{
+                "chipId": "{43BD5B05-C727-4B4A-BC19-215472EC1A2A}",
+                "connection": 0
+              }, {
+                "chipId": "{C5B9EA4E-7AD1-4F46-92C6-4139990A88A1}",
+                "connection": 1
+              }, {
+                "chipId": "{233DA21F-9613-4AB1-8324-72CE92D95884}",
+                "connection": 2
+              }, {
+                "chipId": "{0240AB71-1324-4CD8-95CB-59285FCECA81}",
+                "connection": 3
+              }],
+            "name": "Perspective FOVY",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "value": 60.0
+            },
+            "chipId": "{3FF976F3-0F60-4052-9F51-FB1DE1664B34}",
+            "name": "FOVY (deg)",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 2.8940092165898618
+            },
+            "chipId": "{C5B9EA4E-7AD1-4F46-92C6-4139990A88A1}",
+            "connections": [{
+                "chipId": "{47EA8FC8-6C11-4A0B-9F19-DE30E9FEEC28}",
+                "connection": 0
+              }],
+            "name": "Aspect Ratio",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 0.100000001
+            },
+            "chipId": "{233DA21F-9613-4AB1-8324-72CE92D95884}",
+            "name": "Z-near",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1000.0
+            },
+            "chipId": "{0240AB71-1324-4CD8-95CB-59285FCECA81}",
+            "name": "Z-far",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "expression": "a/b",
+              "value": 2.8940092165898618
+            },
+            "chipId": "{47EA8FC8-6C11-4A0B-9F19-DE30E9FEEC28}",
+            "connections": [{
+                "chipId": "{B4338550-2E4B-4E10-A19F-C6572B4634E0}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{A0F0DC67-77C2-46A1-91A1-F344230840E9}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "name": "a/b",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "operatorType": "CURRENT_RTV_WIDTH",
+              "value": 2512.0
+            },
+            "chipId": "{B4338550-2E4B-4E10-A19F-C6572B4634E0}",
+            "name": "Get Current Render Target Width",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "CURRENT_RTV_HEIGHT",
+              "value": 868.0
+            },
+            "chipId": "{A0F0DC67-77C2-46A1-91A1-F344230840E9}",
+            "name": "Get Current Render Target Height",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "expression": "rad(a)",
+              "value": 1.0471975430846215
+            },
+            "chipId": "{43BD5B05-C727-4B4A-BC19-215472EC1A2A}",
+            "connections": [{
+                "chipId": "{3FF976F3-0F60-4052-9F51-FB1DE1664B34}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "rad(a)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "matrix": [-0.9423909783363342, 0.0, -0.33451369404792788, 0.0, 0.2066459208726883, 0.7863743305206299, -0.5821622610092163, 0.0, 0.26305297017097475, -0.6177502870559692, -0.7410721182823181, 0.0, 0.46752965450286868, 3.1533849239349367, 3.3952693939208986, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{D6CDDB87-A380-4783-9D16-11708146C859}",
+            "connections": [{
+                "chipId": "{5EF3E434-BB04-45EA-8853-5CAD9424CF9D}",
+                "connection": 0
+              }, {
+                "chipId": "{43FACC6D-F46F-4540-BD6C-9376E98956DF}",
+                "connection": 3
+              }],
+            "name": "Camera Matrix",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "matrix": [-0.9423909783363342, 0.0, -0.33451369404792788, 0.0, 0.2066459208726883, 0.7863743305206299, -0.5821622610092163, 0.0, 0.26305297017097475, -0.6177502870559692, -0.7410721182823181, 0.0, 1.7247272729873658, 0.20099784433841706, -0.14650404453277589, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{43FACC6D-F46F-4540-BD6C-9376E98956DF}",
+            "connections": [{
+                "chipId": "{A3582328-EB1C-4404-912E-9CEB9314A5F8}",
+                "connection": 0
+              }, {
+                "chipId": "{9095B1DB-A0E6-4CF7-B54F-523E8D5AA963}",
+                "connection": 1
+              }, {
+                "chipId": "{DB277F69-673F-4409-9204-855D4D356313}",
+                "connection": 3
+              }],
+            "name": "Motion",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "vector": [0.6658785939216614, 2.8005034923553469, 0.0, 1.0]
+            },
+            "chipId": "{9095B1DB-A0E6-4CF7-B54F-523E8D5AA963}",
+            "connections": [{
+                "chipId": "{E3D7F94B-66D4-455C-BE14-5D402E863A72}",
+                "connection": 0
+              }, {
+                "chipId": "{018C7326-38CA-4D7F-9B7C-4B6E50E3CD94}",
+                "connection": 1
+              }],
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, -4.779256343841553, 1.0]
+            },
+            "chipId": "{5EF3E434-BB04-45EA-8853-5CAD9424CF9D}",
+            "connections": [{
+                "chipId": "{F4926361-E614-4CFA-AE57-D3F2C0693F94}",
+                "connection": 2
+              }],
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_X"
+            },
+            "chipId": "{25639221-4C5D-40D7-B861-D00065E5F231}",
+            "name": "Mouse Delta X",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "value": -50.0
+            },
+            "chipId": "{83F391BB-FD62-4A00-B7EB-EF518465567C}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "expression": "-a*b*c"
+            },
+            "chipId": "{8F4E2D8C-D169-4A61-9496-134165DD9E2C}",
+            "connections": [{
+                "chipId": "{769FE6F7-6D48-45F7-8F1F-C52FC135271F}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{02EA5570-DC52-4C7D-BD55-0F12910584EA}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{F408F3DE-57B4-4B85-B317-2686A2F5B322}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "-a*b*c",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "MOUSE_WHEEL"
+            },
+            "chipId": "{769FE6F7-6D48-45F7-8F1F-C52FC135271F}",
+            "name": "Mouse Wheel",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{2982A165-B4D7-4261-8AEE-D99D2906AB6D}",
+            "connections": [{
+                "chipId": "{8F4E2D8C-D169-4A61-9496-134165DD9E2C}",
+                "connection": 0
+              }, {
+                "chipId": "{D56091FD-38F5-4E6F-8596-2F33F740E87E}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": -1.0
+            },
+            "chipId": "{E8582C1A-97BE-4B35-B559-8A789E3B1FFD}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "expression": "a*b*c"
+            },
+            "chipId": "{4A0599C9-2615-4429-B4F2-6F2E94BA0847}",
+            "connections": [{
+                "chipId": "{F231A02C-D948-4561-ABE1-55F6CB71DB26}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{25639221-4C5D-40D7-B861-D00065E5F231}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{D02A203B-F3AB-43D2-90A4-32C6DEE64625}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "a*b*c",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "direction": "Both",
+              "value": -9.40213165159629e-8
+            },
+            "chipId": "{3475C1B4-F245-413E-BDA3-55E3EB5AE111}",
+            "connections": [{
+                "chipId": "{4A0599C9-2615-4429-B4F2-6F2E94BA0847}",
+                "connection": 0
+              }, {
+                "chipId": "{DE3423A4-CEC3-430C-ACD2-437E9A97472A}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": 1.57
+            },
+            "chipId": "{12C91213-AFAC-416B-94AA-B7D386AB80E5}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_Y"
+            },
+            "chipId": "{0564AE84-BC91-4F21-8DE8-510C80D893BE}",
+            "name": "Mouse Delta Y",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "expression": "a*b*c"
+            },
+            "chipId": "{1686036C-18A0-44CF-8275-8DD93722CC20}",
+            "connections": [{
+                "chipId": "{7403AEAF-C00D-4C95-A823-F7E60F5BCE5C}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{0564AE84-BC91-4F21-8DE8-510C80D893BE}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{AB6D7F60-30B2-415A-9F77-2D35D173BF02}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "a*b*c",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "RMOUSE"
+            },
+            "chipId": "{7403AEAF-C00D-4C95-A823-F7E60F5BCE5C}",
+            "name": "Right Button State",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both",
+              "value": 5.898383694355243e-8
+            },
+            "chipId": "{76C16CF0-A90E-4967-9BC2-962A4E0207C6}",
+            "connections": [{
+                "chipId": "{1686036C-18A0-44CF-8275-8DD93722CC20}",
+                "connection": 0
+              }, {
+                "chipId": "{90A3599D-F91A-47C0-9474-A961320B009B}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 0.0]
+            },
+            "chipId": "{22F6430C-28D6-439D-915A-4463794D5D11}",
+            "connections": [{
+                "chipId": "{D4ED90AA-D1D1-44A7-B4F2-39C081640C24}",
+                "connection": 0
+              }, {
+                "chipId": "{42FB0F0C-EF04-4915-85A0-A6F28C7DB5EA}",
+                "connection": 1
+              }],
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "ROTATE_YPR",
+              "vector": [0.0, 0.0, 0.0, 0.0]
+            },
+            "chipId": "{94829D18-4AB0-4011-A166-2D0FFEEE2970}",
+            "connections": [{
+                "chipId": "{22F6430C-28D6-439D-915A-4463794D5D11}",
+                "connection": 0
+              }, {
+                "chipId": "{9095B1DB-A0E6-4CF7-B54F-523E8D5AA963}",
+                "connection": 1
+              }],
+            "name": "Rotate Using Euler Angles",
+            "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_X"
+            },
+            "chipId": "{AFEA3E41-00B5-4413-A892-832A4ACEA10C}",
+            "name": "Mouse Delta X",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "expression": "-a*b*c*d*0.1"
+            },
+            "chipId": "{0DC716F3-F560-4CA8-AF73-726A323F332C}",
+            "connections": [{
+                "chipId": "{01540E88-2524-4108-8F3F-78B4AFDB919A}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{AFEA3E41-00B5-4413-A892-832A4ACEA10C}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{2D55618B-9256-4CA9-B259-3B5EF1CB3106}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{182BD9C0-CDC1-466E-B700-45334C5D277E}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "-a*b*c*d*0.1",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "MMOUSE"
+            },
+            "chipId": "{01540E88-2524-4108-8F3F-78B4AFDB919A}",
+            "name": "Middle Button State",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{D4ED90AA-D1D1-44A7-B4F2-39C081640C24}",
+            "connections": [{
+                "chipId": "{0DC716F3-F560-4CA8-AF73-726A323F332C}",
+                "connection": 0
+              }, {
+                "chipId": "{11A7D6EA-B95A-4398-BDCF-8CF8272E6276}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": 0.3
+            },
+            "chipId": "{11A7D6EA-B95A-4398-BDCF-8CF8272E6276}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_Y"
+            },
+            "chipId": "{981D6970-1457-459A-A23B-128C39F12875}",
+            "name": "Mouse Delta Y",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "expression": "a*b*c*d*0.1"
+            },
+            "chipId": "{3ACAA5DE-6CA4-4AC9-B425-4C933E51C551}",
+            "connections": [{
+                "chipId": "{D1B9939D-70A4-49BA-8753-D3CFE8C638FF}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{981D6970-1457-459A-A23B-128C39F12875}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{2D14568B-F09C-4E28-AE25-8C76E6BFB09F}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{07B5EB90-44C7-460B-A1CC-1599D5A4E996}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "a*b*c*d*0.1",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "MMOUSE"
+            },
+            "chipId": "{D1B9939D-70A4-49BA-8753-D3CFE8C638FF}",
+            "name": "Middle Button State",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{42FB0F0C-EF04-4915-85A0-A6F28C7DB5EA}",
+            "connections": [{
+                "chipId": "{3ACAA5DE-6CA4-4AC9-B425-4C933E51C551}",
+                "connection": 0
+              }, {
+                "chipId": "{01D47245-207A-4BE6-BE40-F0FCFB9FD9DB}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": -1.57
+            },
+            "chipId": "{FFF94B08-05B9-423D-AEEA-BE57B1F7D456}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{7F320773-22A8-41A5-BDDE-4AF9478EF128}",
+            "name": "Focus Point",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "expression": "clamp(old+a,b,c)",
+              "value": -4.779256168379005
+            },
+            "chipId": "{F4926361-E614-4CFA-AE57-D3F2C0693F94}",
+            "connections": [{
+                "chipId": "{2982A165-B4D7-4261-8AEE-D99D2906AB6D}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{83F391BB-FD62-4A00-B7EB-EF518465567C}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{E8582C1A-97BE-4B35-B559-8A789E3B1FFD}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "clamp(old+a,b,c)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "original": "{F4926361-E614-4CFA-AE57-D3F2C0693F94}"
+            },
+            "chipId": "{02EA5570-DC52-4C7D-BD55-0F12910584EA}",
+            "name": "clamp(old+a,b,c)",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{F4926361-E614-4CFA-AE57-D3F2C0693F94}"
+            },
+            "chipId": "{2D55618B-9256-4CA9-B259-3B5EF1CB3106}",
+            "name": "clamp(old+a,b,c)",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{F4926361-E614-4CFA-AE57-D3F2C0693F94}"
+            },
+            "chipId": "{2D14568B-F09C-4E28-AE25-8C76E6BFB09F}",
+            "name": "clamp(old+a,b,c)",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "expression": "clamp(old+a,b,c)",
+              "value": 0.6658786186387871
+            },
+            "chipId": "{E3D7F94B-66D4-455C-BE14-5D402E863A72}",
+            "connections": [{
+                "chipId": "{76C16CF0-A90E-4967-9BC2-962A4E0207C6}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{FFF94B08-05B9-423D-AEEA-BE57B1F7D456}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{12C91213-AFAC-416B-94AA-B7D386AB80E5}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "clamp(old+a,b,c)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "expression": "old+a<0?a+2*pi+old:old+a>2*pi?a-2*pi+old:old+a",
+              "value": 2.800503438005104
+            },
+            "chipId": "{018C7326-38CA-4D7F-9B7C-4B6E50E3CD94}",
+            "connections": [{
+                "chipId": "{3475C1B4-F245-413E-BDA3-55E3EB5AE111}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "old+a<0?a+2*pi+old:old+a>2*pi?a-2*pi+old:old+a",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "original": "{7403AEAF-C00D-4C95-A823-F7E60F5BCE5C}"
+            },
+            "chipId": "{F231A02C-D948-4561-ABE1-55F6CB71DB26}",
+            "name": "Right Button State",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{DB277F69-673F-4409-9204-855D4D356313}",
+            "connections": [{
+                "chipId": "{C4C0A3A4-2403-4BD7-BA01-6C165FD5D08D}",
+                "connection": 0
+              }],
+            "name": "Motion",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "value": 0.02
+            },
+            "chipId": "{576D4AEA-31DC-42A7-9848-1815AD435F3B}",
+            "name": "Mouse Sensitivity",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{576D4AEA-31DC-42A7-9848-1815AD435F3B}"
+            },
+            "chipId": "{AB6D7F60-30B2-415A-9F77-2D35D173BF02}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{576D4AEA-31DC-42A7-9848-1815AD435F3B}"
+            },
+            "chipId": "{D02A203B-F3AB-43D2-90A4-32C6DEE64625}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{576D4AEA-31DC-42A7-9848-1815AD435F3B}"
+            },
+            "chipId": "{182BD9C0-CDC1-466E-B700-45334C5D277E}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{576D4AEA-31DC-42A7-9848-1815AD435F3B}"
+            },
+            "chipId": "{07B5EB90-44C7-460B-A1CC-1599D5A4E996}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{11A7D6EA-B95A-4398-BDCF-8CF8272E6276}"
+            },
+            "chipId": "{01D47245-207A-4BE6-BE40-F0FCFB9FD9DB}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{11A7D6EA-B95A-4398-BDCF-8CF8272E6276}"
+            },
+            "chipId": "{90A3599D-F91A-47C0-9474-A961320B009B}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{11A7D6EA-B95A-4398-BDCF-8CF8272E6276}"
+            },
+            "chipId": "{DE3423A4-CEC3-430C-ACD2-437E9A97472A}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 0.3
+            },
+            "chipId": "{2F3B277A-A031-4997-AF6E-991458E488FE}",
+            "name": "Wheel Sensitivity",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{2F3B277A-A031-4997-AF6E-991458E488FE}"
+            },
+            "chipId": "{F408F3DE-57B4-4B85-B317-2686A2F5B322}",
+            "name": "Wheel Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{7F320773-22A8-41A5-BDDE-4AF9478EF128}"
+            },
+            "chipId": "{C4C0A3A4-2403-4BD7-BA01-6C165FD5D08D}",
+            "name": "Focus Point",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{31E26CBC-42FE-4986-BCD7-89FD0A22E61C}",
+            "connections": [{
+                "chipId": "{7F320773-22A8-41A5-BDDE-4AF9478EF128}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{576D4AEA-31DC-42A7-9848-1815AD435F3B}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{2F3B277A-A031-4997-AF6E-991458E488FE}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "Dummy",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "original": "{11A7D6EA-B95A-4398-BDCF-8CF8272E6276}"
+            },
+            "chipId": "{D56091FD-38F5-4E6F-8596-2F33F740E87E}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "matrix": [-0.9423907995223999, 0.2066458910703659, 0.26305291056632998, 0.0, 1.4901157641133978e-8, 0.7863743305206299, -0.6177502274513245, 0.0, -0.3345135748386383, -0.5821622014045715, -0.741071879863739, 0.0, 1.5763592720031739, -0.5997564792633057, 4.341157913208008, 1.0],
+              "operatorType": "INVERSE"
+            },
+            "chipId": "{070FD63E-31DD-4620-92B3-BA902015E300}",
+            "connections": [{
+                "chipId": "{D6CDDB87-A380-4783-9D16-11708146C859}",
+                "connection": 0
+              }],
+            "name": "View Matrix",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "operatorType": "ACCUMULATE",
+              "vector": [1.7247272729873658, 0.20099784433841706, -0.14650404453277589, 1.0]
+            },
+            "chipId": "{A3582328-EB1C-4404-912E-9CEB9314A5F8}",
+            "connections": [{
+                "chipId": "{94829D18-4AB0-4011-A166-2D0FFEEE2970}",
+                "connection": 0
+              }],
+            "name": "Accumulate",
+            "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}"
+          }, {
+            "chipData": {},
+            "chipId": "{FC575095-1B03-4015-ADB1-F40DF29D9854}",
+            "connections": [{
+                "chipId": "{D8D6E99D-8FD8-4276-9589-5E753F416852}",
+                "connection": 0
+              }, {
+                "chipId": "{5CD106C0-D559-402D-A043-AFCF59E5240B}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "3D Object",
+            "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}"
+          }, {
+            "chipData": {
+              "matrix": [10.0, 0.0, 0.0, 0.0, 0.0, 0.10000000149011612, 0.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.0, -0.10000000149011612, 0.0, 1.0]
+            },
+            "chipId": "{D8D6E99D-8FD8-4276-9589-5E753F416852}",
+            "name": "World Matrix",
+            "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+          }, {
+            "chipData": {
+              "boundingBox": {
+                "isinf": true
+              },
+              "subsets": {
+                "count": 0
+              },
+              "useSubsetCulling": true,
+              "useWholeObjectCulling": false
+            },
+            "chipId": "{5CD106C0-D559-402D-A043-AFCF59E5240B}",
+            "connections": [{
+                "chipId": "{E2C1D6AD-1362-43CC-A981-2127BE002F33}",
+                "connection": 0
+              }, {
+                "chipId": "{61EFD10B-AE37-4BE9-985E-0A64F0AB2CFC}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Renderable",
+            "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}"
+          }, {
+            "chipData": {
+              "flags": 7,
+              "primitiveType": "BOX"
+            },
+            "chipId": "{E2C1D6AD-1362-43CC-A981-2127BE002F33}",
+            "name": "Box",
+            "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}"
+          }, {
+            "chipData": {},
+            "chipId": "{61EFD10B-AE37-4BE9-985E-0A64F0AB2CFC}",
+            "connections": [{
+                "chipId": "{28FB30CF-D446-4503-934D-72981CB079CE}",
+                "connection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 0
+              }
+            },
+            "chipId": "{28FB30CF-D446-4503-934D-72981CB079CE}",
+            "connections": [{
+                "chipId": "{DECBC028-E0D5-4549-A035-488BF3923E55}",
+                "connection": 0
+              }, {
+                "chipId": "{DDB1C506-8637-4B00-A35D-E2E264D05B18}",
+                "connection": 1
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "localCBVCount": 4
+            },
+            "chipId": "{DECBC028-E0D5-4549-A035-488BF3923E55}",
+            "name": "Root Signature",
+            "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+          }, {
+            "chipData": {},
+            "chipId": "{DDB1C506-8637-4B00-A35D-E2E264D05B18}",
+            "connections": [{
+                "chipId": "{2AF0F7A9-4C8D-4C0C-A9CC-2B5B8C489113}",
+                "connection": 0
+              }, {
+                "chipId": "{6D2A4D0C-5C82-43B6-88F0-346E759F3EA3}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "2Lir5QEAAAA=eJxziXByPn3rQIZAZ5Hj5ItrhZJ/3d7JyMDAcIWJgYEZSOsA8QIgFgEKega7++UwQMQ5gDiAAQGYoTQ7OwNDJJo4I1Q8AU2cCUQDGQH+wZ4hnv5+DH7+Qb6OPgwhrhHO/v5BLgyrV6/2x2EnI5Kd/EAcg81OoIZkbHbyMDAEh8XjtDbYwzViB9CAQKApeUD1WRwMjEA/sbv1GcDtBmEZqLnxQCOLBARQ2IxQthGQDbIznYGB5ZOCAFx/KkidggCcbaQAUZcBdCJIzIyBgbWIAaLeTQhCg8SaoGKMDiCywV6QgYFTCGquGx+URnKnBBCD1CjhUSMJVeOER40UVE0THjXSQCwAdQ8j1N1gugmhhgOqRgmPGk6oGic8arig4QELNzdoONsBpQFEgj9B",
+                    "size": 724
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 68
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n#include <Std>\n\n\n\nstruct ShaderInput\n{\n\tfloat3 position : POSITION;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nstruct ShaderOutput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nShaderOutput main(in ShaderInput IN)\n{\n\tShaderOutput OUT = (ShaderOutput)0;\n\tOUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n\tOUT.normal = mul(IN.normal, worldNormalMatrix);\n\tOUT.texcoord0 = IN.texcoord0;\n\treturn OUT;\n}"
+            },
+            "chipId": "{2AF0F7A9-4C8D-4C0C-A9CC-2B5B8C489113}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "4XRzjwAAAAA=RFhCQ5xJL46TtckU1JSnauBAvZkBAAAA7AEAAAMAAAAsAAAAoAAAANQAAABJU0dObAAAAAMAAAAIAAAAUAAAAAAAAAABAAAAAwAAAAAAAAAPAAAAXAAAAAAAAAAAAAAAAwAAAAEAAAAHBwAAYwAAAAAAAAAAAAAAAwAAAAIAAAADAAAAU1ZfUE9TSVRJT04ATk9STUFMAFRFWENPT1JEAE9TR04sAAAAAQAAAAgAAAAgAAAAAAAAAAAAAAADAAAAAAAAAA8AAABTVl9UQVJHRVQAq6tTSEVYEAEAAFEAAABEAAAAaggAAWIQAANyEBAAAQAAAGUAAAPyIBAAAAAAAGgAAAIBAAAAEAAABxIAEAAAAAAARhIQAAEAAABGEhAAAQAAAEQAAAUSABAAAAAAAAoAEAAAAAAAOAAAB3IAEAAAAAAABgAQAAAAAABGEhAAAQAAABAAAAoSABAAAAAAAEYCEAAAAAAAAkAAADm0iL45tAg/309NvwAAAAA0AAAHEgAQAAAAAAAKABAAAAAAAAFAAAAAAAAAMgAAD3IgEAAAAAAABgAQAAAAAAACQAAAzcxMP83MTD/NzEw/AAAAAAJAAAAL1yM+C9cjPgvXIz4AAAAANgAABYIgEAAAAAAAAUAAAAAAgD8+AAAB",
+                    "size": 492
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_TARGET",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 0
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n\n#include <Std>\n\n#define LIGHT0_DIR float3(-0.267, 0.534, -0.802)\n#define LIGHT0_AMBIENT float3(0.2, 0.2, 0.2)\n#define LIGHT0_DIFFUSE float3(1.0, 1.0, 1.0)\n\nstruct ShaderInput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\n\nfloat4 main(in ShaderInput IN) : SV_TARGET0\n{\n\tfloat3 n = normalize(IN.normal);\n\tfloat3 color = float3(0.8, 0.8, 0.8);\n\tfloat nDotL = max(0.0, dot(n, LIGHT0_DIR));\n\tcolor = LIGHT0_AMBIENT * color + LIGHT0_DIFFUSE * color * nDotL;\n\treturn float4(color, 1.0);\n}"
+            },
+            "chipId": "{6D2A4D0C-5C82-43B6-88F0-346E759F3EA3}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{4BD9A85F-B0F5-43EF-BD5C-C3E6C8297CB3}",
+            "connections": [{
+                "chipId": "{5681E985-A1A9-45BA-BED8-02E1A8618E8E}",
+                "connection": 0
+              }, {
+                "chipId": "{E21748DF-06B2-4355-88E8-FC8DC545AB9D}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "3D Object",
+            "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}"
+          }, {
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 3.0, 1.0, 0.0, 1.0]
+            },
+            "chipId": "{5681E985-A1A9-45BA-BED8-02E1A8618E8E}",
+            "name": "World Matrix",
+            "type": "{01466AAB-80E4-447C-9662-089B79485231}"
+          }, {
+            "chipData": {
+              "boundingBox": {
+                "isinf": true
+              },
+              "subsets": {
+                "count": 0
+              },
+              "useSubsetCulling": true,
+              "useWholeObjectCulling": false
+            },
+            "chipId": "{E21748DF-06B2-4355-88E8-FC8DC545AB9D}",
+            "connections": [{
+                "chipId": "{BE20F770-9577-4AE1-90FD-DC6864C9F786}",
+                "connection": 0
+              }, {
+                "chipId": "{A71CA643-D114-4EC6-A866-95DF0558D4CD}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Renderable",
+            "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}"
+          }, {
+            "chipData": {
+              "flags": 7,
+              "primitiveType": "ICOSAHEDRON"
+            },
+            "chipId": "{BE20F770-9577-4AE1-90FD-DC6864C9F786}",
+            "name": "Icosahedron",
+            "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}"
+          }, {
+            "chipData": {
+              "bias": 0.3499999940395355,
+              "blendMode": 1,
+              "radius": 1.2000000476837159,
+              "use8Steps": true
+            },
+            "chipId": "{E73F7D34-2E98-4FF3-9D9A-24AD76A8AACE}",
+            "connections": [{
+                "chipId": "{C6E02A0B-FB02-49EB-BCA8-ADE8C2A605DF}",
+                "connection": 0
+              }, {
+                "chipId": "{A028E36C-2735-4E60-A7E8-803AB8D66122}",
+                "connection": 3
+              }, {
+                "chipId": "{9EF1C099-B39F-4B80-A6F0-69B958CB6999}",
+                "connection": 4
+              }],
+            "name": "HBAO+",
+            "type": "{87605A8A-FDA7-4ACE-81C7-4AD243632654}"
+          }, {
+            "chipData": {
+              "original": "{19879395-7ABC-48DB-9DD0-E09F8E55F82F}"
+            },
+            "chipId": "{C6E02A0B-FB02-49EB-BCA8-ADE8C2A605DF}",
+            "name": "Depth Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{CDB8C033-5733-4F6F-92DB-3023E19DBD6F}"
+            },
+            "chipId": "{9EF1C099-B39F-4B80-A6F0-69B958CB6999}",
+            "name": "Perspective FOVY",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "operatorType": "UNBIND_RTV"
+            },
+            "chipId": "{92C8A88D-6FF3-4862-8948-245149667AE2}",
+            "name": "Unbind Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "fileFormat": 3452816845,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_RENDER_TARGET",
+              "flagsEx": 1,
+              "format": "M3D_FORMAT_R8G8B8A8_UNORM_SRGB",
+              "height": 100,
+              "mipLevels": 1,
+              "msCount": 1,
+              "rtv_format": "M3D_FORMAT_R8G8B8A8_UNORM_SRGB",
+              "srv_format": "M3D_FORMAT_R8G8B8A8_UNORM",
+              "uav_format": "M3D_FORMAT_R8G8B8A8_UNORM",
+              "width": 100
+            },
+            "chipId": "{9F3F4C35-A221-4389-BDE7-7D7E34D98B2E}",
+            "name": "RenderTarget",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "original": "{9F3F4C35-A221-4389-BDE7-7D7E34D98B2E}"
+            },
+            "chipId": "{A028E36C-2735-4E60-A7E8-803AB8D66122}",
+            "name": "RenderTarget",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{1D4C5CF3-9AA8-4422-B770-D5D188E658EC}",
+            "name": "Back Buffer",
+            "type": "{D27FF489-2396-4EFE-9871-0705655B8622}"
+          }, {
+            "chipData": {
+              "original": "{9F3F4C35-A221-4389-BDE7-7D7E34D98B2E}"
+            },
+            "chipId": "{B944AB10-CF9D-4ECE-B1FF-B3C3C53D99BB}",
+            "name": "RenderTarget",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{70289FAC-5836-427C-BBC2-E4FFCFB403B3}",
+            "connections": [{
+                "chipId": "{BA7C6B26-7863-46CC-8920-BA06AE2F18DB}",
+                "connection": 0
+              }, {
+                "chipId": "{E73F7D34-2E98-4FF3-9D9A-24AD76A8AACE}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "If/Else",
+            "type": "{4221CFFF-DEBE-4E70-9787-CF6543C4D9E3}"
+          }, {
+            "chipData": {
+              "operatorType": "INC",
+              "value": 1.0
+            },
+            "chipId": "{BA7C6B26-7863-46CC-8920-BA06AE2F18DB}",
+            "connections": [{
+                "chipId": "{D9779F9F-C2F4-4D6F-A1D6-12352DBAFE75}",
+                "connection": 0
+              }],
+            "name": "Flip-Flop on Positive Edge",
+            "type": "{18E9144A-6102-4AB4-94BE-05642DD3368D}"
+          }, {
+            "chipData": {
+              "deviceType": "KEYBOARD",
+              "keyCode": 32
+            },
+            "chipId": "{D9779F9F-C2F4-4D6F-A1D6-12352DBAFE75}",
+            "name": "SPACEBAR",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "original": "{61EFD10B-AE37-4BE9-985E-0A64F0AB2CFC}"
+            },
+            "chipId": "{FE89A43B-3077-40FD-84FC-C8DA1903E4F2}",
+            "name": "Material",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{61EFD10B-AE37-4BE9-985E-0A64F0AB2CFC}"
+            },
+            "chipId": "{A71CA643-D114-4EC6-A866-95DF0558D4CD}",
+            "name": "Material",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SFXAA",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\FXAA.m3j",
+              "functionName": "FXAA",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{7D508D0B-47B9-4324-BC9E-11CF8D839BE3}",
+            "connections": [{
+                "chipId": "{F047D25A-7DF4-414C-83A3-4A3BF912BFEB}",
+                "connection": 1
+              }, {
+                "chipId": "{1D4C5CF3-9AA8-4422-B770-D5D188E658EC}",
+                "connection": 2
+              }],
+            "name": "SFXAA->FXAA",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "SFXAA",
+              "filename": "$lib\\SnaX\\SimpleRenderFramework\\FXAA.m3j",
+              "functionName": "Convert RGB(A) to RGBL 2",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{ABF0DEE7-E9CF-429F-901E-8533AA60F6A2}",
+            "connections": [{
+                "chipId": "{B944AB10-CF9D-4ECE-B1FF-B3C3C53D99BB}",
+                "connection": 1
+              }, {
+                "chipId": "{F047D25A-7DF4-414C-83A3-4A3BF912BFEB}",
+                "connection": 2
+              }],
+            "name": "SFXAA->Convert RGB(A) to RGBL 2",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "fileFormat": 3452816845,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_UNORDERED_ACCESS",
+              "flagsEx": 1,
+              "format": "M3D_FORMAT_R8G8B8A8_TYPELESS",
+              "height": 100,
+              "mipLevels": 1,
+              "msCount": 1,
+              "srv_format": "M3D_FORMAT_R8G8B8A8_UNORM_SRGB",
+              "uav_format": "M3D_FORMAT_R8G8B8A8_UNORM",
+              "width": 100
+            },
+            "chipId": "{F047D25A-7DF4-414C-83A3-4A3BF912BFEB}",
+            "name": "Target",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{C31AC656-78A3-40A9-889A-7D3D3414E84B}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "description": "This example demonstrates how to enable SSAO using the HBAO+ chip. This chip implements the HBAO+ library from Nvidia for fast and high quality ambient occlusion. The effect is also available for multi-sampled render targets!",
+          "graph": {
+            "content": [{
+                "chipId": "{3EA4722E-25EF-4B3B-9354-40DA636E249F}",
+                "x": 39,
+                "y": 10,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D4AE42EC-F66A-4D19-A292-2E78D6FF1BF4}",
+                "x": -2231,
+                "y": -1564,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1E43A75B-4C14-4300-B71F-0B3F4BFDD26C}",
+                "x": -2653,
+                "y": -1557,
+                "objectType": "chip"
+              }, {
+                "chipId": "{35CFB133-92F8-4668-ACED-093428209EBC}",
+                "x": -2343,
+                "y": -1885,
+                "objectType": "chip"
+              }, {
+                "chipId": "{170F1828-E81B-4352-BE2C-3B028148A74C}",
+                "x": -1542,
+                "y": -1559,
+                "objectType": "chip"
+              }, {
+                "chipId": "{35166729-EB6F-4B8A-9959-6FDDA239CF01}",
+                "x": -1526,
+                "y": -1757,
+                "objectType": "chip"
+              }, {
+                "chipId": "{19879395-7ABC-48DB-9DD0-E09F8E55F82F}",
+                "x": -2893,
+                "y": -2077,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6202E83B-8209-45B7-A073-766C0BB40BF7}",
+                "x": -1891,
+                "y": -1559,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ECBE7ED4-BF01-4145-9F01-EC03EBBDECB6}",
+                "x": -1883,
+                "y": -1766,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7086C823-47FA-489A-8AC2-36D088A40420}",
+                "x": 433,
+                "y": -1554,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3AB7F7DD-3D01-443A-A9C8-B6ED7FA6F14C}",
+                "x": 1400,
+                "y": -2251,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BAA493E8-063F-46DB-8968-A796A94BEA1D}",
+                "x": 1278,
+                "y": -2478,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D8F0BE5C-859C-4F57-BE43-3A8474AF3D37}",
+                "x": 1490,
+                "y": -2478,
+                "objectType": "chip"
+              }, {
+                "chipId": "{94405F09-A638-482C-8338-48B28810D4F9}",
+                "x": 1351,
+                "y": -2716,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8046C7C2-8BAB-4DC7-8B3B-A72C15F9718B}",
+                "x": -803,
+                "y": -1583,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CDB8C033-5733-4F6F-92DB-3023E19DBD6F}",
+                "x": -346,
+                "y": -2116,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3FF976F3-0F60-4052-9F51-FB1DE1664B34}",
+                "x": -584,
+                "y": -2977,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C5B9EA4E-7AD1-4F46-92C6-4139990A88A1}",
+                "x": -358,
+                "y": -2669,
+                "objectType": "chip"
+              }, {
+                "chipId": "{233DA21F-9613-4AB1-8324-72CE92D95884}",
+                "x": -213,
+                "y": -2560,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0240AB71-1324-4CD8-95CB-59285FCECA81}",
+                "x": -84,
+                "y": -2442,
+                "objectType": "chip"
+              }, {
+                "chipId": "{47EA8FC8-6C11-4A0B-9F19-DE30E9FEEC28}",
+                "x": -352,
+                "y": -3038,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B4338550-2E4B-4E10-A19F-C6572B4634E0}",
+                "x": -442,
+                "y": -3384,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A0F0DC67-77C2-46A1-91A1-F344230840E9}",
+                "x": -304,
+                "y": -3276,
+                "objectType": "chip"
+              }, {
+                "chipId": "{43BD5B05-C727-4B4A-BC19-215472EC1A2A}",
+                "x": -570,
+                "y": -2742,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7F320773-22A8-41A5-BDDE-4AF9478EF128}",
+                "x": -1515,
+                "y": -2793,
+                "objectType": "chip"
+              }, {
+                "chipId": "{576D4AEA-31DC-42A7-9848-1815AD435F3B}",
+                "x": -1309,
+                "y": -2674,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2F3B277A-A031-4997-AF6E-991458E488FE}",
+                "x": -1156,
+                "y": -2568,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FC575095-1B03-4015-ADB1-F40DF29D9854}",
+                "x": 552,
+                "y": -2218,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D8D6E99D-8FD8-4276-9589-5E753F416852}",
+                "x": 430,
+                "y": -2445,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5CD106C0-D559-402D-A043-AFCF59E5240B}",
+                "x": 642,
+                "y": -2445,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E2C1D6AD-1362-43CC-A981-2127BE002F33}",
+                "x": 502,
+                "y": -2683,
+                "objectType": "chip"
+              }, {
+                "chipId": "{61EFD10B-AE37-4BE9-985E-0A64F0AB2CFC}",
+                "x": 767,
+                "y": -2683,
+                "objectType": "chip"
+              }, {
+                "chipId": "{28FB30CF-D446-4503-934D-72981CB079CE}",
+                "x": 767,
+                "y": -2883,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DECBC028-E0D5-4549-A035-488BF3923E55}",
+                "x": 659,
+                "y": -3115,
+                "objectType": "chip"
+              }, {
+                "chipId": "{DDB1C506-8637-4B00-A35D-E2E264D05B18}",
+                "x": 874,
+                "y": -3115,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2AF0F7A9-4C8D-4C0C-A9CC-2B5B8C489113}",
+                "x": 802,
+                "y": -3337,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6D2A4D0C-5C82-43B6-88F0-346E759F3EA3}",
+                "x": 947,
+                "y": -3337,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4BD9A85F-B0F5-43EF-BD5C-C3E6C8297CB3}",
+                "x": 2159,
+                "y": -2242,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5681E985-A1A9-45BA-BED8-02E1A8618E8E}",
+                "x": 2037,
+                "y": -2469,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E21748DF-06B2-4355-88E8-FC8DC545AB9D}",
+                "x": 2249,
+                "y": -2469,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BE20F770-9577-4AE1-90FD-DC6864C9F786}",
+                "x": 2110,
+                "y": -2705,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E73F7D34-2E98-4FF3-9D9A-24AD76A8AACE}",
+                "x": 1640,
+                "y": -1329,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C6E02A0B-FB02-49EB-BCA8-ADE8C2A605DF}",
+                "x": 1479,
+                "y": -1545,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9EF1C099-B39F-4B80-A6F0-69B958CB6999}",
+                "x": 1722,
+                "y": -1743,
+                "objectType": "chip"
+              }, {
+                "chipId": "{92C8A88D-6FF3-4862-8948-245149667AE2}",
+                "x": 369,
+                "y": -754,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9F3F4C35-A221-4389-BDE7-7D7E34D98B2E}",
+                "comment": "Main render target is sRGB.",
+                "x": -2586,
+                "y": -1802,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A028E36C-2735-4E60-A7E8-803AB8D66122}",
+                "x": 1610,
+                "y": -1637,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1D4C5CF3-9AA8-4422-B770-D5D188E658EC}",
+                "comment": "Backbuffer outputs in sRGB.",
+                "x": 2973,
+                "y": -789,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B944AB10-CF9D-4ECE-B1FF-B3C3C53D99BB}",
+                "x": 2600,
+                "y": -910,
+                "objectType": "chip"
+              }, {
+                "chipId": "{70289FAC-5836-427C-BBC2-E4FFCFB403B3}",
+                "x": 809,
+                "y": -669,
+                "objectType": "chip"
+              }, {
+                "chipId": "{BA7C6B26-7863-46CC-8920-BA06AE2F18DB}",
+                "x": 696,
+                "y": -909,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D9779F9F-C2F4-4D6F-A1D6-12352DBAFE75}",
+                "x": 687,
+                "y": -1139,
+                "objectType": "chip"
+              }, {
+                "chipId": "{FE89A43B-3077-40FD-84FC-C8DA1903E4F2}",
+                "x": 1550,
+                "y": -2688,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A71CA643-D114-4EC6-A866-95DF0558D4CD}",
+                "x": 2333,
+                "y": -2709,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7D508D0B-47B9-4324-BC9E-11CF8D839BE3}",
+                "x": 2925,
+                "y": -585,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ABF0DEE7-E9CF-429F-901E-8533AA60F6A2}",
+                "x": 2643,
+                "y": -579,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F047D25A-7DF4-414C-83A3-4A3BF912BFEB}",
+                "x": 2784,
+                "y": -911,
+                "objectType": "chip"
+              }, {
+                "color": [0.0, 0.7058823704719544, 0.0, 1.0],
+                "sx": 2020,
+                "sy": 642,
+                "x": 3548,
+                "y": -770,
+                "objectType": "rect"
+              }, {
+                "color": [0.0, 0.7058823704719544, 0.0, 1.0],
+                "sx": 2539,
+                "sy": 696,
+                "x": 2648,
+                "y": -1601,
+                "objectType": "rect"
+              }, {
+                "color": [0.0, 0.7058823704719544, 0.0, 1.0],
+                "sx": 1120,
+                "sy": 1035,
+                "x": -2597,
+                "y": -2484,
+                "objectType": "rect"
+              }, {
+                "color": [0.0, 0.0, 0.0, 1.0],
+                "content": "This example demonstrates how to enable SSAO using the HBAO+ chip. This chip implements the HBAO+ library from Nvidia for fast and high quality ambient occlusion. The effect is also available for multi-sampled render targets!\n\nRead more about the technique here:\nhttps://docs.nvidia.com/gameworks/content/gameworkslibrary/visualfx/hbao/product.html\n\nPress SPACE to toggle the effect on/off. There are also multiple settings for tuning the effect in the configuration dialog of the chip.\n\nThe example also shows how to use FXAA for high quality anti-aliasing!",
+                "sx": 3228,
+                "sy": 1046,
+                "textSize": 0.5,
+                "x": 229,
+                "y": 704,
+                "objectType": "text"
+              }, {
+                "color": [0.0, 0.0, 0.0, 1.0],
+                "content": "This is where the FXAA happens. The alpha channel of the input render target is first filled with the luminance value of the RGB triplet. This is needed for the FXAA-algortihm.",
+                "sx": 1021,
+                "sy": 588,
+                "textSize": 0.5,
+                "x": 3867,
+                "y": -772,
+                "objectType": "text"
+              }, {
+                "color": [0.0, 0.0, 0.0, 1.0],
+                "content": "The HBAO+ chip adds ambient occlusion to the scene by reading the depth buffer and projection matrix, and blending the result with the main render target. The chip also accepts a secondary depth buffer and normal-map for improved quality. \n\nDouble click the chip to bring up the configuration dialog with settings to tune the effect!",
+                "sx": 1879,
+                "sy": 643,
+                "textSize": 0.5,
+                "x": 2825,
+                "y": -1603,
+                "objectType": "text"
+              }, {
+                "color": [0.0, 0.0, 0.0, 1.0],
+                "content": "Note that the Depth Buffer is of a Typeless format and marked as available for use as a Shader Resource View (SRV)! The Graphics Resource part of the chip is configured with the appropriate typed format for use as a SRV (R32_FLOAT) and depth buffer (D32_FLOAT).",
+                "sx": 999,
+                "sy": 801,
+                "textSize": 0.5,
+                "x": -2615,
+                "y": -2559,
+                "objectType": "text"
+              }, {
+                "content": [{
+                    "chipId": "{D6CDDB87-A380-4783-9D16-11708146C859}",
+                    "x": 14,
+                    "y": -285,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{43FACC6D-F46F-4540-BD6C-9376E98956DF}",
+                    "x": 444,
+                    "y": -608,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{9095B1DB-A0E6-4CF7-B54F-523E8D5AA963}",
+                    "x": 880,
+                    "y": -1855,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{5EF3E434-BB04-45EA-8853-5CAD9424CF9D}",
+                    "x": -928,
+                    "y": -625,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{25639221-4C5D-40D7-B861-D00065E5F231}",
+                    "x": 990,
+                    "y": -3279,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{83F391BB-FD62-4A00-B7EB-EF518465567C}",
+                    "x": -899,
+                    "y": -1269,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{8F4E2D8C-D169-4A61-9496-134165DD9E2C}",
+                    "x": -1175,
+                    "y": -1506,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{769FE6F7-6D48-45F7-8F1F-C52FC135271F}",
+                    "x": -1362,
+                    "y": -2021,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{2982A165-B4D7-4261-8AEE-D99D2906AB6D}",
+                    "x": -1098,
+                    "y": -1271,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{E8582C1A-97BE-4B35-B559-8A789E3B1FFD}",
+                    "x": -712,
+                    "y": -1270,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{4A0599C9-2615-4429-B4F2-6F2E94BA0847}",
+                    "x": 1033,
+                    "y": -2921,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{3475C1B4-F245-413E-BDA3-55E3EB5AE111}",
+                    "x": 1054,
+                    "y": -2535,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{12C91213-AFAC-416B-94AA-B7D386AB80E5}",
+                    "x": 760,
+                    "y": -2553,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{0564AE84-BC91-4F21-8DE8-510C80D893BE}",
+                    "x": 319,
+                    "y": -3348,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{1686036C-18A0-44CF-8275-8DD93722CC20}",
+                    "x": 347,
+                    "y": -2943,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{7403AEAF-C00D-4C95-A823-F7E60F5BCE5C}",
+                    "x": 211,
+                    "y": -3461,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{76C16CF0-A90E-4967-9BC2-962A4E0207C6}",
+                    "x": 383,
+                    "y": -2556,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{22F6430C-28D6-439D-915A-4463794D5D11}",
+                    "x": -537,
+                    "y": -1774,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{94829D18-4AB0-4011-A166-2D0FFEEE2970}",
+                    "x": -166,
+                    "y": -1413,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{AFEA3E41-00B5-4413-A892-832A4ACEA10C}",
+                    "x": -942,
+                    "y": -2857,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{0DC716F3-F560-4CA8-AF73-726A323F332C}",
+                    "x": -848,
+                    "y": -2313,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{01540E88-2524-4108-8F3F-78B4AFDB919A}",
+                    "x": -1060,
+                    "y": -2973,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{D4ED90AA-D1D1-44A7-B4F2-39C081640C24}",
+                    "x": -787,
+                    "y": -2106,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{11A7D6EA-B95A-4398-BDCF-8CF8272E6276}",
+                    "x": -628,
+                    "y": -2312,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{981D6970-1457-459A-A23B-128C39F12875}",
+                    "x": -449,
+                    "y": -2868,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{3ACAA5DE-6CA4-4AC9-B425-4C933E51C551}",
+                    "x": -332,
+                    "y": -2320,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{D1B9939D-70A4-49BA-8753-D3CFE8C638FF}",
+                    "x": -556,
+                    "y": -2989,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{42FB0F0C-EF04-4915-85A0-A6F28C7DB5EA}",
+                    "x": -269,
+                    "y": -2107,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{FFF94B08-05B9-423D-AEEA-BE57B1F7D456}",
+                    "x": 584,
+                    "y": -2554,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{F4926361-E614-4CFA-AE57-D3F2C0693F94}",
+                    "x": -908,
+                    "y": -978,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{02EA5570-DC52-4C7D-BD55-0F12910584EA}",
+                    "x": -1222,
+                    "y": -1925,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{2D55618B-9256-4CA9-B259-3B5EF1CB3106}",
+                    "x": -821,
+                    "y": -2753,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{2D14568B-F09C-4E28-AE25-8C76E6BFB09F}",
+                    "x": -330,
+                    "y": -2772,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{E3D7F94B-66D4-455C-BE14-5D402E863A72}",
+                    "x": 581,
+                    "y": -2246,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{018C7326-38CA-4D7F-9B7C-4B6E50E3CD94}",
+                    "x": 1071,
+                    "y": -2247,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{F231A02C-D948-4561-ABE1-55F6CB71DB26}",
+                    "x": 887,
+                    "y": -3389,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{DB277F69-673F-4409-9204-855D4D356313}",
+                    "x": 1110,
+                    "y": -1092,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{AB6D7F60-30B2-415A-9F77-2D35D173BF02}",
+                    "x": 440,
+                    "y": -3238,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{D02A203B-F3AB-43D2-90A4-32C6DEE64625}",
+                    "x": 1100,
+                    "y": -3197,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{182BD9C0-CDC1-466E-B700-45334C5D277E}",
+                    "x": -705,
+                    "y": -2640,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{07B5EB90-44C7-460B-A1CC-1599D5A4E996}",
+                    "x": -220,
+                    "y": -2676,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{01D47245-207A-4BE6-BE40-F0FCFB9FD9DB}",
+                    "x": -129,
+                    "y": -2332,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{90A3599D-F91A-47C0-9474-A961320B009B}",
+                    "x": 505,
+                    "y": -2811,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{DE3423A4-CEC3-430C-ACD2-437E9A97472A}",
+                    "x": 1197,
+                    "y": -2794,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{F408F3DE-57B4-4B85-B317-2686A2F5B322}",
+                    "x": -1109,
+                    "y": -1810,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{C4C0A3A4-2403-4BD7-BA01-6C165FD5D08D}",
+                    "x": 1068,
+                    "y": -1369,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{31E26CBC-42FE-4986-BCD7-89FD0A22E61C}",
+                    "x": 56,
+                    "y": 973,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{D56091FD-38F5-4E6F-8596-2F33F740E87E}",
+                    "x": -948,
+                    "y": -1520,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{070FD63E-31DD-4620-92B3-BA902015E300}",
+                    "x": 14,
+                    "y": 27,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{A3582328-EB1C-4404-912E-9CEB9314A5F8}",
+                    "x": -161,
+                    "y": -1035,
+                    "objectType": "chip"
+                  }],
+                "inx": 0,
+                "iny": 0,
+                "name": "Internal",
+                "x": -1357,
+                "y": -2138,
+                "objectType": "folder"
+              }],
+            "extent": [-3157, -3434, 4558, 1227]
+          }
+        },
+        "id": "{22FDC540-1F1B-4E91-B6B2-D942C251FA1F}",
+        "inheritance": [],
+        "name": "HBAO",
+        "startChipId": "{3EA4722E-25EF-4B3B-9354-40DA636E249F}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{22FDC540-1F1B-4E91-B6B2-D942C251FA1F}",
+    "version": "1.2.7.0"
+  }
+}

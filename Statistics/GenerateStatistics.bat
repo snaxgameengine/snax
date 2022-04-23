@@ -1,0 +1,1 @@
+cloc-1.60 --exclude-dir=Build,Common,generator,HBAOPlus,Installer,Statistics,vcpkg --exclude-ext=img.h,hlsl.h --report-file=statistics.txt ../*

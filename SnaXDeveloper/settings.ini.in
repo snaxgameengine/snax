@@ -1,0 +1,6 @@
+
+[settings]
+templates=${CMAKE_SOURCE_DIR}/Common/Templates/
+libraries=${CMAKE_SOURCE_DIR}/Common/Libraries/
+examples=${CMAKE_SOURCE_DIR}/Common/Examples/
+

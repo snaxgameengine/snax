@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>PublishWizardP1</class>
+ <widget class="QWizardPage" name="PublishWizardP1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>468</width>
+    <height>406</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="5" column="0">
+    <widget class="QLabel" name="label_3">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>60</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>60</height>
+      </size>
+     </property>
+     <property name="text">
+      <string>Description:</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+     </property>
+     <property name="buddy">
+      <cstring>plainTextEdit_description</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="1">
+    <widget class="QLabel" name="label_prevVersion">
+     <property name="text">
+      <string>N/A</string>
+     </property>
+    </widget>
+   </item>
+   <item row="5" column="1">
+    <widget class="QPlainTextEdit" name="plainTextEdit_description">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>60</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>60</height>
+      </size>
+     </property>
+    </widget>
+   </item>
+   <item row="9" column="1">
+    <widget class="QCheckBox" name="checkBox_autoIncrement">
+     <property name="text">
+      <string>Auto Increment</string>
+     </property>
+    </widget>
+   </item>
+   <item row="11" column="1">
+    <spacer name="verticalSpacer">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>20</width>
+       <height>40</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item row="0" column="0" colspan="2">
+    <widget class="Line" name="line">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QLabel" name="label_6">
+     <property name="text">
+      <string>Publisher:</string>
+     </property>
+     <property name="buddy">
+      <cstring>lineEdit_publisher</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="1">
+    <widget class="QLineEdit" name="lineEdit_title"/>
+   </item>
+   <item row="8" column="1">
+    <widget class="QLineEdit" name="lineEdit_version">
+     <property name="inputMask">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QLineEdit" name="lineEdit_publisher"/>
+   </item>
+   <item row="8" column="0">
+    <widget class="QLabel" name="label_4">
+     <property name="text">
+      <string>Version:</string>
+     </property>
+     <property name="buddy">
+      <cstring>lineEdit_version</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="3" column="0">
+    <widget class="QLabel" name="label_2">
+     <property name="text">
+      <string>Title:</string>
+     </property>
+     <property name="buddy">
+      <cstring>lineEdit_title</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="1">
+    <widget class="QLineEdit" name="lineEdit_productID"/>
+   </item>
+   <item row="6" column="1">
+    <widget class="QLineEdit" name="lineEdit_publisherID"/>
+   </item>
+   <item row="6" column="0">
+    <widget class="QLabel" name="label_5">
+     <property name="text">
+      <string>Publisher ID:</string>
+     </property>
+     <property name="buddy">
+      <cstring>lineEdit_publisherID</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="7" column="0">
+    <widget class="QLabel" name="label_7">
+     <property name="text">
+      <string>Product ID:</string>
+     </property>
+     <property name="buddy">
+      <cstring>lineEdit_productID</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="10" column="0">
+    <widget class="QLabel" name="label">
+     <property name="text">
+      <string>Previous Version:</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <tabstops>
+  <tabstop>lineEdit_publisher</tabstop>
+  <tabstop>lineEdit_title</tabstop>
+  <tabstop>plainTextEdit_description</tabstop>
+  <tabstop>lineEdit_publisherID</tabstop>
+  <tabstop>lineEdit_productID</tabstop>
+  <tabstop>lineEdit_version</tabstop>
+  <tabstop>checkBox_autoIncrement</tabstop>
+ </tabstops>
+ <resources>
+  <include location="editorapp.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>checkBox_autoIncrement</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>PublishWizardP1</receiver>
+   <slot>_autoIncrChanged()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>156</x>
+     <y>220</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>312</x>
+     <y>393</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>_autoIncrChanged()</slot>
+ </slots>
+</ui>

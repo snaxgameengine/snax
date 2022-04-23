@@ -1,0 +1,2087 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{51D9E503-FF04-46F9-8ED1-F5B614DEBA61}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7908D608-A149-4286-826D-270EDEDE12FE}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{402A1E54-5B7E-4BF5-A4D6-65D729FE7043}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{D27FF489-2396-4EFE-9871-0705655B8622}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{01466AAB-80E4-447C-9662-089B79485231}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C80642C6-0537-41FE-A28B-1659548A9838}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{F75CC4D4-BB15-40DE-B718-07C3BC40661B}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11F371E2-53A8-43BE-9EB3-BBE5174E7932}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {},
+            "chipId": "{0F4635A3-8FC8-432B-87DA-65DBC416588A}",
+            "connections": [{
+                "chipId": "{57E29160-92A2-4613-8E89-5CABF612A3F7}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{B1052DBC-2963-4F14-A3E3-9C8EC4A36D61}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{D465F795-3545-4BFB-B2B8-977C6A30038A}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{606BA1F8-2032-459A-AA2E-C7ACB456C9D4}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{C9358EA0-7D0D-4F54-B258-9625C839F107}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{6861432C-F077-4E16-AA23-0C4B1394DC7F}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{C550DA1D-58F0-40FE-BA2D-FD7CBD4BE4ED}",
+                "connection": 0,
+                "subConnection": 6
+              }],
+            "name": "Project Start",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "operatorType": "CLEAR_RTV"
+            },
+            "chipId": "{B1052DBC-2963-4F14-A3E3-9C8EC4A36D61}",
+            "connections": [{
+                "chipId": "{9C173ACB-2C53-4F8F-8C41-8B46901AFC9A}",
+                "connection": 0
+              }, {
+                "chipId": "{908A0E30-C573-4264-8042-A91C5D89A2F1}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Clear Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_RTV"
+            },
+            "chipId": "{57E29160-92A2-4613-8E89-5CABF612A3F7}",
+            "connections": [{
+                "chipId": "{61DE764B-8827-41EA-91AB-0C7608A5CE99}",
+                "connection": 0
+              }, {
+                "chipId": "{AE0CD501-8D25-460D-9164-D3AE01C9221A}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Set Render Target Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {},
+            "chipId": "{AE0CD501-8D25-460D-9164-D3AE01C9221A}",
+            "name": "Back Buffer",
+            "type": "{D27FF489-2396-4EFE-9871-0705655B8622}"
+          }, {
+            "chipData": {
+              "vector": [0.15000000596046449, 0.15000000596046449, 0.5, 1.0]
+            },
+            "chipId": "{9C173ACB-2C53-4F8F-8C41-8B46901AFC9A}",
+            "name": "Clear Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_VIEWPORTS"
+            },
+            "chipId": "{606BA1F8-2032-459A-AA2E-C7ACB456C9D4}",
+            "connections": [{
+                "chipId": "{88EF9101-E800-4BB6-BAE7-F557C343A343}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Set Viewports (Relative)",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 1.0, 1.0]
+            },
+            "chipId": "{88EF9101-E800-4BB6-BAE7-F557C343A343}",
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "arraySize": 1,
+              "flags": "M3D_RESOURCE_FLAG_ALLOW_DEPTH_STENCIL|M3D_RESOURCE_FLAG_DENY_SHADER_RESOURCE",
+              "flagsEx": 3,
+              "format": "M3D_FORMAT_D32_FLOAT_S8X24_UINT",
+              "height": 100,
+              "mipLevels": 1,
+              "msCount": 1,
+              "width": 100
+            },
+            "chipId": "{61DE764B-8827-41EA-91AB-0C7608A5CE99}",
+            "name": "Depth Buffer",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "operatorType": 10000
+            },
+            "chipId": "{C550DA1D-58F0-40FE-BA2D-FD7CBD4BE4ED}",
+            "name": "Draw Debug Geometry",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "operatorType": "CLEAR_DSV"
+            },
+            "chipId": "{D465F795-3545-4BFB-B2B8-977C6A30038A}",
+            "connections": [{
+                "chipId": "{3E410016-BF3A-451C-B3FD-0131B783406F}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Clear Depth Stencil Views",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "original": "{AE0CD501-8D25-460D-9164-D3AE01C9221A}"
+            },
+            "chipId": "{908A0E30-C573-4264-8042-A91C5D89A2F1}",
+            "name": "Back Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{61DE764B-8827-41EA-91AB-0C7608A5CE99}"
+            },
+            "chipId": "{3E410016-BF3A-451C-B3FD-0131B783406F}",
+            "name": "Depth Buffer",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{6861432C-F077-4E16-AA23-0C4B1394DC7F}",
+            "connections": [{
+                "chipId": "{C26DF3D1-647C-43FC-B77C-756DEEBF5106}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "Render your stuff here!",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {},
+            "chipId": "{7F2E90CD-F6EE-4289-B858-20E28DC9C1DB}",
+            "connections": [{
+                "chipId": "{9E847629-C268-4C0E-B955-727F21E7FE0B}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "Static"
+            },
+            "name": "MyStaticFunction",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "Break Points",
+              "filename": ".\\Break Points.m3j",
+              "functionName": "MyStaticFunction",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{C26DF3D1-647C-43FC-B77C-756DEEBF5106}",
+            "name": "Break Points->MyStaticFunction",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "object": {
+                "cgid": "{B588A9DC-014D-4560-9991-9FCA241EC1F4}",
+                "data": {
+                  "count": 0
+                },
+                "filename": ".\\Break Points.m3j",
+                "id": "{83FDCE11-F73A-48C4-984D-471DDB83C10B}",
+                "name": "My Derived Instance",
+                "type": 2
+              },
+              "preload": true,
+              "save": true
+            },
+            "chipId": "{70FB1DA2-08F1-47C2-927F-3D685CF0C727}",
+            "name": "Instance Ref",
+            "type": "{EA094CF0-CF56-4F5E-BADC-7A8BF2E5F276}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "Base",
+              "filename": ".\\Break Points.m3j",
+              "functionName": "NonVirtualFunction",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{9E847629-C268-4C0E-B955-727F21E7FE0B}",
+            "connections": [{
+                "chipId": "{70FB1DA2-08F1-47C2-927F-3D685CF0C727}",
+                "connection": 0
+              }],
+            "name": "Base->NonVirtualFunction",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {
+              "operatorType": "SET_CAMERA_MATRIES"
+            },
+            "chipId": "{C9358EA0-7D0D-4F54-B258-9625C839F107}",
+            "connections": [{
+                "chipId": "{69FE3771-6426-4DE6-8D6B-41C8E293D7FD}",
+                "connection": 0
+              }, {
+                "chipId": "{A1BBFB5D-9CE0-47DA-BD53-8F310ADBC165}",
+                "connection": 1
+              }],
+            "name": "Set Camera Matrices",
+            "type": "{A2C861A1-4990-4CB3-ACBD-3346D3E3F6A2}"
+          }, {
+            "chipData": {
+              "matrix": [0.6723942756652832, 0.0, 0.0, 0.0, 0.0, 1.830487608909607, 0.0, 0.0, 0.0, 0.0, 1.000100016593933, 1.0, 0.0, 0.0, -0.10001000016927719, 0.0],
+              "operatorType": "PERSPECTIVE_FOVY"
+            },
+            "chipId": "{A1BBFB5D-9CE0-47DA-BD53-8F310ADBC165}",
+            "connections": [{
+                "chipId": "{CB38C72B-DC97-46D6-98EE-539E32B75E69}",
+                "connection": 0
+              }, {
+                "chipId": "{D880F327-44F4-4F5D-9459-6F4DDA0A4943}",
+                "connection": 1
+              }, {
+                "chipId": "{2ED9AFF5-E065-4242-BC6B-54BBF5EF2D42}",
+                "connection": 2
+              }, {
+                "chipId": "{1FD41539-8F63-4365-9212-4C4E4049F11D}",
+                "connection": 3
+              }],
+            "name": "Perspective FOVY",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "value": 60.0
+            },
+            "chipId": "{2A1D4186-5395-4B17-8FE1-FE4620915DF6}",
+            "name": "FOVY (deg)",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 2.72234273318872
+            },
+            "chipId": "{D880F327-44F4-4F5D-9459-6F4DDA0A4943}",
+            "connections": [{
+                "chipId": "{EB279B21-9107-451E-A220-58614E823690}",
+                "connection": 0
+              }],
+            "name": "Aspect Ratio",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 0.100000001
+            },
+            "chipId": "{2ED9AFF5-E065-4242-BC6B-54BBF5EF2D42}",
+            "name": "Z-near",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1000.0
+            },
+            "chipId": "{1FD41539-8F63-4365-9212-4C4E4049F11D}",
+            "name": "Z-far",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "expression": "a/b",
+              "value": 2.72234273318872
+            },
+            "chipId": "{EB279B21-9107-451E-A220-58614E823690}",
+            "connections": [{
+                "chipId": "{0B40DA68-E343-4FB0-BBB2-D8BB1548B002}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{4B51ADFD-8E88-4A03-A1D3-19C345BD0541}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "name": "a/b",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "operatorType": "CURRENT_RTV_WIDTH",
+              "value": 2510.0
+            },
+            "chipId": "{0B40DA68-E343-4FB0-BBB2-D8BB1548B002}",
+            "name": "Get Current Render Target Width",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "operatorType": "CURRENT_RTV_HEIGHT",
+              "value": 922.0
+            },
+            "chipId": "{4B51ADFD-8E88-4A03-A1D3-19C345BD0541}",
+            "name": "Get Current Render Target Height",
+            "type": "{CB1384D9-4781-4FAD-8C71-F5A152927405}"
+          }, {
+            "chipData": {
+              "expression": "rad(a)"
+            },
+            "chipId": "{CB38C72B-DC97-46D6-98EE-539E32B75E69}",
+            "connections": [{
+                "chipId": "{2A1D4186-5395-4B17-8FE1-FE4620915DF6}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "rad(a)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "matrix": [0.7073882818222046, 0.0, -0.7068251371383667, 0.0, 0.45534926652908327, 0.76484215259552, 0.4557120203971863, 0.0, 0.5406097173690796, -0.6442176699638367, 0.5410404205322266, 0.0, -5.840931415557861, 6.9603471755981449, -5.845584869384766, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{15ED011B-8C0C-4978-ACFD-7598D3A3B589}",
+            "connections": [{
+                "chipId": "{727C0641-7EAB-476C-8B51-974525AE2058}",
+                "connection": 0
+              }, {
+                "chipId": "{C7C4A720-AC29-4D7E-8FEE-79470E856C88}",
+                "connection": 3
+              }],
+            "name": "Camera Matrix",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "matrix": [0.7073882818222046, 0.0, -0.7068251371383667, 0.0, 0.45534926652908327, 0.76484215259552, 0.4557120203971863, 0.0, 0.5406097173690796, -0.6442176699638367, 0.5410404205322266, 0.0, 0.0, 0.0, 0.0, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{C7C4A720-AC29-4D7E-8FEE-79470E856C88}",
+            "connections": [{
+                "chipId": "{9B3B69CC-B698-4918-9F1F-A4875EF41DE4}",
+                "connection": 0
+              }, {
+                "chipId": "{A9D8816B-1ECD-43A7-94DF-EF4F3262A0CF}",
+                "connection": 1
+              }, {
+                "chipId": "{6A38BBCB-DA0A-43CB-B546-46FF463E6E16}",
+                "connection": 3
+              }],
+            "name": "Motion",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "vector": [0.699999988079071, 0.7850000262260437, 0.0, 1.0]
+            },
+            "chipId": "{A9D8816B-1ECD-43A7-94DF-EF4F3262A0CF}",
+            "connections": [{
+                "chipId": "{6E8E89DD-99FA-47F3-8A58-ACDA114A7210}",
+                "connection": 0
+              }, {
+                "chipId": "{08DB9675-5B82-4C2B-AE63-92BF5F4B1639}",
+                "connection": 1
+              }],
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, -10.804340362548829, 1.0]
+            },
+            "chipId": "{727C0641-7EAB-476C-8B51-974525AE2058}",
+            "connections": [{
+                "chipId": "{2AB91CB0-A847-4A53-94BA-FB1DA89B7A9C}",
+                "connection": 2
+              }],
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_X"
+            },
+            "chipId": "{1F72C8AE-84E7-4F5B-AE91-7152F7C40CBB}",
+            "name": "Mouse Delta X",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "value": -50.0
+            },
+            "chipId": "{7479D932-0F55-45BF-9FC5-6136FFD7C0F3}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "expression": "-a*b*c"
+            },
+            "chipId": "{307D56C1-37D6-4DCD-86B7-FF70348A5296}",
+            "connections": [{
+                "chipId": "{06C5FC0F-F706-4ED3-B983-5FDD30380E4C}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{170ADD92-6B9E-463F-B474-03CBB966FD26}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{38CECEB9-9644-4884-8E9F-54E21E2AB474}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "-a*b*c",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "MOUSE_WHEEL"
+            },
+            "chipId": "{06C5FC0F-F706-4ED3-B983-5FDD30380E4C}",
+            "name": "Mouse Wheel",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{0678003A-8CFA-4B4F-8982-3C52EF7D519B}",
+            "connections": [{
+                "chipId": "{307D56C1-37D6-4DCD-86B7-FF70348A5296}",
+                "connection": 0
+              }, {
+                "chipId": "{6323805D-4B7C-49DE-A467-65996DF2FCF6}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": -1.0
+            },
+            "chipId": "{9B34352D-CBFA-4264-84AB-AF6ADAF9719B}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "expression": "a*b*c"
+            },
+            "chipId": "{81A97E87-290E-4347-AC58-969B0564C49A}",
+            "connections": [{
+                "chipId": "{F4977A36-DE52-4B9C-A115-0522AFDB15FC}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{1F72C8AE-84E7-4F5B-AE91-7152F7C40CBB}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{BFCA1D3B-8B89-4B7B-B65F-41342252CE6C}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "a*b*c",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{4A9BB026-8682-4FE8-9C70-8475831DB059}",
+            "connections": [{
+                "chipId": "{81A97E87-290E-4347-AC58-969B0564C49A}",
+                "connection": 0
+              }, {
+                "chipId": "{06E7EA53-032B-42C2-BC0E-7C1602D253A3}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": 1.57
+            },
+            "chipId": "{BDFA222A-F2B5-4E82-BFFA-F3F4DF884DE1}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_Y"
+            },
+            "chipId": "{2613CFD3-221E-4509-9B7D-1FC9D2F9E51C}",
+            "name": "Mouse Delta Y",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "expression": "a*b*c"
+            },
+            "chipId": "{D26E28DF-6E00-4A17-9B89-88435072B364}",
+            "connections": [{
+                "chipId": "{15C989E3-76E1-4A04-ABAD-449D64CCFA32}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{2613CFD3-221E-4509-9B7D-1FC9D2F9E51C}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{73DE6441-63ED-49C1-9FE8-8DCFD61D0091}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "a*b*c",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "RMOUSE"
+            },
+            "chipId": "{15C989E3-76E1-4A04-ABAD-449D64CCFA32}",
+            "name": "Right Button State",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{F35AF7ED-FD24-4A5A-8483-9A85A408A598}",
+            "connections": [{
+                "chipId": "{D26E28DF-6E00-4A17-9B89-88435072B364}",
+                "connection": 0
+              }, {
+                "chipId": "{E288BC68-F0BB-4C5D-83DF-4E823A6C46E4}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 0.0]
+            },
+            "chipId": "{131FA50B-ABC7-407D-8544-5D3A61586E9D}",
+            "connections": [{
+                "chipId": "{694116E1-5683-4EEF-BD24-1CD69BCD5A4F}",
+                "connection": 0
+              }, {
+                "chipId": "{2E3FD5B2-1B05-455E-A60F-1B13BB3DEF37}",
+                "connection": 1
+              }],
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "operatorType": "ROTATE_YPR",
+              "vector": [0.0, 0.0, 0.0, 0.0]
+            },
+            "chipId": "{BC9E2F79-F533-45EA-8C10-41B7655209FC}",
+            "connections": [{
+                "chipId": "{131FA50B-ABC7-407D-8544-5D3A61586E9D}",
+                "connection": 0
+              }, {
+                "chipId": "{A9D8816B-1ECD-43A7-94DF-EF4F3262A0CF}",
+                "connection": 1
+              }],
+            "name": "Rotate Using Euler Angles",
+            "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_X"
+            },
+            "chipId": "{50D69136-DF5F-4AFE-81CB-F368B0F7D4D1}",
+            "name": "Mouse Delta X",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "expression": "-a*b*c*d*0.1"
+            },
+            "chipId": "{E2478739-2DCC-47D6-9D90-F26E83C9F123}",
+            "connections": [{
+                "chipId": "{74E5AB59-9BCB-47C4-913B-AE9D004694E7}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{50D69136-DF5F-4AFE-81CB-F368B0F7D4D1}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{24D3FD9F-9893-48DD-9D9A-41D77510F991}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{FDABF044-5238-4D99-9C8B-F3BD1A7DDB76}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "-a*b*c*d*0.1",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "MMOUSE"
+            },
+            "chipId": "{74E5AB59-9BCB-47C4-913B-AE9D004694E7}",
+            "name": "Middle Button State",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{694116E1-5683-4EEF-BD24-1CD69BCD5A4F}",
+            "connections": [{
+                "chipId": "{E2478739-2DCC-47D6-9D90-F26E83C9F123}",
+                "connection": 0
+              }, {
+                "chipId": "{CA3A1829-182A-4A7A-A4FF-613905FA99AA}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": 0.3
+            },
+            "chipId": "{CA3A1829-182A-4A7A-A4FF-613905FA99AA}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "DMOUSE_Y"
+            },
+            "chipId": "{E715ED0F-999B-433A-82C3-BAE1FC0C3580}",
+            "name": "Mouse Delta Y",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "expression": "a*b*c*d*0.1"
+            },
+            "chipId": "{EF5D70A7-7A35-495D-8432-6A390A723405}",
+            "connections": [{
+                "chipId": "{1963763F-0D1F-445C-9C30-B1F3E145BEF7}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{E715ED0F-999B-433A-82C3-BAE1FC0C3580}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{0F130602-A434-4B41-A5FF-EADE81CDCEAF}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{EBD395E1-A644-4F4B-941B-E7907E714ED8}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "a*b*c*d*0.1",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "deviceType": "MOUSE",
+              "mouseType": "MMOUSE"
+            },
+            "chipId": "{1963763F-0D1F-445C-9C30-B1F3E145BEF7}",
+            "name": "Middle Button State",
+            "type": "{D358F9A5-D245-4C59-BDE8-BFA3CEEAE4C8}"
+          }, {
+            "chipData": {
+              "direction": "Both"
+            },
+            "chipId": "{2E3FD5B2-1B05-455E-A60F-1B13BB3DEF37}",
+            "connections": [{
+                "chipId": "{EF5D70A7-7A35-495D-8432-6A390A723405}",
+                "connection": 0
+              }, {
+                "chipId": "{9BCE2741-784F-4B04-89CD-CDB5F27C38B6}",
+                "connection": 1
+              }],
+            "name": "Inertia",
+            "type": "{27EF5168-493E-4A13-BED9-E1476DDF113F}"
+          }, {
+            "chipData": {
+              "value": -1.57
+            },
+            "chipId": "{96C2D9A9-1EC9-4400-B3E5-AF0143E051ED}",
+            "name": "Value",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{9FFF1E93-F19D-4585-99C6-9C6CBF240A34}",
+            "name": "Focus Point",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "expression": "clamp(old+a,b,c)",
+              "value": -10.804340288188488
+            },
+            "chipId": "{2AB91CB0-A847-4A53-94BA-FB1DA89B7A9C}",
+            "connections": [{
+                "chipId": "{0678003A-8CFA-4B4F-8982-3C52EF7D519B}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{7479D932-0F55-45BF-9FC5-6136FFD7C0F3}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{9B34352D-CBFA-4264-84AB-AF6ADAF9719B}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "clamp(old+a,b,c)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "original": "{2AB91CB0-A847-4A53-94BA-FB1DA89B7A9C}"
+            },
+            "chipId": "{170ADD92-6B9E-463F-B474-03CBB966FD26}",
+            "name": "clamp(old+a,b,c)",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{2AB91CB0-A847-4A53-94BA-FB1DA89B7A9C}"
+            },
+            "chipId": "{24D3FD9F-9893-48DD-9D9A-41D77510F991}",
+            "name": "clamp(old+a,b,c)",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{2AB91CB0-A847-4A53-94BA-FB1DA89B7A9C}"
+            },
+            "chipId": "{0F130602-A434-4B41-A5FF-EADE81CDCEAF}",
+            "name": "clamp(old+a,b,c)",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "expression": "clamp(old+a,b,c)",
+              "value": 0.7
+            },
+            "chipId": "{6E8E89DD-99FA-47F3-8A58-ACDA114A7210}",
+            "connections": [{
+                "chipId": "{F35AF7ED-FD24-4A5A-8483-9A85A408A598}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{96C2D9A9-1EC9-4400-B3E5-AF0143E051ED}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{BDFA222A-F2B5-4E82-BFFA-F3F4DF884DE1}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "clamp(old+a,b,c)",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "expression": "old+a<0?a+2*pi+old:old+a>2*pi?a-2*pi+old:old+a",
+              "value": 0.785
+            },
+            "chipId": "{08DB9675-5B82-4C2B-AE63-92BF5F4B1639}",
+            "connections": [{
+                "chipId": "{4A9BB026-8682-4FE8-9C70-8475831DB059}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "old+a<0?a+2*pi+old:old+a>2*pi?a-2*pi+old:old+a",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "original": "{15C989E3-76E1-4A04-ABAD-449D64CCFA32}"
+            },
+            "chipId": "{F4977A36-DE52-4B9C-A115-0522AFDB15FC}",
+            "name": "Right Button State",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{6A38BBCB-DA0A-43CB-B546-46FF463E6E16}",
+            "connections": [{
+                "chipId": "{4BC3602A-94DF-4A8A-9049-17CCB6A5C40A}",
+                "connection": 0
+              }],
+            "name": "Motion",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "value": 0.02
+            },
+            "chipId": "{2A52FC54-124D-4001-A826-9D5B133E2BC0}",
+            "name": "Mouse Sensitivity",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{2A52FC54-124D-4001-A826-9D5B133E2BC0}"
+            },
+            "chipId": "{73DE6441-63ED-49C1-9FE8-8DCFD61D0091}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{2A52FC54-124D-4001-A826-9D5B133E2BC0}"
+            },
+            "chipId": "{BFCA1D3B-8B89-4B7B-B65F-41342252CE6C}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{2A52FC54-124D-4001-A826-9D5B133E2BC0}"
+            },
+            "chipId": "{FDABF044-5238-4D99-9C8B-F3BD1A7DDB76}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{2A52FC54-124D-4001-A826-9D5B133E2BC0}"
+            },
+            "chipId": "{EBD395E1-A644-4F4B-941B-E7907E714ED8}",
+            "name": "Mouse Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{CA3A1829-182A-4A7A-A4FF-613905FA99AA}"
+            },
+            "chipId": "{9BCE2741-784F-4B04-89CD-CDB5F27C38B6}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{CA3A1829-182A-4A7A-A4FF-613905FA99AA}"
+            },
+            "chipId": "{E288BC68-F0BB-4C5D-83DF-4E823A6C46E4}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{CA3A1829-182A-4A7A-A4FF-613905FA99AA}"
+            },
+            "chipId": "{06E7EA53-032B-42C2-BC0E-7C1602D253A3}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "value": 0.3
+            },
+            "chipId": "{4E2FCF20-D0FC-493E-B870-87182293DC08}",
+            "name": "Wheel Sensitivity",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "original": "{4E2FCF20-D0FC-493E-B870-87182293DC08}"
+            },
+            "chipId": "{38CECEB9-9644-4884-8E9F-54E21E2AB474}",
+            "name": "Wheel Sensitivity",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "original": "{9FFF1E93-F19D-4585-99C6-9C6CBF240A34}"
+            },
+            "chipId": "{4BC3602A-94DF-4A8A-9049-17CCB6A5C40A}",
+            "name": "Focus Point",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {},
+            "chipId": "{064F90B9-A91A-4D2E-AF57-F8A64FEDE5FC}",
+            "connections": [{
+                "chipId": "{9FFF1E93-F19D-4585-99C6-9C6CBF240A34}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{2A52FC54-124D-4001-A826-9D5B133E2BC0}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{4E2FCF20-D0FC-493E-B870-87182293DC08}",
+                "connection": 0,
+                "subConnection": 2
+              }],
+            "name": "Dummy",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "original": "{CA3A1829-182A-4A7A-A4FF-613905FA99AA}"
+            },
+            "chipId": "{6323805D-4B7C-49DE-A467-65996DF2FCF6}",
+            "name": "Value",
+            "type": "{EAE881A6-83B5-4EEF-AE7E-CB183C083962}"
+          }, {
+            "chipData": {
+              "matrix": [1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0],
+              "operatorType": "INVERSE"
+            },
+            "chipId": "{69FE3771-6426-4DE6-8D6B-41C8E293D7FD}",
+            "connections": [{
+                "chipId": "{15ED011B-8C0C-4978-ACFD-7598D3A3B589}",
+                "connection": 0
+              }],
+            "name": "View Matrix",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "operatorType": "ACCUMULATE",
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{9B3B69CC-B698-4918-9F1F-A4875EF41DE4}",
+            "connections": [{
+                "chipId": "{BC9E2F79-F533-45EA-8C10-41B7655209FC}",
+                "connection": 0
+              }],
+            "name": "Accumulate",
+            "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{24FB8C78-163B-4503-8C48-58051B9FFC85}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "description": "This example demonstrates how to use break points to inspect the current state of your program in the middle of program execution.",
+          "graph": {
+            "content": [{
+                "chipId": "{0F4635A3-8FC8-432B-87DA-65DBC416588A}",
+                "x": -1,
+                "y": 6,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B1052DBC-2963-4F14-A3E3-9C8EC4A36D61}",
+                "x": -1380,
+                "y": -657,
+                "objectType": "chip"
+              }, {
+                "chipId": "{57E29160-92A2-4613-8E89-5CABF612A3F7}",
+                "x": -1801,
+                "y": -650,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AE0CD501-8D25-460D-9164-D3AE01C9221A}",
+                "x": -1763,
+                "y": -864,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9C173ACB-2C53-4F8F-8C41-8B46901AFC9A}",
+                "x": -1491,
+                "y": -978,
+                "objectType": "chip"
+              }, {
+                "chipId": "{606BA1F8-2032-459A-AA2E-C7ACB456C9D4}",
+                "x": -690,
+                "y": -653,
+                "objectType": "chip"
+              }, {
+                "chipId": "{88EF9101-E800-4BB6-BAE7-F557C343A343}",
+                "x": -674,
+                "y": -850,
+                "objectType": "chip"
+              }, {
+                "chipId": "{61DE764B-8827-41EA-91AB-0C7608A5CE99}",
+                "x": -1895,
+                "y": -965,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C550DA1D-58F0-40FE-BA2D-FD7CBD4BE4ED}",
+                "x": 1823,
+                "y": -615,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D465F795-3545-4BFB-B2B8-977C6A30038A}",
+                "x": -1039,
+                "y": -653,
+                "objectType": "chip"
+              }, {
+                "chipId": "{908A0E30-C573-4264-8042-A91C5D89A2F1}",
+                "x": -1326,
+                "y": -892,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3E410016-BF3A-451C-B3FD-0131B783406F}",
+                "x": -1032,
+                "y": -860,
+                "objectType": "chip"
+              }, {
+                "chipId": "{6861432C-F077-4E16-AA23-0C4B1394DC7F}",
+                "x": 1249,
+                "y": -648,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7F2E90CD-F6EE-4289-B858-20E28DC9C1DB}",
+                "x": 1839,
+                "y": -960,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C26DF3D1-647C-43FC-B77C-756DEEBF5106}",
+                "x": 1226,
+                "y": -957,
+                "objectType": "chip"
+              }, {
+                "chipId": "{70FB1DA2-08F1-47C2-927F-3D685CF0C727}",
+                "x": 1825,
+                "y": -1497,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9E847629-C268-4C0E-B955-727F21E7FE0B}",
+                "x": 1821,
+                "y": -1234,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C9358EA0-7D0D-4F54-B258-9625C839F107}",
+                "x": 225,
+                "y": -641,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A1BBFB5D-9CE0-47DA-BD53-8F310ADBC165}",
+                "x": 682,
+                "y": -1174,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2A1D4186-5395-4B17-8FE1-FE4620915DF6}",
+                "x": 444,
+                "y": -2035,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D880F327-44F4-4F5D-9459-6F4DDA0A4943}",
+                "x": 670,
+                "y": -1727,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2ED9AFF5-E065-4242-BC6B-54BBF5EF2D42}",
+                "x": 815,
+                "y": -1618,
+                "objectType": "chip"
+              }, {
+                "chipId": "{1FD41539-8F63-4365-9212-4C4E4049F11D}",
+                "x": 944,
+                "y": -1500,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EB279B21-9107-451E-A220-58614E823690}",
+                "x": 676,
+                "y": -2096,
+                "objectType": "chip"
+              }, {
+                "chipId": "{0B40DA68-E343-4FB0-BBB2-D8BB1548B002}",
+                "x": 586,
+                "y": -2442,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4B51ADFD-8E88-4A03-A1D3-19C345BD0541}",
+                "x": 724,
+                "y": -2334,
+                "objectType": "chip"
+              }, {
+                "chipId": "{CB38C72B-DC97-46D6-98EE-539E32B75E69}",
+                "x": 458,
+                "y": -1800,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9FFF1E93-F19D-4585-99C6-9C6CBF240A34}",
+                "x": -430,
+                "y": -1747,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2A52FC54-124D-4001-A826-9D5B133E2BC0}",
+                "x": -224,
+                "y": -1628,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4E2FCF20-D0FC-493E-B870-87182293DC08}",
+                "x": -71,
+                "y": -1522,
+                "objectType": "chip"
+              }, {
+                "color": [0.0, 0.0, 0.0, 1.0],
+                "content": "This example demonstrates how to use break points. It contains a couple of classes with static, virtual- and nonvirtual functions that eventually renders the teapot. The render function (in the Derived-class) contains a break point. When the break-point is hit, execution of the program is paused, allowing you to inspect the current state of your program. At the bottom section of the application you find the \"Call Stack\" panel allowing you to see the current execution path through the different functions of your program.\n\nNote: Make sure break-points are globally enabled (see the View-menu, or toolbar) for the break point to trigger.",
+                "sx": 2888,
+                "sy": 833,
+                "textSize": 0.5,
+                "x": 89,
+                "y": 576,
+                "objectType": "text"
+              }, {
+                "content": [{
+                    "chipId": "{15ED011B-8C0C-4978-ACFD-7598D3A3B589}",
+                    "x": 14,
+                    "y": -285,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{C7C4A720-AC29-4D7E-8FEE-79470E856C88}",
+                    "x": 444,
+                    "y": -608,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{A9D8816B-1ECD-43A7-94DF-EF4F3262A0CF}",
+                    "x": 880,
+                    "y": -1855,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{727C0641-7EAB-476C-8B51-974525AE2058}",
+                    "x": -928,
+                    "y": -625,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{1F72C8AE-84E7-4F5B-AE91-7152F7C40CBB}",
+                    "x": 990,
+                    "y": -3279,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{7479D932-0F55-45BF-9FC5-6136FFD7C0F3}",
+                    "x": -899,
+                    "y": -1269,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{307D56C1-37D6-4DCD-86B7-FF70348A5296}",
+                    "x": -1175,
+                    "y": -1506,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{06C5FC0F-F706-4ED3-B983-5FDD30380E4C}",
+                    "x": -1362,
+                    "y": -2021,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{0678003A-8CFA-4B4F-8982-3C52EF7D519B}",
+                    "x": -1098,
+                    "y": -1271,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{9B34352D-CBFA-4264-84AB-AF6ADAF9719B}",
+                    "x": -712,
+                    "y": -1270,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{81A97E87-290E-4347-AC58-969B0564C49A}",
+                    "x": 1033,
+                    "y": -2921,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{4A9BB026-8682-4FE8-9C70-8475831DB059}",
+                    "x": 1054,
+                    "y": -2535,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{BDFA222A-F2B5-4E82-BFFA-F3F4DF884DE1}",
+                    "x": 760,
+                    "y": -2553,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{2613CFD3-221E-4509-9B7D-1FC9D2F9E51C}",
+                    "x": 319,
+                    "y": -3348,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{D26E28DF-6E00-4A17-9B89-88435072B364}",
+                    "x": 347,
+                    "y": -2943,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{15C989E3-76E1-4A04-ABAD-449D64CCFA32}",
+                    "x": 211,
+                    "y": -3461,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{F35AF7ED-FD24-4A5A-8483-9A85A408A598}",
+                    "x": 383,
+                    "y": -2556,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{131FA50B-ABC7-407D-8544-5D3A61586E9D}",
+                    "x": -537,
+                    "y": -1774,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{BC9E2F79-F533-45EA-8C10-41B7655209FC}",
+                    "x": -166,
+                    "y": -1413,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{50D69136-DF5F-4AFE-81CB-F368B0F7D4D1}",
+                    "x": -942,
+                    "y": -2857,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{E2478739-2DCC-47D6-9D90-F26E83C9F123}",
+                    "x": -848,
+                    "y": -2313,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{74E5AB59-9BCB-47C4-913B-AE9D004694E7}",
+                    "x": -1060,
+                    "y": -2973,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{694116E1-5683-4EEF-BD24-1CD69BCD5A4F}",
+                    "x": -787,
+                    "y": -2106,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{CA3A1829-182A-4A7A-A4FF-613905FA99AA}",
+                    "x": -628,
+                    "y": -2312,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{E715ED0F-999B-433A-82C3-BAE1FC0C3580}",
+                    "x": -449,
+                    "y": -2868,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{EF5D70A7-7A35-495D-8432-6A390A723405}",
+                    "x": -332,
+                    "y": -2320,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{1963763F-0D1F-445C-9C30-B1F3E145BEF7}",
+                    "x": -556,
+                    "y": -2989,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{2E3FD5B2-1B05-455E-A60F-1B13BB3DEF37}",
+                    "x": -269,
+                    "y": -2107,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{96C2D9A9-1EC9-4400-B3E5-AF0143E051ED}",
+                    "x": 584,
+                    "y": -2554,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{2AB91CB0-A847-4A53-94BA-FB1DA89B7A9C}",
+                    "x": -908,
+                    "y": -978,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{170ADD92-6B9E-463F-B474-03CBB966FD26}",
+                    "x": -1222,
+                    "y": -1925,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{24D3FD9F-9893-48DD-9D9A-41D77510F991}",
+                    "x": -821,
+                    "y": -2753,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{0F130602-A434-4B41-A5FF-EADE81CDCEAF}",
+                    "x": -330,
+                    "y": -2772,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{6E8E89DD-99FA-47F3-8A58-ACDA114A7210}",
+                    "x": 581,
+                    "y": -2246,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{08DB9675-5B82-4C2B-AE63-92BF5F4B1639}",
+                    "x": 1071,
+                    "y": -2247,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{F4977A36-DE52-4B9C-A115-0522AFDB15FC}",
+                    "x": 887,
+                    "y": -3389,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{6A38BBCB-DA0A-43CB-B546-46FF463E6E16}",
+                    "x": 1110,
+                    "y": -1092,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{73DE6441-63ED-49C1-9FE8-8DCFD61D0091}",
+                    "x": 440,
+                    "y": -3238,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{BFCA1D3B-8B89-4B7B-B65F-41342252CE6C}",
+                    "x": 1100,
+                    "y": -3197,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{FDABF044-5238-4D99-9C8B-F3BD1A7DDB76}",
+                    "x": -705,
+                    "y": -2640,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{EBD395E1-A644-4F4B-941B-E7907E714ED8}",
+                    "x": -220,
+                    "y": -2676,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{9BCE2741-784F-4B04-89CD-CDB5F27C38B6}",
+                    "x": -129,
+                    "y": -2332,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{E288BC68-F0BB-4C5D-83DF-4E823A6C46E4}",
+                    "x": 505,
+                    "y": -2811,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{06E7EA53-032B-42C2-BC0E-7C1602D253A3}",
+                    "x": 1197,
+                    "y": -2794,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{38CECEB9-9644-4884-8E9F-54E21E2AB474}",
+                    "x": -1109,
+                    "y": -1810,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{4BC3602A-94DF-4A8A-9049-17CCB6A5C40A}",
+                    "x": 1068,
+                    "y": -1369,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{064F90B9-A91A-4D2E-AF57-F8A64FEDE5FC}",
+                    "x": 56,
+                    "y": 973,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{6323805D-4B7C-49DE-A467-65996DF2FCF6}",
+                    "x": -948,
+                    "y": -1520,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{69FE3771-6426-4DE6-8D6B-41C8E293D7FD}",
+                    "x": 14,
+                    "y": 27,
+                    "objectType": "chip"
+                  }, {
+                    "chipId": "{9B3B69CC-B698-4918-9F1F-A4875EF41DE4}",
+                    "x": -161,
+                    "y": -1035,
+                    "objectType": "chip"
+                  }],
+                "inx": 0,
+                "iny": 0,
+                "name": "Internal",
+                "x": -330,
+                "y": -1196,
+                "objectType": "folder"
+              }],
+            "extent": [-1945, -2492, 1924, 992]
+          }
+        },
+        "id": "{EA3CAEC1-96D4-4A58-86FF-37ACF77B9F4C}",
+        "inheritance": [],
+        "name": "Break Points",
+        "startChipId": "{0F4635A3-8FC8-432B-87DA-65DBC416588A}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{717DFCBC-9D3C-426D-A9F9-856DF016EBD7}",
+            "connections": [{
+                "chipId": "{D0AFBE84-3852-4A59-8A5E-8802B92C3355}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{A9F4E31E-A478-43D4-8C3D-C91449134E07}"
+                }],
+              "type": "Virtual"
+            },
+            "name": "VirtualFunction",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{A9F4E31E-A478-43D4-8C3D-C91449134E07}",
+            "name": "P1",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {},
+            "chipId": "{48C4C0D2-C255-4D58-95B6-18B3611A1954}",
+            "connections": [{
+                "chipId": "{3E242C26-0A86-4AD8-B2B4-F468E7D51C7B}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "function": {
+              "parameters": [],
+              "type": "NonVirtual"
+            },
+            "name": "NonVirtualFunction",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "childValue": 0.0,
+              "childValueCondition": "CVC_DISABLED",
+              "enabled": true,
+              "hitCount": 1,
+              "hitCountCondition": "HCC_DISABLED",
+              "instanceID": 0,
+              "resetHitCountPrFrame": false
+            },
+            "chipId": "{D0AFBE84-3852-4A59-8A5E-8802B92C3355}",
+            "name": "Break Point",
+            "type": "{11F371E2-53A8-43BE-9EB3-BBE5174E7932}"
+          }, {
+            "chipData": {
+              "callByName": false,
+              "classId": "Base",
+              "filename": ".\\Break Points.m3j",
+              "functionName": "VirtualFunction",
+              "preload": true,
+              "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+            },
+            "chipId": "{3E242C26-0A86-4AD8-B2B4-F468E7D51C7B}",
+            "connections": [{
+                "chipId": "{7943EFA3-59DE-49A1-823E-4E9492EA78E9}",
+                "connection": 0
+              }, {
+                "chipId": "{B95A641A-BB75-4D1F-91D9-1D835AD57076}",
+                "connection": 1,
+                "subConnection": 0
+              }],
+            "name": "Base->VirtualFunction",
+            "type": "{6E91C75A-B487-41B1-9056-BEBB06828B47}"
+          }, {
+            "chipData": {},
+            "chipId": "{7943EFA3-59DE-49A1-823E-4E9492EA78E9}",
+            "name": "THIS",
+            "type": "{51D9E503-FF04-46F9-8ED1-F5B614DEBA61}"
+          }, {
+            "chipData": {
+              "value": 1.0488912217483957
+            },
+            "chipId": "{B95A641A-BB75-4D1F-91D9-1D835AD57076}",
+            "connections": [{
+                "chipId": "{4896C907-3393-493F-859B-DBBAC01D631F}",
+                "connection": 0
+              }],
+            "name": "P1",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "expression": "sin(a)+2",
+              "value": 1.0488912217483957
+            },
+            "chipId": "{4896C907-3393-493F-859B-DBBAC01D631F}",
+            "connections": [{
+                "chipId": "{C173D0ED-E78F-4DB9-93B8-8930168E605A}",
+                "connection": 0,
+                "subConnection": 0
+              }],
+            "name": "sin(a)+2",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }, {
+            "chipData": {
+              "expression": "old+dt",
+              "value": 23.875935
+            },
+            "chipId": "{C173D0ED-E78F-4DB9-93B8-8930168E605A}",
+            "name": "old+dt",
+            "type": "{49124CAB-7D79-4819-BE81-EE8BA96A4A70}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{4ED27876-2D60-4D97-BCBC-AAA0C56B1069}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{717DFCBC-9D3C-426D-A9F9-856DF016EBD7}",
+                "x": 118,
+                "y": 3,
+                "objectType": "chip"
+              }, {
+                "chipId": "{A9F4E31E-A478-43D4-8C3D-C91449134E07}",
+                "x": 287,
+                "y": -353,
+                "objectType": "chip"
+              }, {
+                "chipId": "{48C4C0D2-C255-4D58-95B6-18B3611A1954}",
+                "x": 1172,
+                "y": 4,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D0AFBE84-3852-4A59-8A5E-8802B92C3355}",
+                "x": 95,
+                "y": -335,
+                "objectType": "chip"
+              }, {
+                "chipId": "{3E242C26-0A86-4AD8-B2B4-F468E7D51C7B}",
+                "x": 1164,
+                "y": -293,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7943EFA3-59DE-49A1-823E-4E9492EA78E9}",
+                "x": 992,
+                "y": -553,
+                "objectType": "chip"
+              }, {
+                "chipId": "{B95A641A-BB75-4D1F-91D9-1D835AD57076}",
+                "x": 1401,
+                "y": -541,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4896C907-3393-493F-859B-DBBAC01D631F}",
+                "x": 1403,
+                "y": -872,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C173D0ED-E78F-4DB9-93B8-8930168E605A}",
+                "x": 1395,
+                "y": -1173,
+                "objectType": "chip"
+              }, {
+                "color": [0.0, 0.0, 0.0, 1.0],
+                "content": "This is a break-point. \n\nYou should not hit this break-point unless you have instansiated a Base-class instead of the Derived-class. (The function is overridden in the Derived class.)",
+                "sx": 1478,
+                "sy": 590,
+                "textSize": 0.5,
+                "x": -707,
+                "y": -377,
+                "objectType": "text"
+              }],
+            "extent": [-1446, -1223, 1488, 54]
+          }
+        },
+        "id": "{E8010F30-AEF9-4DB6-904E-E96112AC08CC}",
+        "inheritance": [],
+        "name": "Base",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }, {
+        "chips": [{
+            "chipData": {},
+            "chipId": "{FB671F0C-2696-4243-91C5-6C3AF712CCBC}",
+            "connections": [{
+                "chipId": "{91FB2619-E741-4A94-B246-A56ACCCE81C6}",
+                "connection": 0
+              }, {
+                "chipId": "{D799C2BC-7184-43D5-8E4A-0B2764627939}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "3D Object",
+            "type": "{E899C774-3E4D-404E-B0C3-CEAEA37CECEC}"
+          }, {
+            "chipData": {
+              "boundingBox": {
+                "isinf": true
+              },
+              "subsets": {
+                "count": 0
+              },
+              "useSubsetCulling": true,
+              "useWholeObjectCulling": false
+            },
+            "chipId": "{D799C2BC-7184-43D5-8E4A-0B2764627939}",
+            "connections": [{
+                "chipId": "{543F98E8-C00A-44E8-9452-22DF65A6A6EF}",
+                "connection": 0
+              }, {
+                "chipId": "{5D5B0881-C2D0-49AF-91EE-57A913CDAE89}",
+                "connection": 2,
+                "subConnection": 0
+              }],
+            "name": "Renderable",
+            "type": "{5446A662-18A8-48E4-A210-619AF45CEA8B}"
+          }, {
+            "chipData": {
+              "flags": 7,
+              "primitiveType": "TEAPOT"
+            },
+            "chipId": "{543F98E8-C00A-44E8-9452-22DF65A6A6EF}",
+            "name": "Utah Teapot",
+            "type": "{B3FA0BC3-C4AA-4BE6-B82C-B70C22897326}"
+          }, {
+            "chipData": {},
+            "chipId": "{5D5B0881-C2D0-49AF-91EE-57A913CDAE89}",
+            "connections": [{
+                "chipId": "{AFA4497F-1079-4C8D-AEA3-975402465849}",
+                "connection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 0
+              }
+            },
+            "chipId": "{AFA4497F-1079-4C8D-AEA3-975402465849}",
+            "connections": [{
+                "chipId": "{F0A42085-9DFE-4BE8-87D5-3D62E331F6BF}",
+                "connection": 0
+              }, {
+                "chipId": "{16E5477C-1A0E-4A4A-B7F3-F047203FAC80}",
+                "connection": 1
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "localCBVCount": 4
+            },
+            "chipId": "{F0A42085-9DFE-4BE8-87D5-3D62E331F6BF}",
+            "name": "Root Signature",
+            "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+          }, {
+            "chipData": {},
+            "chipId": "{16E5477C-1A0E-4A4A-B7F3-F047203FAC80}",
+            "connections": [{
+                "chipId": "{8E569501-7182-40E8-9867-589A0F357D5A}",
+                "connection": 0
+              }, {
+                "chipId": "{C5D2EA13-2FC8-4D4A-BEF1-B83C280ADDC8}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "2Lir5QEAAAA=eJxziXByPn3rQIZAZ5Hj5ItrhZJ/3d7JyMDAcIWJgYEZSOsA8QIgFgEKega7++UwQMQ5gDiAAQGYoTQ7OwNDJJo4I1Q8AU2cCUQDGQH+wZ4hnv5+DH7+Qb6OPgwhrhHO/v5BLgyrV6/2x2EnI5Kd/EAcg81OoIZkbHbyMDAEh8XjtDbYwzViB9CAQKApeUD1WRwMjEA/sbv1GcDtBmEZqLnxQCOLBARQ2IxQthGQDbIznYGB5ZOCAFx/KkidggCcbaQAUZcBdCJIzIyBgbWIAaLeTQhCg8SaoGKMDiCywV6QgYFTCGquGx+URnKnBBCD1CjhUSMJVeOER40UVE0THjXSQCwAdQ8j1N1gugmhhgOqRgmPGk6oGic8arig4QELNzdoONsBpQFEgj9B",
+                    "size": 724
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 68
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n#include <Std>\n\n\n\nstruct ShaderInput\n{\n\tfloat3 position : POSITION;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nstruct ShaderOutput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\nShaderOutput main(in ShaderInput IN)\n{\n\tShaderOutput OUT = (ShaderOutput)0;\n\tOUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n\tOUT.normal = mul(IN.normal, worldNormalMatrix);\n\tOUT.texcoord0 = IN.texcoord0;\n\treturn OUT;\n}"
+            },
+            "chipId": "{8E569501-7182-40E8-9867-589A0F357D5A}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "4XRzjwAAAAA=RFhCQ5xJL46TtckU1JSnauBAvZkBAAAA7AEAAAMAAAAsAAAAoAAAANQAAABJU0dObAAAAAMAAAAIAAAAUAAAAAAAAAABAAAAAwAAAAAAAAAPAAAAXAAAAAAAAAAAAAAAAwAAAAEAAAAHBwAAYwAAAAAAAAAAAAAAAwAAAAIAAAADAAAAU1ZfUE9TSVRJT04ATk9STUFMAFRFWENPT1JEAE9TR04sAAAAAQAAAAgAAAAgAAAAAAAAAAAAAAADAAAAAAAAAA8AAABTVl9UQVJHRVQAq6tTSEVYEAEAAFEAAABEAAAAaggAAWIQAANyEBAAAQAAAGUAAAPyIBAAAAAAAGgAAAIBAAAAEAAABxIAEAAAAAAARhIQAAEAAABGEhAAAQAAAEQAAAUSABAAAAAAAAoAEAAAAAAAOAAAB3IAEAAAAAAABgAQAAAAAABGEhAAAQAAABAAAAoSABAAAAAAAEYCEAAAAAAAAkAAADm0iL45tAg/309NvwAAAAA0AAAHEgAQAAAAAAAKABAAAAAAAAFAAAAAAAAAMgAAD3IgEAAAAAAABgAQAAAAAAACQAAAzcxMP83MTD/NzEw/AAAAAAJAAAAL1yM+C9cjPgvXIz4AAAAANgAABYIgEAAAAAAAAUAAAAAAgD8+AAAB",
+                    "size": 492
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_TARGET",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 0
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n\n#include <Std>\n\n#define LIGHT0_DIR float3(-0.267, 0.534, -0.802)\n#define LIGHT0_AMBIENT float3(0.2, 0.2, 0.2)\n#define LIGHT0_DIFFUSE float3(1.0, 1.0, 1.0)\n\nstruct ShaderInput\n{\n\tfloat4 position : SV_POSITION;\n\tfloat3 normal : NORMAL;\n\tfloat2 texcoord0 : TEXCOORD0;\n};\n\n\nfloat4 main(in ShaderInput IN) : SV_TARGET0\n{\n\tfloat3 n = normalize(IN.normal);\n\tfloat3 color = float3(0.8, 0.8, 0.8);\n\tfloat nDotL = max(0.0, dot(n, LIGHT0_DIR));\n\tcolor = LIGHT0_AMBIENT * color + LIGHT0_DIFFUSE * color * nDotL;\n\treturn float4(color, 1.0);\n}"
+            },
+            "chipId": "{C5D2EA13-2FC8-4D4A-BEF1-B83C280ADDC8}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {},
+            "chipId": "{E50B037A-268D-4608-992C-59CF210B497A}",
+            "connections": [{
+                "chipId": "{FB671F0C-2696-4243-91C5-6C3AF712CCBC}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{98AED1AC-86C6-4F85-95D9-82BBD693E682}",
+                "connection": 0,
+                "subConnection": 1
+              }],
+            "function": {
+              "parameters": [{
+                  "chipId": "{D25EE5B9-BFA1-4E0C-8E08-11727AB07DC5}"
+                }],
+              "type": "Virtual"
+            },
+            "name": "VirtualFunction",
+            "type": "{BBDD5F96-D8B6-4D33-AEA7-C6C99EDFA7CD}"
+          }, {
+            "chipData": {
+              "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+            },
+            "chipId": "{D25EE5B9-BFA1-4E0C-8E08-11727AB07DC5}",
+            "name": "P1",
+            "type": "{7298BEEB-2E07-4834-B171-3BFDAF087740}"
+          }, {
+            "chipData": {
+              "matrix": [1.0488911867141724, 0.0, 0.0, 0.0, 0.0, 1.0488911867141724, 0.0, 0.0, 0.0, 0.0, 1.0488911867141724, 0.0, 0.0, 0.0, 0.0, 1.0],
+              "useQuaternion": false
+            },
+            "chipId": "{91FB2619-E741-4A94-B246-A56ACCCE81C6}",
+            "connections": [{
+                "chipId": "{073FA576-E2D5-4325-A5F4-6711B45EFAAC}",
+                "connection": 2
+              }],
+            "name": "Object Matrix",
+            "type": "{F1B68FAA-9005-4730-A2C4-52953615B93E}"
+          }, {
+            "chipData": {
+              "vector": [1.0488911867141724, 1.0488911867141724, 1.0488911867141724, 1.0]
+            },
+            "chipId": "{073FA576-E2D5-4325-A5F4-6711B45EFAAC}",
+            "connections": [{
+                "chipId": "{44364416-C2B0-4906-B1AF-B830EDC64737}",
+                "connection": 0
+              }, {
+                "chipId": "{44364416-C2B0-4906-B1AF-B830EDC64737}",
+                "connection": 1
+              }, {
+                "chipId": "{44364416-C2B0-4906-B1AF-B830EDC64737}",
+                "connection": 2
+              }],
+            "name": "Scaling",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "childValue": 0.0,
+              "childValueCondition": "CVC_DISABLED",
+              "enabled": true,
+              "hitCount": 1,
+              "hitCountCondition": "HCC_DISABLED",
+              "instanceID": 0,
+              "resetHitCountPrFrame": false
+            },
+            "chipId": "{98AED1AC-86C6-4F85-95D9-82BBD693E682}",
+            "name": "Break Point",
+            "type": "{11F371E2-53A8-43BE-9EB3-BBE5174E7932}"
+          }, {
+            "chipData": {
+              "value": 1.0488912217483957
+            },
+            "chipId": "{44364416-C2B0-4906-B1AF-B830EDC64737}",
+            "connections": [{
+                "chipId": "{D25EE5B9-BFA1-4E0C-8E08-11727AB07DC5}",
+                "connection": 0
+              }],
+            "name": "Scale",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{1250AF58-4EA6-4DBA-8A31-FAF62958B313}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": [{
+                "chipId": "{4ED27876-2D60-4D97-BCBC-AAA0C56B1069}",
+                "id": "{E8010F30-AEF9-4DB6-904E-E96112AC08CC}",
+                "subConnection": 0
+              }]
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{FB671F0C-2696-4243-91C5-6C3AF712CCBC}",
+                "x": -340,
+                "y": -420,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D799C2BC-7184-43D5-8E4A-0B2764627939}",
+                "x": -250,
+                "y": -647,
+                "objectType": "chip"
+              }, {
+                "chipId": "{543F98E8-C00A-44E8-9452-22DF65A6A6EF}",
+                "x": -389,
+                "y": -884,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5D5B0881-C2D0-49AF-91EE-57A913CDAE89}",
+                "x": -125,
+                "y": -884,
+                "objectType": "chip"
+              }, {
+                "chipId": "{AFA4497F-1079-4C8D-AEA3-975402465849}",
+                "x": -125,
+                "y": -1084,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F0A42085-9DFE-4BE8-87D5-3D62E331F6BF}",
+                "x": -232,
+                "y": -1317,
+                "objectType": "chip"
+              }, {
+                "chipId": "{16E5477C-1A0E-4A4A-B7F3-F047203FAC80}",
+                "x": -17,
+                "y": -1317,
+                "objectType": "chip"
+              }, {
+                "chipId": "{8E569501-7182-40E8-9867-589A0F357D5A}",
+                "x": -90,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{C5D2EA13-2FC8-4D4A-BEF1-B83C280ADDC8}",
+                "x": 55,
+                "y": -1538,
+                "objectType": "chip"
+              }, {
+                "chipId": "{E50B037A-268D-4608-992C-59CF210B497A}",
+                "x": 40,
+                "y": -10,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D25EE5B9-BFA1-4E0C-8E08-11727AB07DC5}",
+                "x": -942,
+                "y": -1717,
+                "objectType": "chip"
+              }, {
+                "chipId": "{91FB2619-E741-4A94-B246-A56ACCCE81C6}",
+                "x": -937,
+                "y": -761,
+                "objectType": "chip"
+              }, {
+                "chipId": "{073FA576-E2D5-4325-A5F4-6711B45EFAAC}",
+                "x": -911,
+                "y": -1057,
+                "objectType": "chip"
+              }, {
+                "chipId": "{98AED1AC-86C6-4F85-95D9-82BBD693E682}",
+                "x": 902,
+                "y": -571,
+                "objectType": "chip"
+              }, {
+                "chipId": "{44364416-C2B0-4906-B1AF-B830EDC64737}",
+                "x": -930,
+                "y": -1382,
+                "objectType": "chip"
+              }, {
+                "color": [0.0, 0.0, 0.0, 1.0],
+                "content": "This is the break-point (implemented as a Chip!)\n\nIt can be both globally and locally enabled/disabled, and it is possible to specify different conditions (eg hit count) that has to be met for the break-point to trigger. Check out the various options by double clicking the chip!",
+                "sx": 1752,
+                "sy": 605,
+                "textSize": 0.5,
+                "x": 1905,
+                "y": -633,
+                "objectType": "text"
+              }],
+            "extent": [-1057, -1767, 2781, 40]
+          }
+        },
+        "id": "{B588A9DC-014D-4560-9991-9FCA241EC1F4}",
+        "inheritance": [{
+            "fileName": ".\\Break Points.m3j",
+            "id": "{E8010F30-AEF9-4DB6-904E-E96112AC08CC}"
+          }],
+        "name": "Derived",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{EA3CAEC1-96D4-4A58-86FF-37ACF77B9F4C}",
+    "version": "1.2.7.0"
+  }
+}

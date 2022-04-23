@@ -1,0 +1,739 @@
+{
+  "snax": {
+    "chips": [{
+        "type": "{16911903-3601-422D-B0C4-7DDCCC3C3EA2}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{11111111-1111-1111-1111-111111111111}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{9478E85D-274A-4793-B9CF-9DD68F40228D}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{01466AAB-80E4-447C-9662-089B79485231}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{C80642C6-0537-41FE-A28B-1659548A9838}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}",
+        "version": "1.0.0.0"
+      }, {
+        "type": "{84D0E4FC-8B2A-4283-801D-2DA1F9AE1855}",
+        "version": "1.0.0.0"
+      }],
+    "classes": [{
+        "chips": [{
+            "chipData": {},
+            "chipId": "{AC346521-849F-4389-B513-3D60ECAFD4D1}",
+            "connections": [{
+                "chipId": "{4625EF51-36B8-4594-B215-AA7CF2DF9655}",
+                "connection": 0
+              }, {
+                "chipId": "{24B1DA7B-8FC6-450F-821B-83AC7160A984}",
+                "connection": 3,
+                "subConnection": 0
+              }, {
+                "chipId": "{88026590-6C7D-4185-BEB9-8BE91021304A}",
+                "connection": 3,
+                "subConnection": 1
+              }, {
+                "chipId": "{79037E75-B290-4214-ACF8-A7503F70CA63}",
+                "connection": 4,
+                "subConnection": 0
+              }],
+            "name": "Material",
+            "type": "{FFD3F5E6-9C54-4FBF-A03E-640209F09BEB}"
+          }, {
+            "chipData": {},
+            "chipId": "{24B1DA7B-8FC6-450F-821B-83AC7160A984}",
+            "connections": [{
+                "chipId": "{ADF43C33-B10E-4652-AEA2-A4B6A0E780BC}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{5B4E2240-B83F-470A-8A7C-06425316A418}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{9C02F279-F43E-461A-808C-8C08BE8EDFB0}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{F58A9370-08A3-42BD-87D8-5BCC96A20758}",
+                "connection": 0,
+                "subConnection": 3
+              }, {
+                "chipId": "{EE2D0108-7F56-4F9B-8744-8E35F411338E}",
+                "connection": 0,
+                "subConnection": 4
+              }, {
+                "chipId": "{4F43AB90-6A36-4470-B16D-C869AD444DA2}",
+                "connection": 0,
+                "subConnection": 5
+              }, {
+                "chipId": "{38996933-4D4C-45DF-BC9B-880171A6A54A}",
+                "connection": 0,
+                "subConnection": 6
+              }, {
+                "chipId": "{F4477E2B-E075-405D-9076-7ACD2D22FDB2}",
+                "connection": 0,
+                "subConnection": 7
+              }],
+            "name": "Material Constants",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {
+              "value": 20.0
+            },
+            "chipId": "{ADF43C33-B10E-4652-AEA2-A4B6A0E780BC}",
+            "name": "Shininess",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{5B4E2240-B83F-470A-8A7C-06425316A418}",
+            "name": "Shininess Strength",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "value": 1.0
+            },
+            "chipId": "{9C02F279-F43E-461A-808C-8C08BE8EDFB0}",
+            "name": "Opacity",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {},
+            "chipId": "{F58A9370-08A3-42BD-87D8-5BCC96A20758}",
+            "name": "Bump Scaling",
+            "type": "{418C3585-C883-4CED-8A68-9C2204DEE395}"
+          }, {
+            "chipData": {
+              "vector": [1.0, 1.0, 1.0, 1.0]
+            },
+            "chipId": "{EE2D0108-7F56-4F9B-8744-8E35F411338E}",
+            "name": "Ambient Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [1.0, 1.0, 1.0, 1.0]
+            },
+            "chipId": "{4F43AB90-6A36-4470-B16D-C869AD444DA2}",
+            "name": "Diffuse Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [1.0, 1.0, 1.0, 1.0]
+            },
+            "chipId": "{38996933-4D4C-45DF-BC9B-880171A6A54A}",
+            "name": "Specular Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, 0.0, 1.0]
+            },
+            "chipId": "{F4477E2B-E075-405D-9076-7ACD2D22FDB2}",
+            "name": "Emissive Color",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {},
+            "chipId": "{88026590-6C7D-4185-BEB9-8BE91021304A}",
+            "connections": [{
+                "chipId": "{865770D2-B7CF-4957-A1B1-B28158E0879B}",
+                "connection": 0,
+                "subConnection": 0
+              }, {
+                "chipId": "{EF721ADC-DBAD-41A3-AAA4-9871D14F77F9}",
+                "connection": 0,
+                "subConnection": 1
+              }, {
+                "chipId": "{838EBA70-9D3F-4C69-8CA8-06FB61E24169}",
+                "connection": 0,
+                "subConnection": 2
+              }, {
+                "chipId": "{2BE3C8A1-1E1F-4E3B-BA42-1DBCA5045C5F}",
+                "connection": 0,
+                "subConnection": 3
+              }],
+            "name": "Global Constants",
+            "type": "{7CDCB1EE-8BC7-486E-8514-D0B1EC8E6DC4}"
+          }, {
+            "chipData": {
+              "vector": [0.25, 0.25, 0.25, 1.0]
+            },
+            "chipId": "{EF721ADC-DBAD-41A3-AAA4-9871D14F77F9}",
+            "name": "Light Ambient",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [1.0, 1.0, 1.0, 1.0]
+            },
+            "chipId": "{838EBA70-9D3F-4C69-8CA8-06FB61E24169}",
+            "name": "Light Diffuse",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "vector": [0.800000011920929, 0.800000011920929, 0.800000011920929, 1.0]
+            },
+            "chipId": "{2BE3C8A1-1E1F-4E3B-BA42-1DBCA5045C5F}",
+            "name": "Light Specular",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "data": {
+                "data": "M1SPhgEAAAA=eJzt2UFKY1EQhtEbdaAjswEhS9AdOMgOMnExLi17UyGKoMIjPqmqW55A6H7998cpyPDt94fd8xjjdnsxxmacvlenP27GeZ/dKR37p4f7n/br7eO3f7t7+16+/33z+c8va75rP3w+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/PXf7Lv5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+v4M/+/18Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+d38Ge/n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5/A7+7Pfz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/fwZ/9fj6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8zv4s9/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xx+B3/2+/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+/gz34/n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5HfzZ7+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pr+DP/v9fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/nd/Bnv5/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+fwO/uz38/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6f38Gf/X4+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/M7+LPfz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8fgd/9vv5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/n8/l8Pp/P5/P5fD6fz+fz+Xw+n8/v4K+9T6/X6/V6vV6v1+v1en39vvp9er1er9fr9Xq9Xq/X69f31e/T6/V6vV6v1+v1er1e7/2/Xq/X6/V6vV6v1+v1eu//9Xq9Xq/X6/V6vV6v1y9/su/T6/V6vV6v1+v1er1e7/2/Xq/X6/V6vV6v1+v1eu//9Xq9Xq/X6/V6vV6v1y9/s+/T6/V6vV6v1+v1er1e7/2/Xq/X6/V6vV6v1+v1eu//9Xq9Xq/X6/V6vV6v1y9/su/T6/V6vV6v1+v1er1e7/2/Xq/X6/V6vV6v1+v1eu//9Xq9Xq/X6/V6vV6v1y9/s+/T6/V6vV6v1+v1er1e7/2/Xq/X6/V6vV6v1+v1+vPf/y/1dru9z17tHrvdHrdXu8dut8ft1e6x2+1xe7V77HZ73F7tHrvdHrdXu8dut8ft1e6x2+1xe7V77HZ73F7tHrvdHrdXu8dut8ft1e6x2+1xe7V77HZ73F7tHrvdHrdXu8dut8ft1e6x2+1x+9f/99+eq9yR9VzljqznKnf4/XOeq9zh9895rnKH3z/nucodfv+c5yp3+P1znqvc4ffPea5yR+bv//H8mz/XtHw+P9c/Ho++f/x9BcbncIA=",
+                "size": 349672
+              },
+              "fileFormat": "IFF_DDS"
+            },
+            "chipId": "{79037E75-B290-4214-ACF8-A7503F70CA63}",
+            "name": "Texture",
+            "type": "{3B32EE42-3AE8-459F-B2B1-39D9B96EB51A}"
+          }, {
+            "chipData": {
+              "elements": {
+                "count": 3,
+                "map": [{
+                    "first": "BS_RT0_BE",
+                    "second": {
+                      "type": "INT",
+                      "value": 1
+                    }
+                  }, {
+                    "first": "BS_RT0_SB",
+                    "second": {
+                      "type": "M3D_BLEND",
+                      "value": "M3D_BLEND_SRC_ALPHA"
+                    }
+                  }, {
+                    "first": "BS_RT0_DB",
+                    "second": {
+                      "type": "M3D_BLEND",
+                      "value": "M3D_BLEND_INV_SRC_ALPHA"
+                    }
+                  }]
+              }
+            },
+            "chipId": "{4625EF51-36B8-4594-B215-AA7CF2DF9655}",
+            "connections": [{
+                "chipId": "{D4E81D46-D89B-4F9B-A383-DF930C3CB2F3}",
+                "connection": 0
+              }, {
+                "chipId": "{30059386-3DCC-40A6-B564-57A72BF98F36}",
+                "connection": 1
+              }],
+            "name": "Graphics State",
+            "type": "{C80642C6-0537-41FE-A28B-1659548A9838}"
+          }, {
+            "chipData": {
+              "localCBVCount": 4,
+              "localUAVCount": 4
+            },
+            "chipId": "{D4E81D46-D89B-4F9B-A383-DF930C3CB2F3}",
+            "name": "Root Signature",
+            "type": "{0A02B379-6B5C-4C62-ADEC-1F8356E49AAB}"
+          }, {
+            "chipData": {},
+            "chipId": "{30059386-3DCC-40A6-B564-57A72BF98F36}",
+            "connections": [{
+                "chipId": "{489007C6-1B78-49A5-A20B-BAA35FE7D3EF}",
+                "connection": 0
+              }, {
+                "chipId": "{476AFEF6-9714-4713-84E5-1838A4A36DF6}",
+                "connection": 4
+              }],
+            "name": "Shaders",
+            "type": "{EA9FC46C-B24C-4469-BE47-58398C23CA66}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "HDEdWgEAAAA=eJxziXBy3sLhxvr5tGaqz+1dm4JWFFczMjAwFDAzMAARgw4QLwBiC6CgZ7C7Xw4DRJwDiAMYEIAZSrOzMzBEookzQsUT0MSZQDSQEeAf7Bni6e/H4Ocf5OvowxDiGuHs7x/kwrB69Wp/oJ0TgOpYoHZmQPUzItnJD8Ql2OwEaqjFYidIvAVNHIx5GBiCw+LhzsHnrmAP1wgDoGGBQJt6gHqzOBgYgf5md+szgLsPhGWgdsQDjS8SEEBhM0LZRkA2yF3pQG9+UhCA608FqVMQQGEzQdlGQDYzJDyYQPJmDAysRQwQvW5CEBok1gQVY3QAkQ32ggwMnEJQO9z4oDSSmyWAGKRGCY8aSagaJzxqpKBqmvCokYaqEYL6EZsaBiT34FLDiOQeXGpA4SYAtYsJGkZgtU2odglA7cKlhhGqxgmPGiZo2MPiyA0av3ZAaQBmd0lG",
+                    "size": 880
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 3
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 8,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 12,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 4
+                },
+                "uniforms": {
+                  "count": 1,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 1,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 1,
+                        "bufferLayout": "float4x4 world;\nfloat4x4 worldInverse;\nfloat4x4 worldInverseTranspose;\nfloat4x4 worldView;\nfloat4x4 worldViewInverse;\nfloat4x4 worldViewInverseTranspose;\nfloat4x4 worldViewProjection;\nfloat4x4 worldViewProjectionInverse;\nfloat4x4 shadow;\nfloat4x4 worldShadow;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std2",
+                        "returnType": 0,
+                        "size": 640,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 65
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "VS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// This is the input to the vertex shader. The Geometry connected to your Renderable must supply all these elements!\nstruct ShaderInput\n{\n    float3 position     : POSITION;\n    float3 normal       : NORMAL;\n    float2 texcoord0    : TEXCOORD0;\n};\n\n// This is the output from the vertex shader. If you modify this you must also update the ShaderInput for the pixel shader accordingly.\nstruct ShaderOutput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n    float2 texcoord0    : TEXCOORD0;\n};\n\n// Entry point for the vertex shader.\nShaderOutput main(in ShaderInput IN)\n{\n    ShaderOutput OUT = (ShaderOutput) 0;\n    OUT.position = mul(float4(IN.position, 1.0), worldViewProjection);\n    OUT.worldPos = mul(float4(IN.position, 1.0), world).xyz;\n    OUT.normal = mul(IN.normal, (float3x3)world);\n    OUT.texcoord0 = IN.texcoord0;\n    return OUT;\n}\n"
+            },
+            "chipId": "{489007C6-1B78-49A5-A20B-BAA35FE7D3EF}",
+            "name": "Vertex Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "compileFlags": 16384,
+              "manualMode": true,
+              "shader": {
+                "byteCode": {
+                  "ptr": {
+                    "data": "riZttAEAAAA=eJyNVL9LK0EQntvTXO5EPFI9rQ5LEZQgIhaaaHIa0JwmUaONIihiYRFf9eBJDFrYiJW1fQp7a/8D/wMbewuxsHDmbja3t17AhclsZr755sfuXqm5tHz+crlj/Nt4PH6wvKdK4c0AgK9BABP1JMozyidKpb5SvUM9gJJFOYFoEd7k/QjKX4iXyX7LAviv2QXbrzR7KPhT397fCOqVRiWoQm9TDWrrxTVolJvLQVArQbfbDbCuSc5DdXkan6wL+RrF2kq5gUH11XLzCxvZRPsiBp5mwdjFcvzbaVDXEGvpM7hukkHNJ5T6B9i3B5DxzyLODAut5h+MuUjm2tqK9KELZst1w1xyL3ifxz3xH2Gad88N8XgOgvLhPysHkc3PRTFSl7Bc6XNYzyG+xfuMFlfG1slHNfic079QJnvg9XpCHpuwYT7BMZ3krJB9qCNzdOJZpf2nWiV2Pq41zEGYj5F0Huq/l0PEmvwzik9yGgVIcMv6hcYtlFkJNT9j8wDDvXilb0PjMZQYmVPa9JmZUT9ZpZ92ke2yN0jpSeo8n586C6w75ND5cDk5nq3jRnaqY74d388s48YZN9YHZzNuiXETfXBOynmZiu5zB6wfd4DxibuvcNGaUXxOytm/yjdgR+eQuUm+5an0t2PrNqcdnx+t0V++uXur/5ltXyc55f3Bj5zd8rS7rtwf+h7MejhfxkxotS3gCL4BKFVrug==",
+                    "size": 1532
+                  }
+                },
+                "inputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "POSITION",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 7,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 7,
+                      "semanticIndex": 0,
+                      "semanticName": "NORMAL",
+                      "stream": 0
+                    }, {
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 3,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 3,
+                      "semanticIndex": 0,
+                      "semanticName": "TEXCOORD",
+                      "stream": 0
+                    }],
+                  "count": 4
+                },
+                "outputParams": {
+                  "array": [{
+                      "componentType": "D3D_REGISTER_COMPONENT_FLOAT32",
+                      "mask": 15,
+                      "minPrecision": "D3D_MIN_PRECISION_DEFAULT",
+                      "readWriteMask": 0,
+                      "semanticIndex": 0,
+                      "semanticName": "SV_TARGET",
+                      "stream": 0
+                    }],
+                  "count": 1
+                },
+                "uniforms": {
+                  "count": 5,
+                  "map": [{
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float4x4 view;\nfloat4x4 projection;\nfloat4x4 viewInverse;\nfloat4x4 viewInverseTranspose;\nfloat4x4 projectionInverse;\nfloat4x4 viewProjection;\nfloat4x4 viewProjectionInverse;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "std1",
+                        "returnType": 0,
+                        "size": 448,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 1,
+                        "usageMask": 4
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 2,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 2,
+                        "bufferLayout": "float shininess;\nfloat shininess_strength;\nfloat opacity;\nfloat bump_scaling;\nfloat4 ambient_color;\nfloat4 diffuse_color;\nfloat4 specular_color;\nfloat4 emissive_color;\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "material",
+                        "returnType": 0,
+                        "size": 80,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 3,
+                        "register": "CBV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 3,
+                        "bufferLayout": "float3 light_dir;\nfloat3 light_ambient : offset(16);\nfloat3 light_diffuse : offset(32);\nfloat3 light_specular : offset(48);\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "global",
+                        "returnType": 0,
+                        "size": 64,
+                        "space": 0,
+                        "type": "D3D_SIT_CBUFFER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 0,
+                        "register": "SRV",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 0,
+                        "bufferLayout": "float3 light_dir;\nfloat3 light_ambient : offset(16);\nfloat3 light_diffuse : offset(32);\nfloat3 light_specular : offset(48);\n",
+                        "dimension": "D3D_SRV_DIMENSION_TEXTURE2D",
+                        "numSamples": 4294967295,
+                        "register": "diffuseMap",
+                        "returnType": "D3D_RETURN_TYPE_FLOAT",
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_TEXTURE",
+                        "uFlags": 8,
+                        "usageMask": 0
+                      }
+                    }, {
+                      "first": {
+                        "bindPoint": 6,
+                        "register": "SAMPLER",
+                        "space": 0
+                      },
+                      "second": {
+                        "bindCount": 1,
+                        "bindPoint": 6,
+                        "bufferLayout": "float3 light_dir;\nfloat3 light_ambient : offset(16);\nfloat3 light_diffuse : offset(32);\nfloat3 light_specular : offset(48);\n",
+                        "dimension": "D3D_SRV_DIMENSION_UNKNOWN",
+                        "numSamples": 0,
+                        "register": "defaultWASampler",
+                        "returnType": 0,
+                        "size": 0,
+                        "space": 0,
+                        "type": "D3D_SIT_SAMPLER",
+                        "uFlags": 0,
+                        "usageMask": 0
+                      }
+                    }]
+                }
+              },
+              "shaderModel": "SM51",
+              "shaderType": "PS",
+              "sourceCode": "\n// Include common shader defines.\n#include <Std>\n\n// Here we define the layout of the material constant buffer.\nstruct Material\n{\n    float shininess;\n    float shininess_strength;\n    float opacity;\n    float bump_scaling;\n    float4 ambient_color;\n    float4 diffuse_color;\n    float4 specular_color;\n    float4 emissive_color;\n};\n\n// Define the material constant buffer as the first buffer connected to the material.\nConstantBuffer<Material> material : CBUFFER1;\n\n// Here we define the layout of the global constant buffer.\nstruct Global\n{\n    float3 light_dir;\n    float3 light_ambient;\n    float3 light_diffuse;\n    float3 light_specular;\n};\n\n// Define the global constant buffer as the second buffer connected to the material.\nConstantBuffer<Global> global : CBUFFER2;\n\n// These are the textures connected to your material.\nTexture2D<float3> diffuseMap : TEXTURE1;\n\n\n// This is the output from the vertex shader. It must match (or be a strict subset of) the ShaderOutput struct in the vertex shader.\nstruct ShaderInput\n{\n    float4 position     : SV_POSITION;\n    float3 worldPos     : POSITION;\n    float3 normal       : NORMAL;\n    float2 texcoord0    : TEXCOORD0;\n};\n\n// Entry point for the pixel shader. The shader returns a color for render target 0.\nfloat4 main(in ShaderInput IN) : SV_TARGET0\n{\n    float4 OUT = float4(0.0, 0.0, 0.0, 1.0);\n    float3 color = float3(0.0, 0.0, 0.0);\n    float3 n = normalize(IN.normal);\n    // Add ambient contribution.\n    float3 ambient = material.ambient_color.xyz;\n    color += ambient * global.light_ambient;\n    // Add diffuse contribution.\n    float3 diffuse = material.diffuse_color.xyz;\n    {\n        float3 tex = diffuseMap.Sample(defaultWASampler, IN.texcoord0).xyz;\n        diffuse = diffuse * tex;\n    }\n    float3 light_dir = normalize(global.light_dir);\n    float nDotL = max(dot(n, light_dir), 0.0);\n    color += diffuse * global.light_diffuse * nDotL;\n    // Add specular contribution.\n    float3 specular = material.specular_color.xyz;\n    {\n        float3 tex = diffuseMap.Sample(defaultWASampler, IN.texcoord0).xyz;\n        specular = specular * tex;\n    }\n    float3 reflection_dir = reflect(-light_dir, n);\n    float3 eye_dir = normalize(viewInverse[3].xyz - IN.worldPos);\n    float spec = max(dot(eye_dir, reflection_dir), 0.0);\n    color += specular * global.light_specular * pow(spec, material.shininess) * material.shininess_strength;\n    // Add emissive lighting.\n    float3 emissive = material.emissive_color.xyz;\n    color += emissive;\n    OUT.xyz = color;\n    // Apply opacity.\n    float alpha = 1.0;\n    alpha *= material.opacity;\n    OUT = saturate(float4(color, alpha));\n    return OUT;\n}\n"
+            },
+            "chipId": "{476AFEF6-9714-4713-84E5-1838A4A36DF6}",
+            "name": "Pixel Shader",
+            "type": "{7D2C71E9-5B6D-403F-99EB-F002AF26E09E}"
+          }, {
+            "chipData": {
+              "operatorType": "TRANSFORM_NORMAL",
+              "vector": [0.12866634130477906, 0.9914684891700745, -0.02086380124092102, 0.0]
+            },
+            "chipId": "{865770D2-B7CF-4957-A1B1-B28158E0879B}",
+            "connections": [{
+                "chipId": "{60B910CF-82F4-480F-9F60-F6FB5A8F440E}",
+                "connection": 0
+              }, {
+                "chipId": "{881136E7-667C-4757-95CA-A8332F4CC189}",
+                "connection": 1
+              }],
+            "name": "Light Dir",
+            "type": "{7454B3C5-E34C-4400-ADFA-3083415563BD}"
+          }, {
+            "chipData": {
+              "vector": [0.0, 0.0, -1.0, 0.0]
+            },
+            "chipId": "{60B910CF-82F4-480F-9F60-F6FB5A8F440E}",
+            "name": "Vector",
+            "type": "{32071A76-E9A2-4DF6-94F0-8B913F40C892}"
+          }, {
+            "chipData": {
+              "matrix": [0.16006389260292054, -2.7939677238464357e-8, 0.9871066808700562, 0.0, -0.9786851406097412, 0.13034692406654359, 0.15869832038879395, 0.0, -0.12866634130477906, -0.9914684891700745, 0.02086380124092102, 0.0, 1.3901549577713013, 10.712162971496582, -0.22541959583759309, 1.0000001192092896],
+              "operatorType": "INVERSE"
+            },
+            "chipId": "{881136E7-667C-4757-95CA-A8332F4CC189}",
+            "connections": [{
+                "chipId": "{7F02C616-E9F9-4A17-A313-0F584E9E6CED}",
+                "connection": 0
+              }],
+            "name": "Matrix Operator",
+            "type": "{8DD16693-4C81-481B-912B-D03B7C664CB9}"
+          }, {
+            "chipData": {
+              "matrix": [0.16006390750408173, -0.9786850810050964, -0.12866631150245667, 0.0, -3.91155481338501e-8, 0.13034693896770478, -0.9914684891700745, 0.0, 0.9871066808700562, 0.15869829058647157, 0.020863806828856469, 0.0, -1.4901161193847657e-8, 0.0, 10.804340362548829, 1.0],
+              "operatorType": "VIEW_MATRIX"
+            },
+            "chipId": "{7F02C616-E9F9-4A17-A313-0F584E9E6CED}",
+            "name": "Get/Set View Matrix",
+            "type": "{16911903-3601-422D-B0C4-7DDCCC3C3EA2}"
+          }],
+        "editor": {
+          "classDiagram": {
+            "chips": [{
+                "chipId": "{22704769-2578-471E-87D7-A7341990B13F}",
+                "x": 0,
+                "y": 0
+              }],
+            "inheritance": []
+          },
+          "graph": {
+            "content": [{
+                "chipId": "{AC346521-849F-4389-B513-3D60ECAFD4D1}",
+                "x": 3,
+                "y": 6,
+                "objectType": "chip"
+              }, {
+                "chipId": "{24B1DA7B-8FC6-450F-821B-83AC7160A984}",
+                "x": -234,
+                "y": -572,
+                "objectType": "chip"
+              }, {
+                "chipId": "{ADF43C33-B10E-4652-AEA2-A4B6A0E780BC}",
+                "x": -926,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{5B4E2240-B83F-470A-8A7C-06425316A418}",
+                "x": -781,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{9C02F279-F43E-461A-808C-8C08BE8EDFB0}",
+                "x": -636,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F58A9370-08A3-42BD-87D8-5BCC96A20758}",
+                "x": -491,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EE2D0108-7F56-4F9B-8744-8E35F411338E}",
+                "x": -293,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4F43AB90-6A36-4470-B16D-C869AD444DA2}",
+                "x": -43,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{38996933-4D4C-45DF-BC9B-880171A6A54A}",
+                "x": 207,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{F4477E2B-E075-405D-9076-7ACD2D22FDB2}",
+                "x": 457,
+                "y": -979,
+                "objectType": "chip"
+              }, {
+                "chipId": "{88026590-6C7D-4185-BEB9-8BE91021304A}",
+                "x": 1066,
+                "y": -572,
+                "objectType": "chip"
+              }, {
+                "chipId": "{EF721ADC-DBAD-41A3-AAA4-9871D14F77F9}",
+                "x": 932,
+                "y": -882,
+                "objectType": "chip"
+              }, {
+                "chipId": "{838EBA70-9D3F-4C69-8CA8-06FB61E24169}",
+                "x": 1182,
+                "y": -882,
+                "objectType": "chip"
+              }, {
+                "chipId": "{2BE3C8A1-1E1F-4E3B-BA42-1DBCA5045C5F}",
+                "x": 1432,
+                "y": -882,
+                "objectType": "chip"
+              }, {
+                "chipId": "{79037E75-B290-4214-ACF8-A7503F70CA63}",
+                "x": 1263,
+                "y": -572,
+                "objectType": "chip"
+              }, {
+                "chipId": "{4625EF51-36B8-4594-B215-AA7CF2DF9655}",
+                "x": -1258,
+                "y": -572,
+                "objectType": "chip"
+              }, {
+                "chipId": "{D4E81D46-D89B-4F9B-A383-DF930C3CB2F3}",
+                "x": -1366,
+                "y": -804,
+                "objectType": "chip"
+              }, {
+                "chipId": "{30059386-3DCC-40A6-B564-57A72BF98F36}",
+                "x": -1151,
+                "y": -804,
+                "objectType": "chip"
+              }, {
+                "chipId": "{489007C6-1B78-49A5-A20B-BAA35FE7D3EF}",
+                "x": -1223,
+                "y": -1021,
+                "objectType": "chip"
+              }, {
+                "chipId": "{476AFEF6-9714-4713-84E5-1838A4A36DF6}",
+                "x": -1079,
+                "y": -1021,
+                "objectType": "chip"
+              }, {
+                "chipId": "{865770D2-B7CF-4957-A1B1-B28158E0879B}",
+                "x": 692,
+                "y": -879,
+                "objectType": "chip"
+              }, {
+                "chipId": "{60B910CF-82F4-480F-9F60-F6FB5A8F440E}",
+                "x": 692,
+                "y": -1079,
+                "objectType": "chip"
+              }, {
+                "chipId": "{881136E7-667C-4757-95CA-A8332F4CC189}",
+                "x": 906,
+                "y": -1070,
+                "objectType": "chip"
+              }, {
+                "chipId": "{7F02C616-E9F9-4A17-A313-0F584E9E6CED}",
+                "x": 907,
+                "y": -1279,
+                "objectType": "chip"
+              }],
+            "extent": [-1433, -1329, 1552, 56]
+          }
+        },
+        "id": "{2C054E74-70FF-4E31-8DE0-62B4DCF13047}",
+        "inheritance": [],
+        "name": "Textured Material",
+        "startChipId": "{00000000-0000-0000-0000-000000000000}",
+        "version": "1.0.0.0"
+      }],
+    "startClassId": "{2C054E74-70FF-4E31-8DE0-62B4DCF13047}",
+    "version": "1.2.7.0"
+  }
+}
