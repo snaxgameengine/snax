@@ -1,6 +1,6 @@
 [submodule "generator"]
 	path = generator
-	url = https://github.com/snaxgameengine/generator.git
+	url = https://github.com/snaxgameengine/generator
 [submodule "vcpkg"]
 	path = vcpkg
 	url = https://github.com/snaxgameengine/vcpkg.git
