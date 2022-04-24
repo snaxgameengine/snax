@@ -34,7 +34,7 @@ together small, precompiled blocks of functionality called Chips.
 [![SnaX Game Engine](https://img.youtube.com/vi/nrKiPmimBGk/maxresdefault.jpg)](https://www.youtube.com/watch?v=nrKiPmimBGk)
 *Promo video - Click to play on YouTube!*
 
-Screen shots are available in the [image gallery](./Common/Gallery/)!
+Screen shots are available in the [image gallery](./Common/Gallery/README.md)!
 
 SnaX is built for Windows 10, using DirectX 12 for state-of-the-art graphics. 
 It got a bunch of cool features including:
