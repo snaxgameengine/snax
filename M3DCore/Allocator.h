@@ -38,6 +38,8 @@ class Allocator : public std::allocator<T>
 public:
 	using Base::Base;
 
+	Allocator(const std::allocator<T>&) {}
+
 	Pointer allocate(SizeType n)
 	{
 		return Base::allocate(n);

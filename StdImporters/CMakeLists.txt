@@ -38,6 +38,9 @@ target_include_directories(StdImporters PRIVATE ..)
 
 target_link_libraries(StdImporters M3DCore M3DEngine StdChips GraphicsChips Microsoft::DirectXTex assimp::assimp)
 
+get_target_property(assimp_dll_location assimp::assimp LOCATION)
+get_filename_component(assimp_dll_name ${assimp_dll_location} NAME)
+
 add_custom_command(
     TARGET StdImporters 
     POST_BUILD
@@ -45,6 +48,6 @@ add_custom_command(
         $<TARGET_FILE:StdImporters>
         ${SNAX_BUILD_CHIPS_DIR}
 	COMMAND ${CMAKE_COMMAND} -E copy
-        $<TARGET_FILE_DIR:StdImporters>/assimp-vc142-mt$<$<CONFIG:Debug>:d>.dll
+        $<TARGET_FILE_DIR:StdImporters>/${assimp_dll_name}
         ${SNAX_BUILD_3RD_DIR}
 )
